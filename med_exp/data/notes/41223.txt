@@ -1,0 +1,58 @@
+Chief Complaint : Bleeding from colostomy site
+Past Medical History : PAST ONCOLOGIC HISTORY:
+-Patient was diagnosed with stage IIA (pT3N0)
+colon adenocarcinoma in ___. This was treated with resection 
+and
+no adjuvant therapy.  Testing for KRAS and BRAF mutations
+returned negative.  
+-On ___, HCC was noted on imaging.  Specifically, there
+was a 1.6 x 1.8 cm hepatic segment ___ hypodensity on
+surveillance CT scan.  Biopsy was performed on ___ and
+showed moderately differentiated HCC. Patient underwent RFA on
+___ with good response.  
+-On ___, MRI showed an 8 mm arterially enhancing lesion in
+segment V/VI (with delayed washout and T2 correlate).  Lesion 
+did
+not meet criteria for OPTN 5 lesion.
+-On ___, MRI showed enlargement of above lesion, now 13
+mm. Patient underwent laparoscopic resection of segment VI liver
+lesion on ___.  Repair of incisional hernia was also
+performed.   
+-On ___, MRI showed no residual tumor is segment V/VI but
+two highly suspicious lesions in segment II and III that did not
+yet meet OPTN criteria for ___.
+-Patient underwent RFA of segment III lesion on ___. MRI on
+___ showed a 1.0 cm segment II lesion which now met OPTN-5A
+criteria for hepatocellular carcinoma. Decision was made to
+monitor and allow patient to recover from recent RFA. ___ 
+MRI
+again revealed segment II lesion without progression. ___ 
+MRI
+shows stable disease. ___ MRI shows stable disease.
+
+PAST MEDICAL HISTORY:
+1. Colon adenocarcinoma as above
+2. Hepatocellular carcinoma as above
+3. Bladder cancer status post thermal therapy (per patient)
+4. Diabetes mellitus type 2
+5. Hypertension
+6. Hyperlipidemia
+7. Osteoarthritis
+8. Bradycardia, 2:1 block
+9. Gastroesophageal reflux disease
+10. High grade proximal left renal artery stenosis
+11. Congestive gastropathy and GAVE
+12. Hamartoma in lung
+13. Lung nodules
+14. Alcoholic cirrhosis
+15. History of variceal bleed
+16. History of portal vein thrombosis
+17. History of pulmonary embolism 
+18. History of cholelithiasis
+19. History of rheumatic fever
+
+SURGICAL HISTORY:
+1. Colon resection in ___ by Dr. ___
+2. Colonic stricture requiring partial colectomy with end
+colostomy in ___ by Dr. ___
+3. Ureter repair (stricture refractory to dilatation)

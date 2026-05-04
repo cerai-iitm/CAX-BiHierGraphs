@@ -1,0 +1,69 @@
+Chief Complaint : Right shoulder pain
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+As per last outpatient note by Dr ___:
+"- Patient reports history of gross hematuria in ___ 
+which
+resolved and he did not seek medical attention for.
+- ___ urinalysis at annual physical encounter revealed
+hematuria. 
+- ___ urine cytology showed malignant cells consistent 
+with
+urothelial cancer. 
+
+- This was followed by a CT scan which showed no urothelial
+tumors, but thickening of the bladder wall. It also revealed a
+growing AAA to 7.5 cm from about 4 cm a few months prior to that
+requiring endovascular repair in ___ which delayed further
+work-up and management of his urothelial cancer. 
+
+- ___ patient was noted to have ___ on CKI and underwent an
+ultrasound of the kidneys which showed R sided hydronephrosis 
+and
+hydroureter. He then underwent cystoscopy with L sided ureter
+placement. Attempt for R stent was unsuccessful requiring R ___
+placement which was later internalized. The pathology report 
+from
+the bladder biopsy showed high-grade muscle invasive bladder
+cancer.  
+He then underwent PET-CT for staging purposes which showed FDG
+avidity of a 0.5 cm LN in the R pelvic sidewall as well as R
+glenoid and R humerus uptake. FNA biopsy of the R glenoid was
+consistent with metastatic bladder cancer.
+
+___ course was complicated by urinary tract infection with
+enterobacter diagnosed on ___ for which he received a 10-day
+antibiotic course with CTX and ciprofloxacin. 
+
+-- ___ MRI showed new left iliac wing and T11 mets as 
+well
+as a new 1.4 cm liver lesion with multiple additional
+subcentimeter foci. ___ on the brain MRI.
+
+-- ___ C1D1 ipi/nivo[clinical trial ___ (phase 3 trial 
+of
+nivolumab + ipilimumab vs standard of care in metastatic
+urothelial ca)].
+
+-- ___ He presented to the ED at ___ with worsening
+suprapubic/LLQ abd pain worse with standing. 
+CT scan showed  moderate R hydronephrosis marked hydroureter
+bilaterally.  L ureter is unchanged. These findings could 
+reflect
+chronic dilatation without obstruction, but stent malfunction
+especially on the right cannot be excluded.
+-New small pulmonary nodules in RML and RLL c/f metastatic
+disease.
+
+-- ___  Received palliative XRT to R shoulder
+-- ___ C1D1 pembrolizumab
+--___: C2D1 pembro"
+ 
+ADDITIONAL PAST MEDICAL HISTORY:  
+AAA s/p endovascular repair
+OSA on CPAP 
+AFib
+CAD s/p MI treated with LAD stent
+HTN
+Metastatic Bladder cancer as above
+Hydronephrosis s/p ___ and removal of stents
+CKD

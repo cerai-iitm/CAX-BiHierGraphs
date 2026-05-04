@@ -1,0 +1,7 @@
+Chief Complaint : Abdominal pain
+Past Medical History : - Hypertension, essential 
+- Hyperlipidemia 
+- Aortic stenosis, moderate 
+- CKD, stage III (moderate, EGFR ___ ml/min) 
+- Persistent atrial fibrillation 
+- HFpEF: heart failure with preserved ejection fraction

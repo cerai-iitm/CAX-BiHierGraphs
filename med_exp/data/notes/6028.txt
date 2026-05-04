@@ -1,0 +1,12 @@
+Chief Complaint : Altered Mental Status
+Past Medical History : PAST MEDICAL HISTORY:  
+-Afib 
+-T2DM on insulin
+-CKD on HD
+-NSTEMI
+-HTN
+
+Procedures:
+-PCI in ___ on dual antiplatelet therapy
+-Cardiac catheterization ___
+-Trach/PEG/HD catheter placement ___

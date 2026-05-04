@@ -1,0 +1,8 @@
+Chief Complaint : HCV Cirrhosis
+___
+Past Medical History : PMH: Hepatitis C diagnosed in ___ treated with
+peg-interferon/ribavirin, cirrhosis, type II diabetes, HTN, HLD,
+reflux, CKD, hydrocele, perforated appendicitis, helicobacter
+pylori.
+
+PSH: Cystoscopy, appendectomy open

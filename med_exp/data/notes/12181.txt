@@ -1,0 +1,17 @@
+Chief Complaint : Septic Shock
+Past Medical History : 1. ESRD on Dialysis (___)
+2. Hypertension
+3. ? CHF
+4. Recurrent dislocation of right shoulder
+5. Osteoarthritis
+6. Sciatica
+7. Renal Artery Stenosis
+8. Hepatic Cyst
+9. Hyperlipidemia
+10. Palpitations
+11. Hypertension
+12. Tobacco Depndence
+13. Cholecystitis 
+14. Appendicitis
+15. Hyperparathyroidism
+16. Multifocal Atrial Tachycardia.

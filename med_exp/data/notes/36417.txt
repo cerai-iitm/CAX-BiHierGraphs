@@ -1,0 +1,19 @@
+Chief Complaint : altered mental status
+Past Medical History : DEMENTIA                                                        
+DIABETES MELLITUS                                               
+HYPERTENSION                                                    
+OSTEOARTHRITIS                                                  
+DEPRESSION                                                      
+HYPERLIPIDEMIA                                                  
+PERIPHERAL NEUROPATHY                                           
+DIARRHEA                                                        
+OSTEOPOROSIS                                                    
+MACULAR DEGENERATION                                            
+THYROID NODULE                                                  
+ANXIETY                                                         
+PROTEINURIA                                                     
+OBSESSIVE-COMPULSIVE DISORDER                                   
+CHRONIC KIDNEY DISEASE                                          
+VITAMIN D DEFICIENCY                                            
+GAIT DISTURBANCE                                                
+ORAL MASS

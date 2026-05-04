@@ -1,0 +1,15 @@
+Chief Complaint : Crohn's Disease
+Past Medical History : 1.  Ileocolonic and perianal Crohn's disease diagnosed in ___.
+2.  Iron deficiency anemia.
+3.  B12 deficiency.
+4.  Upper GI Crohn's with granulomatous gastritis.
+5.  Right pinky surgery.
+6.  Evaluation under anesthesia in ___ with Dr. 
+___.
+7.  Erythema nodosum.
+8.  No RF for tuberculosis.  
+9.  Cdiff.
+10. Antibodies to adalimumab, infliximab, and vedolizumab.
+11. ___ virus positive.
+
+PSH: EUA, ___ placement ___, finger surgery

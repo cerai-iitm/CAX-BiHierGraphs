@@ -1,0 +1,20 @@
+Chief Complaint : transfer for cath
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes: YES  
+- Hypertension: YES  
+- Dyslipidemia: YES  
+
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+
+3. OTHER PAST MEDICAL HISTORY  
+- Mild MV prolapse  
+- Metabolic syndrome  
+- OSA on CPAP  
+- Obesity  
+- Anxiety  
+- Cauda equina syndrome  
+- Vitiligo  
+- Lichen sclerosis

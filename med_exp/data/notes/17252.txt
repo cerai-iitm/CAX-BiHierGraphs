@@ -1,0 +1,22 @@
+Chief Complaint : supratherapeutic INR
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes Y  
+- Hypertension Y  
+- Dyslipidemia unknown 
+
+2. CARDIAC HISTORY  
+- Coronaries? No left heart cath 
+- Pump? Regional biventricular systolic dysfunction; LVEF 25%
+- Rhythm?  
+
+3. OTHER PAST MEDICAL HISTORY  
+1.  Systolic LV dysfunction, with LVEF 25%.
+2.  Pulmonary hypertension, having started sildenafil.
+3.  Hypertension.
+4.  Atrial fibrillation, on Coumadin.
+5.  Diabetes mellitus.
+6.  Chronic kidney disease, stage III with recent ___, possibly
+due to nephritis.
+7.  Previously was on digoxin, but this was discontinued because
+of the possibility of digoxin toxicity during his last
+hospitalization.

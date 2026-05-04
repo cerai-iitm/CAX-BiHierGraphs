@@ -1,0 +1,12 @@
+Chief Complaint : Acute left leg ischemia
+Past Medical History : 1) CHF: EF 30%, required intubation in ___ s/p pacemaker placement 
+3) Hypercholesterolemia 
+4) Hypertension 
+5) s/p appendectomy 
+6) s/p hysterectomy 
+7) s/p tonsillectomy 
+8) s/p hand surgery
+.  
+Cardiac Risk Factors: Dyslipidemia, Hypertension    
+.  
+Pacemaker placed in ___

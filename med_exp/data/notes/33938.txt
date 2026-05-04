@@ -1,0 +1,7 @@
+Chief Complaint : abdominal pain, pelvic mass
+Past Medical History : MedHx:
+- Transverse Myelitis
+- HTN
+- BMI 37.9 
+
+SurgHx: denies

@@ -1,0 +1,18 @@
+Chief Complaint : left upper lobe adenocarcinoma
+Past Medical History : PMH:  
+# R breast cancer, recurrent c/b lymphedema, cellulitis  
+# h/o Cdiff in ___ (has had it twice overall)  
+# R rotator cuff problems  
+# endometrial cancer s/p TAH-BSO  
+# HTN  
+# Raynaud's syndrome  
+# insomnia  
+# depression  
+# R knee "problems"  
+.  
+PAST SURGICAL HISTORY:  
+# tonsillectomy age ___  
+# C-sections X 3  
+# surgery for ovarian cyst  
+# lumpectomy  
+# TAH BSO

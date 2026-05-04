@@ -1,0 +1,10 @@
+Chief Complaint : ___ is ___ woman with a history of HTN, HLD, 
+Diabetes mellitus, Polycystic kidney disease, allertic rhinitis, 
+GERD, hx of syphilis who presented to the ED after having 6 days 
+of visual loss in the R eye.
+Past Medical History : Polycystic kidney disease  
+Diabetes  
+Hypertension  
+Allergic rhinitis  
+GERD  
+History of syphilis

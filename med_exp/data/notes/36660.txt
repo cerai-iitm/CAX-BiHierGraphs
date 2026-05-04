@@ -1,0 +1,46 @@
+Chief Complaint : C3 Dacogen
+Past Medical History : PATHOLOGY:
+
+BMBX:
+CYTOGENETIC DIAGNOSIS:
+4
+5,XYdel(5)(q22q33),del(7)(q22),add(19)(p13.3),-21[8]/43,XY,+3,ad
+d(3)(q21),-5,add(6)(p23),del(7)(q22),
+t(11;15)(q13;p11.2),del(13)(q12q14),der(14;21)(q10;q10),
+-15,-16,-17,-19,-21,add(21)(p11.2),+2mar[5]/ 45,X,-Y[3]/
+46,XY[4]
+FISH: 74.5% of the interphase bone marrow cells examined in this
+MDS FISH panel had a probe signal pattern consistent with
+deletion 5q31 and 59.5% had a pattern consistent with
+deletion 7q31. There was no evidence of trisomy 8 and deletion
+20q12. In myelodysplastic syndrome and acute myeloid leukemia
+these findings are associated with an unfavorable prognosis.
+
+CLINICAL COURSE:
+--___:  Admitted to ___ in setting of anemia and
+thrombocytopenia, received 2 units RBCs at OSH, very few blasts
+on peripheral smear
+--___:  Bone marrow biopsy reveals AML eryhthroleukemia with
+complex cytogenetics
+--___ CLINICAL TRIAL ___:  tumor collection
+--___ Decitabine 10 day cycle #1
+--___ Decitabine 5 day cycle #2
+--admit ___ for Decitabine cycle # 3
+
+PAST MEDICAL/SURGICAL HISTORY:  
+DM type II
+CVA ___ with mild residual R hemiparesis - L internal 
+capsule ischemic infarction with R-sided clumsy hand dysarthria 
+syndrome
+COPD
+HLD
+Diverticulitis
+Cataract
+Pulmonary fibrosis
+Colonic adenoma s/p resection in ___
+Peptic ulcer disease
+Allergic rhinitis
+BCC/AK s/p ___'s
+R colectomy for benign tumor ___
+Trigger finger - ___ bilateral hand surgeries
+MVA ___

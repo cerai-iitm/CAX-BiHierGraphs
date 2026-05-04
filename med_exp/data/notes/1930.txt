@@ -1,0 +1,15 @@
+Chief Complaint : back pain
+Past Medical History : 1.  Metastatic melanoma.
+2.  Hyperlipidemia.
+3.  Hearing loss.
+4.  Myopia.
+5.  Presbyopic.
+6.  Arthritis.
+7.  Impaired fasting glucose.
+8.  Plantar fasciitis.
+9.  Acquired deformity of the foot.
+10.  Depression/anxiety disorder.
+
+Past Surgical History:
+1.  Herniorrhaphy in ___.
+2.  Vasectomy in ___.

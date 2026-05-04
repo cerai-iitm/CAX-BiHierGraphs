@@ -1,0 +1,18 @@
+Past Medical History : PMH:
+DIABETES MELLITUS                                               
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+DIVERTICULOSIS                                                  
+BASAL CELL CARCINOMA                                            
+CERVICAL ARTHRITIS                                              
+MEMORY LOSS                                                     
+VERTIGO                                                         
+HEARING LOSS                                                    
+CATARACT SURGERY                                                
+TAH/BSO                                                         
+DIVERTICULITIS                                                  
+PULMONARY NODULE                                                
+
+Past Surgical History: 
+TAH/BSO 
+CCY

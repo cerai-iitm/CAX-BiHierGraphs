@@ -1,0 +1,13 @@
+Chief Complaint : Syncope
+Past Medical History : PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS
+- Diabetes - yes, on oral hypogylcemics
+- Hypertension - no
+- Dyslipidemia - yes
+2. CARDIAC HISTORY
+- Pericarditis is ___
+- No other known cardiac disease
+3. OTHER PAST MEDICAL HISTORY
+-Liver disease of unknown etiology following BMT
+-Bronchiolitis obliterans
+-Severe eye disease s/p GVHD

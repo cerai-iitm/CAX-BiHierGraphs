@@ -1,0 +1,32 @@
+Chief Complaint : fall
+Past Medical History : PAST ONCOLOGIC HISTORY (Per OMR, reviewed): 
+
+___ Prostate cancer 
+Radical prostatectomy
+___ Brain MRI showed left cavernous sinus mass
+___ Brain MRI stable
+___ Diplopia and left-sided ptosis started 
+___ - ___ XRT to left cavernous sinus 5x4 Gy (NOT SRS)
+___ Brain MRI stable
+___ Brain MRI stable
+___ - ___ XRT to L4-S3 
+Leuprolide-denosumab-enzalutamide
+___ Brain MRI stable
+___ Brain MRI stable
+___ C1 Enzalutamide
+___ Radium-223 
+___ C2 Enzalutamide, Radium-223 
+___ Brain and skull base MRI stable
+___ C3 Radium-223 
+___ Enzalutamide, Radium-223
+___ CT torso showed progression 
+___ Skull base MRI stable
+___ T-spine MRI stable
+___ Brain MRI stable
+___ C1 Docetaxel
+___ C2 Docetaxel
+
+PAST MEDICAL HISTORY (Per OMR, reviewed):  
+-Macular degeneration, bilateral
+-Shoulder surgery
+-Sinus thrombosis

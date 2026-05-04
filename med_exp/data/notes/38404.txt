@@ -1,0 +1,20 @@
+Chief Complaint : Chest pain
+Past Medical History : PAST MEDICAL HISTORY:  
+=====================
+1. CARDIAC RISK FACTORS  
+- Dyslipidemia: borderline per patient report
+- No HTN, DM, tobacco, OSA, family history of CAD
+
+2. CARDIAC HISTORY  
+- AFib: Diagnosed in ___, followed by cardiologist Dr. ___. Started on rivaroxaban and amiodarone with conversion to
+sinus rhythm. Recently completed 30-day monitor, results not
+available.
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+
+3. OTHER PAST MEDICAL HISTORY  
+- Idiopathic bilateral foot pain
+- Scoliosis
+- Insomnia
+- Pilonidal cyst

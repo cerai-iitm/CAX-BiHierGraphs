@@ -1,0 +1,67 @@
+Chief Complaint : Admit for planned CEA
+Past Medical History : PAST ONCOLOGIC HISTORY:
+___ Seizure with loss of consciousness while driving
+___ Resection of right temporal mass by Dr. ___: DIFFUSE LARGE B-CELL LYMPHOMA, CD20, BCL2 (subset),
+BCL6 (subset) positive.  MIB-1 90%. Cam5.2 negative. 
+___ Slit-lamp exam negative for lymphoma, Dr. ___, MD
+___ MRI of c/t/l spine at ___: negative
+___ Induction #1 HD-MTX 3.5 g/m2
+___ port placement, LP not done
+___ Induction #2 HD-MTX 8 g/m2 dose reduced 13% 
+___ Induction #3 HD-MTX 8 g/m2 dose reduced 32% 
+___ CSF negative
+___ Brain MRI at ___
+___ Induction #4 HD-MTX 8 g/m2 dose reduced 15% 
+___ Consolidation C1 HD-MTX 8 g/m2 reduced 26.5% 
+___ C2 HD-MTX 8 g/m2 reduced 25%
+___ C3 HD-MTX 8 g/m2 reduced 30%
+___ C4 HD-MTX 8 g/m2 reduced 9%, had ARF
+___ C5 HD-MTX 8 g/m2 30% fixed reduction
+___ C6 HD-MTX 8 g/m2 40% fixed reduction
+___ HD-MTX not given due to creatinine to 1.7
+___ C7 HD-MTX 3.5 g/m2 fixed dose
+___ C8 HD-MTX 3.5 g/m2 fixed dose
+___ C1 Pemetrexed 600 mg/m2 developed rash on day 3
+___ C1 TMZ 150 mg/m2
+___ C2 TMZ 150 mg/m2
+___ Brain MRI showed progression
+___ C3 TMZ 150 mg/m2
+___ CSF has atypical cells
+___ C2D1 Pemetrexed 600 mg/m2 
+___ C2D15 Pemetrexed 600 mg/m2 
+___ C3D1 Pemetrexed 600 ___ Transfused 4 U PRBCs
+___ C3D15 Pemetrexed 600 mg/m2
+___ C4D1 Pemetrexed 600 mg/m2
+___ Brain MRI showed CR
+___ C5D1 Pemetrexed 600 mg/m2
+___ Transfused 2 U PRBCs
+___ C5D1 Pemetrexed 600 mg/m2
+___ Transfused 2 U PRBCs
+___ Transfused 4 U PRBCs in NH
+___ C5D15 Pemetrexed 600 mg/m2
+___ 3U PRBCs transfused at ___
+___ GI endoscopy showed no bleeding but healing pyloric 
+ulcer
+___ C6D1 Pemetrexed 600 mg/m2
+___ C7D1 Pemetrexed 600 mg/m2
+___ MRI brain stable
+___ 3U PRBCs transfused at ___
+___ C8D1 Pemetrexed 600 mg/m2
+___ 1U PRBCs transfused at ___
+___ C1D1 Rituximab 375 mg/m2
+___ C2D1 Rituximab 375 mg/m2
+___ Brain MRI stable
+___ C9D1 Pemetrexed 600 mg/m2
+___ C10D1 Pemetrexed 600 mg/m2
+
+PAST MEDICAL HISTORY:
+1. CNS lymphoma
+2. Resection of right temporal mass
+3. Coronary artery disese
+4. CABG ___
+5. Stenting and double antiplatlet therapy
+6. Dyslipidemia
+7. Laparoscopic cholecystectomy, ___
+8. Cholecystectomy
+9. Cold agglutinin
+10. Chronic anemia, transfusion dependent

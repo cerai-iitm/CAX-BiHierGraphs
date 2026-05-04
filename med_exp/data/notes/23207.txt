@@ -1,0 +1,184 @@
+Chief Complaint : Right eye vision loss
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+- ___: Presents to ___ with profound leukocytosis (WBC
+177,000/uL with 88% blasts), anemia, and thrombocytopenia, as
+well as CNS leukostasis and likely hepatic involvement by AML.
+Receives immediate leukapheresis with resolution of dizziness.
+Bone marrow biopsy reveals acute myeloid leukemia with inversion
+16. Cytogenetics show 46,XX,inv(16)(p13.1q22)[16]/46,XX[4]. No
+mutations are detected by targeted next generation sequencing.
+TTE demonstrates an LVEF of 66%.  
+- ___: Initiated cytarabine/daunorubicin 90 mg/m2. 
+- ___:  Day 14 bone marrow biopsy reveals a markedly
+hypocellular bone marrow consistent with chemoablation. Rare
+blasts are present on flow cytometry, consistent with
+chemoablated AML. 
+- ___: Discharged to home. During this admission she was
+also treated for pneumonia with Vancomycin/Cefepime, 
+transitioned
+to levofloxacin on discharge. 
+- ___: Bone marrow biopsy performed at count recovery. This
+demonstrates a variable cellular bone marrow with maturing
+trilineage hematopoiesis and no diagnostic morphologic features
+of involvement by AML. Cytogenetics reveal 46,XX[20], consistent
+with CR1. 
+- ___: C1 consolidative high-dose cytarabine. 
+- ___: Prophylactic Posaconazole held because of mild
+transaminase elevation. 
+- ___: Admitted with febrile neutropenia of 
+uncertain
+source. 
+- ___: Cycle 2 HiDAC delayed due to acute viral pharyngitis.
+Influenza neg.
+- ___: C2 consolidative high-dose cytarabine. 
+- ___: Admitted for febrile neutropenia of uncertain
+source/etiology, treated empirically with cefepime. Discharged
+after afebrile and ANC recovery to 370. 
+- ___: C3 consolidative high-dose cytarabine.
+- ___: C4 consolidative high-dose cytarabine.
+- ___: Pegfilgrastim for growth factor support. 
+- ___: End-of-treatment bone marrow aspiration and biopsy
+performed. This demonstrates a hypocellular bone marrow with
+maturing trinlineage hematopoiesis, and no morphologic
+involvement by AML. There is also no evidence of involvement by
+AML by flow cytometry or karyoptype/FISH.
+- ___: Found to have new thrombocytopenia, platelet count
+96,000/uL (last 247,000/uL), with normal WBC count/differential,
+and hemoglobin recovering a 11.1 g/L (previous 9.8 g/dL).
+Peripheral blood smear demonstrates an estimated platelet count
+of 100-130,000/uL, with no early myeloid forms and no 
+dacryocytes
+to suggest a bone marrow replacement process.  
+- ___: Bone marrow biopsy performed to evaluate for
+thrombocytopenia, mild leukopenia, and macrocytic anemia. This
+reveals a cellular marrow with trinlineage hematopoiesis and no
+evidence of recurrent AML. Of note, however, flow cytometry
+detected a small percentage of CD34+ myeloblasts (4%), but FISH
+was negative for inversion 16. 
+- ___: Peripheral differential reveals 4% blasts, with WBC
+3.9, hemoglobin 11.4 (MCV 106), and platelets 84. 
+- ___: CBC reveals WBC 5.2, Hgb 10.9 (MCV 107), Plt 71, with
+6% blasts. Repeat bone marrow aspiration and biopsy reveals
+relapsing AML, with 12% blasts by morphology, 14.6% blasts by
+flow cytometry, and 11% of cells with inversion 16 by FISH. 
+- ___: Briefly admitted, during which time she
+consents for enrollment in clinical trial protocol ___ (MEC
+Plus Lenalidomide in AML). 
+- ___: C1D1 of treatment on clinical trial protocol ___
+(lenalidomide alone). 
+- ___: C1D1 MEC on clinical trial protocol ___. 
+- ___: Develops Strep Viridans bacteremia, initially treated
+with Vancomycin and Cefepime, transitioned to Ceftriaxone at the
+time of discharge. 
+- ___: Per protocol bone marrow biopsy on day 37 (WBC 0.7,
+ANC 260, Plt 34) reveals a variable cellular marrow with
+persistent involvement by her known AML. Blasts comprise 8% of
+aspirate morphologically in the background of maturing 
+trilineage
+hematopoiesis, with CD34 highlighting < 5% of overall
+cellularity, flow cytometry demonstrating 3% blasts, and FISH
+positive for inversion 16 in 20% of cells. 
+- ___: Discharged to home. 
+- ___: Repeat bone marrow biopsy at further CBC recovery
+revelas a hypocellular bone marrow with erythroid dominant
+maturing trilineage hematopoiesis and rare scattered blasts, 
+with
+CD34 immunohistochemistry demonstrating blasts that account for 
+<
+5% of marrow cellularity. This qualifies as Complete Response
+with Incomplete Count Recovery (CRi), given that the ___ was
+830/uL at the time of the procedure.
+- ___: Admission for elective allogeneic stem cell
+transplant for consolidation.
+ *Day 0 = ___ peripheral blood stem cell transplant with
+matched, related, female sibling  from her sister in ___. 
+Conditioning/chemotherapy Regimen: Myeloablative Conditioning
+with Busulfan and Cyclophosphamide 
+Course c/b neutropenic fever (resolved), urine + VRE s/p
+anbitiotic treatment (resolved), CMV detectable but not
+quantifiable (<2.1) with simulataneous cough and questionable
+Chest CT with ? infection RML (resolved), mucositis (resolved),
+epigastric pain felt to be r/t Cyclosporine (resolved), primary
+polydipsia (resolved), ?Adrenal insufficiency (resolved),
+petechiae (resolved), pancytopenia
+- ___: discharged from hospital. 
+- ___: Readmitted with fever and viral upper respiratory
+infection symptoms, as well as worsening thrombocytopenia. CT
+chest and sinus show some nonspecific sinus mucosal thickening
+but no other pathology. Cultures and workup all negative (CMV,
+EBV, respiratory viral panel, fungal markers, HHV-6). She is
+found to have a VRE UTI, for which she is treated with cefepime
+(6 day course from ___ and one dose of daptomycin
+(___).
+- ___:  Bone marrow biopsy is performed for persistent
+thrombocytopenia. This reveals a hypocellular bone marrow with
+maturing trilineage hematopoiesis and no evidence of recurrent
+AML. The karyotype is 46,XX[20], with no evidence of Inversion 
+16
+by FISH. Bone marrow chimerism is 100% donor in myeloid lineage,
+and 97% donor in lymphoid lineage. Romiplostim is initiated 
+while
+attempting to obtain Prior Authorization for eltrombopag. 
+- ___: Discharged to the apartments. 
+- ___: Begins Eltrombopag 25 mg daily for post-transplant
+cytopenias. 
+- ___: Initiates topical triamcinolone for mild, Stage I,
+Grade I, vitiliginous hypopigmented acute GVHD of the skin.
+- ___: Found to have detectable CMV viral load in the serum.
+< 2.1 log. 
+- ___: Serum CMV viral load again detectable but < 2.1 log. 
+
+- ___: Serum CMV viral load undetectable. 
+- ___: Skin biopsy for ? vitiliginous acute GVHD reveals
+normal skin. 
+- ___: Diagnosed with post-inflammatory leukoderma by Dr.
+___. 
+- ___: Day +100 bone marrow biopsy performed. This
+demonstrates a normocellular bone marrow with maturing 
+trilineage
+hematopoiesis and involvement by her known AML. By aspirate
+differential blasts comprise 7% of cells, by CD34
+immunohistochemistry blasts comprise 5% of cells, by flow
+cytometry blasts comprise 9.8% of cells, FISH is positive for
+Inversion 16 in 6.5% of cells, and Inversion 16 is noted by
+karyotpye in 2 of 20 cells. Bone marrow chimerism reveals 92%
+donor. 
+- ___: Cyclosporine is stopped entirely. 
+- ___: C1D1 decitabine 20 mg/m2 x 5 days, with plan to add
+Venetoclax once insurance approval is obtained, followed by 
+Donor
+Lymphocyte Infusion. 
+- ___: Venetoclax added at 100 mg daily.
+- ___: Venetoclax increased to 200 mg daily. 
+- ___: Receives Donor Lymphocyte Infusion at 5 x 10^6
+cells/kg. Venetoclax held because of ongoing pancytopenia. 
+- ___: Bone marrow biopsy obtained because of prolonged
+pancytopenia. This reveals a hypercellular marrow with maturing
+trilineage hematopoiesis, with morphological and
+immunohistochemical findings suggestive but not definitive for
+low level involvement by AML. Of note, flow cytometry showed no
+evidence of the AML, and Inversion 16 was not detected either by
+karyotype or FISH. However, CD34 immunohistochemistry 
+highlighted
+scattered blasts comprising ___ of cellularity, with one 
+marrow
+piece having a higher density of CD34+ cells comprising ___ 
+in
+that area. Bone marrow chimerism revealed 91% donor in the
+myeloid lineage, and 100% donor in the lymphoid lineage. 
+- ___: C2D1 Decitabine/Venetoclax. 
+- ___: Venetoclax held because of ongoing cytopenias. 
+- ___: Bone marrow biopsy performed on C2D36 of
+Decitabine/Venetoclax for disease surveillance and evaluation of
+ongoing cytopenias. 
+
+PAST MEDICAL/SURGICAL HISTORY:  
+- Acute myeloid leukemia, as above 
+- Post-hematopoietic stem cell pancytopenia of uncertain
+etiology, as above 
+- CMV viremia, as above 
+- Post-inflammatory leukoderma, as above 
+- Breast cancer, as above 
+- Viridans Streptococcus Bacteremia (completed course of
+Ceftriaxone on ___ 
+- VRE UTI

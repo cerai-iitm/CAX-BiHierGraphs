@@ -1,0 +1,49 @@
+Chief Complaint : PRIMARY DIAGNOSIS: Pancreatic cancer 
+PRIMARY ONCOLOGIST: Dr ___ COMPLAINT: Elective admit for chemo
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Pancreatic cancer likely stage IV
+- ___ Sustained fall in bathroom with headstrike due to
+orthostatic hypotension after HD. Imaging negative for
+intracranial bleed but required sutures.
+- ___ Presented to ___ with abdominal distension and
+pain. CT abdomen/pelvis w/o contrast (pt with ESRD) showed an
+ill-defined hypodensity in the region of the pancreatic uncinate
+process as well as new L1 and L3 fractures. Transferred to ___
+for ortho spine consult who recommended TLSO.
+- ___ CT abdomen/pelvis with contrast again demonstrates a
+3.5 x 3.0 x 2.8 cm hypoenhancing mass centered at the uncinate
+process of the pancreas worrisome for primary pancreatic
+adenocarcinoma abutting the posterior margin of first branch of
+the SMA which is patent as well as tiny hypodensities in the
+liver which are incompletely characterized. Hyperdense lesions 
+in
+the kidneys bilaterally, greatest of which was a 3.4 cm x 3.8 cm
+lesion in the upper pole of the left kidney also reported.
+- ___ EUS confirmed a 3.2 x 2.6 cm uncinate/head mass, FNB
+confirms adenocarcinoma. CEA 4.8, CA ___: 26
+- ___ Seen in Pancreatic Cancer MDC by Dr. ___
+Dr. ___ felt patient is not resectable. Oncology
+recommended single agent gemcitabine if within GOC of patient.
+- ___ Renal u/s shows bilateral simple appearing renal 
+cysts
+- ___ MRI abdomen w/o contrast shows innumerable liver
+lesions with restricted diffusion and intermediate T2
+hyperintense signal compatible with metastases measuring up to 
+11
+mm.
+
+PMH:
+-CAD
+-HTN
+-HLD
+-IDDM2
+-OSA
+- Hypothyroidism
+-h/o nephrolithiasis
+-BPH s/p TURP
+-H/o colonic adenoma
+-H/o syncope
+-IBS
+-Cognitive delay
+-Acute nonocclusive thrombi in b/l femoral vein extending to 
+left popliteal vein

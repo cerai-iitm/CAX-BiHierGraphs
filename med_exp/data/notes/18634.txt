@@ -1,0 +1,26 @@
+Chief Complaint : L2 burst fracture
+Past Medical History : ANNUAL WELLNESS VISITS                                          
+GASTROESOPHAGEAL REFLUX                                         
+ALCOHOL ABUSE                                                   
+CATARACTS                                                       
+COLON POLYPS                                                    
+DEPRESSION                                                      
+DIABETES MELLITUS                                               
+DIVERTICULOSIS                                                  
+ETOH                                                            
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+RECTAL INCONTINENCE                                             
+SMALL INTESTINAL BACTERIAL OVERGROWTH                           
+STEATORRHEA                                                     
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE                           
+OSTEOPOROSIS                                                    
+HEADACHE                                                        
+NECK PAIN                                                       
+LUMBAR PAIN                                                     
+MACULAR DEGENERATION                                            
+BLEPHAROPLASTY                                                  
+WRIST PAIN                                                       
+
+CATARACT SURGERY                                                
+CERVIX Surgery

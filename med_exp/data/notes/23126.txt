@@ -1,0 +1,21 @@
+Chief Complaint : headache x 5 days and fevers at home
+Past Medical History : 1.  Anemia.
+2.  Autoimmune hepatitis with cirrhosis.
+3.  Colonic polyps/adenoma.
+4.  CKD Stage 1-II
+5.  Diaphoresis.
+6.  History of Helicobacter pylori.
+7.  Hypertension.
+8.  Osteoarthritis.
+9.  Osteoporosis.
+10. PPD positive.
+11. Thyroid nodule.
+12. Recurrent urinary tract infections.
+
+PAST SURGICAL HISTORY:
+1.  Laminectomy and fusion in ___.
+2.  Cholecystectomy.
+3.  Lymph node biopsy.
+
+Urine: 
+UCX: Amp sensitive enterococcus (___)

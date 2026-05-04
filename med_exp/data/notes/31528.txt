@@ -1,0 +1,131 @@
+Chief Complaint : Headache
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+- ___: Admitted to ___ in the setting of fever, cough, and
+dyspnea unresponsive to antibiotics. 
+- ___: Because of her history of PSC and concern that her
+fever could possibly be due to cholangitis, she undergoes MRCP.
+MRCP reveals new multifocal areas of restricted diffusion within
+bilateral kidneys with new retroperitoneal adenopathy, raising
+the suspicion of lymphoma.  The liver is stable in appearance,
+with moderate intrahepatic biliary ductal dilatation and
+cirrhotic morphology in keeping with known history of PSC.  
+- ___: PET scan shows widespread FDG avid disease.
+Specifically, there is diffuse central and peripheral FDG avid
+lymphadenopathy involving the neck, chest, abdomen, and pelvis. 
+Additionally, there are multifocal lung parenchymal 
+abnormalities
+that are FDG avid, multiple FDG avid hepatic foci, FDG avid
+gastric wall thickening, diffuse FDG avidity of the spleen, and
+multiple bilateral foci of FDG avidity within the kidneys, in
+addition to widespread, multifocal axial and appendicular
+skeletal FDG avid foci. Shrunken and nodular liver, suggestive 
+of
+cirrhosis. Moderate volume ascites, primarily layering in the
+dependent pelvis.
+- ___: Undergoes cervical lymph node biopsy, which reveals 
+Diffuse Large B Cell Lymphoma, non-germinal center phenotype
+___). The high-grade lymphoma FISH panel is 
+negative.
+This represents Stage IV disease, with R-IPI score 4 indicating
+poor risk disease. 
+- ___: Cyclophosphamide 750 mg/m2 x 1 pre-phase, along with
+Methylprednisolone.  
+- ___: Transferred to the ICU for hypotension, as well as
+worsening renal, hepatic, and hypoxemic respiratory failure.
+Initiates Hemodialysis, followed by CVVHF after hemodynamic
+worsening. 
+- ___: Evidence of secondary HLH, with extremely elevated
+soluble IL-2 receptor level (267,100). Ferritin 5628,
+triglycerides 493, fibrinogen nadir 109. 
+- ___: Rituximab 100 mg x 1. 
+- ___: Rituximab 200 mg x 1. 
+- ___: Rituximab 100 mg x 1. 
+- ___: Rituximab 200 mg x 1.
+- ___: Single dose etoposide 37.5 mg/2 (dose reduced by 75%
+given kidney and liver failure).
+- ___: Transferred back to ___ team following stabilization
+of renal, hepatic, and respiratory systems.   
+- ___: C1 R-miniCHOP. 
+- ___: Discharged to rehabilitation facility after CBC
+recovery.
+- ___: Initial outpatient evaluation for DLBCL and HLH by 
+Dr.
+___. Re-admitted for fever and cough, and chemotherapy
+deferred.  CT of the chest shows new consolidations, growing
+nodules, and new nodules, highly concerning for infectious
+process or involvement of the lungs by the primary malignancy. 
+- ___: Undergoes bronchoscopy with bronchoalveolar lavage.
+Results of bronchoalveolar lavage studies included 1+
+polymorphonuclear leukocytes with no microorganisms, respiratory
+culture with only commensal respiratory flora, negative
+immunofluorescent stains for pneumocystis jirovecii, no fungus 
+on
+fungal culture, no Nocardia, no acid-fast bacilli, and no
+mycobacteria.  No respiratory viruses are isolated in culture,
+and respiratory viral antigen screen are negative.  Flow
+cytometry of bronchoalveolar lavage fluid do not reveal any
+diagnostic immunophenotypic features consistent with B-cell
+lymphoma.  Cytologic examination is negative for malignant 
+cells.
+
+- ___: C2D1 R-miniCHOP. 
+- ___: Discharged to home after 6 days of empiric antibiosis
+for atypical pulmonary pathogens. Discharged on filgrastim for
+growth factor support, as well as posaconazole for empiric
+antifungal prophylaxis. 
+- ___: C3D1 R-miniCHOP 
+-___ - ___: Admission for enterococcus bacteremia from HD
+line; HD line removed. Ampicillin for 2weeks (___). 
+- ___: C4D1 R-miniCHOP. C1 prophylactic intrathecal
+methotrexate. Lumbar Puncture without evidence of CNS 
+involvement
+by DLBCL. 
+- ___: Admission for healthcare-associated pneumonia
+and febrile neutropenia. She completes a course of Vancomycin 
+and
+Cefepime for this on ___. In addition, during this admission
+her HD catheter is replaced, and hemodialysis is re-intiated on
+___. 
+= ___: C5D1 R-miniCHOP. C2 prophylactic intrathecal
+methotrexate. 
+- ___: Admitted with febrile neutropenia and
+Pseudomonas bacteremia, treated with Ceftazidime. 
+-___ : BM biopsy for prolonged thrombocytopenia reveals
+NORMOCELLULAR MARROW WITH TRILINEAGE HEMATOPOIESIS AND MILD TO
+MODERATE MYELOID AND ERYTHEROID DYSPOIESIS. There was no 
+lymphoma
+or HLH 
+- ___ New DVTs, started on apixaban
+
+PAST MEDICAL HISTORY:  
+- Diffuse Large B Cell Lymphoma, as above 
+- Secondary Hemophagocytis Lymphohistiocytosis, as above 
+- Pulmonary Embolism (diagnosed ___, unprovoked, treated with
+heparin gtt transitioned to warfarin, with warfarin discontinued
+___ subdural hematoma) 
+- DVT ___ started on apixaban
+- Subdural hematoma (diagnosed ___, warfarin discontinued at
+that time)
+- Atrial Fibrillation with rapid ventricular response 
+- ___ Vasculitis vs. Hypereosinophilic Syndrome
+- Cutaneous lymphoma (s/p resection approximately ___, followed
+by treatment with cyclophosphamide, vincristine, and prednisone)
+- Autoimmune Hepatitis
+- Primary Sclerosing Cholangitis c/b cirrhosis and varices
+- Focal segmental glomerulosclerosis with chronic renal
+insufficiency
+- Hypertension
+- Hyperlipidemia
+- Pancreatic cyst (likely intraductal papillary mucinous
+neoplasm)
+- Hypertension
+- Hyperlipidemia
+- Osteoporosis
+- COPD
+- ESRD (focal segmental glomerulosclerosis) now on HD
+- Hyperparathyroidism ___ Renal Insufficiency  
+- Neuropathy
+- T2DM vs Steroid-Induced Hyperglycemia
+- Tunneled line Enterococcus bacteremia (s/p 2-wk ampicillin and
+removal of tunneled line)
+- Hurthle Cell Thyroid Cancer

@@ -1,0 +1,2 @@
+Fluoroscopy of Intracranial Arteries using Low Osmolar Contrast
+This medical imaging procedure utilizes low osmolar contrast to visualize the intracranial arteries, providing detailed images of blood vessels within the brain. During the procedure, a low-osmolar contrast agent is injected into a vein, and a fluoroscope is used to guide the flow of the contrast medium through the arteries, allowing for real-time imaging. This helps radiologists and clinicians to diagnose and monitor various cerebrovascular conditions, such as aneurysms, arteriovenous malformations, and stroke.

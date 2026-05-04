@@ -1,0 +1,14 @@
+Chief Complaint : diarrhea
+Past Medical History : PAST MEDICAL HISTORY:  
+- Crohn's disease dx at age ___ 
+- Nephrolithiasis
+- CKD Stage IIIB to IV (est GFR 35)
+- IgA nephropathy
+- GERD
+
+PAST SURGICAL HISTORY:  
+- Percutaneous nephrostomy tube for nephrolithiasis ___ 
+- Jejunostomy with reversal ___ 
+- Small bowel resection ___
+- Colectomy with ileostomy ___ 
+- Multiple lithotripsy

@@ -1,0 +1,24 @@
+Chief Complaint : ___
+Past Medical History : (per chart, confirmed with pt):
+AORTIC STENOSIS                                                 
+CHD                                                             
+CONGESTIVE HEART FAILURE                                        
+HYPOTHYROIDISM                                                  
+OSTEOARTHRITIS                                  
+GASTROESOPHAGEAL REFLUX                                         
+SKIN CANCERS                                                    
+ANEMIA                                                          
+HEMORRHOIDS                                                     
+ATRIAL FIBRILLATION AND FLUTTER                                 
+ACUTE NON-ST ELEVATION MYOCARDIAL INFARCTION                    
+CHRONIC KIDNEY DISEASE STAGE III                                
+CHOLELITHIASIS                                                  
+NEPHROLITHIASIS                                                 
+ACUTE PANCREATITIS                                              
+HYPERPARATHYROIDISM     
+
+PAST SURGICAL HISTORY:
+CARDIAC VALVE REPLACEMENT (TISSUE)                    ___      
+Aortic valve                                                    
+CORONARY BYPASS SURGERY                               ___      
+TRANSURETHRAL PROSTATECTOMY

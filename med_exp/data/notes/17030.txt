@@ -1,0 +1,52 @@
+Chief Complaint : SVC syndrome
+Past Medical History : PAST ONCOLOGIC HISTORY (Per OMR, reviewed): 
+The patient reports that she was in her usual state of health
+until a few months ago when she developed a cough and shortness
+of breath as well as a 15 pound weight loss.  She presented to 
+an
+outside hospital where a chest x-ray was performed on ___ which revealed a new moderate right apical pneumothorax and
+new dense opacity in the right suprahilar region.  She underwent
+chest tube placement in the ER. A CT chest was subsequently
+performed which revealed a right apical pneumothorax and right
+paratracheal adenopathy. On ___ she underwent a
+bronchoscopy with biopsy of the right upper lobe which revealed
+adenocarcinoma, moderately differentiated.  The tumor was
+positive for TTF-1 and negative for p63.  Per review of the
+records it was EGFR wild type, ALK and ROS1 negative. It is
+unclear if PDL1 was sent.
+
+She subsequently had an MRI brain on ___ which was
+negative for metastatic disease.  On ___ she had a
+PET CT which revealed FDG avid primary disease at the superior
+right hilum causing occlusion of the right upper lobe bronchus
+with more peripheral chronic opacification and atelectasis of 
+the
+right upper lobe. There was also contiguous disease extending to
+the right lower paratracheal and subcarinal stations, FDG avid
+nodal disease within the superior mediastinum, right low 
+cervical
+and sternal notch and right lower jugular chain lymph nodes. 
+There was FDG avidity at the anterior right mid clavicle, right
+medial 11th rib head and inferior thyroid lobe. On ___ she had an MRI chest which showed no evidence of osseous
+metastatic disease to the right clavicle.  On ___
+she had a bone scan which showed no evidence of metastatic
+disease. At this time there were discussions about proceeding
+with definitive chemo-radiation therapy, however she 
+subsequently
+had a CT chest on ___ which showed progression of disease,
+with a new lytic lesion within the adjacent T6 vertebral body as
+well as a new small right pleural effusion with right pleural
+nodule suspicious for pleural metastasis.  There was severe
+narrowing of the right main pulmonary artery due to the
+surrounding mediastinal/hilar adenopathy/soft tissue. The
+decision was made to proceed with palliative
+carboplatin/pemetrexed/pembrolizumab on ___. She was 
+started
+on dexamethasone 4 mg BID on ___ due to concerns for possible
+SVC syndrome. 
+
+- COPD
+- Tobacco use
+- Recurrent pneumothoraces (3 spontaneous PTX during
+lifetime, last episode prior to diagnosis was about ___ years 
+ago)

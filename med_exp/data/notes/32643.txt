@@ -1,0 +1,35 @@
+Chief Complaint : RLE hematoma
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+___ yo man with history of hypertension, GERD, AAA s/p repair and
+pNET s/p resection in ___ who presented as a referral 
+from
+his PCP after screening CBC revealed anemia, thrombocytopenia,
+and 4% blasts in the peripheral blood.
+- ___: CBC with WBC 12.5, Hgb 8.7, plt 62,000 (4% blasts in
+periphery by flow cytometry)
+- ___: CBC with WBC 14, Hgb 7.8, plt 49,000. Prelim review 
+by
+pathology with dysplasia and monocytosis with 4% peripheral
+blasts. BMBx performed that day.
+- ___: CBC with stable counts
+- BMBx (performed on ___ consistent with CMML-1 with 8%
+blasts and complex cytogenetics concerning for poor prognosis
+- ___: Consented for treatment with decitabine in the 
+future
+- ___ ___ noted -> urgent EGD showed anastomosis ulcer
+- ___: Decitabine C1D1
+- ___: Decitabine C2D1
+- ___: Decitabine C3D1
+- ___: BMBx hypercellular marrow, blast <5%
+- ___: Decitabine C4D1
+- ___: Decitabine C5D1
+- ___ persistent CMML, blast 10% 
+- ___ persistent CMML, C6D8 Decitabine. Starting Venetoclax 
+- ___ Persistent CMML, C7D1 Deciatbine/Venetoclax
+
+PAST MEDICAL HISTORY (per OMR):
+- GERD
+- Hyperlipidemia
+- Hypertension
+- Pancreatic Neuroendocrine Tumor s/p resection in ___
+- AAA s/p repair

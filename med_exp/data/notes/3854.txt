@@ -1,0 +1,37 @@
+Chief Complaint : Dyspnea, cough, weakness
+Past Medical History : Hypertension, essential 
+  Cancer of breast 
+  History of basal cell carcinoma 
+  URINARY TRACT INFECTION 
+  Hypertriglyceridemia 
+  Osteopenia 
+  COLONIC ADENOMAS 
+ Macular degeneration, wet 
+  Thyroid nodule 
+  Lung nodules 
+  Healthcare Proxy 
+  ___ 
+  ___ long-term use 
+ A-fib 
+ CHF (congestive heart failure) 
+  PROGRAM - CHF (Not Dx, for prob list only) 
+ CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+  Compression fracture of L1 lumbar vertebra 
+  Advanced directives, counseling/discussion 
+  Fracture of hip 
+  Pseudophakia of left eye 
+  Moderate aortic stenosis 
+  Moderate mitral regurgitation 
+  Anemia 
+ COPD (chronic obstructive pulmonary disease) 
+  Tubulovillous adenoma of colon 
+  GI bleed 
+  Abnormal liver enzymes 
+  Neuroendocrine carcinoma of lung 
+  PROGRAM - Care Management (not Dx, for prob list only) 
+  Chronic diastolic (congestive) heart failure 
+ Former smoker 
+  Alzheimer's dementia 
+  At___ native art of left leg w ulcer of heel and midfoot 
+  Osteopenia 
+  Osteoporosis

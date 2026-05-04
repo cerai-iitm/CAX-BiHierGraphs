@@ -1,0 +1,130 @@
+Chief Complaint : febrile neutropenia
+Past Medical History : TRANSPLANT DATA:
+___: Transplant Date: 1
+          Graft: Auto
+          Conditioning Intensity: Ablative
+          Conditioning Regimen: BEAM
+
+PAST ONCOLOGIC HISTORY:
+Transformed DLBCL with a history of follicular lymphoma stage 
+IIA
+- ___ developed worsening musculoskeletal back pain, early
+satiety, hypoalbuminemia and found to have mesenteric mass
+- ?___ ex lap with 15 cm lobulated mass involving the
+duodenum, retroperitoneum and celiac access.  Biopsies showed
+Follicular lymphomas grade II/III.  Reportedly negative staging
+Gallium scan. CD10+ BCL2+
+- ___ completed 6 cycles CHOP, complications included
+SVC/innominate thrombus (tPA)
+- ___ CT showed persistent 7 x 3.5 x 9 cm oblong mass, bone
+marrow at completion was negative for lymphomatous involvement.
+- ___ PET-CT with very slight amount of increased tracer
+activity within the posterior left supraclavicular region. No
+other areas of FDG avid disease were noted 
+- ___ through ___ per records she was treated with CVP
+followed by course of single agent Rituxan
+- ___ through ___ surveillance imaging with no evidence of
+recurrent disease, stable mesenteric mass.
+- ___ abdominal pain led to CT with no change in mass size,
+increased conspicuity of nodular borders
+- ___ PET-CT with L. hilar LN PET-avid to SUV 7.9, otherwise
+stable mesenteric mass with low level SUV 2.2 stable since 
+prior.
+- ___ CT torso showed persistent mesenteric and left hilar
+lymphadenopathy. Stable right middle lobe small focus of ground
+glass opacity and adjacent subpleural fat hypertrophy, 
+suggestive
+of inflammatory process. Stable right adnexal cyst.  
+- ___ Presented to PCP ___ ___iscomfort. 
+Exam
+revealed new adenopathy. Labs notable for LDH 341, WBC 10.1,
+normal differential, PLT 452. 
+- ___ PET CT revealed, "Large left cervical,
+supraclavicular, mediastinal lymphadenopathy, and 
+retroperitoneal
+lymphadenopathy, and small mesenteric
+lymphadenopathy, all markedly FDG-avid and concerning for
+lymphoma." SUVmax 35.5.
+- ___iopsy revealed diffuse large B cell
+lymphoma, CD20+ CD10+ lambda restricted. MIB and cytogenetics 
+are
+pending
+- ___ C1D1 ICE
+- ___ C1 Rituximab, clinically improved adenopathy
+- ___ C2 Rituximab, WBC 6.5, PLT 43
+- ___ Admit for C2D1 ICE
+- ___ C3 Rituximab
+- ___ PET CT showed almost complete resolution of FDG avid
+disease with a residual focus of avidity in the bed of the 
+former
+abdominal mass, SUV 3
+- ___ C4 Rituximab
+- ___ C4 ICE followed by stem cell mobilization and
+collection, BMBx showed a nest of CLL unrelated to her 
+aggressive
+lymphoma
+- ___ Presented with large DVTs, SVC filter placed
+- ___ D0 of a BEAM autoSCT, course notable for mucositis
+- ___ Switched to Rivaroxiban for AC
+- ___ PET CT ___, PFTs with normal Hb adjusted DLCO
+- ___ IVIg 400 mg/kg c/b fever, aseptic meningitis,
+cytopenias
+- ___ Start XRT
+- ___ Presented w dyspnea, DLCO 79% predicted (adjusted for
+Hb). Started prednisone 80 mg PO daily
+- ___ DLCO 96%, reduce prednisone to 50 mg PO daily
+- ___ DLCO 111%, reduce prednisone to 30 mg PO daily
+- ___ DLCO 84%, pulse steroids, increase prednisone to 50 
+mg
+PO daily. PLT 81, Bactrim switched to Dapsone for PCP ___.
+- Weekly monitoring of DLCO with taper of prednisone to 10 mg
+daily as of ___ with DLCO 99%.  Dapsone d/ced on ___
+due to hemolysis.
+- ___ Decreased prednisone to 5 mg PO daily. Noro virus
+persistently positive. 
+- ___ CT torso with no evidence of active disease.
+Unchanged mesenteric fullness. 
+- ___ DLCO decrease (not reported) increase prednisone to 
+10
+mg
+- ___ IVIg 400 mg/kg
+- ___ DLCO 121%, continue prednisone 10 mg
+- IVIg 400 mg/kg, continues monthly for Hypogammaglobuonemia.
+- ___, tapered off prednisone.
+- ___, CT torso with no evidence of active disease. Stable
+appearance of a conglomeration of mesenteric lymph nodes. 
+- ___, Right total knee replacement, primary, complicated
+by foot drop likely d/t irritation of peroneal nerve and
+cellulitis.
+- ___, CT Torso with no evidence of active disease. 
+Stable appearance of conglomerate of mesenteric LN's. Increased
+dilatation of the main pulmonary artery suggests worsening
+pulmonary arterial hypertension of indeterminate etiology.
+- ___, CT torso with no evidence of active disease. Increased
+dilation of pulmonary artery.  Evaluated by Dr. ___
+- ___, increasing right leg swelling with noted DVT.  Xarelto
+increased back to 20 mg daily(had been decreased given age and
+prior chronic DVT).  No evidence for lymphoma on CT imaging.
+- ___, noted drop in blood counts.  BM biopsy with evidence
+for MDS.
+- ___, C1 Dacogen
+- ___, C2 Dacogen
+- ___, C3 Dacogen
+ 
+OTHER PAST MEDICAL HISTORY
+- CVID, received IVIG monthly. last given ___
+- GERD                                          
+- Osteoarthritis                                         
+- DVT, right lower extremity, IVC filter in place
+- Cervical radiculopathy
+- Sciatica
+- Obstructive sleep apnea, wears CPAP
+- H/O cerebral aneurism, noted on MRA with small R internal
+carotid cavernous sinus aneurysm; coil placed in the aneurysm
+(___).  On Neurontin.  Exam notable for slight CN 6 palsy of
+the right eye, mild proptosis of the right eye, and hyperthesia
+of the right V1 distribution
+- Asthma
+- Obesity
+- Hypertension
+- Migraines

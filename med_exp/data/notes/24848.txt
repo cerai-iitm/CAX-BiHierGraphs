@@ -1,0 +1,9 @@
+Chief Complaint : Left lower lobe nodule
+Past Medical History : In summary, his pulmonary function tests demonstrated an FEV1 of
+43% of predicted and a diffusion capacity of 64% of predicted. 
+His PET scan also performed at ___ shows the left lower
+lobe mass to be FDG avid with an SUV of 3.1 and no evidence of
+nodal or metastatic disease on the PET scan.
+Dr. ___ met with Mr. ___ and reviewed our plans to
+proceed with a robotic-assisted superior segmentectomy on the
+left side.

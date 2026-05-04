@@ -1,0 +1,53 @@
+Chief Complaint : Hematomas
+Past Medical History : PAST ONCOLOGIC HISTORY
+===========================================
+- ___ (per pt): Patient developed palpitations with
+exertions, lightheadedness and dyspnea on exertion. She was
+found to have symptoms of anemia with a hematocrit of 20 and was
+admitted to ___ and received transfusion of 2 units of 
+red
+blood cells. Her reticulocyte count was low. Her LDH, B12,
+haptoglobin, ferritin, and SPEP were all normal. She denied any
+fevers, night sweats, weight loss. She underwent bone marrow
+biopsy which showed MDS with excess blasts, 5 q. deletion but
+also rearrangement of chromosome 7, 12p and ETV6 gene deletion.
+- ___: She was started on lenalidomide 10mg daily for 21 
+days
+on and 7 days off. She developed a pruritic rash and had to stop
+treatment. 
+- ___: Resumed lenalidomide 5mg daily on ___. Rash
+recurred and she stopped treatment on ___. 
+--___ BMBx 5 % blasts
+CYTOGENETIC DIAGNOSIS: ___
+del(12)(q15q24.1)[6]/ 46,XX[12]
+
+- ___ Decitabine D1-5
+- ___ Decitabine D1-5
+- ___ Neck swelling-started in ED on ___
+--___ Admitted for fever and neck pain? thrombophlebitis,
+--___ port removed ( tip + staph coag neg)
+---initially on vanco, currently on Daptomycin until ___
+----- anticoagulation changed to apixaban   
+- ___ Deciatbine D1-3  and D4-5 ___
+--- ___ Admitted for SOB and fever
+-----CTA showed small sub-segmental PE and PNA
+-----Anticoagulation changed to LMWH 90 mg q12
+-----Stared on levaquine 750 mg daily for pneumonia 
+-___: Transferred to ___ from ___ where she was
+admitted for cough/fever
+- ___: Lung biopsy revealed COP-- steroid therapy initiated
+- ___: planned bone marrow transplant deferred due to acute
+illness.
+- ___: C4D1-5 decitabine
+-- admitted for anemia and abdominal wall hematoma 
+-___ BMBx 6% blast 
+
+PAST MEDICAL/SURGICAL HISTORY: 
+============================================ 
+MDS, as above.
+Hypothyroidism
+Hyperlipidemia
+Asthma
+history coagulase-negative staph bacteremia
+Recurrent embolic disease 
+history cryptogenic organizing pneumonia

@@ -1,0 +1,13 @@
+Chief Complaint : Positive Stress Test and Post-Catheterization Monitoring
+Past Medical History : 1. CARDIAC RISK FACTORS
+- Hypertension
+- Dyslipidemia
+2. CARDIAC HISTORY
+- LAD stenosis per ___ cath
+- No history of CHF or arrhythmia
+3. OTHER PMHx per OMR:
+1.  TIAs several years ago.
+2.  Breast cancer status post lumpectomy (no radiation or
+chemotherapy).
+3.  Hypertension.
+4.  Hyperlipidemia.

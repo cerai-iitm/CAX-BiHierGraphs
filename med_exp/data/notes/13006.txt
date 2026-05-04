@@ -1,0 +1,15 @@
+Chief Complaint : Sepsis
+Past Medical History : 1. Paroxysmal atrial tachycardia
+2. Diverticulosis
+3. Esophageal adenocarcinoma complicated by stricture 
+4. Hyperlipidemia 
+5. Hypertension 
+6. Bladder malignancy (resected ___ years ago)
+7. CKD
+8. AAA
+9. Hearing loss with bilateral hearing aids
+10. ?Atrial fibrillation documented in chart but he denies 
+11. History of left TKR
+12. History of tonisellectomy
+13. History of TURBT
+14. Multiple esophageal dilations in the past

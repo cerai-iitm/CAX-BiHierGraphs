@@ -1,0 +1,14 @@
+Chief Complaint : wound infection
+Past Medical History : PMH:
+-Recent L hip bursa pain
+-Spina bifida
+-Hypertension
+-Left ankle fx
+-Back pain
+-Obesity
+
+SurgHx:
+-Surgery for spina bifida as a child (right lower back); claims 
+pressure ulcers are an issue on right side due to this
+-Lumpectomy
+-Tubal ligation

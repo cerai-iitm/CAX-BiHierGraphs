@@ -1,0 +1,26 @@
+Chief Complaint : Hypotension
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes - yes
+- Hypertension - yes
+- Dyslipidemia yes
+
+2. CARDIAC HISTORY  
+- Coronaries? UNKNOWN 
+- Pump? EF >60%
+- Rhythm? Afib 
+
+3. OTHER PAST MEDICAL HISTORY 
+Anemia, unspecified 
+Obesity (BMI 30.0-34.9) 
+Spinal stenosis, lumbar 
+Polyp of colon 
+DDD (degenerative disc disease), lumbar 
+Gout
+Asbestos exposure 
+Venous insufficiency (chronic) (peripheral) 
+Mild persistent asthma 
+Stasis dermatitis of both legs 
+BPH with obstruction/lower urinary tract symptoms 
+CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+Chronic diastolic CHF (congestive heart failure) 
+Paroxysmal atrial fibrillation

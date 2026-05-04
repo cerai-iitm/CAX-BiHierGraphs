@@ -1,0 +1,15 @@
+Chief Complaint : Leg pain
+Past Medical History : 1.HTN
+2.Type 2 Diabetes
+3.Depression
+4.CKD with baseline creatinine of 1.7 to 1.9
+5.Diastolic Heart Failure
+6.Atrial Fibrillation diagnosed in ___ 
+7.Hepatitis A at age ___ 
+8.Mixed Sleep Apnea- on CPAP 
+9.Obstructive and Restrictive Pulmonary Disease 
+10.Cholelithiasis 
+11.s/p knee replacement ___
+12.s/p TAH for fibroids
+13.s/p Lap gastric banding ___ and cholecystectomy
+___ Cataract surgery

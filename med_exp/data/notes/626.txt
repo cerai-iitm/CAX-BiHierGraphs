@@ -1,0 +1,14 @@
+Chief Complaint : abdominal pain
+Past Medical History : HYPERTENSION                                                    
+OVERWEIGHT                                                      
+URINARY FREQUENCY                                               
+ABNORMAL EKG                                                    
+CHOLESTEROL                                                     
+HYPERGLYCEMIA                                                   
+ABNORMAL LIVER FUNCTION TESTS                                   
+ANEMIA                                                          
+ABDOMINAL PAIN                                                  
+DEPRESSION                                                      
+INSOMNIA           
+
+     Surgical History updated, no known surgical history.

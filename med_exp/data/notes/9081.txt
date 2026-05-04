@@ -1,0 +1,8 @@
+Chief Complaint : pain
+Past Medical History : PMH
+# HTN/HLD
+# DM2 (diet controlled)
+# morbid obesity
+# chronic dCHF
+# gout
+# chronic LBP

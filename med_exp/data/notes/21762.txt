@@ -1,0 +1,18 @@
+Chief Complaint : Ulcerative colitis flare
+Past Medical History : PMH:
+HYPERTENSION                                                    
+DEPRESSION                                                      
+ULCERATIVE COLITIS                                              
+INFLAMMATORY BOWEL DISEASE                                      
+ASTHMA                                                          
+OSTEOARTHRITIS                                                  
+PERIPHERAL ULCERATIVE KERATITIS                                 
+followed at ___ Eye & Ear                                      
+PSORIASIS  
+
+PSH:
+KNEE SURGERY                                          ___      
+replacement - left                                              
+PARTIAL COLECTOMY                                     ___      
+for diverticulitis at ___                                
+HYSTERECTOMY                                          ___

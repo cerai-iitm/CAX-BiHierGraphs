@@ -1,0 +1,16 @@
+Chief Complaint : dyspnea
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes: yes (DM type I)
+- Hypertension: yes  
+- Dyslipidemia: yes  
+
+2. CARDIAC HISTORY  
+- Peripheral vascular disease
+
+3. OTHER PAST MEDICAL HISTORY  
+- Aortoiliac occlusive disease
+-- aorto-bi-femoral bypass graft (___)
+-- right revision femoral bypass graft with patch angioplasty
+(___)
+-- left redo femoral endarterectomy with patch angioplasty
+(___)

@@ -1,0 +1,37 @@
+Chief Complaint : Shortness of breath, chest pain
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- patient presented with shortness of breath in ___. He 
+was seen in an Urgent Care Clinic ___, with CXR showing a 
+large R sided effusion. Subsequent CT chest showed the large R 
+effusion with a 3.5cm RUL mass and extensive pleural nodularity. 
+Cytology from the R pleural effusion showed adenocarcinoma of 
+lung primary, with an ALK gene rearrangement. 
+
+- Staging studies subsequently showed extensive R pleural
+involvement, with mediastinal and hilar adenopathy, and bony
+metastases. MRI brain was negative. 
+
+- Patient consented for ___ ___ (first line Brigatinib vs.
+Crizotinib in advanced ALK-rearanged NSCLC) and was started on
+Brigatinib 90mg PO daily on ___. This was dose escalated to
+180mg PO daily on ___ as per the study protocol.
+
+- He had disease progression follwing 2 cycles of first line
+palliative Brigatinib on ___ ___, and this was discontinued
+___. 
+
+- Of note, although initial ALK FISH testing was positive,
+subsequent ALK IHC and expanded tumor genotyping using NGS 
+showed
+no ALK rearrangement; rather, KRAS and p53 mutations were
+identified; the tumor was also strongly PDL1+.
+
+- Second line palliative Pembrolizumab (2mg/kg) IV every 3 weeks
+was therefore started ___, due ___ for 2nd dose.
+
+PAST MEDICAL AND SURGICAL HISTORY:  
+-Hemorrhoids
+-H/o tobacco use: 20 pack/years
+-Lung cancer, as above
+-R malignant pleural effusion, s/p pleurx catheter placement
+(___)

@@ -1,0 +1,64 @@
+Chief Complaint : Planned admission for alloSCT
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+
+___: Initial BMBx, dx AML 
+
+___ BONE MARROW 
+BONE MARROW ASPIRATE AND CORE BIOPSY
+DIAGNOSIS:
+ACUTE MYELOID LEUKEMIA; SEE NOTE
+Note: The aspirate smears are remarkable for frequent blasts
+including forms with Auer rods
+representing 42% of the aspirate differential count. The 
+maturing
+myeloid precursors exhibit
+dysplastic maturation. The small number of erythroid precursors
+seen are not overtly dysplastic and
+only rare small hypolobated megakaryocytes are seen. A core
+biopsy was not submitted.
+Corresponding flow cytometry detected a population of CD34
+positive myeloblasts representing
+approximately 19% of total analyzed events (see separate report
+___ for full results).
+Cytogenetics work-up revealed a normal male karyotype and a MDS
+FISH panel was negative (see separate report ___ for full
+final results). Taken together, the morphologic and
+immunophenotypic findings are in keeping with involvement by
+acute myeloid leukemia (AML).
+Background myelodysplasia can be seen in the setting of NPM1
+mutation as well as biallelic CEBPA mutation. The lack of a
+reported history of a preexisting myelodysplastic syndrome 
+(MDS),
+cytogenetic abnormality characteristic of MDS and absence of
+overt dysplastic changes in the erythroid and megakaryocytes
+(>50% dysplastic forms) are inconsistent with an AML with
+myelodysplasia related change (AML-MRC). However, correlation
+with all available clinical, laboratory and molecular testing
+results is recommended for further characterization.
+
+CYTOGENETIC DIAGNOSIS: 46,XY[20]
+
+1) FISH: NEGATIVE  MLL, RUNX1, PML/RARA, CBFB
+2) FISH: NEGATIVE MDS panel
+3) FISH: NEGATIVE ETV6
+
+___ MYELOID SEQUENCING
+IKZF1 46% RUNX1 40%, SF3B1 50%, and U2AF1 43%
+
+___: Induction Therapy 7+3 cytarabine+ daunorubicin 60mg/m2
+
+-___ chemoablation
+
+___ chest CT worsening pulmonary infiltrates
+
+___ BMBx AML in CR1 
+
+___ bronchoscopy: Negative cultures to date
+
+___ MIDAC C1D!
+-- ___ PLT reaction: urticaria
+--___ admitted for neutropenic fever
+
+PAST MEDICAL/SURGICAL HISTORY:  
+AML as above
+HTN

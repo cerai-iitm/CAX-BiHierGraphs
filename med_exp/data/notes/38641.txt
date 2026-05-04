@@ -1,0 +1,24 @@
+Chief Complaint : Left axillary lymph node recurrence
+Past Medical History : 1.  Anxiety.
+2.  Obstructive sleep apnea.
+3.  History of tuberculosis in ___.  She reports she had full
+course of treatment.
+4.  Left shoulder pain.
+5.  Mild COPD
+6.  History of IV drug use w/ heroin.  The patient reports she
+was on methadone program, has completed this three to ___ years
+ago.
+7.  Gastroesophageal reflux disease.
+8.  Lumbago.
+9.  Fecal urgency
+10.  Hepatitis C.
+11.  Coronary artery disease on imaging.
+12.  Cerebrovascular arterial disease noted on imaging.
+13.  Hypertension.
+14.  Mood disorder
+15.  Back pain.
+16.  Hyperlipidemia.
+[...]
+1.  s/p Hysterectomy with unilateral salpingo-oophorectomy.
+2.  s/p Colonoscopy.
+3.  s/p Cholecystectomy.

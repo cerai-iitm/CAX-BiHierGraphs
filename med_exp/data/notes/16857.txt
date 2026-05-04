@@ -1,0 +1,16 @@
+Chief Complaint : BRBPR
+Past Medical History : - Hypertension, essential  
+- Hypercholesterolemia  
+- CKD (chronic kidney disease) stage 3  
+- Aortic valve stenosis, moderate as of ___.  
+- Hyperthyroidism  
+- Anemia  
+- Osteoarthritis  
+- Osteopenia  
+- Primary open angle glaucoma  
+- Hx Lower GI bleed  
+- Hx Endometrial polyp  
+- Hx Acetabulum fracture, right  
+- Hx Pelvis fracture  
+- Hx Diverticulitis  
+- Hx Positive PPD

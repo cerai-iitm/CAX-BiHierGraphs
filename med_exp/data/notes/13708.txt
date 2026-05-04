@@ -1,0 +1,40 @@
+Past Medical History : HEMATOLOGIC HISTORY: Initially presented with weight loss,
+abdominal distension and night sweats with symptoms starting in
+___.  She was evaluated by Dr. ___ gastroenterology
+and was noted for left sided abdominal fullness on examination. 
+CT on ___ showed a large abdominal mass with encasement 
+of
+ureter and associated left hydronephrosis, concerning for
+lymphoma. She was referred to the ED and admitted for further
+evaluation.  LDH was markedly elevated on presentation.  She
+underwent US guided retroperitoneal core biopsy on ___. 
+Pathology was noted for a high grade diffuse large B cell
+lymphoma with germinal center phenotype. By 
+immunohistochemistry,
+the abnormal lymphoid cells are immunoreactive for CD20,
+co-express germinal center markers CD10 and BCL6, are positive
+for MUM1(subset dim)and BCL2. CD3 and CD5 highlight rare admixed
+T cells.  MIB1 immunostain reveals a high proliferation fraction
+estimated to be 80-90%.  MYC and Bcl6 were negative.  Bone 
+marrow
+biopsy on ___ was negative for lymphoma.
+
+- ___ - C1D1 DA-EPOCH/R dose level 1. She had issues 
+related
+to constipation and Vincristine was held to the end of cycle and
+dosed with cyclophosphamide on day 5.  She received her 
+Rituximab
+in split doses on ___ and ___. She had a reaction
+during the initial infusion but tolerated the ___ infusion
+without issues.  She was started on Allopurinol.
+- ___ - C2D1 DA-EPOCH/R dose level 2
+- ___ - C3D1 DA-EPOCH/R dose level 3
+- ___ - C4D1 DA-EPOCH/R dose level 4
+- ___ - C5D1 DA-EPOCH/R dose level 4
+
+PMH:
+-DLBCL, as noted above
+-Depression
+-Asthma
+-TMJ
+-Bilateral breast implants

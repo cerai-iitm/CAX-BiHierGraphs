@@ -1,0 +1,8 @@
+Chief Complaint : The patient is a ___ male who presented for scheduled 
+open right thoracotomy and decortication on ___ due to history 
+of recurrent right exudative pleural effusion.
+Past Medical History : PMH: COPD, fatty liver, h/o EtOH abuse, polymyalgia rheumatic, 
+OA, radiculopathy, osteopenia
+
+PSH: Hand surgery, CCY, umbilical hernia repair, cystoscopy, 
+thoracentesis

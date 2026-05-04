@@ -1,0 +1,19 @@
+Chief Complaint : Altered Mental Status
+Past Medical History : PAST MEDICAL HISTORY:  
+1. Asthma.
+2. Insulin-dependent diabetes.
+3. Acid reflux.
+4. Hypothyroidism.
+5. Hyperlipidemia.
+6. Glaucoma.
+7. CAD s/p NSTEMI
+8. Left carotid stenosis.
+9. Allergies to iodine and sulfa.
+10. Thyroid enlargement.
+11. Peripheral vascular disease with recent left foot ulcer.
+12. Report of underlying emphysema, possibly ___.
+13. Moderate to Severe AS (valve area 0.56cm2)
+14. MRSA
+15. Stage 3a CKD (Baseline Cr ~1)
+16. Severe allergies to multiple medications
+17. Systolic CHF (ischemic/valvular, EF 25%, dry weight 66.9kg)

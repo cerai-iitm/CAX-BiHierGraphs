@@ -1,0 +1,13 @@
+Chief Complaint : CHF
+Past Medical History : 1. HTN 
+2. HL
+3. DM 
+4. CHF 
+5. CMY 
+6. Carpal tunnel release or repair 
+7. L knee meniscus tendon repeair 
+8. Mitral valve regurgitation 
+9. Cardioversion 
+10. Pericardiocentesis 
+11. Pericardial tamponade 
+12. Asthma

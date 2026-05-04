@@ -1,0 +1,26 @@
+Chief Complaint : BRBPR
+Past Medical History : Rhinitis, allergic 
+Psoriasis 
+Asthma 
+Esophageal reflux 
+Psoriatic arthritis 
+Headache, migraine 
+Fibromyalgia 
+Spinal stenosis, lumbar 
+Alopecia areata 
+Diverticulosis 
+OSA (obstructive sleep apnea) 
+Overweight (BMI 25.0-29.9) 
+Screening for ___ cancer 
+Adjustment disorder with mixed anxiety and depressed mood 
+Lichen sclerosus et atrophicus of the vulva 
+Cervical spine instability 
+Spondylosis, cervical 
+Villous adenoma 
+IgA gammopathy 
+Dry eye syndrome 
+IGT (impaired glucose tolerance) 
+Age-related macular degeneration, dry, left eye 
+Perennial allergic rhinitis 
+Chronic left shoulder pain 
+Vitamin D deficiency

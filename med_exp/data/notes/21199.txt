@@ -1,0 +1,85 @@
+Chief Complaint : Mr. ___ is a ___ year old male with metastatic pancreatic
+cancer complicated by biliary obstruction s/p PTBD with recent
+hospitalizations for polymicrobial and GNR bacteremia presents
+from clinic with abdominal pain and abnormal labs.
+
+The patient has had multiple recent hospitalizations recently,
+please refer to each discharge summary for details. In brief, he
+was admitted from ___ with septic shock due to
+pan-sensitive e. coli bacteremia which required a brief stay in
+the ICU. He was eventually discharged on oral ciprofloxacin to 
+be
+completed on ___. He was subsequently admitted from ___
+with abdominal pain which was attributed to intermittent
+obstruction of his biliary drain. He remained stable and no
+changes were made to his antibiotics. 
+
+At discharge, the patient was feeling well, but the day after
+being home, he began to have progressive fatigue without
+localizing symptom. He had no fevers or chills. No headache or
+vision changes and no odynophagia. 
+
+The patient went to bed last evening without symptoms aside from
+fatigue and then awoke this morning with his typical abdominal
+pain. It is usually improved with a dose of APAP but this pain
+was not improved. He then went to his scheduled outpatient
+oncology visit.
+
+There his vitals were Vital Signs sheet entries for ___: 
+BP: 132/78. Heart Rate: 99. O2 Saturation%: 100. Weight: 170
+(With Clothes). BMI: 24.4. Temperature: 97.5. Resp. Rate: 16.
+Pain Score: 0. Distress Score: 0.
+
+And his labs were notable for a significant leukocytosis, ___ 
+and
+hyponatremia in the setting of persistent abdominal pain. he
+received 0.5mg IV dilaudid x2 with improvement. In addition, she
+received 1L NS and CTX 2g @0842 and was directly admitted to 
+11R.
+
+Upon arrival to 11R, the patient endorses the above history and
+states his abdominal pain has improved. He is without chest pain
+or dyspnea. He notes increased drainage from his PTBD but no
+change it quality. No pain or erythema at insertion site or by
+his POC.
+Past Medical History : As per admitting MD:
+PAST ONCOLOGIC HISTORY:
+- ___: Lost ___ pounds, attributed to quitting EtOH
+- ___: Abdominal pain, constipation
+- ___: BI-N, found to have lipase 740, CT with
+pancreatitis vs. mass, cholelithiasis
+- ___: MRCP showed 3.7cm pancreatic head mass
+- ___: EUS showed 4cm pancreatic head mass, FNB PDAC. Concern
+for infiltration into D2 and for 1.5cm liver lesion
+- ___: ERCP with stent placement, admitted ___
+- ___: CT-guided liver Bx, path showed metastatic PDAC
+- ___: Pancreatic Bx came back HA high, qualifying him for the
+HALO study
+- ___: Port placement
+- ___: Consented for ___, HALO3, A Phase 3, Randomized,
+Double-Blind, Placebo-Controlled, Multicenter Study of PEGylated
+Recombinant Human Hyaluronidase (PEGPH20) in Combination With
+nab-Paclitaxel Plus Gemcitabine Compared With Placebo Plus
+nab-Paclitaxel and Gemcitabine in Subjects with Hyaluronan-High
+Stage IV Previously Untreated Pancreatic Ductal Adenocarcinoma
+- ___: C1D1 HALO3
+- ___: C2D1 HALO3
+- ___: C3D1 HALO3
+- ___: Admitted for cholecystitis, sepsis.
+Cholecystostomy tube placed.
+- ___: C4D1 delayed d/t fatigue s/p hospitalization,
+?recurrent infection.
+- ___: Resumed treatment C4D1 following negative infectious
+workup and improvement in fatigue.
+- ___: Admitted for obstruction s/p duodenal stent.
+Unsuccessful attempt of internalization of biliary drain. C4D8
+treatment held.
+- ___: Resumed treatment C4D15, no change in dose (AEs during
+hospitalization unrelated to treatment on trial).
+
+PAST MEDICAL HISTORY:
+- Metastatic Pancreatic Cancer, as above
+- Hypertension
+- Obesity
+- ___ with Stage II Fibrosis
+- s/p left knee arthroscopy

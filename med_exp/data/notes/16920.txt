@@ -1,0 +1,16 @@
+Chief Complaint : abdominal pain, nausea, diarrhea
+Past Medical History : PMHx:
+1. Endometriosis
+2. GERD
+3. DM II
+4. Herpes II
+5. Adie's syndrome
+6. Reactive airway disease
+7. OSA
+8. HTN
+9. HLD
+
+SurgHx:
+1. Laparoscopic cholecystectomy, ___
+2. Removal of small bowel endometriomas
+3. Hysterectomy

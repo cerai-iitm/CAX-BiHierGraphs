@@ -1,0 +1,17 @@
+Chief Complaint : STEMI
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Pre-diabetes 
+- Hypertension  
+- Obesity (BMI: 30.0)
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- Splenomegaly
+GERD
+Peripheral neuropathy
+Sarcoidosis
+Chronic back pain
+Neuropathy
+Anxiety/depression

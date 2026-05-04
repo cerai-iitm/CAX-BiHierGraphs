@@ -1,0 +1,21 @@
+Chief Complaint : fall/tSAH/ICH
+Past Medical History : PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: (+)Diabetes, (+)Dyslipidemia,(+)HTN  
+2. CARDIAC HISTORY:  
+- non-ischemic cardiomyopathy (EF ___ as of ___, likely  
+cocaine-related  
+3. OTHER PAST MEDICAL HISTORY:  
+- Insulin-dependent diabetes  
+- Hyperlipidemia  
+- HTN  
+- hepatitis C antibody positive  
+- h/o MRSA pneumonia (requiring trach)  
+- COPD  
+- Schizophrenia (functioning well on no medications)  
+- Substance abuse (cocaine, alcohol, MJ)  
+- Tobacco abuse  
+- Anxiety  
+- cocaine induced pneumonitis  
+- restrictive lung disease  
+- pulmonary hypertension  
+- gout

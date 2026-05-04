@@ -1,0 +1,59 @@
+Chief Complaint : C6 da-EPOCH
+Past Medical History : ONCOLOGIC HISTORY (PER OMR)
+===============================================
+-Presented in ___ with a 3 -4 week history of acutely
+worsening dyspnea on exertion. This was initially worked-up by
+her PCP who treated her for Pneumonia with antibiotics without
+improvement.  Chest CTA did not show a PE, but with noted
+splenomegaly of 15 cm.  Lab work at that time demonstrated
+thrombocytopenia and some atypical cells on peripheral blood. 
+She
+was referred to ___. Further imaging performed did not show 
+any
+significant adenopathy. Bone marrow biopsy was performed and was
+not revealing. Ultimately, Ms. ___ underwent core biopsy of
+the spleen on ___ which showed a high grade lymphoma. Ki67
+staining with 80-90% proliferation.  Cytogenetics notable for
+complex karyotype. FISH notable for rearrangement of BCL6,
+trisomy 18, rearrangement of chromosome 9. FISH excluded 
+IGH/BCL2
+gene rearrangement, rearrangements of MYC and ALK genes and
+deletion of TP53 gene. Pathology consistent with a high grade B
+cell lymphoma, non GC type, excluding "double hit" lymphoma.
+
+-Initiated on dose adjusted EPOCH with D1 on ___. She also
+received IT-methotrexate on Day 7. She was discharged ___
+on daily Neupogen injections. 
+
+-She received rituximab on ___
+
+- C2 EPOCH ___
+
+- Rituxan ___
+
+- C3 EPOCH ___
+
+- Rituxan ___
+
+- Rituxan ___
+
+- C4 EPOCH ___
+
+PAST MEDICAL HISTORY (PER OMR)
+========================================
+HTN
+HLD
+Morbid obesity
+Osteoarthritis
+Celiac disease
+Hemorrhoids
+Diverticulosis
+Palpitations
+IBS
+Pulmonary nodules
+Pulmonary hypertension
+Vitamin D deficiency
+Low back pain
+Sleep apnea with home CPAP
+Eczema
+Anxiety

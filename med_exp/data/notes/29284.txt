@@ -1,0 +1,18 @@
+Chief Complaint : Toe pain
+Past Medical History : 1. Peripheral vascular disease
+   * Right popliteal stent (___) (Dr. ___
+   * Right SFA stent (___) (Dr. ___
+   * Right peroneal PTA (___) (Dr. ___
+   * Left anterior tibial PTA (___) (Dr. ___
+   * Right posterior tibial laser atherectomy (___) (Dr. ___
+2. Coronary artery disease
+   * POBA to SVG-RPL (___) (Dr. ___
+   * CABG (___): LIMA->LAD, rSVG->D, SVG->OM, SVG->RPL (Dr. 
+___
+3. Diabetes mellitus, type 2: Insulin-dependent
+4. Hypertension
+5. Dyslipidemia
+6. Former smoker (20 pack-years, quit ___
+7. Mild carotid stenosis ___ bilaterally, ___
+8. GERD
+9. Drug-induced hepatitis

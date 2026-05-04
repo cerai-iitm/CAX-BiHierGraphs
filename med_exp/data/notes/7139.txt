@@ -1,0 +1,35 @@
+Chief Complaint : Abdominal Distension
+Past Medical History : ___ presented in ___ with dysphasia to solid
+foods associated with a 10 pound weight loss over the 2 months
+prior.  She was referred for barium swallow which was reportedly
+normal followed by EGD.  The study  performed ___ at
+___ showed a large circumferential partially 
+obstructing
+fungating ulcerating mass in the lower third of the esophagus,
+approximately 30 cm from the incisors, extending to the
+gastroesophageal junction. Biopsy revealed moderately to poorly
+differentiated adenocarcinoma.  EUS was consistent with T3
+lesion. FNB was performed of the ___ lymph nodes, which
+was positive for malignant cells. Overall EUS staging was 
+T3N2Mx.
+She then underwent PET/CT on ___, which showed thickening
+and FDG avidity of the distal esophagus (SUV max 16.75) and
+proximal stomach (SUV max 6.62) corresponding to known 
+esophageal cancer with associated enlarged and FDG avid left 
+supraclavicular (measuring 1.2 cm with SUV max 4.46) and celiac
+axis lymph nodes (measuring up to 2.8 x 2.9 cm with SUV max of
+9.33). FNA of the supraclavicular lymph node was positive for
+malignant cells, consistent with poorly differentiated
+adenocarcinoma.
+
+The primary tumor was HER2-negative and MMR-proficient. 
+
+Ms. ___ consented for participation on clinical trial
+___ and initiated treatment with nivolumab + FOLFOX
+___.  C2D1 was delayed and dose reduced 1 level for
+neutropenia.  With cycle 10 she developed a rash consistent with
+nivolumab-dermatitis.
+
+Following cycle 13, there was progression in the lung and hilar
+lymph node, and mFOLFOX was discontinued.  She started SOC
+pembrolizumab on ___

@@ -1,0 +1,11 @@
+Past Medical History : 1.  "Pre-diabetes.".  The patient was diagnosed a year ago and 
+was told to 
+modify his diet.
+2.  Bipolar affective disorder.
+3.  Obstructive sleep apnea.  The patient uses a CPAP machine at 
+home
+4.  Restless leg syndrome.
+5.  History of polysubstance abuse.  The patient has abstained 
+from alcohol and 
+drugs for last ___ years.
+6.  Hypertension

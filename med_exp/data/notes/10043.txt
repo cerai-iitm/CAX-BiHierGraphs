@@ -1,0 +1,14 @@
+Chief Complaint : abnormal chest ct
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Myelodysplastic disorder, previously with normal cytogenetics,
+normal FISH. Most recent BMBx ___. After being followed for
+many years, was started on Azacitadine in ___ due to worsening
+cytopenias. C1D1 ___, C2D1 ___, C3D1 ___.
+
+PAST MEDICAL HISTORY (per OMR):
+- MDS, as above
+- Polymyalgia Rheumatica
+- GIST s/p resection ___
+- Hypothyroidism
+- GERD
+- Seasonal Allergies

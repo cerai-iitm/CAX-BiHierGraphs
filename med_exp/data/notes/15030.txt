@@ -1,0 +1,5 @@
+Chief Complaint : Confusion
+Past Medical History : PMHx:
+Spinal Stenosis, HLD, HTN, vertigo, peripheral neuropathy, TIA,
+MI, PNA, afib, CHF, Cholecystectomy, appendectomy, defib, pacer,
+CABG

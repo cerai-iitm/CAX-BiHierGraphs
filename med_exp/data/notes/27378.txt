@@ -1,0 +1,25 @@
+Chief Complaint : admit for MTX
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- ___: Confusion started
+- ___: ED visit with severe confusion and hallucination
+- ___: Brain MRI shows central mass
+- ___: Diagnosed by stereotactic biopsy with pathology
+showing high grade CNS diffuse B-cell lymphoma
+- ___: C1 HD-MTX 6.4 g/m2
+- ___: C2 HD-MTX 8 g/m2
+- ___: C3 HD-MTX 8 g/m2
+- ___: C4 HD-MTX 8 g/m2
+- ___: C1 Rituximab
+- ___: Methotrexate held for URI
+- ___: C5 HD-MTX 8 g/m2 with renal failure Cr to 1.7
+- ___: C2 Rituximab
+- ___: C6 HD-MTX 4.8 g/m2
+- ___: C3 Rituximab
+- ___: C7 HD-MTX 4.8 g/m2
+- ___: Brain MRI shows stable disease
+- ___: C4 Rituximab
+- ___: C8 HD-MTX
+- ___: C9 HD MTX
+- ___: C5 rituxan  
+- ___ C10 HD MTX 
+- ___ admit for C11 HD MTX

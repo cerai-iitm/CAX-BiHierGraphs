@@ -1,0 +1,34 @@
+Chief Complaint : Obesity
+Past Medical History : 1)  type 2 diabetes with neuropathy and hemoglobin A1c of 5.1%
+2)  hyperlipidemia with elevated triglycerides
+3)  moderate obstructive sleep apnea CPAP recommended
+4)  hyperparathyroidism
+5)  reflux/dyspepsia with small hiatal hernia
+6)  MALIGNANT HYPERTHERMIA - difficult intubation (letter from 
+    department of anesthesia at ___ 
+    indicated that ___ has a small mouth opening that 
+    prevented adequate laryngoscopy with both MAC 3 and glide 
+    scope)
+7)  history of hypercalcemia (serum level 11.3)
+8)  vertigo
+9)  history of urinary stress incontinence
+10) history of gallstones 
+11) vitamin D deficiency 
+12) iron deficiency with saturation 12.7%
+13) hyperuricemia
+14) mildly elevated thrombocytosis
+
+Past Surgical History:
+1)  open cholecystectomy (via upper midline incision)
+2)  bilateral rotator cuff repair
+3)  excision of lipoma of the neck
+4)  bladder suspension
+5)  s/p emergent C-section ___ (low midline incision)
+6)  tubal ligation
+7)  tonsillectomy
+
+Allergies:
+1)  succinylcholine -> MALIGNANT HYPERTHERMIA
+2)  codeine -> nausea
+3)  ciprofloxacin -> lightheadedness
+4)  Bactrim -> peeling of skin

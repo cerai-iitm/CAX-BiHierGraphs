@@ -1,0 +1,23 @@
+Chief Complaint : unwitnessed fall
+Past Medical History : PMHx: 
+-Aortic aneurysm
+-Atrial Fibrillation 
+-CHF
+-COPD
+-CAD
+-Diabetes
+-GERD
+-GI Bleed (___)
+-Glaucoma 
+-HLD
+-HTN
+-kidney disease
+-PAD 
+
+PSHx:  
+-Angioplasty/stents - 5 stents ___ & ___  
+-Coronary bypass (CABG)       
+-Hernia repair
+-Fatty tumor removed from neck
+-Spinal fusion 
+-Esophageal dilation

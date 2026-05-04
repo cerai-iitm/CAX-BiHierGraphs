@@ -1,0 +1,19 @@
+Chief Complaint : Left breast cancer
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Clinical Stage IIA, T2N0M0, triple negative breast cancer  
+-___: self palpated mass in left breast and noticed it
+worsening over several weeks. 
+-___: diagnostic mammogram [@ OSH] did not show abnormality
+but Ultrasound revealed 2cm mass in upper outer quadrant at 
+2:00.
+Retrospectively, mass could be seen on mammogram although 
+margins not clearly defined.  Biopsy revealed invasive ductal 
+carcinoma, grade 3, triple negative.   BRCA1/2 testing completed 
+at ___ and negative
+- ___ C1 Cytoxan and Adriamycin
+- ___ C2 Cytoxan and Adriamycin
+- ___ C3 Cytoxan and Adriamycin
+- ___ C4 Cytoxan and Adriamycin
+.
+PAST MEDICAL HISTORY:
+- Interstitial Cystitis

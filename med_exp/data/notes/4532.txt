@@ -1,0 +1,24 @@
+Chief Complaint : Abdominal pain
+Past Medical History : PAST MEDICAL HISTORY:
+1. Metastatic colorectal cancer, status post chemo and radiation
+treatment.
+2. Hypertension.
+3. Hyperlipidemia.
+4. Radiation gastroenteritis.
+5. Anemia.
+6. GERD.
+7. History of pancreatic cancer.
+8. Arthritis.
+9. History of small bowel obstruction.
+10.Esophageal spasms.
+11.Dysphagia.
+
+PAST SURGICAL HISTORY:
+1. Status post extended right colectomy in ___.
+2. Diagnostic laparoscopy with laparoscopic converted to open
+lysis adhesions in ___.
+3. Gastrostomy tube placement in ___.
+4. Upper endoscopy and biopsy in ___.
+5. Status post open cholecystectomy.
+6. Status post exploratory laparotomy and Billroth II.
+7. Status post open sigmoid colectomy in ___.

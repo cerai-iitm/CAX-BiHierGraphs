@@ -1,0 +1,112 @@
+Chief Complaint : Weakness and fall.
+Past Medical History : PAST ONCOLOGIC HISTORY:
+GE junction cancer stage IV
+- ___: Presents to Primary Care Physician, ___,
+with new symmetric arthralgias for the preceding ___ weeks,
+mostly in the elbows and knees, without swelling or trauma. 
+Basic
+laboratory evaluation at this time reveals hyponatremia (Na 131)
+and isolated AST elevation (108), with TBili <0.2, ALT 34, and
+Alkaline Phosphatase 91. A right upper quadrant abdominal
+ultrasound is ordered.
+- ___: Right upper quadrant ultrasound multiple enlarged
+retroperitoneal lymph nodes along the aorta and the IVC, as well
+as the pancreatic tail. In addition, an incompletetly evaluated
+0.7 cm hypoechoic lesion was noted along the lower pole of the
+right kidney. 
+- ___: CT of the abdomen/pelvis demonstrates marked
+retroperitoneal adenopathy with multiple enlarged lymph nodes
+surrounding the aorta and the aortocaval space, as well as
+enlarged lymph nodes in the periportal space and gastrohepatic
+ligament. The distal esophagus was thickened in a somewhat
+asymmetric manner, which could be from inflammatory reflux, but
+an underlying mass needs to be excluded via endoscopy. 
+- ___: EGD: non-bleeding mass of malignant appearance at 
+the
+lower third of the esophagus and gastroesophageal junction,
+extending into the GE junction. The mass caused a partial
+obstruction. Biopsy of the mass confirmed moderately
+differentiated adenocarcinoma undermining the squamous
+epithelium. Core biopsy of the retroperitoneal lymph nodes also
+confirmed metastatic adenocarcinoma, morphologically similar to
+the esophageal/GEJ primary. 
+- ___: PET/CT: diffuse esophageal wall thickening with
+intense FDG uptake at the distal esophagus extending to the GE
+junction consistent with known adenocarcinoma. There was also
+extensive FDG avid lymphadenopathy involving the upper
+paratracheal station bilaterally, mid paratracheal station, 
+right
+and left paraesophageal regions, and a large nodal conglomerate
+at the gastrohepatic ligament. In addition, there was extensive
+FDG avid lymphadenopathy involving the bilateral retroperitoneal
+lymph nodes extending as inferior to below the right renal
+vessels.
+- ___ ipilimumab 1 mg/kg nivolumab 3 mg/kg
+- ___ ipilimumab 1 mg/kg nivolumab 3 mg/kg
+- ___ CT torso stable disease
+- ___ ipilimumab 1 mg/kg nivolumab 3 mg/kg
+- ___ ipilimumab 1 mg/kg nivolumab 3 mg/kg
+- ___ CT torso stable disease by RECIST but some increase
+LNs
+- ___ nivolumab 240 mg maintenance 
+- ___ nivolumab 240 mg maintenance 
+- ___ nivolumab 240 mg maintenance 
+- ___ CT torso showed stable disease
+- ___ nivolumab 240 mg maintenance
+- ___ Held therapy for fatigue, myalgias
+- ___ Labs showed myositis, started steroids
+- ___ CT torso showed stable disease but hydronephrosis
+- ___ C1D1 FOLFOX6
+- ___ C1D15 FOLFOX6
+- ___ C2D1 FOLFOX6
+- ___ C2D15 FOLFOX6
+- ___ C3D1 FOLFOX6
+- ___ Re-insertion of right nephrostomy 
+- ___ C1D1 Taxol/Ram
+- ___ C1D8 Taxol/ Cetuximab 
+- ___ C1D15 Taxol/Ram
+- ___ admitted to ___ after dislodgment of the
+nephrostomy tube
+- ___ admitted to ___ for hematuria, diarrhea
+- ___ C2D1 Taxol/Ramucirumab/Cetuximab
+- ___ C2D15 Taxol/Ramucirumab/Cetuximab
+- ___ C3D1 Taxol/Ramucirumab/Cetuximab held due to
+cellulitis at nephrostomy site
+- CT torso ___
+Mixed response with decrease in size and enhancement of adrenal
+metastases, right ovarian mass and resolution of previously
+identified small bowel polyps and retroperitoneal
+lymphadenopathy, however there are new mass in the head of the
+pancreas concerning for metastasis, a new mass in the left
+hemipelvis may represent an ovarian metastases and a new bone
+metastases in L4.  2 masses in the pelvis likely representing
+peritoneal implants are increased in size.
+- ___ C3D1 Taxol/Ramucirumab/Cetuximab
+- ___ C1D1 irinotecan/cetuximab
+- ___ underwent therapeutic paracentesis 900cc
+- ___ C1D15 irinotecan/cetuximab
+- ___ C2D1 irinotecan/cetuximab
+- ___ C2D15 irinotecan/cetuximab
+- Guardant cfDNA showed FGFR1 amplification, MET and HGF
+amplification
+- Foudnation also showed FGFR1 amplification, MET and HGF
+amplification with loss of EGFR amplification
+- ___ C3D1 irinotecan
+- ___ C3D15 irinotecan
+- ___ chemo held due to ___, nephrostomy was uncapped but
+Cr remained essentially stable since last week (2.0->1.8->1.8)
+- ___ diarrhea due to antibiotics for UTI, c diff PCR
+positive, started Vanco PO, but toxin negative. Cr 1.4
+- ___ Renal scan: 1.  Diminished blood flow bilaterally,
+left worse than right.  2.  Decreased differential function and
+radiotracer emptying from the left kidney with no additional
+response following furosemide administration, suggesting
+obstruction. Left: 25%, right: 75% of renal function.
+ 
+PAST MEDICAL HISTORY: 
+1.  Gastroesophageal junction cancer as above.
+2.  Renal obstruction from disease.
+3.  History of bulimia.
+4.  Bicornuate uterus.
+5.  Myositis (___)
+6.  CDiff PCR positive (antigen negative) ___

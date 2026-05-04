@@ -1,0 +1,11 @@
+Chief Complaint : ESRD on HD
+Past Medical History : PMHx:
+T2DM
+HTN
+ESRD on HD
+HLD
+GERD
+
+PSHx:
+Cataracts
+No prior abdominal or pelvic operations

@@ -1,0 +1,14 @@
+Chief Complaint : Abdominal pain
+Past Medical History : PMH: 
+-symptomatic cholelithiasis
+-HTN
+-HLD
+-obesity
+-depression
+-macular degeneration
+-shingles
+-colonic poyps
+
+PSH: 
+-multiple D&Cs
+-left knee surgery

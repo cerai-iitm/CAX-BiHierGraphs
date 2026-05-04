@@ -1,0 +1,13 @@
+Chief Complaint : Transfer for ___
+Past Medical History : PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+-Atrial Fibrillation
+-MI in ___ s/p PCI to LAD 
+-H/O CABG
+-Bi-V ICD c/b lead extraction in ___
+-Failed coronary sinus cannulation
+-HFrEF

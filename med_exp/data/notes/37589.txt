@@ -1,0 +1,37 @@
+Chief Complaint : confusion, ataxia
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+As you know she is an ___ woman, former smoker (35
+pack-years), treated with definitive chemoradiation in ___ for
+stage IIIA lung adenocarcinoma. She now presents with concern 
+for
+disease recurrence. She is seen today with her husband and son.
+She receives her care at ___. Her oncologist is 
+Dr.
+___ the thoracic surgeon she has seen there is Dr. 
+___.
+With regard to her initial workup, she has a chronic cough but
+subsequently last year had a CXR after a fall which showed a 
+lung
+mass. Further imaging showed a 2.9cm posterior RUL lesion and a
+mediastinoscopy (___) was notable for positive pretracheal
+lymph node (poorly differentiated carcinoma favor adenoCA from
+lung primary). She therefore had cT2bN2M0 (stage IIIA) lung
+adenocarcinoma. She underwent chemoradiation for 8 weeks (___
+with carboplatin/Taxol), from ___. She had imaging in
+___ concerning for recurrence (increased FDG avidity, new
+subcarinal adenopathy and right pleural effusion). Thoracentesis
+was negative for tumor cells. She had a lung biopsy (RUL apical
+segment) ___ that was positive for poorly differentiated
+adenocarcinoma with extensive necrosis. At that time she
+requested to delay treatment due to an important wedding at the
+beginning of ___. She was seen in thoracic surgery clinic on
+___. She was felt not to be an operative candidate given
+disease stage and functional status. She is therefore referred 
+to
+medical oncology for further management.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Hyperlipidemia
+- Hypothyroidism
+- Gout

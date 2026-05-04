@@ -1,0 +1,51 @@
+Chief Complaint : gastric adenocarcinoma
+Past Medical History : PAST ONCOLOGIC HISTORY:
+Ms. ___ is a ___ with hypertension, diabetes, chronic
+kidney disease who was in her usual state of health until 
+___
+when she was hospitalized at ___ for evaluation of 
+anemia.
+Initial CT abdomen showed a sigmoid mass, and her CEA was 4.1.
+However, colonoscopy showed no evidence of the mass. A polyp was
+found in the ascending colon. Pathology showed adenoma. The
+patient was transfused 2 units PRBCs, and was discharged with 
+the
+plan to undergo outpatient EGD. However, she did not have follow
+up with GI for EGD, and she presented to the ___ on
+___ with dyspnea on exertion, and was again found to be
+anemic with a Hgb of 6.2. She underwent EGD on ___, which
+revealed an approximately 40 mm friable mass with a partially
+eroded surface with no bleeding was found in the gastric antrum
+adjacent to the incisura. Biopsy showed adenocarcinoma, at least
+intramucosal. There was also chronic, focally active atrophic
+gastritis with focal intestinal metaplasia without dysplasia 
+seen
+in the fundic mucosa, as well as features of
+chemical/reactive-type gastropathy in the antral mucosa.
+Immunostain for H. pylori was negative. CT of the chest, abdomen
+and pelvis without contrast on ___ showed the partially
+pedunculated appearing stomach mass in the lesser curvature,
+measuring 3 x 2 cm. There was no significant adenopathy, and no
+evidence of liver lesions or pulmonary metastases. PET/CT on
+___ showed FDG-avidity along the gastric antrum correlating
+with biopsy-proven adenocarcinoma (SUV 5.3). There were no
+definite FDG-avid adenopathy or distant metastases.
+
+EUS on ___ showed a malignant appearing gastric mass in the
+antrum of the stomach, which involved the mucosa, submucosa and
+the muscularis, stage T2 by EUS. A lymph node was noted in
+gastrohepatic region, measuring 6.2mm X 6mm in diameter. This
+lymph node was suspicious for malignancy. FNA showed rare
+atypical glandular cells, present in a background of lymphocytes
+and lymphohistiocytic aggregate. Although incidental sampling of
+gastric mucosal epithelial cells is favored, metastasis from the
+patient's known gastric adenocarcinoma cannot be excluded.
+
+- ___: C1D1 neoadjuvant FOLFOX
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Hyperlipidemia
+- Type II Diabetes Mellitus
+- CKD stage ___
+- s/p laparoscopic cholecystectomy

@@ -1,0 +1,14 @@
+Chief Complaint : jaundice
+Past Medical History : PMHx:
+#Type II, non-insulin-dependent diabetes
+#GERD
+#Anxiety
+#Insomnia
+#Morbid obesity
+#Hyperlipidemia
+#Chronic back and groin acne
+#Pilonidal cyst s/p I&D previously, but not resection (surgeon
+refuses given his obesity)
+
+PSHx:
+None

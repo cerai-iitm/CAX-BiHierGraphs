@@ -1,0 +1,10 @@
+Chief Complaint : RUQ pain and AMS
+Past Medical History : PMH:
+-type 2 diabetes
+-hyperlipidemia
+-hypertension
+-anxiety 
+-nephrolithiasis
+
+PSH:
+-open appendectomy

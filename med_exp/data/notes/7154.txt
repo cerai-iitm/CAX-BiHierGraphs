@@ -1,0 +1,15 @@
+Chief Complaint : Shortness of Breath
+Past Medical History : PMH:  
+Hypertension, essential, benign 
+Hypercholesterolemia 
+Menopause 
+Severe aortic stenosis 
+LVH (left ventricular hypertrophy) 
+CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+Diabetes mellitus type 2 with retinopathy 
+Moderate mitral stenosis 
+Iron deficiency anemia 
+
+PSH:
+Cesarean section
+Bilateral cataract surgery

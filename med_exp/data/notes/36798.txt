@@ -1,0 +1,21 @@
+Chief Complaint : Seizures
+Past Medical History : 1. CARDIAC RISK FACTORS: -Diabetes, -Dyslipidemia, +Hypertension 
+ 
+2. CARDIAC HISTORY:  No interventions
+3. OTHER PAST MEDICAL HISTORY: 
+      1. Atrial fibrillation with a history of rapid ventricular 
+response.
+      2. History of diastolic heart failure.
+      3. Tachy-brady syndrome.
+      4. History of seizure disorder on Keppra.
+      5. History of headaches.
+      6. History of bilateral lower extremity DVT.
+      7. History of hypertension.
+      8. GERD.
+      9. Anxiety and depression.
+      10. History of hip replacement.
+      11. History of C difficile.
+      12. IBS.
+      13. History ESBL UTI.
+      14. Fall, status post a left arm and hip fracture.
+      15. Prolonged coma, previously managed at ___.

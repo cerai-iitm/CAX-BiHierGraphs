@@ -1,0 +1,20 @@
+Chief Complaint : Date of ICU Admission: ___
+Reason for ICU Admission: s/p cardiac arrest
+Past Medical History : Detailed Past Onc Hx in last oncology note.
+- Re: pancreatic cancer, diagnosed in ___ (well
+differentiated pancreaticobiliary adenocarcinoma). ___
+C1D1 FOLFOX6, ___ CT torso for ? bowel obstruction showed
+stable
+disease, ___ C2D1 FOLFOX6
+
+Other PMHx
+- Hodgkin lymphoma status post radiotherapy.
+- Breast cancer status post CMF in the 1990s.
+- Recurrent lymphoma status post rituximab therapy.
+- Non-small cell lung cancer status post resection x 2.
+- Gastric cancer status post distal gastrectomy.
+- DCIS status post external radiotherapy.
+- Cervical stenosis status post ACDF at C3 and C4.
+- Hypothyroidism.
+- Barrett's esophagitis.
+- DVT.

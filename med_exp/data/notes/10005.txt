@@ -1,0 +1,3 @@
+Chief Complaint : REASON FOR MICU: transferred from ___ per family 
+request. Patient intubated with ARDS.
+Past Medical History : Essential Hypertension

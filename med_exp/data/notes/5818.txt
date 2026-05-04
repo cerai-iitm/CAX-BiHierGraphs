@@ -1,0 +1,8 @@
+Chief Complaint : R leg pain, weakness
+Past Medical History : Permanent atrial fibrillation (on warfarin)
+Hyperlipidemia 
+Hypertension 
+BPH
+PVD (peripheral vascular disease) 
+CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+Overweight (BMI 25.0-29.9)

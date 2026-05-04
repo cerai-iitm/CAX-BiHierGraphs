@@ -1,0 +1,10 @@
+Chief Complaint : patient found down
+Past Medical History : Seizures, seen by Dr. ___.  Has not had a seizure
+for over ___ years
+Hypertension
+Prediabetes   
+Chronic low back pain
+BPH 
+GERD
+Hemorrhoids
+Seasonal allergies

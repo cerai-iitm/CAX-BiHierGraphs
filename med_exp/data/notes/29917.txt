@@ -1,0 +1,11 @@
+Chief Complaint : abdominal pain, diarrhea
+Past Medical History : PMHx:
+#Inflammatory bowel disease -- has features of both ulcerative
+colitis and Crohn's disease, and notes have referred to both
+times (see ___ for example)
+#PNA ___ and late ___ both treated with antibiotics,
+with apparent resolution
+#ASCUS s/p colposcopy
+
+PSHx:
+None ___ than colposcopy noted above

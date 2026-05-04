@@ -1,0 +1,15 @@
+Chief Complaint : STEMI
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes - yes 
+- Hypertension - no 
+- Dyslipidemia - no 
+
+2. CARDIAC HISTORY  
+- Coronaries: Complete RCA occlusion on ___ cath 
+- Pump: Unknown,  
+- Rhythm: Intermittent a-fib 
+
+3. OTHER PAST MEDICAL HISTORY
+-Glaucoma
+-Anxiety
+-Lower extremity edema

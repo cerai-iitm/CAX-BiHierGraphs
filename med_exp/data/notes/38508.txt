@@ -1,0 +1,13 @@
+Chief Complaint : Dyspnea
+Past Medical History : 1. COPD.  
+ 2. Hypertension.  
+ 3. Hyperlipidemia.  
+ 4. Urinary retention.  
+ 5. History of tuberculosis. He was treated in ___.    
+ 6. History of thyroid nodules.  
+ 7. History of renal angiomyolipoma.  
+ 8. History of cataracts.    
+ 9. History of chest wall cyst status post excision.  
+ 10. History of pneumonia in ___, as above.
+ 11. Nasopharyngeal carcinoma
+ 12. Hepatitis B: resolved

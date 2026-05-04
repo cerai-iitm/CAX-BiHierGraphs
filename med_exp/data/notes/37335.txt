@@ -1,0 +1,15 @@
+Chief Complaint : DOE
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Hypertriglyceridemia
+
+2. CARDIAC HISTORY  
+- 3VD diagnosed ___ 
+- HFrEF likely ___ ischemic CM: LVEF ___ 
+- Sinus rhythm  
+
+3. OTHER PAST MEDICAL HISTORY  
+Rectal cancer post surgery and colostomy in ___
+Syncope
+GERD 
+CCY

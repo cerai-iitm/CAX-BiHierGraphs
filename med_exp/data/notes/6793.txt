@@ -1,0 +1,14 @@
+Chief Complaint : R Breast reconstruction
+Past Medical History : [ ] HIV/Aids                         [ ] Stroke
+[ ] Skin cancer                      [ ] Hepatitis
+[ ] Rheumatic fever                  [ ] Bleeding problem  
+[ ] Tuberculosis                     [ ] Blood transfusion
+[ ] Diabetes                         [x ] Cancer
+[ ] Asthma                           [ ] Arthritis   
+[ ] Heart murmur                     [x ] High blood pressure
+[ ] Anemia                           [ ] Heart disease 
+[ ] Mitral valve prolapse            [ ] Kidney disease 
+[ ] Thyroid disease                  [ ] Glaucoma   
+[ ] History of DVT/blood clots       [ ] History of miscarriages 
+
+[ ] History of blood thinner use     [x] Other: anxiety/

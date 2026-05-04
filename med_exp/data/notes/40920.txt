@@ -1,0 +1,9 @@
+Chief Complaint : chest pain
+Past Medical History : Cardiac History:  
+ -  Hypertension 
+ -  Hyperlipidemia 
+Other PMH:  
+ -  Depression 
+ -  Chronic Kidney Disease 
+ -  Gout
+ -  TURP

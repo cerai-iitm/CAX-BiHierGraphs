@@ -1,0 +1,35 @@
+Chief Complaint : abdominal and back pain, jaundice, choluria
+Past Medical History : As per admitting MD:
+PAST ONCOLOGIC HISTORY (Per OMR, reviewed): 
+-Presented with pain in the lower left abdomen of up to 3 month
+duration. 
+-Visited PCP who obtained ___ CT chest and abdomen on ___. 
+Multiple bilateral irregular lumps ranging in size from
+subcentimeter to the largest in the RLL measuring 3 cm. CT
+abdomen showed hyper enhancing abnormality within uncinate
+process of pancreas 2.1×1.7 cm with  mild prominence of
+pancreatic duct at the level of the pancreatic head. Pancreatic
+body and tail not significantly altered.  Moderate associated
+lymphadenopathy in celiac axis. Suspected diagnoses of carcinoma
+of the pancreas with pulmonary metastases.
+-Patient underwent on ___ a biopsy of pulmonary
+nodule which diagnosis is consistent with adenocarcinoma likely
+originating from her pancreatic lesion.  
+-Biopsy of retroperitoneal mass on ___ which is
+consistent with a well-differentiated mucinous glands
+infiltrating fibrous tissue consistent with adenocarcinoma. By 
+immunohistochemistry the neoplastic cell are reactive for CK 7
+and CA 199 and negative for CDX2 and CK 20 this immunophenotype
+is consistent with a tumor of pancreatic origin.
+-___: First visit w/Dr. ___, plan for repeat 
+scans.
+
+-___: Second visit w/Dr. ___, patient felt well,
+after explanation of risks/benefits of treatment she opted to 
+not
+pursue treatment
+
+PAST MEDICAL HISTORY 
+-Malignant obstruction of CBD s/p stent/sphincterotomy ___
+-Asthma
+-Hypertension

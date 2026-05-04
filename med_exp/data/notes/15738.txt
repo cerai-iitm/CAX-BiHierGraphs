@@ -1,0 +1,12 @@
+Chief Complaint : induction of labor for severe preclampsia
+Past Medical History : Problems (Last Verified ___ by ___, NP):
+No Known Problems                                               
+
+Surgical History (Last Verified ___ by ___,
+NP):
+Surgical History updated, no known surgical history.            
+
+Family History (Last Verified ___ by ___, NP):
+Relative  Status    Age Problem              Comments           
+
+Comments: No Diabetes

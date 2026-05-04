@@ -1,0 +1,19 @@
+Chief Complaint : Esophageal adeno
+Past Medical History : PMH:  
+-Esophageal cancer  
+-OSA  
+-Dyspnea associated with radiation  
+-HTN  
+-Hyperlipidemia  
+-CAD with stent ___ ago  
+-HOH  
+-Claustrophobia  
+-Avascular necrosis of hip, s/p hip replacement  
+-GERD  
+
+PSH:  
+-Right hip replacement  
+-Lower back surgery  
+-Heart stent  
+-Finger surgery  
+-C-section x2

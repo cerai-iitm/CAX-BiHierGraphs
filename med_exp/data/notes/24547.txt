@@ -1,0 +1,23 @@
+Chief Complaint : dyspnea, abdominal distention
+Past Medical History : PAST ONCOLOGIC HISTORY: Rectal cancer stage IIIB (T3N2bN0) 
+diagnosed ___ s/p low anterior resection on ___. 
+Received six cycles of FOLFOX from ___ to ___. Liver and 
+lung metastases in ___, for which patient underwent resection 
+of liver segment and was started FOLFIRI, which he received from 
+___ to ___. Subsequently, patient was treated with 
+irinotecan and cetuximab from ___ to ___, transitioning to 
+irinotecan monotherapy in ___. CT torso with stable pulmonary 
+metastases but progression of liver metastasis in ___, for 
+which patient was started on capecitabine and bevacizumab, 
+receiving this regimen until ___. At this point, CT torso 
+with growth of pulmonary nodules, for which regimen was switched 
+to CapeOx with bevacizumab. Good response until ___, when CT 
+torso showed further progression of pulmonary nodules and new 
+omental lesions with trace ascites. Patient was started on 
+atezolizumab plus cobimitinib, which he was due for C2D1 of 
+today.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- GERD
+- Rectal cancer as above

@@ -1,0 +1,16 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : PAST MEDICAL HISTORY
+====================
+Severe AS
+COPD on O2
+Bipolar Disorder
+Tardive Dyskinesia
+Hypothyroidism
+GERD
+Hyperlipidemia
+
+PAST SURGICAL HISTORY
+=====================
+Appendectomy
+Partial hysterectomy
+Exploratory laparotomy (possible h/o bowel resection)

@@ -1,0 +1,3 @@
+Chief Complaint : Chest pain
+Past Medical History : Mother MI in ___, Father MI in ___, Brother MI
+in ___

@@ -1,0 +1,15 @@
+Chief Complaint : GIST
+Past Medical History : PMH:
+MAJOR DEPRESSION                                                
+ALCOHOL ABUSE                                                   
+STEATOHEPATITIS                                                 
+PREDIABETES                                                     
+HYPERLIPIDEMIA                                                  
+COLONIC ADENOMA                                                 
+SLEEP DISORDER                                                  
+CONSTIPATION                                                    
+GLAUCOMA                                                        
+HELICOBACTER PYLORI                                             
+H/O ROTATOR CUFF TEAR                                           
+H/O ABNORMAL CT ABDOMEN                                         
+H/O EARLY SATIETY

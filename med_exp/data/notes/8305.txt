@@ -1,0 +1,93 @@
+Chief Complaint : Admission for allogenic transplant
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- ___ p/w 3 weeks DOE and several months of fatigue.
+- At time of dx WBC 11.7, Hgb 6.6, Hct 19.4, Plts 61K, Fibr 325
+- ___ peripheral blood FISH w/:
+FINDINGS: An abnormal 46,XY,ins(12;4)(p13;q12q25) male 
+chromosome
+complement with what appears to be an insertion of a segment of
+the proximal long arm of a chromosome 4 into the short
+arm of a chromosome 12 was observed in each of the 20 mitotic
+cells examined in detail. Chromosome band resolution was 
+400-450.
+A karyogram was prepared on 8 cells.
+
+CYTOGENETIC DIAGNOSIS: 46,XY,ins(12;4)(p13;q12q25)[20]
+INTERPRETATION/COMMENT: Every metaphase peripheral blood cell
+examined had an abnormal karyotype with what appears to be an
+insertion of a portion of the long arm of a chromosome 4 into
+the short arm of a chromosome 12 resulting in FISH proven
+rearrangement of the ETV6 gene. FISH has excluded the ABL1/ETV6,
+ETV6/PDGFRA, CHIC2/ETV6, PDGFRB/ETV6, MECOM/ETV6,
+ETV6/JAK2 and ETV6/RARA gene rearrangements (see below) and
+microarray shows no evidence of deletion of ETV6 (see 
+___).
+The normal repression of transcription function of the protein
+encoded by ETV6 may be decreased by fusion with another gene,
+deletion, or a loss of function mutation. Rather than an ETV6
+gene fusion, this chromosomal insertion may have disrupted the
+ETV6 gene causing it to encode a non-functional protein. In
+myeloid neoplasms ETV6 alterations are often associated with an
+unfavorable prognosis.
+
+4) FISH: NEGATIVE for DELETION of TP53. No evidence of 
+interphase
+peripheral blood cells with deletion of the TP53 gene.
+
+___: 
+SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY.
+DIAGNOSIS: HYPERCELLULAR BONE MARROW WITH MYELOID DOMINANT
+TRILINEAGE HEMATOPOIESIS, INVOLVED BY PATIENT
+
+CYTOGENETICS PROCEDURE: Unstimulated culture for Giemsa-banded
+chromosome analysis.
+FINDINGS: An abnormal 46,XY,ins(12;4)(p13;q12q25) male 
+chromosome
+complement with what appears to be an insertion of a segment of
+the proximal long arm of a chromosome 4 into the short
+arm of a chromosome 12 was observed in 18 cells. 2 cells had an
+apparently normal 46,XY chromosome complement. A total of 20
+mitotic cells were examined in detail. Chromosome band
+resolution was 425. A karyogram was prepared on 5 cells.
+CYTOGENETIC DIAGNOSIS: 46,XY,ins(12;4)(p13;q12q25)[18]/
+46,XY[2]
+
+INTERPRETATION/COMMENT: 90% of the metaphase bone marrow cells
+examined had an abnormal karyotype with what appears to be an
+insertion of a portion of the long arm of a chromosome 4 into 
+the
+short arm of a chromosome 12 resulting in FISH proven
+rearrangement of the ETV6 gene. FISH has excluded the ABL1/ETV6,
+ETV6/PDGFRA, CHIC2/ETV6, PDGFRB/ETV6, MECOM/ETV6, ETV6/JAK2 and
+ETV6/RARA gene rearrangements (see ___-___) and microarray
+shows no evidence of deletion of ETV6 (see below). The normal
+repression of transcription function of the protein encoded by
+ETV6 may be decreased by fusion with another gene, deletion, or 
+a
+loss of function mutation. Rather than an ETV6 gene fusion, this
+chromosomal insertion may have disrupted the ETV6 gene causing 
+it
+to encode a non-functional protein. In myeloid neoplasms ETV6
+alterations are often associated with an unfavorable prognosis.
+
+Given the above findings which confirmed acute leukemia with ETV
+6 gene rearrangement he was started on daunorubicin plus
+cytarabine on ___. Patient was also enrolled in vaccine
+study at this time. Day +14 bone marrow biopsy showed 70% blasts
+with myeloid sequencing showing mutations in DNMT3A, PTPN11 
+G60R,
+and IDH2 R172K.
+  
+PAST MEDICAL/SURGICAL HISTORY:  
+Basal Cell Carcinoma
+Cervical neck fusion 
+Cervical radiculopathy
+Seborrheic Keratosis 
+Acute myeloid leukemia
+VRE bacteremia
+Cholangitis
+Small bowel introsusception
+Parotiditis
+Left arm deep vein thrombosis
+Insomnia 
+Depression

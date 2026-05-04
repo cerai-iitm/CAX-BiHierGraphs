@@ -1,0 +1,51 @@
+Chief Complaint : admitted for C4 of EPOCH + Venetoclax
+Past Medical History : PAST ONCOLOGIC HISTORY
+============================  
+Per last outpatient clinic note by Dr ___:
+"~ ___: Notices left supraclavicular lump. Discusses with 
+PCP, who refers her to Dr. ___ ENT at ___.
+- ___: CT neck at ___ reveals diffuse cervical
+lymphadenopathy predominantly involving the bilateral levels 3
+and 5B, with the majority lesion subcentimeter in size, but
+demonstrating abnormal rounded appearance and surrounding fatty 
+stranding, dominant left-sided lesion is at the thoracic inlet 
+measuring up to 3.5 cm, dominant right sided lesion
+measures up to 1.2 cm in long axis.  
+- ___: CT Chest at ___ shows stable appearance of the 
+3.5 x 1.7 cm soft tissue lesion in left lower neck, which most 
+likely represents an enlarged lymph node, partially visualized 
+multiple enlarged lymph nodes in the mesentery and
+retroperitoneum measuring up to 2.6 x 2.5 cm, and a 3 mm
+pulmonary nodule in the left lower lobe.  
+- ___: Fine Needle Aspiration of the left supraclavicular
+lymph node reveals findings suspicious for lymphoma. 
+- ___: Evaluated by Dr. ___ Hematology/Oncology at
+___, who recommends a core biopsy of the left
+supraclavicular mass and a PET scan. 
+- ___: PET at ___ reveals PET extensive FDG uptake in 
+multiple lymph nodes and regions of lymphadenopathy including 
+the cervical, supraclavicular, axillary, retroperitoneal,  
+esenteric, pelvic, and inguinal chains, as well as multifocal 
+FDG avid musculoskeletal foci compatible with widespread 
+metastasis. 
+- ___: Lymph node biopsy reveals Diffuse Large B Cell 
+Lymphoma arising in a background of Follicular Lymphoma, 
+karyotype with t(3;4) and t(14;18), FISH with rearrangements in 
+BCL2 and BCL6. 
+- ___: Referred to ___ for further evaluation and
+management and consideration of clinical trial enrollment. 
+- ___: Signs consent for clinical trial protocol ___, a
+Phase I Study of Venetoclax plus DA-EPOCH-R for the Treatment of 
+Aggressive B-cell Lymphomas. 
+- ___: C1D1 da-EPOCH-R/Venetoclax, dose level 1, uncapped
+vincristine"
+-___ C2D1 da-EPOCH-R/venetoclax
+-___ C3D1 da-EPOCH-R/venetoclax
+ 
+PAST MEDICAL HISTORY
+=============================  
+- Diffuse Large B Cell Lymphoma, as above
+- Allergy-induced asthma 
+- Gastroesophageal reflux disease
+- Insomnia
+- Anxiety

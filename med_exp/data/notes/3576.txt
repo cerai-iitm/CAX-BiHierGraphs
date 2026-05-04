@@ -1,0 +1,55 @@
+Chief Complaint : stage IV endometrioid cancer
+Past Medical History : TREATMENT SUMMARY:
+___:  C1W1  ___ Taxol
+___:  C1W2  Taxol
+___:  C1W3  Taxol
+___:  C2W1 - ___ Taxol;  while inpatient
+___:  C2W2 - Taxol,  while inpatient
+___:  C2W3 - Taxol
+___:  C3W1 - HELD for possible urinary retention;  Foley
+placed with no PVR, thus US PVR was felt to be c/w ascites.
+___:  C3W1 - ___, Taxol
+___:  C3W2 - Taxol
+___:   C3 W3, HELD - hospitalized for urosepsis and
+pyelonephritis.
+___:  C4 W1, ___ Taxol
+___:  C4 W2  taxol
+___:  C4 W3 <----  HELD, neutropenia, ANC  320
+___:  Cystoscopy;  Bilateral double-J ureteral stent
+exchange, ___ by 30 cm;  Dr ___
+
+___:  Restaging PET CT:  7.7 x 6.7 cm peripherally
+hyperdense, centrally hypodense pelvic mass extends from uterus
+with low level FDG avidity with a single focus with SUV max 4.4. 
+
+Lobulated soft tissue densities within the right hemoiabdomen
+interiorly likely omental disease, do not demonstrate increased
+FDG avidity.  ill defined hypodensity in the right hepatic lobe
+with no increased FDG avidity.    Hyperdense lesion within the
+interpolar region of the right kidney is incompletely
+characterized;  ? hemorragic cyst - close follow up recommended.
+
+___:  C5 W1 ___ Taxol
+___:  C5 W2   Taxol
+___:  C5 W3   Taxol
+___:  MRI of the pelvis;  decrease in size of R adnexal mass
+since PET CT ___.  A clear fat plane is seen between the right
+adnexal mass and the bladder.  Ureters appear clear of the mass; 
+
+Mild bilateral hydronephrosis is unchanged on the right and
+slightly worse on the left.  Bilateral ureteral stents are in
+place.
+___:  C6 W1  ___ Taxol
+___:  Stents removed.
+___:  C6 W2;  Taxol
+___:  C6 W3
+___:  Saw Dr ___ ---> plan for surgery.
+
+PMHx:
+ENDOMETRIAL CANCER                                              
+HYDRONEPHROSIS                                                  
+PULMONARY EMBOLISM                                              
+HYPERTENSION                                                    
+HYPOTHYROIDISM                                                  
+OBESITY                                                         
+SEASONAL ALLERGIES

@@ -1,0 +1,18 @@
+Chief Complaint : abdominal pain
+Past Medical History : PMHx:
+#alcohol use disorder -- prev seen by ___ w/plan to start AA
+w/support of family
+#pancreatitis (at least 4 times)
+#steatosis
+#LLL pneumonia w/pleural effusion ___
+#hypertriglyceridemia (during ___ pancreatitis episode, ___
+1200 on admission to ___, then 192 on transfer to ___
+#colitis (splenic flexure to rectum) w/chronic diarrhea, seen on
+CT A/P in ___, unclear if f/u w/GI
+#anemia of chronic disease
+#hypertension
+#GERD
+#gout
+
+PSHx:
+None

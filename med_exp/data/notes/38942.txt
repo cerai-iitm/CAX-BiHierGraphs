@@ -1,0 +1,18 @@
+Chief Complaint : s/p fall, ___ stairs
+Past Medical History : PMHx:
+-Congestive Heart Failure(chronic, diastolic) with preserved 
+ejection fraction
+-Coronary Artery Disease
+-Mitral Regurgitation
+-Atrial fibrillation
+-Type 2 Diabetes  
+-Hyperlipidemia  
+-Hypertension  
+-Uterine Prolapse  
+-Plantar Fasciitis  
+-Basal Cell Carcinoma 
+-Hyperkalemia
+
+PSHx:
+-Multi-vessel coronary artery disease post 3-vessel bypass 
+(LIMA-LAD, SVG-LCx, SVG-PDA)/tandem mitral annuloplasty

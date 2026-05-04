@@ -1,0 +1,34 @@
+Chief Complaint : shortness of breath
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes, type ___ - Y 
+- Hypertension  - Y 
+- Dyslipidemia - Y 
+
+2. CARDIAC HISTORY  
+- HFpEF 
+- AS (moderate - ___ 1.1, peak 49/mean 31 TTE ___ 
+- CAD 
+- Pump? ECHO? CHF? 
+- Rhythm? AFib? Pacemaker? 
+
+3. OTHER PAST MEDICAL HISTORY 
+- Peripheral vascular disease 
+- Chronic kidney disease, stage III (moderate) 
+- Severe obstructive sleep apnea, uses CPAP 
+- Obesity 
+- Anemia 
+- History of gout 
+- Degenerative lumbar spinal stenosis 
+- BPH (benign prostatic hyperplasia) 
+- Basal cell carcinoma 
+- Depressive disorder 
+- Erectile dysfunction 
+ 
+Past Surgical History:
+s/p lipoma removal
+s/p MOHs
+s/p eye lid surgery
+s/p repair of detached retina(bilateral)
+s/p cataract surgery(bilateral)
+s/p pilonoidal cyst
+s/p hemorrhoid surgery

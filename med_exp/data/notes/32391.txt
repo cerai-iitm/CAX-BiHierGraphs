@@ -1,0 +1,17 @@
+Chief Complaint : - Hepatocellular carcinoma with liver fibrosis.
+- Chronic cholecystitis with cholelithiasis.
+Past Medical History : HEPATITIS C                                                     
+CIRRHOSIS                                                       
+ANXIETY                                                         
+DIABETES MELLITUS                                               
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+GASTROESOPHAGEAL REFLUX                                         
+LIVER TUMOR                                                     
+DYSPNEA                                                         
+RADIATION PNEUMONITIS                                           
+BRONCHIECTASIS                                                  
+HEPATOCELLULAR CARCINOMA                                        
+------
+PSH:
+SIGMOID COLON RESECTION                               ___

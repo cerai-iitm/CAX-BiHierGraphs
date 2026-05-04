@@ -1,0 +1,25 @@
+Chief Complaint : Obesity
+Past Medical History : 1.  Hypertension.
+2.  Obstructive sleep apnea requiring CPAP.
+3.  Diabetes mellitus type 2 diagnosed in ___.
+4.  Hyperlipidemia.
+5.  Osteoarthritis, lower extremities.
+6.  Fatty liver based on ultrasound.
+7.  History of polyclonal hypergammaglobulinemia.
+8.  History of elevated CPKs, no clear etiology, evidently had a
+muscle biopsy in ___ to evaluate for this.
+9.  Moderate severe lumbosacral radiculopathy.
+10.  Right eye glaucoma.
+11.  Elevated inflammatory markers, ESR, ___, CRP.
+12.  Erectile dysfunction.
+13.  Hyperuricemia.
+14.  Anemia, normochromic, normocytic.
+15.  History of rectal polyp, last colonoscopy, ___.
+16.  History of vitamin D deficiency.
+
+Past Surgical History:
+1.  Bilateral knee surgery with right meniscal tear, ___.
+2.  Right knee surgery repair, patella, in ___.
+3.  Repair of left ruptured patella, ___.
+4.  Arthroscopy, rotator cuff, left, ___.
+5.  Left shoulder reconstruction ___.

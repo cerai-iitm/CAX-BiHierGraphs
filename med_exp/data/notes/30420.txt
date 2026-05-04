@@ -1,0 +1,17 @@
+Chief Complaint : ___ admissions
+Past Medical History : Aortic Insufficiency 
+Atrial Fibrillation ___ years
+Back Pain
+Congestive Heart Failure
+Hyperlipidemia
+Hypertension 
+Mitral Regurgitation
+Non-Ischemic Cardiomyopathy
+Pulmonary Hypertension 
+Sleep Apnea
+Past Surgical History:
+ICD Placement, ___ D, ___
+Knee Surgery, right (Benign tumor)
+Tonsillectomy
+Past Cardiac Procedures:
+ICD Placement, ___ D, ___

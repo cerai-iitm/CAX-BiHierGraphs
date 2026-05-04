@@ -1,0 +1,23 @@
+Chief Complaint : Chest pain
+Past Medical History : PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS
+- Diabetes Type 2 +
+- Hypertension +
+- Dyslipidemia +
+2. CARDIAC HISTORY
+- Coronaries? CAD?
+- Pump? ECHO? CHF?
+- Rhythm? AFib? Pacemaker?
+3. OTHER PAST MEDICAL HISTORY
+- History of prostate cancer  
+- Hyperlipidemia  
+- Diabetes type 2  
+- Herniated lower back disc requiring spinal block  
+- Gangrenous necrotic right foot ___.  
+- Right cataract having undergone surgery  
+- Epididymitis  
+- History of hematuria  
+- Gallstones  
+- low anterior resection ___ yrs ago  
+- First stage resection with subsequent colon resection  
+- Cataract surgery

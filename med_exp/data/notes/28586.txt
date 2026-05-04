@@ -1,0 +1,20 @@
+Chief Complaint : found down
+Past Medical History : 1. History of Syncope.
+2. Ventricular systole.
+3. Second-degree atrioventricular block.
+4. Status post DDD pacemaker placement 
+5. Small pneumothorax developed postoperatively.
+6. Coronary artery disease status post stent to left anterior
+descending artery with drug-eluting stent.
+7. Status post percutaneous transluminal coronary angioplasty to
+right coronary
+        artery.
+8. Non-insulin-dependent diabetes mellitus.
+9. Hypothyroidism.
+10.Status post fall, right scalp trauma.
+11.History of orthostatic hypotension.
+12.Hypertension.
+13.Hyperlipidemia.
+14.Benign prostatic hypertrophy.
+15.Left bundle branch block.
+16.History of depression and anxiety.

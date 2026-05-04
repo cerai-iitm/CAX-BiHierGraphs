@@ -1,0 +1,140 @@
+Chief Complaint : ALL, ablative alloSCT MUD
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+___: Increasing lethargy for ___ weeks with increased 
+shortness of breath, especially when climbing stairs and easy 
+bruising in her upper and lower extremities with petechial rash 
+on her legs which prompted evaluation.
+___: Presented to ___ ER from OSH for pancytopenia
+___ SPLEEN US
+1. Moderate splenomegaly, measuring up to 18 cm. No focal  
+splenic lesions are identified. 
+2. Normal Doppler evaluation of the splenic artery and vein.
+___ CT HEAD
+There is no evidence of acute large territorial  
+infarction,hemorrhage,edema, or mass.  Periventricular and 
+subcortical white matter hypodensities are nonspecific but 
+likely sequelae of chronic small vessel ischemic disease. The 
+ventricles and sulci are normal in size and configuration. There 
+is no evidence of fracture.  The visualized portion of the 
+paranasal sinuses, mastoid air cells, and middle ear cavities 
+are clear.  The visualized portion of the orbits are 
+unremarkable. 
+
+___: BMBX-
+B-LYMPHOBLASTIC LEUKEMIA WITH t(9;22)(q34;q11.2); BCR-ABL1 (SEE 
+NOTE). Note: The aspirate smears are inadequate for evaluation, 
+but
+numerous scattered blasts with irregular nuclear contours, 
+immature chromatin and small amounts of cytoplasm are seen. The 
+core biopsy is hypercellular and >90% of the cellularity 
+represents an infiltrate of blasts. Corresponding flow cytometry 
+revealed a blast population which was positive for CD19, CD10,
+CD34 and nTdT (see separate report ___ for full results). 
+Cytogenetics work-up revealed evidence of t(9;22)(q34;q11.2) 
+(see separate report ___-___ for full results). The morphologic 
+and immunophenotypic findings in conjunction with cytogenetics 
+results are in keeping with involvement with B-lymphoblastic 
+leukemia with t(9;22)(q34;q11.2). Correlation with clinical, 
+laboratory and other ancillary findings is recommended for 
+further characterization.
+FLOW: Immunophenotypic findings consistent with involvement by 
+B-acute lymphoblastic leukemia
+
+___: LYMPHOID SEQUENCING-NEGATIVE
+Review of the accompanying pathology paperwork indicates ALL. 
+Sufficient DNA was present for molecular analysis and all 
+quality control metrics were met. No mutations were detected by 
+next generation sequencing targeting the genomic regions 
+summarized in the NGS Gene Table. In particular, no mutations 
+were detected in NPM1, NOTCH1, FBXW7, PTEN, IDH1, IDH2, TP53, or 
+CDKN2A.
+
+___ CT CHEST W/ CONTRAST
+Small mediastinal lymph nodes.  These are not enlarged by size 
+criteria.  Splenomegaly.  Please refer to dedicated report on 
+abdomen which  has been dictated separately. 
+___ CT ABD/PELVIS
+1. No intra abdominal or pelvic lymphadenopathy or solid organ 
+masses identified. 
+2. Left ovarian cyst measures 4.9 cm and is simple in 
+appearance.  Follow-up ultrasound in ___ year is recommended. 
+  
+RECOMMENDATION(S):  Follow-up pelvic ultrasound in ___ year is 
+recommended to document stability and/or resolution of left 
+ovarian cyst
+
+___: BMBX-
+SUBOPTIMAL BONE MARROW BIOPSY WITH EXTENSIVE CRUSH ARTIFACT, SEE 
+NOTE. Note: By immunohistochemistry, lymphoid precursor TdT is
+negative. CD79a highlights rare B-cells. CD3 highlights T-cells 
+present in aggregates within the crush artifacts and scattered 
+singly within the interstitial areas. They predominantly express 
+CD8 and to a lesser extent CD4. CD42b highlights increased 
+megakaryocytes. Overall features of leukemia are not seen in 
+this suboptimal biopsy, however; the extensive crush artifact 
+limits proper evaluation.
+FLOW: There is no immunophenotypic evidence of acute 
+lymphoblastic leukemia
+CYTOGENETICS: 46,XX[15] Normal female karyotype.
+FISH: NEGATIVE for BCR/ABL. No evidence of interphase bone 
+marrow cells with the previously
+ 
+___: BMBX-
+CELLULAR ERYTHROID DOMINANT BONE MARROW WITH MATURING TRILINEAGE 
+HEMATOPOIESIS AND INCREASED MEGAKARYOCYTES. NO MORPHOLOGICAL 
+EVIDENCE OF ACUTE LEUKEMIA IS PRESENT.
+FLOW: Diagnostic immunophenotypic features of involvement by 
+acute lymphoblastic leukemia are not seen in this specimen.
+CYTOGENETICS: 46,XX[20] Normal female karyotype.
+FISH:  NEGATIVE for BCR/ABL.       
+___: CSF Flow-Non-diagnostic study. Cell marker analysis 
+was attempted, but was non-diagnostic in this case due to
+insufficient numbers of cells for analysis
+
+___: BCR-ABL PERIPHERAL BLOOD- 0.041  H
+___: BCR ABL PERIPHERAL BLOOD-  0.000  
+___: BCR-ABL PERIPHERAL BLOOD-    0.030  H   
+___: BCR-ABL PERIPHERAL BLOOD-0.000   
+
+___: BMBX-
+CELLULAR BONE MARROW WITH ERYTHROID PREDOMINANT MATURING 
+TRILINEAGE HEMATOPOIESIS AND NO DIAGNOSTIC MORPHOLOGICAL 
+EVIDENCE OF PATIENT'S KNOWN B-CELL ACUTE LYMPHOBLASTIC LEUKEMIA 
+(B-ALL); SEE NOTE.
+Note: Corresponding flow cytometry did not detect an abnormal 
+blast population. TdT immunostain performed on the core biopsy 
+is negative. Corresponding cytogenetics "___" showed a 
+normal female karyotype 46XX[20] with no evidence of the 
+previously reported BCR/ABL rearrangement. Overall, the findings 
+are in keeping with erythroid predominant maturing marrow with 
+no morphologic evidence of involvement by patient's known B-ALL.
+FLOW: Nonspecific T-cell predominant lymphoid profile
+CYTOGENETICS: 46,XX[20] Normal female karyotype.
+FISH: NEGATIVE for BCR/ABL.
+
+___: BM
+CELLULAR BONE MARROW WITH MATURE ERYTHROID PREDOMINANT 
+TRILINEAGE HEMATOPOIESIS AND NO MORPHOLOGICAL EVIDENCE OF ACUTE 
+LYMPHOBLASTIC LEUKEMIA. 
+FISH: NEGATIVE for BCR/ABL. No evidence of interphase bone 
+marrow cells with the previously observed (___) BCR/ABL1 gene
+rearrangement.
+TREATMENT HISTORY:
+___: ATRA x 1
+___: Started Prednisone 60 mg twice daily
+___: C1D1 Dasatinib
+___: C1D22-LP with IT MTX 
+___: ___-LP with IT MTX #2
+___: Dasatinib stopped for PAH
+___: Started nilotinib; held starting ___
+
+PAST MEDICAL/SURGICAL HISTORY:  
+Ph+ ALL in remission
+Hypogammaglobulinemia, ongoing
+History of Depression and anxiety, well-controlled
+Tonsillectomy, ___
+Carpal Tunnel surgery, bilateral, 1990s
+Tubal ligation, ___
+Pulmonary HTN ___ dasatinib.
+IBS-C
+Scleroderma

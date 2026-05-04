@@ -1,0 +1,15 @@
+Chief Complaint : Mechanical fall
+Past Medical History : PMHx:
+ALS
+HYPERTENSION                                                    
+LEFT BUNDLE BRANCH BLOCK                                        
+MITRAL REGURGITATION                                            
+CORONARY ARTERY DISEASE                                         
+FRACTURED BONE                                                  
+MOHS SURGERY                                                    
+TUBAL LIGATION                                                  
+APPENDECTOMY                                                    
+GERD
+PROLAPSED BLADDER
+GENITAL HERPES
+BACK PAIN

@@ -1,0 +1,19 @@
+Chief Complaint : clogged G tube, could not administer meds
+Past Medical History : Hepatitis B carrier
+
+Oncologist history:
+___:
+Stage IV gastric adenocarcinoma
+Antrum, mucosal biopsy:
+- Adenocarcinoma, poorly differentiated with focal signet ring
+cell features.
+- No submucosal tissue present for evaluation.
+- An immunostain for cytokeratin cocktail (AE1/AE3, CAM 5.2) and
+mucicarmine stain highlight the tumor cells.
+___:
+Peritoneum, biopsy:
+- Poorly differentiation adenocarcinoma with signet ring cell
+features.
+Cycle #: 1 Day 1: ___ Cycle end: ___
+Regimen: Gastrointestinal Oncology - Cisplatin-Etoposide(VP-16), 
+Ramucirumab vs placebo

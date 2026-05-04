@@ -1,0 +1,35 @@
+Chief Complaint : Code Stroke
+Past Medical History : PMH:
+1.  Diabetes type 2, well controlled for > ___ years;
+2.  Hypertension, well controlled for > ___ years;
+3.  Prior coronary artery disease. Status post need for one bare
+metal stent placement on ___ ___
+4.  Flares of gout (knee) from ___ to ___, now on allopurinol.
+5.  Stage IV non-small-cell lung cancer (adenocarcinoma) with
+brain metastases diagnosed in ___. Tumor harbors an 
+ALK
+rearrangement (EML4-ALK E13;A20) and a TP53 p.Pro27Ser mutation.
+
+ONCOLOGY TREATMENT:
+1. Status post right-sided craniotomy for resection,
+intraoperative image guidance, microscopic dissection and
+duraplasty on ___ plus left sided craniotomy for resection,
+intraoperative image guidance, microscopic dissection and
+duraplasty on ___
+2. Status post whole brain radiotherapy to 3000 cGy, completed 
+on
+___
+3. Started alectinib 600 mg twice daily as part of ___ ___
+on ___ to ___. Dose reduced to 450 mg twice daily on
+___ to ___. Started prescription alectinib 450 mg 
+twice
+daily from ___ to ongoing. 
+4. left-sided frontal craniectomy repair,
+cranioplasty, allograft placement and subgaleal release on ___
+and ___.
+
+PSH: 
+- right craniotomy and resection of brain mets ___
+- left-sided frontal craniectomy repair,
+cranioplasty, allograft placement and subgaleal release on ___
+and ___.

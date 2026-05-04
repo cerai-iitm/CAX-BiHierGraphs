@@ -1,0 +1,13 @@
+Chief Complaint : Abdominal pain
+Past Medical History : PMH: Atrial fibrillation, Hypercholesterolemia, Hypertension, 
+Depression, Anemia, Low Vit D
+
+PSH:
+-Surgical resection of small bowel due to internal hernia 
+induced
+ischemia (___)
+-Reoperation due to anastomotic failure (___)
+-Cecectomy due to volvolus (___)
+-Diverting jejunostomy due to intestinal ischemia (___)
+-Ostomy takedown (___)
+-Internal hernia reduction (___)

@@ -1,0 +1,15 @@
+Chief Complaint : Chest Pain
+Past Medical History : 1. CAD RISK FACTORS  
+- No history of diabetes melliuts
+- No history of hypertension  
+- No history of dyslipidemia  
+
+2. CARDIAC HISTORY  
+- Stress test in ___ was normal
+- No pacemaker
+
+3. OTHER PAST MEDICAL HISTORY  
+- Irritable bowel syndrome
+- Fibromyalgia
+- s/p cholecystectomy at ___ yo
+- s/p knee arthroscopy at ___ yo (because of knee pain)

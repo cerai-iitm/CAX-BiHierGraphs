@@ -1,0 +1,76 @@
+Chief Complaint : Expressive aphasia and gait instability
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+1) dry cough in ___,
+(2) chest X-ray in ___ showed a mass in the upper lobe of
+the left lung with associated hilar/mediastinal adenopathy,
+(3) CT of the torso disclosed the left upper lung mass and hilar
+adenopathy, as well as a mass in the T11 vertebral body
+suggesting a spinal metastasis,
+(4) CT-guided lung biopsy of the lung and vertebral mass on
+___ showed adenosquamous carcinoma, with wild-type EGFR, no
+ROS1 rearrangement, no ALK rearrangement, no BRAF V600E mutation
+and mutated KRAS and PD-L <1%,
+(5) status post 6 cycles of carboplatin and taxol from
+___ until ___,
+(6) chest irradiation from ___ to ___ to 6120 cGy,
+(7) CyberKnife radiosurgery from ___ to ___ to the T11
+vertebral body to 2700 cGy (900 cGy x 3 fractions) at the 73%
+isodose line,
+(8) CT of the torso on ___ showed interval decrease in the
+size of the known left upper lobe and hilar mass, no new lung
+nodules or masses and 1 of 2 metastases in the T11 vertebral 
+body
+appears to be larger, 
+(9) fluent aphasia developed on ___,
+(10) gadolinium-enhanced head MRI from ___ showed a 1.0-cm
+left parietal metastasis with significant surrounding cerebral
+edema, as well as a smaller metastasis in the left mesial
+parietal lobe, 
+(11) EEG on ___ was negative for epileptiform discharges,
+(12) treatment planning simulation for CyberKnife radiosurgery 
+on
+___,
+(13) discharged home from the OMED Service on ___,
+(14) CyberKnife radiosurgery on ___ to left and right
+parietal brain metastases, both to 2200 cGy at the 73% isodose
+line,
+(15) started C1D1 ___ on ___,
+(16) numbness in both of her feet started on ___, 
+(17) post-CyberKnife gadolinium-enhanced head MRI from ___
+showed 3 new brain metastases at the superior left frontal,
+inferior left frontal and right anterior parietal regions with
+surrounding cerebral edema,
+(18) numbness and weakness in right hand on ___,
+(19) total spine MRI on ___ did not show drop metastasis,
+(20) CyberKnife radiosurgery on ___ to the 3 brain
+metastases at the superior left frontal, inferior left frontal
+and right anterior parietal regions all to 2200 cGy at the 77%
+isodose line,
+(21) aphasia on ___,
+(22) non-contrast head CT on ___ that showed increased
+cerebral edema,
+(23) received extra 10 mg of dexamethasone IV on ___,
+(24) maintenance dexamethasone increased to 4 mg QID on 
+___,
+(25) returned to work during the week of ___, and
+(26) EEG on ___ did not show seizure,
+(27) lowered the dose of dexamethasone from 4 mg QID to TID on
+___,
+(28) hospitalization in the NeuroMedicine Service from ___
+to ___ after 3 seizures,
+(29) discontinued ___ on ___ but re-applied it on
+___,
+(30) started on ___ turmeric 1000 mg a.m., 1000 mg p.m. and
+1000 mg bedtime,
+(31) gadolinium-enhanced head MRI performed on ___ showed
+increased aggregate size of the target lesions compared to the
+measurements at the nadir timepoint,
+(32) vomiting, diarrhea and seizure started on ___,
+(33) hospitalization in the NeuroICU from ___ to ___,
+and
+(34) evalauted in the emergency department at ___ on
+___ after a focal motor seizure at home.
+
+PAST MEDICAL HISTORY:  
+Depression
+Uterine artery embolization

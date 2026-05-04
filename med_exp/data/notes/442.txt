@@ -1,0 +1,176 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : -Diffuse large B cell lymphoma
+-Smoldering multiple myeloma
+-MDS/MPN 
+-Gastric cancer, resected in ___, no chemotherapy or
+radiotherapy, with no evidence of disease recurrence since that
+time.
+-Hypercholesterolemia
+-Severe lumbar degenerative joint disease
+-Peptic ulcer
+-Sciatica and severe DJD                             
+
+Oncologic hx: 
+
+- ___: Develops mild leukopenia (WBC 3.3) and 
+thrombocytopenia
+(142,00).
+- ___: Found to have monoclonal IgG kappa representing 7%
+of total protein, approximately 500 mg/dL. Serum free light 
+chain
+ratio at that time was 3.62, with quantitative IgG 1200, IgA 
+155,
+and IgM 63. There was no ___ proteinuria. BUN,
+creatinine, and calcium all normal. This was thought to 
+represent
+MGUS.  
+- ___: Initial evaluation by Dr. ___ at ___, who
+agrees with the diagnosis of MGUS, but believes that the mild
+leukopenia and transient thrombocytopenia represent a separate
+process. She recommends monitoring of SPEP and SFLC q4-6 months,
+then yearly if stable, as well as yearly CBC monitoring.
+- ___: Transitions Hematology care to Dr. ___ at
+___, who also plans to monitor SPEP, SFLC, and CBC
+periodically.
+- ___: Incidentally noted to have progressive cytopenias on
+evaluation for steroid injection for lower back pain, with WBC
+3.0 (66% PMNs, 28% Lymphs, 5% Monos, 1% Atypical), Hgb 11.0, Plt
+72. Also noted on renal ultrasound to have splenomegaly to 14.5
+cm.
+- ___: Bone marrow biopsy reveals hypercellularity for age
+(70-80%), with maturing trilineage hematopoiesis and mildly
+increased megakaryocytes, with plasma cells representing 9% of
+aspirate differential. Flow cytometry consistent with 
+involvement
+by a kappa-restricted plasma cell dyscrasia. The history of
+cytopenias, hypercellular marrow and mild megakaryocytic
+abnormalities raised the possibility of an evolving
+myelodysplastic syndrome. Cytogenetics revealed 46,XY[20] with
+FISH positive for t(11;14). Because of a firm liver edge and 
+mild
+splenomegaly he was referred to Hepatology. It is Dr. ___ that this likely represents an early/evolving
+myelodysplastic syndrome.
+- ___: Evaluated by Drs. ___ of Hepatology, 
+who
+recommend a Fibroscan, which demonstrated a score of 8.8 kPa,
+consistent with liver scarring at a Metavir Stage 2, possibly
+indicative of moderate fibrosis.
+- ___: EGD does not demonstrate any esophageal varices.
+- ___: Liver biopsy demonstrates active hepatitis and focal
+lymphocytic cholangitis with rare granuloma associated with a
+large central vein.
+~ ___: Develops a palpable right supraclavicular lymph node 
+in
+the context of 25 pound weight loss over the preceding year. He
+denies fever and night sweats. 
+- ___: PET scan demonstrates FDG-avidity in a right
+supraclavicular lymph node, diffusely abnormal mildly-increased
+FDG uptake throughout the skeleton, and mild splenomegaly 
+without
+FDG uptake.
+- ___: Undergoes excisional biopsy of right supraclavicular
+lymph node which indicates DLBCL positive for CD20, CD10, BCL6,
+negative for MUM1 in the majority of cells, Ki67 70%, germinal
+center phenotype by ___, cytogenetics with
+46,XY,add(16), negative for translocations involving myc, Bcl2,
+and Cyclin D1.
+- ___: Repeat bone marrow biopsy at ___ by Dr. ___.
+This reveals markedly hypercellular bone marrow for age (70-80%
+cellular) with mild dyspoiesis, involvement by plasma cell
+dyscrasia ___ kappa light chain restricted plasma cells). No
+diagnostic morphologic findings of involvement by lymphoma were
+seen. Karyotype demonstrated 46,XY[20], with FISH negative for
+MDS panel; however, FISH did again demonstrate t(11;14),
+consistent with prior plasma cell dyscrasia finding. Rapid Heme
+panel reveals mutations in ASXL1, EZH2, TET2, CBL, and RIT1,
+consistent with underlying/evolving myelodysplastic syndrome.
+Serum monoclonal IgG kappa 480 mg/dL. Therefore, he was
+additionally diagnosed with MDS ___ score 3 consistent with
+low risk disease) and smoldering multiple myeloma. 
+- ___: C1 rituximab. 
+- ___:  C1 CHOP. 
+- ___: Frankly neutropenic and thrombocytopenic on C1D10 of
+CHOP. Filgrastim 300 mcg x 1 and platelet transfusion
+administered.
+- ___: Ongoing severe neutropenia without fever; filgrastim
+480 mcg x 1 administered. Given these significant cytopenias
+(likely related to underlying MDS), the treatment plan is 
+altered
+to consist of definitive involved field radiotherapy with
+rituximab/prednisone alone (i.e. no further cytotoxic
+chemotherapy).  
+- ___: C2 rituximab/prednisone. Platelet transfusion
+administered. 
+- ___: Ongoing cytopenias (platelet count 16,000 per
+microliter), transfused 1 unit platelets. Initial evaluation by
+Drs. ___ of Radiation Oncology, who plan
+to perform definitive involved field radiotherapy. 
+- ___: Platelet count 9,000 per microliter, ANC 1120.
+Platelet transfusion administered and given a 5 day course of
+prednisone 50 mg daily. 
+- ___: Initiates radiotherapy for DLBCL. Platelet count
+31,000 per microliter, ANC 4100. 
+- ___: Improvement in thrombocytopenia to 42,000 per
+microliter, ANC 1520. 
+- ___: Completes radiotherapy. 
+- ___: C3 rituximab/prednisone. 
+- ___: PET reveals interval resolution of previously seen 
+FDG
+avid right supraclavicular lymphadenopathy, with no evidence of
+new FDG avid disease. Additionally, interval increase in size of
+non-FDG-avid splenomegaly (to 17.6 cm) was noted, as well as
+unchanged mild diffuse FDG uptake in the skeleton. 
+- ___: CBC stable. Monoclonal protein improved (120 mg/dL)
+and serum free light chain ratio improved (1.2), 
+- ___: CBC again stable (WBC 2.2, ANC 1170, Hgb 9.8, Plt 
+66).
+- ___: CBC again stable (WBC 3.5, ANC 2210, Hgb 9.2, Plt 70,
+kappa/lambda ratio 1.5). 
+- ___: CBC shows worsening anemia (Hgb 8.1, MCV 102) but
+improved thrombocytopenia (115). Serum free kappa/lambda ratio
+1.6. 
+- ___: Again worsening macrocytic anemia is noted (Hgb 7.8,
+MCV 105).
+- ___: Bone marrow biopsy performed: 
+Pathology: Consistent with involvement by the patient's known
+myelodysplastic syndrome and plasma cell dyscrasia. 
+Cytogenetics: 47,XY,+8[1]/46,XY[19]
+Myeloid Sequencing: 4 mutations were detected by targeted next
+generation sequencing: RUNX1 exon 8 frameshift deletion S322fs;
+TET2 Q740*; KRAS D33E; and EZH2 D620E.  Findings are associated
+with an aggressive clinical course with increased risk of
+progression to acute myeloid leukemia. 
+- ___: Darbepoetin 300 mcg SC q2weeks initiated.  
+- ___: 2 units PRBC transfusion for hemoglobin 5.8 g/dL. 
+- ___: Repeat hemoglobin level 7.8 g/dL. 
+- ___: Reports new left upper quadrant abdominal pain. CT
+abdomen/pelvis revealed significant increase in splenomegaly to
+22.5 cm compared to the PET scan from ___. In addition, there
+appears to be several splenic infarcts, as well as a 
+subscapsular
+splenic hematoma. He is transfusde 1 unit PRBCs.
+- ___: Transfused 1 more unit PRBCs and admitted for
+evaluation and management of the splenic hematoma.  Both General
+Surgery and Interventional Radiology are consulted regarding
+management options for the subcapsular splenic hematoma.
+Ultimately, it is decided to proceed with conservative
+management, with the plan for splenic arterial coil embolization
+in the event of worsening splenic hemorrhage. 
+- ___: Discharged to home after stable hemoglobin level of
+8.4 g/dL without transfusion since ___. Darbepoetin in case
+at all contributory to splenic infarct/hematoma.
+- ___: Hemoglobin stable at 8.6 g/dL. PET scan reveals no
+evidence of FDG avid uptake in the chest, abdomen, or pelvis,
+stable retroperitoneal adenopathy without FDG-avidity, marked
+splenomegaly without FDG avidity, interval increase in diffuse
+FDG uptake in the 
+skeleton, multiple bilateral pulmonary nodules measuring up to
+0.4 cm, and a hypodense non-FDG-avid cystic lesion in the
+pancreatic uncinate process.  
+- ___: Hemoglobin decrease to 6.9 g/dL, transfused 1 unit
+PRBCs. 
+- ___: Hemoglobin 7.2 g/dL. 
+- ___: Hemoglobin 7.4 g/dL. Repeat bone marrow biopsy
+performed for persistent left-shifted leukocytosis (WBC 
+22,500/uL
+with 83% neutrophils, 2% Metas, 2% Myelos, and 1% blasts).

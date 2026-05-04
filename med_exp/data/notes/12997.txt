@@ -1,0 +1,24 @@
+Chief Complaint : weakness
+Past Medical History : ABDOMINAL PAIN                                                  
+ANEMIA                                                          
+ANXIETY                                                         
+BACK PAIN                                                       
+BENIGN PROSTATIC HYPERTROPHY                                    
+CONSTIPATION                                                    
+CORNEAL ULCER                                                   
+DEGENERATIVE DISC DISEASE                                       
+DEPRESSION                                                      
+DRY SENILE MACULAR DEGENERATION                                 
+ESSENTIAL THROMBOCYTHEMIA                                        
+                                                
+GLAUCOMA                                                        
+HEARING LOSS                                                    
+HYPERTENSION                                                    
+IMPAIRED VISION                                                 
+INGUINAL HERNIA                                                 
+MITRAL REGURGITATION                                            
+THALASSEMIA                                                     
+TRAUMA                                                          
+OSTEOARTHRITIS                                                  
+THROMBOCYTOSIS                                                  
+VALVULAR HEART DISEASE

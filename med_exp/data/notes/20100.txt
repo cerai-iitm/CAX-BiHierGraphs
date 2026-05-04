@@ -1,0 +1,22 @@
+Chief Complaint : Chest pain
+Past Medical History : Anxiety
+Basal Cell Carcinoma
+Cervical Radiculitis
+Chronic Obstructive Pulmonary Disease
+Congestive Heart Failure, chronic
+Acute systolic heart failure, now resolving
+Coronary Artery Disease
+Diabetes Mellitus Type II
+Hyperlipidemia
+Hypertension
+Interstitial Lung Disease
+Myocardial Infarction, ___
+Osteoarthritis
+RSV
+Spinal Stenosis
+
+PAST SURGICAL HISTORY:
+=====================
+C-section
+Foot Surgery
+TAH

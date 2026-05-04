@@ -1,0 +1,63 @@
+Chief Complaint : Lymphoma
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+DLBCL
+- Radiographic evidence of a retroperitoneal mass concerning for
+lymphoma to ___ ER on ___. His course began about 1 month
+ago when he developed URI symptoms and a cough which took 
+several
+weeks to improve. He saw a physician friend of his who obtained
+CBC which revealed a new normocytic anemic to Hgb 12.4. CXR was
+obtained revealing atelectasis, and given this unexpected 
+finding
+a CT chest was then obtained. This imaging incidentally
+identified the superior portion of a left-sided retroperitoneal
+mass. He was scheduled for CT abd/pelvis for further evaluation
+however had a minor rear-ending accident and subsequently
+developed worsening left flank discomfort prompting ED
+presentation. CT abd/pelvis obtained in ED revealed a large 
+solid
+left retroperitoneal mass with adjacent lymphadenopathy
+concerning for lymphoma along with moderate hydronephrosis of 
+the
+left kidney as a result of obstruction by this lesion. He was
+admitted for further management. 
+CT guided biopsy of the RP mass demonstrated GC origin DLBCL
+Cytogenetics and FISH: Three of the four metaphase
+retroperitoneal mass cells available for examination had a
+complex abnormal karyotype with extra copies of several
+chromosomes, a translocation involving chromosomes 14 and 18 
+that
+FISH has confirmed has resulted in the
+IGH/BCL2 gene rearrangement, rearrangement of both chromosomes 
+17
+but without loss of both copies of the TP53 gene, and other
+chromosome aberrations. ___ also demonstrated that this 
+abnormal
+chromosome complement harbored 6 intact copies of the MYC
+gene(amplification). These findings were consistent with a high
+grade B cell lymphoma of germinal center origin.
+FISH: POSITIVE for IGH/BCL2 and AMPLIFICATION of MYC.
+Approximately 25% of the interphase retroperitoneal mass cells
+examined in this high grade lymphoma FISH panel had probe
+signal patterns consistent with the IGH/BCL2 gene rearrangement
+and amplification of the MYC gene with 6 intact probe signals 
+per
+cell. There was no evidence of rearrangement of the BCL6
+gene or the MYC gene. These findings are consistent with a high
+grade B cell lymphoma of germinal center origin.
+CT chest demonstrated bulky lower posterior mediastinal
+lymphadenopathy contiguous with retrocrural and retroperitoneal
+lymphadenopathy.
+BM biopsy demonstrated no lymphoma involvement. 
+Echo was normal
+Rcd cycle 1 of R-CHOP as inpatient. Discharged on
+antibiotics for the pilonidal cyst and with wound care. 
+TREATMENT HX:
+___ R-CHOP
+___ DA-EPOCH-R Level 2
+___ PET CT showing complete response
+___ DA-EPOCH-R Level 3
+___ DA-EPOCH-R Level 3
+
+PAST MEDICAL HISTORY:
+- Latent TB

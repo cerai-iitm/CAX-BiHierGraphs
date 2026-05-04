@@ -1,0 +1,14 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : 1. type 2 diabetes 
+2. Hypertension
+3. GERD
+4. atrial fibrillation
+5. Hemorrhoids
+6. Osteoarthritis  
+7. Osteoporosis  
+8. Depression  
+9. diastolic congestive heart failure
+10. afib on eliquis
+
+Past Surgical History:
+-None

@@ -1,0 +1,23 @@
+Chief Complaint : AAA
+Past Medical History : 1. CARDIAC RISK FACTORS: -DM, +HLD, +HTN  
+2. CARDIAC HISTORY:  
+-CABG: ___ CABG ___, SVG-D1, SVG-RV branch-  
+PDA-OM)  
+-CAD: SVG to OM1 Known occluded, SVG to PDA known occluded, RIMA 
+to RCA patent, LIMA to LAD patent  
+-sCHF: EF 45% in ___  
+-PCI: RIMA to RCA PTCA ___, stent ___  
+-PACING/ICD: none  
+3. OTHER PAST MEDICAL HISTORY:  
+-Right renal artery stenosis  
+-___ right brachial pseudoaneurysm s/p radial access for cath 
+ 
+-hyperlipidemia  
+-PVD with right carotid disease awaiting CEA  
+-Dyslipidemia  
+-Tobacco abuse (currently smoking ___ PPD)  
+-GERD  
+-Anxiety/ depression  
+-Arthritis  
+-GOUT  
+-Hypothyroid

@@ -1,0 +1,76 @@
+Chief Complaint : chronic suprapubic tube; urinary retention
+neurogenic bladder
+hydronephrosis; bilateral
+Past Medical History : Cancer of prostate 
+  Hepatitis B 
+  Gout 
+  Keratosis, actinic 
+  Anticoagulant long-term use 
+  Screening for colon cancer 
+  Weight loss 
+  History of methicillin resistant Staph aureus 
+  Arthralgia of shoulder 
+  PROGRAM - Anticoagulation SVC (Not DX, for prob list only) 
+  Cellulitis of buttock 
+  Acute lower UTI 
+ Chronic renal disease, stage III 
+  Anemia 
+ Atrial fibrillation, persistent 
+  Depression 
+  History of total hip replacement 
+  Need for influenza vaccination 
+  Renal stone 
+  Advance directive on file 
+  Ascending aorta dilatation 
+  Mitral regurgitation 
+  HIGH RISK PLAN OF CARE (NOT DX, FOR PROB LIST ONLY) 
+  Dry ARMD 
+  Cataract, nuclear sclerotic, both eyes 
+  Arthritis of right hip 
+  Contracted bladder 
+  Bladder outlet obstruction 
+  Factor V Leiden mutation 
+  Recurrent deep vein thrombosis (DVT) 
+
+From ___ discharge paperwork:
+-Nephrolithiasis c/b ureteral stenosis s/p bilateral stents, 
+removen on ___ (recent long admission at ___ in ___, for urosepsis, hydronephrosis, urinary retention)  
+-Prostate Cancer s/p XRT, in remission  
+-Poor Bladder Compliance  
+-CKD stage III  
+-H/O Total Hip Replacement  
+-Aflutter s/p ablation  
+-Afib on warfarin  
+-Factor V Leiden on warfarin  
+-H/O 3x DVTs  
+-MVP w/ mild-moderate MR  
+-Ascending aorta dilation  
+-Depression  
+- ? Hepatitis B, +HBsAG in ___  
+-Gout  
+
+CANCER - PROSTATE 
+  HEPATITIS - B 
+  GOUT, UNSPEC 
+  KERATOSIS - ACTINIC 
+  Anticoagulant long-term use 
+  Screening for colon cancer 
+  Weight loss 
+  HISTORY METHICILLIN RESISTANT STAPH AUREUS 
+  ARTHRALGIA - SHOULDER 
+  ENROLLED - ANTICOAGULATION SVC (NOT DX, FOR PROB LIST ONLY) 
+  Cellulitis of buttock 
+  UTI (lower urinary tract infection) 
+ Chronic renal disease, stage III 
+  Anemia 
+  AF (atrial fibrillation) 
+  Depression 
+  Right hip pain 
+  History of total hip replacement 
+  Need for influenza vaccination 
+  Renal stone 
+  Advance directive on file 
+  Ascending aorta dilatation 
+  Mitral regurgitation 
+  HIGH RISK PLAN OF CARE (NOT DX, FOR PROB LIST ONLY) 
+  PROGRAM - Care Management (not Dx, for prob list only)

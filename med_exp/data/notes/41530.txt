@@ -1,0 +1,23 @@
+Chief Complaint : Abdominal bloating
+Past Medical History : PAST MEDICAL HISTORY
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+CORONARY ARTERY DISEASE                                         
+ERECTILE DYSFUNCTION                                            
+OBESITY                                                         
+SKIN CANCERS                                                    
+OBSTRUCTIVE SLEEP APNEA                                         
+KNEE PAIN                                                       
+BENIGN PROSTATIC HYPERTROPHY                                    
+RIGHT SHOULDER PAIN   
+___                                          
+
+Surgical History (Last Verified ___ by ___,
+MD):
+UMBILICAL HERNIA                                      ___   
+s/p repair                                                      
+
+APPENDECTOMY                                          ___   
+
+HEMORRHOIDECTOMY                                                
+___

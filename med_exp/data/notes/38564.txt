@@ -1,0 +1,20 @@
+Chief Complaint : Fever
+Past Medical History : ObHx:
+- G0
+
+GynHx:
+- Regular periods q 4 days prior to hysterecomy
+- Last Pap: ___ ___, negative hrHPV
+- Denies history of abnormal Paps
+- History of STIs, fibroids, endometriosis?
+     - Multifibroid uterus, s/p abdominal myomectomy
+- Has used the following contraceptive methods: Nexplanon, OCPs,
+POPs
+
+PMHx:
+- Polycystic kidney disease
+
+PSHx:
+- Abdominal myomectomy (___)
+- Total laparoscopic hysterectomy, bilateral salpingectomy 
+(___)

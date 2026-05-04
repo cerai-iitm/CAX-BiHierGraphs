@@ -1,0 +1,12 @@
+Chief Complaint : Chest pain
+Past Medical History : 1. CAD RISK FACTORS 
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY 
+-Diastolic heart failure  
+-GERD 
+-COPD

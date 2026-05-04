@@ -1,0 +1,97 @@
+Chief Complaint : shortness of breath
+Past Medical History : (1) Chronic sinusitis, on and off various antibiotics and
+prednisone. In ___, ___ had sinusitis while in ___,
+requiring hospitalization for antibiotic management.
+(2) Atrial fibrillation, on Coumadin. In ___, ___ began
+dofetilide. s/p  pacemaker for arrhythmia control. 
+(3) Comminuted fx of left distal fibula on ___ secondary 
+tofall on ice, requiring surgery. 
+(4) On ___, ___ underwent inguinal hernia repair and knee
+surgery for a meniscal tear.
+(5) In ___, his g.i. work-up, both colonoscopy and EGD; the
+latter showed gastritis.
+(6) Asthma.
+(7) Hypertension.
+(8) Pneumonia in ___.
+(9) In ___, prostate cancer with PSA = 4.4 and ___ score =
+8. 6 months of androgen ablation in addition to external beam 
+XRT
+was administered under the care of prostate cancer specialist 
+Dr.
+___ had his first Lupron injection in ___.
+(10) s/p rectal bleeding d/t XRT proctitis, treated with
+Argon-plasma coagulation
+(12) s/p AVR for moderate to severe AS in ___
+(13) CAD, s/p CABG ___
+(14) Bilateral carotid artery stenosis, L>R, s/p L carotid
+endarterectomy ___
+(15) Osteoarthritis.
+(16) s/p R total knee replacement ___
+(17) GI bleeding:
+  -- hospitalized ___ for rectal bleeding. A
+sigmoidoscopy reported erythema and abnormal vascularity and a
+rectal ulcer thought to be due to mild radiation proctitis. 
+  --In early ___, EGD was done to evaluate mild
+dysphagia in the setting of a history of ___ esophagitis
+which was normal to the ___ part of the duodenum except for an
+irregular Z-line. Biopsy reported mild inflammation. Same day
+colonoscopy reported multiple angioectasia without evidence of
+bleeding and a shallow ulcer in the distal rectum and 
+diverticula
+in the L colon.
+ -- In ___, hospitalized with acute on chronic
+symptomatic anemia, melena and weight gain. EGD ___
+reported absence of esophageal varices, varices at the fundus,
+but was otherwise normal. Colonoscopy on the same day reported
+diverticuli of the sigmoid and descending colon, a rectal ulcer
+with rectal angioectasia surrounding the ulcer. The remainder of
+the study was normal. No active bleeding was seen
+(18) s/p S. viridans mitral valve endocarditis treated with 6
+weeks IV ceftriaxone completed ___
+(19) s/p splenic infarct in the inferior pole of his massively
+enlarged spleen ___
+(20) s/p cholecystectomy in ___
+(21) Chronic diastolic CHF
+(22) Hx of diverticulitis 
+(23) OSA on CPAP
+(24) thrombocytopenia with progression to myelofibrosis
+(25) cirrhosis
+
+# Essential thrombycythemia -> myelofibrosis (on ruxolitinib)
+# Asthma/COPD ___ FEV1 60% predicted, FEV1/FVC 0.6)
+# paroxysmal atrial tachycardia/afib with SSS (sp ablation and 
+PPM, on Warfarin)
+# Recurrent sinusitis
+# Aortic stenosis (sp bioprosthetic-porcine AVR in ___
+# HTN
+# CAD (sp CABG x 1 with LIMA to LAD in ___
+# dCHF ___ MR, 2+TR)
+# ___ esophagus
+# Diverticulosis
+# Prostate ca (sp XRT and Lupron, cb radiation proctitis)
+# Hypothyroidism
+# OSA
+# h/o mitral valve endocarditis (strep viridians, ___
+# Chronic anemia (requiring outpatient transfusions)
+# Alcoholic cirrhosis
+# sp CCY (___)
+# sp R TKR
+# Essential thrombycythemia -> myelofibrosis (on ruxolitinib)
+# Asthma/COPD ___ FEV1 60% predicted, FEV1/FVC 0.6)
+# paroxysmal atrial tachycardia/afib with SSS (sp ablation and 
+PPM, on Warfarin)
+# Recurrent sinusitis
+# Aortic stenosis (sp bioprosthetic-porcine AVR in ___
+# HTN
+# CAD (sp CABG x 1 with LIMA to LAD in ___
+# dCHF ___ MR, 2+TR)
+# ___ esophagus
+# Diverticulosis
+# Prostate ca (sp XRT and Lupron, cb radiation proctitis)
+# Hypothyroidism
+# OSA
+# h/o mitral valve endocarditis (strep viridians, ___
+# Chronic anemia (requiring outpatient transfusions)
+# Alcoholic cirrhosis
+# sp CCY (___)
+# sp R TKR

@@ -1,0 +1,15 @@
+Chief Complaint : IABP placement s/p outpatient catheterization
+Past Medical History : Cardiac History:
+-Heart Failure
+-Sick Sinus syndrome s/p pacemaker
+-Paroxysmal Atrial Fibrillation
+-Coronary Artery Disease s/p BMS to LCX in ___ 
+
+Other PMH:
+-Hyperlipidemia
+-Hypertension
+-Diabetes Mellitus
+-Peripheral Artery Disease
+-COPD
+-Asthma
+-Pulmonary Hypertension

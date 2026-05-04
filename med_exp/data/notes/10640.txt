@@ -1,0 +1,14 @@
+Past Medical History : Medical History: (per OMR, confirmed key aspects of history with 
+pt)
+# Bilateral breast cancer, both s/p resection
+# Prior upper GI bleeding reported in ___
+# hiatal hernia
+# Report of diverticulitis in ___
+# h/o melanoma resected from back ___
+# chronic panic disorder
+# recurrent pneumonia, followed by pulmonary at ___
+# Depression and anxiety
+# Spinal stenosis
+# Hyperlipidemia
+Surgeries including: TAH, single oophorectomy, s/p ex-lap with 
+cholecystectomy

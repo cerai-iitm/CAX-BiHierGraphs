@@ -1,0 +1,40 @@
+Chief Complaint : C3 ___
+ 
+___ Surgical or Invasive Procedure:
+none
+Past Medical History : AML
+Type 2 NSTEMI
+Diabetes  
+Morbid Obesity
+C. diff
+
+Oncologic History: 
+He underwent induction therapy with 7+3 daunorubicin 60mg/m2, 
+and achieved remission ( MRD by MPN1 and FLT3-TK negative). 
+Decission was made to proceed with chemotherapy consolidation. 
+Patient recieved 50% of planned HiDAC but treatment was aborted 
+due to cerebellar toxicity. HiDAC treatment was on ___, 
+He had brief hospitalization for recurrent syncope that was 
+attributed to treatment with Coreg. We decided to proceed with 
+modified consolidation with ___ based on recently  
+presented ___ trial. ___ patients aged ___ with de 
+___ AML (CBF-AML excluded) were enrolled in the ___ trial 
+by 33 ___ centers. Patients in CR/CRp with non-favorable AML  
+
+(according to ELN classification) or those who needed the 
+salvage (late CR/CRp) were eligible for: 1) allogeneic stem cell 
+transplantation (SCT) if they had a sibling or fully matched  
+unrelated donor; or 2) randomization for consolidation with 
+three HiDAC (3 g/m2/12h cytarabine, day ___ G-CSF priming) or 
+___ (30 mg/m2 clofarabine, day ___ 1 g/m2/12h cytarabine, day 
+___ G-CSF priming) cycles if no identified donor. Among 468 
+CR/CRp patients of interest 221 were randomized between HiDAC 
+(n=114) and ___ (n=107) consolidation. Among these patients, 
+the rate of SCT in first CR/CRp was higher than anticipated 
+(50%; 55 patients in each arm). With a median follow-up of 37.4 
+months and SCT censoring, ___ RFS was 52.1% (40-68) in the 
+___ arm versus 30.5% (___) in the HiDAC arm (HR, 0.62 
+[0.39-0.99]; p= 0.042). We planned to start ___, but his ANC 
+was only 800. He underwent BMBx and there was no increased blast 
+an aspirate nor flow cytometry. NPM1 is negative, FLT3 negative. 
+Completed cycle 1 ___ regimen last week. Tolerated well.

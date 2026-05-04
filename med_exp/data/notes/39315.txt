@@ -1,0 +1,12 @@
+Chief Complaint : Chest pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia (familial)
+2. CARDIAC HISTORY  
+- CAD: MI and PTCA to diagonal ___ at ___  
+- Pump: EF 50-55% 
+- Rhythm: Sinus 
+3. OTHER PAST MEDICAL HISTORY  
+- Hypothyroidism
+- Anxiety
+- Prostate CA- diagnosed ___

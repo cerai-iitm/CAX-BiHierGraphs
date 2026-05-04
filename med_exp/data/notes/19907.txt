@@ -1,0 +1,11 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : - relapsing remitting MS on ___, making transition to 
+Ocrelizumab. 
+  - onset ___ / diagnosed ___
+  - flares
+    - ___: L eye pain, vision loss -> IVMP
+    - ___: L foot numbness
+  - progression on serial MRIs, last ___ = stable
+  - JCV+ on ___
+- asthma
+- HTN

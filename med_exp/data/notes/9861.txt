@@ -1,0 +1,75 @@
+Chief Complaint : HPI:  
+Mr. ___ is a ___ year-old man with a history of DM1 and asthma
+with new diagnosis of AML s/p 7+3, now in complete remission per
+D32 marrow who course was complicated by febrile neutrapenia and
+aspergillus pneumonia requiring intubation and acute renal
+failure requiring temporary HD, as well as afib with RVR
+(___). 
+
+He is a planned admission for consolidation chemotherapy before
+bone marrow transplant. 
+
+Vitals on transfer: ___ 1732 Temp: 98.3 PO BP: 155/74 HR: 
+80
+RR: 18 O2 sat: 97% O2 delivery: ra
+Past Medical History : ONCOLOGICAL HISTORY
+PAST ONCOLOGIC HISTORY:
+"The patient noted that he has had a variety of issues over the
+last 12 months, including increased fatigue, joint aches,
+tremors. He also has had increased dyspnea. On admission: CT
+chest showed several lung nodules: pre-induction bronchoscopy
+with biopsy was consistent with invasive aspergillosis. Patient
+initiated induction therapy with 7+3 on ___ along with
+treatment of pulmonary infection. Very rapidly his respiratory
+status worsened. He developed respiratory failure leading to
+intubation following multi-organ failure, was on pressors (liver
+injury and renal failure while in ICU was on HD for several
+days). He subsequently improved, was extubated, HD was stopped.
+His counts improved/normalized. BMBX on D+30 ___ was
+consistent with pathological remission. CT chest prior to
+discharge showed ___ pulmonary changes, now on voriconazole.
+
+___ BONE MARROW
+
+DIAGNOSIS: HYPERCELLULAR BONE MARROW WITH INVOLVEMENT BY ACUTE
+MYELOID LEUKEMIA, SEE NOTE.
+
+Note: The core biopsy is predominantly occupied by blasts (95%).
+The concurrent flow cytometry detected increase myeloid blasts
+comprising 82.6% of the total analyzed events (see separate
+report ___ for full result). Concurrent cytogenetic
+revealed a normal karyotype (46 XY) (see separate report
+___ for full result). Overall, the combined features are
+consistent with involvement by acute myeloid leukemia.
+
+FLOW CYTOMETRY: Cell maker analysis demonstrates that the
+majority (82.6%) of the cells isolated from this bone marrow
+aspirate are in the CD45-dim/low side-scatter "blast" region.
+They co-express CD38, CD34 (majority), ___, CD7 (dim/subset),
+CD11b (dim), CD11c (subset), CD33 (majority), CD64 (subset),
+CD117 (subset), CD123 and are negative for CD13, CD14, CD16,
+CD19, CD56, nTdT, cMPO, cCD3 and the other B and T cell antigens
+tested.
+
+CYTOGENETIC DIAGNOSIS: 46,XY[20]
+1) FISH: NEGATIVE for TP53
+2) FISH: NEGATIVE MDS panel
+3) FISH: NEGATIVE MLL, RUNX1, PML/RARA, CBF
+___ MYELOID SEQUENCING
+RUNX1 N136K VAF 67% and SRSF2 P95L VAF 44%
+
+TREATMENT COURSE (PER OMR):
+___: Initial BMBx, dx AML
+--Diagnostic bronchoscopy ___ - postive aspergillous
+--CT-Guided lung biopsy ___- organizing PNA
+
+___: Induction Therapy 7+3 cytarabine+ daunorubicin 60mg/m2
+--Diagnostic bronchcoscopy ___ worsening respiratory status
+
+___ INTUBATED IN ICU with multi organ failure
+--Bilateral chest tubes placed and removed ___
+
+___ BMBx AML in CR1 " 
+
+___ Hospitalized for hypotension and worsening renal
+impairment

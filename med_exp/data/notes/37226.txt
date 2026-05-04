@@ -1,0 +1,18 @@
+Chief Complaint : Bladder Cancer
+Past Medical History : ABDOMINAL AORTIC ANEURYSM                                       
+CORONARY ARTERY DISEASE                                         
+DIABETES TYPE II                                                
+DIABETIC NEPHROPATHY                                            
+GASTRITIS                                                       
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+OBESITY                                                         
+OSTEOARTHRITIS                                                  
+SKIN CANCERS                                                    
+COLONIC POLYPS                                                  
+DIABETIC RETINOPATHY                                            
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE                           
+
+APPENDECTOMY                                                    
+
+ENDOVASCULAR REPAIR

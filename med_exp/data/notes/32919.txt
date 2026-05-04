@@ -1,0 +1,19 @@
+Chief Complaint : Facial pain
+Past Medical History : Malignant lymphoplasmacytic lymphoma 
+Cryoglobulinemia 
+Macroglobulinemia 
+CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+PVD (posterior vitreous detachment) 
+ASTHMA, UNSPEC 
+Hypertension, essential, benign 
+Colonic polyp 
+Diverticulosis 
+Rhinitis, allergic 
+OBESITY UNSPEC 
+Hyponatremia 
+Venous stasis of lower extremity 
+Facial pain 
+Impaired glucose tolerance 
+Pseudophakia 
+Screening for osteoporosis 
+Pulmonary nodule

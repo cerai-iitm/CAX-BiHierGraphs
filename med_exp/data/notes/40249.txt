@@ -1,0 +1,113 @@
+Chief Complaint : Fatigue
+Past Medical History : ONCOLOGIC HISTORY:
+-- ___ Increasing fatigue and right sided abdominal pain
+associated with nausea and vomiting.  Evaluated by ___ who
+ordered ___ US that reportedly showed concerning hepatic lesion. 
+
+CT showed diffuse adenopathy throughout the abdomen.  
+-- ___xcision showed high grade DLBCL,
+immunoreactive for pan B-cell markers CD20, and PAX5. They have 
+a
+non-germinal center phenotype (CD10-, bcl-6+(weak, subset),
+MUM-1+) and express BCL-2.  B-cells are non-immunoreactive for
+CD43 (T-cells staining), CD23 and BCL-1 (endothelial cells
+staining). MIB-1 staining with proliferation index greater than
+90%.
+-- ___ Presented to ___ emergency room and was admitted
+through ___. Repeat CT torso confirmed diffuse adenopathy,
+mild bilateral pleural effusions, and possible splenic infarcts. 
+
+Developed worsening edema and given empiric trial of Lasix with
+little benefit. Developed ARF with a Creatinine peaking at 2.6. 
+LFTs continued to worsen and from available data showed a Total
+bili 21.1, LDH 2406, AST/ALT of 239/80, uric acid 4.0.  Given 
+his
+worsening organ function and high risk DLBCL ___ was transferred
+to ___ on ___.  
+-- ___ OSH BmBx: with hypercellular marrow (70-80%) with
+multiple lymphoid aggregates, morphologically consistent with
+B-cell Non-Hodgkin lymphoma. 
+-- ___ Admitted to ___ from ___ through ___. 
+Noted for anion gap acidosis, ARF, and hepatic failure with 
+Total
+bili 23.7, LDH was 2500.  Initially admitted to the ICU where ___
+received Mechlorethamine 10 mg IV on ___ and ___ in
+addition to Solu-Medrol, as unable to receive typical
+R-CHOP/EPOCH regimen. CT Torso ___ with diffuse adenopathy,
+splenic involvement, bilateral pleural effusions. 
+-- ___ Received first dose of Rituximab 770 mg; repeated on
+___ without infusion reactions.  
+-- With hydration, ARF slowly improved and LFTs trended down 
+with
+therapy.  Significant seroma at the site of his inguinal bx. 
+Wound cultures were positive for MRSA.  Treated with IV
+Daptomycin(Vancomycin allergy, that ___ was not aware of),
+starting on ___.  Blood cultures were negative.
+-- Treated again with Mechlorethamine 10 mg IV on ___ and ___.
+-- ___ Discharge to home with Tbili 2.7, LDH 271, ALT 60, 
+AST
+35, alkphos 213, Cr 1.0, WBC 9.7, Hct 24.6, plt 150.
+-- ___ Rituximab, dose 3 
+-- ___ C1 DA-EPOCH, no complications
+-- ___ admitted for F&N and oral thrush.
+-- ___ Rituximab #4 375mg/m2, no infusion reaction
+-- ___ C2 EPOCH, required 3U PRBC during admission, no
+bleeding    
+-- ___ C3 EPOCH--no dose adjustment(missed previous
+Rituximab appointment). Complicated by D9 neutropenia
+-- ___ Rituximab #5
+-- ___ C4 EPOCH--20% reduction of  Etoposide, Doxorubicin,
+Cyclophosphamide for persistent thrombocytopenia and neutropenia
+-- ___ C5 EPOCH, further 20% dose reduction.
+-- ___ C6, given R-CHOP due to cumulative toxicity with
+EPOCH.
+-- ___ PET-CT: with increase FDG uptake in R. hilar node. No
+other FDG avid disease. 
+-- ___ bone marrow with no evidence of lymphoma
+-- ___ Chest-CT: unchanged 7 mm right hilar node
+corresponding to PET-CT site.
+-- ___ PET-CT with further interval decrease in R. hilar LN,
+L. hilar uptake without CT correlate.
+-- ___ MRI brain for L. facial paralysis showed no evidence
+of CNS lymphoma, subtle enhancement L. facial nerve within the
+labyrinthine segment. Presumed Bell's Palsy. 
+-- ___ CSF studies negative
+-- ___ IVIG for hypogammaglobulinemia
+-- ___ PET-CT with no evidence of FDG-avid disease or
+adenopathy.
+-- ___ CT Torso with no evidence of recurrent disease.
+-- ___ CT torso without evidence of recurrent lymphoma. 
+-- Did well and followed at local hospital until
+___ when presented again with abdominal pain,
+fatigue, and jaundice similar to initial presentation with
+lymphoma in ___.  Found to have severe lactic acidosis with
+worsening coagulopathy and hyperbilirubinemia in setting of 
+liver
+failure and splenic infarction, requiring FICU admission. Labs
+significant for INR 2.1, PTT 31, Fibrinogen 417, Tbili 15, LDH
+1065, Uric acid 4.6, HCO3 13, Creat 1.2, lactate 9.1.  
+Suspicious for hepatosplenic recurrence given elevated LDH,
+splenomegaly, and significant lymphadenopathy seen on CT. 
+-- ___ ___ biopsy was performed and demonstrated non-GC
+DLBCL; MUM1+, BCL6-; cytogenetics were normal.
+-- Treatment regimen given as follows:
+  **Nitrogen mustard 10 mg x 3 (___) and Solumedrol 
+
+X 5 days
+  **Rituxan 100 mg on ___
+  **Rituxan 600 mg on ___ (remainder of full dose) + pre-chemo 
+solumedrol 60 IV
+  **Rituxan, 700mg on___, dose 2
+  **Cytoxan 500 mg/m2 (D1: ___
+  **EPOCH-DA Etoposide, Doxorubicin(50% dose reduction),
+Vincristine(75% dose reduction) due to liver dysfunction.
+ Day 1 on ___
+ C2 DA-EPOCH D1 ___
+ C3 DA-EPOCH D1 ___
+ C4 DA-EPOCH D1 ___
+
+PMH:
+-Recurrent DLBCL as noted above
+-GERD  
+-Hypertension (no longer on medication)  
+-Persistent mild thrombocytopenia after treatment for DLBCL

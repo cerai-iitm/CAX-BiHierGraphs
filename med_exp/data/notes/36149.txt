@@ -1,0 +1,20 @@
+Chief Complaint : Dyspnea on exertion
+Past Medical History : 1. Hyperlipidemia  
+2. Hypertension  
+3. Diabetes Mellitus  
+4. Peripheral Arterial Disease  
+5. CAD status ___ CABG ___ with LIMA->D1&LAD, RIMA->OM, 
+SVG->RCA  
+6. LBBB
+7. HFrEF (___)
+8. Chronic Kidney Disease  
+9. Chronic Obstructive Pulmonary Disease  
+10. Hip Fracture status ___ right THR
+11. Hypothyroidism  
+12. Iron Deficiency Anemia  
+13. Osteoarthritis  
+14. Psoriatic Arthritis  
+15. Pulmonary Embolism, on Xarelto  
+16. Shoulder Dislocation  
+17. Basal Cell Carcinoma, Squamous Cell Carcinoma  
+18. Venous Insufficiency

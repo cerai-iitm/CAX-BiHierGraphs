@@ -1,0 +1,11 @@
+Chief Complaint : Small Bowel Obstruction
+Past Medical History : PAST MEDICAL HISTORY:  
+ 1. Ulcerative colitis.  
+ 2. Lyme's disease in ___ treated with antibiotics.  
+ 3. Cutaneous melanoma  
+ PAST SURGICAL HISTORY:  
+ 1. Proctocolectomy in ___ with ileoanal pouch.  
+ 2. Anterior cruciate ligament repair of right knee.  
+ 3. Right inguinal hernia repair.  
+ 4. Question hand surgery.  
+ 5. Skin excision for melanoma

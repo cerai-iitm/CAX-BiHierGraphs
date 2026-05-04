@@ -1,0 +1,12 @@
+Chief Complaint : admission for chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- ___ VIP C1
+- ___ VIP C2
+- ___ PORT placed
+
+PAST MEDICAL HISTORY (per OMR):
+-Opiate use disorder in setting of motorcycle accident, 
+including
+IV use, last use ___ years ago, currently on methadone. No known
+HIV or hepatitis history; last tested ___ year ago.
+-Genital warts

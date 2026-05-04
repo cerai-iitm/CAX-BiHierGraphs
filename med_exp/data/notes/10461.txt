@@ -1,0 +1,25 @@
+Chief Complaint : Code stroke
+Time/Date the patient was last known well: ___  
+ Pre-stroke mRS ___ social history for description): 0  
+ t-PA Administration  
+ [X] Yes - Time given: ___ at ___  
+ [] No - Reason t-PA was not given/considered:  
+ Endovascular intervention: [X]Yes []No  
+ I was present during the CT scanning and reviewed the images
+within 20 minutes of their completion.  
+ ___ Stroke Scale - Total [10]  
+ 1a. Level of Consciousness -  
+ 1b. LOC Questions -  
+ 1c. LOC Commands -  
+ 2. Best Gaze -2  
+ 3. Visual Fields -2  
+ 4. Facial Palsy -2  
+ 5a. Motor arm, left -  
+ 5b. Motor arm, right -  
+ 6a. Motor leg, left -  
+ 6b. Motor leg, right -  
+ 7. Limb Ataxia -  
+ 8. Sensory -2  
+ 9. Language -  
+ 10. Dysarthria -1  
+ 11. Extinction and Neglect -1

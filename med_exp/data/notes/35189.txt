@@ -1,0 +1,27 @@
+Chief Complaint : Altered Mental Status/Fever
+Past Medical History : PAST ONCOLOGIC HISTORY
+Patient noted a four-month progressive mass
+on the left side of his neck.  In that setting he lost 50 pounds
+secondary to dysphasia.  At the time of initial evaluation and
+diagnosis he was only able to tolerate a limited liquid diet and
+had difficulty secretions.  CT imaging from his presentation
+demonstrated a 14 x 8.9 cm mass on the left side of his neck. 
+Biopsy demonstrated diffuse large B-cell lymphoma.
+
+Given significant size but not the patient required a
+tracheostomy to maintain his airway.  Furthermore, PEG tube was
+placed for nutrition. Patient was started on dose adjusted EPOCH
+on ___. Patient had a rapid decrease in size of
+his neck mass.
+
+- ___ C1 EPOCH dose level 1
+- ___ C2 R-EPOCH dose level 1
+- ___ C3 R-EPOCH dose level 2
+- ___ C4 R-EPOCH dose level 3
+- ___ C5 R-EPOCH dose level 3
+- ___ C6 R-EPOCH dose level 4
+
+PAST MEDICAL HISTORY 
+DLBCL as above
+Latent TB
+Hepatitis B

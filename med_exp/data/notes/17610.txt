@@ -1,0 +1,9 @@
+Chief Complaint : cough
+Past Medical History : 1.  IgA nephropathy.
+2.  Deceased donor kidney transplantation on ___.
+3.  Hypertension.
+4.  Gout.
+5.  Dyslipidemia.
+6.  Osteoporosis.
+7.  History of shingles.
+8.  Secondary Hyperparathyroidism

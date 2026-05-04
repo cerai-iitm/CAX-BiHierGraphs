@@ -1,0 +1,41 @@
+Chief Complaint : Incisional hernia
+Past Medical History : CORONARY ARTERY DISEASE                                         
+CHRONIC RENAL FAILURE                                           
+ELEVATED CHOLESTEROL                                            
+ACTINIC KERATOSIS                                               
+ANKLE PAIN                                                      
+ATRIAL FIBRILLATION                                             
+COLONIC POLYPS                                                  
+VERTIGO                                                         
+POLYMYALGIA RHEUMATICA                                          
+DIVERTICULITIS                                                  
+GASTROESOPHAGEAL REFLUX                                         
+GLAUCOMA                                                        
+GOUT                                                            
+HEMATURIA                                                       
+HEPATIC HEMANGIOMA                                              
+HYPERCHOLESTEROLEMIA                                            
+*S/P KNEE ARTHROSCOPY                                           
+HYPERTENSION                                                    
+HYPOGONADISM                                                    
+LOW BACK PAIN                                                   
+LUNG NODULES                                                    
+OBESITY                                                         
+OSTEOARTHRITIS                                                  
+ROSACEA                                                         
+SHOULDER PAIN                                                   
+SINUSITIS                                                       
+SLEEP APNEA (not on CPAP)                                     
+CHRONIC CONSTIPATION                                            
+UMBILICAL HERNIA                                                
+GASTROESOPHAGEAL REFLUX                                         
+ABDOMINAL PAIN                                                  
+GASTROESOPHAGEAL REFLUX                                         
+H/O PROSTATE CANCER                                             
+
+Surgical History (Last Verified - None on file):
+CHOLECYSTECTOMY
+RADICAL PROSTATECTOMY    
+CABG
+ARTHROSCOPIC KNEE 
+TONSILECTOMY

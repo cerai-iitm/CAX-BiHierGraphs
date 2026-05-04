@@ -1,0 +1,7 @@
+Past Medical History : PMH: colon cancer, SBO
+
+PSH:
+lap sigmoid colectomy for T3, N0, M0, stage II sigmoid colon 
+cancer (___)
+Splenic injury repair after MVC (___)
+Open cholecystectomy (___)

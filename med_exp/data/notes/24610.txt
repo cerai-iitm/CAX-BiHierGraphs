@@ -1,0 +1,86 @@
+Chief Complaint : admit for dacpogen/venetoclax, TLS monitoring
+Past Medical History : PAST ONCOLOGIC HISTORY:
+ - ___ - Diagnosed with Follicular lymphoma, Gr 1(with some
+focality of higher grade cells). Flow cytometry: CD10+,
+kappa-restricted B cell lymphoproliferative disorder. 
+  *Received 6 cycles of Rituxan-CHOP with complete response.
+ - ___ - Noted enlarged inguinal lymph nodes. PET/CT scan
+revealed new multi-nodal activity.  Received 2 cycles of
+Rituximab; subsequent PET scan revealed no FDG-avid
+lymphadenopathy. 
+ - ___ -  Underwent bilateral bone marrow biopsies in ___
+notable for: Atypical paratracular monoclonal lymphoid 
+aggregates c/w marrow involvement by follicular lymphoma and
+accounting for about 10% of the marrow cellularity. The 
+karyotype
+was 45,X,-Y[4]/46,XY[16]. FISH evaluation for an IGH-BCL2 was
+normal, and FISH for a BCL6 and BCL2 were normal.
+ - ___ - Rituximab followed by Zevalin.   
+ - ___ - Flow cytometry revealed circulating CD10+,
+kappa-restricted cells c/w cells of his prior follicular
+lymphoma. 
+ - ___ - PET CT showed extensive new FDG avid
+lymphadenopathy consistent with known lymphoma.
+   ___ - Enrolled on Protocol ___: a Phase 2 study of
+SAR___(a dualPI3K/mTor inhibitor) in patients with relapsed 
+or refractory mantle cell lymphoma, follicular lymphoma, or
+CLL/SLL.
+   ___ - Started treatment on Protocol ___ and
+continued on therapy.
+   ___ - CT scan showed stable but persistent disease.
+Decision made to discontinue treatment on study and enroll on
+Protocol ___.
+ - ___ - Consented to Protocol ___: A Single-Arm,
+Open-Label Phase 2 Study of Nivolumab (___) in Subjects
+with Relapsed or Refractory Follicular Lymphoma (FL). Nivolumab
+dose 3 mg/kg every 2 wks.
+   ___ - Cervical lymph node biopsy showed follicular
+lymphoma.
+   ___ - Cycle 1 treatment of Nivolumab and continued on
+treatment at 3mg/kg every 2 weeks.  Received 11 cycles of
+treatment and never achieved partial or complete remission, only
+stable disease.  Came off trial on ___ since no benefit and
+no effectiveness.  
+ - ___ - Started treatment on clinical trial ___
+(REGN___ 300mcg/1000mcg): An Open-label, Multi-center Phase I
+Study to Investigate the Safety and Tolerability of REGN___, an
+anti-CD20 x anti-CD3 bispecific monoclonal antibody, in Patients
+with CD20+ B-cell Malignancies previously treated with CD20
+directed antibody therapy. 
+   *Treatment: REGN___ 300 mcg on week 1. 1000 mcg on weeks 2,
+3,4, 8, 12, 16, 20, 24. 
+   *Re-Treatment: REG___ 1000mcg on week 1, 2000mcg on week 2
+(split dose required), 3, 4, 8 then came off study due to
+progressive disease on ___
+ - ___ - Rituximab started, pt had reaction and only
+received 129 mg of Rituximab.  Saw Dr. ___ in allergy to
+assess reaction to Rituximab.
+ - ___ - ___ - Bendamustine/Rituximab x 4 cycles 
+ - ___ - Restaging PET showed resolution of LAD 
+ - ___ - Started Obinutuzumab maintenance days 1 and 2 for
+first cycle.  Omit days 8 and 15 per Dr. ___
+ - ___ - Cycle 2 Obinutuzumab maintenance
+ - ___ - Cycle 3 Obinutuzumab maintenance
+ - ___ - Cycle 4 Obinutuzumab maintenance 
+ - ___ - Cycle 5 Obinutuzumab maintenance 
+ - ___, Noted cytopenias
+ - ___,  Bone marrow biopsy revealed therapy-related
+myelodysplastic syndrome with ___ cellularity. Cytogenetics
+showed an unfavorable karyotype, including monosomy 7, 5q
+deletion, and 17p deletion. 
+ - ___, D 0 of reduced intensity MUD allogeneic transplant
+with Flu/Bu/ATG conditioning.
+ - ___, Dacogen D 1 - 5 post transplant for persistent 
+MDS.
+- ___, Dacogen D ___, venetoclax 100mg x2d, 200mg x2d, 400mg
+daily thereafter
+
+PAST MEDICAL/SURGICAL HISTORY: 
+============================== 
+ -Follicular lymphoma
+ -Treatment related MDS
+ -___ sleep apnea
+ -___
+ -History of shingles 
+ -Generalized anxiety disorder
+ -Adjustment disorder

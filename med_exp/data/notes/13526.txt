@@ -1,0 +1,53 @@
+Chief Complaint : Presyncope
+Past Medical History : ONCOLOGIC HISTORY:
+-___ Seen for evaluation of right sided breast cancer.  
+AxLN
+bx -> positive.  C/o back pain and headache. Plan staging,
+genetic counseling, Social work. 
+Genetic counseling -> plan BRCAPlus expanded testing -BRCA1/2,
+PTEN, CDH1, PALB2, TP53, ATM, CHEK2 => positive for BRCA2
+mutation. 
+-___  Staging - CT chest/abd - neg except RLL 2mm nodule, MRI
+brain neg upon initial reading, Echo - EF 60-65% but mild
+concentric LVH.  Bone scan - "Solitary focus of increased tracer
+uptake in the posterior suboccipital region of the skull base on
+the left. This appears to correspond to a low T1 signal 
+intensity
+focus with rim enhancement on MRI, of relatively low suspicion
+for a solitary metastasis" but for which 3 mo f/u MRI brain was
+recommended. The MRI brain reading was addended. 
+-___  Right modified radical mastectomy/axillary sampling. 
+Path 1.9 cm IDC Gr ___ LVI+ ___ LN, largest 1.2 cm  Stage IIA 
+[T1cN1Mx]
+-___   C/o blood in stool, plan GI and cardiology consults
+prior to starting treatment with ddAC/T followed by RT and then
+___. 
+-___  GI consult ___, plan colonoscopy [which was
+eventually done ___ and showed 4 sessile adenomas and
+internal hemorrhoids]. Cardiology consult on ___ [because
+of HTN and LVH on Echo] - no significant cardiac concerns. At 
+presentation for c-scope on ___ he was in afib, sent to 
+___.
+Dx dehydration and given 3L IVF. On f/u ___ he was in NSR, dx
+was paroxysmal afib likely due to dehydration. Cardiology 
+advises
+holding metoprolol unless bp high or afib returns. Event monitor
+planned. 
+-___ C1ddAC, port placed ___. 
+-___ C2 ddAC. R axillary cord better w ___. Chest pain 
+___,
+MI r/o, stress test neg. 
+-___  C3 ddAC
+-___  C4 ddAC
+-___   C1 ddT
+
+PAST MEDICAL HISTORY:
+POSITIVE PPD (RPRT DPH) 
+Accessory Nipple 
+Hyperglycemia 
+Hyperlipidemia LDL goal <130 
+Solar keratosis 
+Abnormal LFTs (liver function tests) 
+Chondromalacia of both patellae 
+Breast cancer in male 
+BRCA2

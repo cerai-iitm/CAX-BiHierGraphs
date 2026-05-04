@@ -1,0 +1,9 @@
+Chief Complaint : type B aortic dissection
+Past Medical History : PMH:
+hypertension, diabetes, CKD, depression
+
+PSH:
+- C-section
+- bilateral hip replacement
+- bilateral knee replacements
+- lower back surgery (___)

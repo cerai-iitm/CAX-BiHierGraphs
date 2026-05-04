@@ -1,0 +1,103 @@
+Chief Complaint : Postobstructive RUL atelectasis due to renal cell carcinoma 
+metastasis
+Stroke - right-sided upper extremity weakness and mild aphasia
+Past Medical History : PAST ONCOLOGIC HISTORY
+- ___: Diagnosed with stage II (T2N0Mx) renal cell cancer in
+the setting of abdominal pain.  He underwent right nephrectomy
+with pathology demonstrating tumor confined to the renal capsule
+with no evidence of angiolymphatic invasion.
+- ___: Imaging showed mediastinal lymphadenopathy (3.2 x 2.4
+cm) with FDG avidity, and thoracotomy and biopsy in ___
+demonstrated metastatic carcinoma. PET/CT on ___
+demonstrated a pair of 1.5 cm lymph nodes within the precarinal
+mediastinum showing a focal area of hyper-accumulation of
+radiotracer with an SUV of 4.
+- ___: completed IL-2. Initially he had a complete response.
+- ___: CT with new 3.4 cm left adrenal nodule
+- ___: Biopsy of adrenal nodule with RCC
+- ___: right transient visual loss; carotid ultrasound with
+severe right ICA stenosis
+- ___: right carotid endarterectomy
+- ___: left adrenalectomy; pathology with 2.5 cm clear cell
+RCC, margins negative
+- ___: CT torso with new mediastinal lymphadenopathy (1.7 
+cm,
+2.0 cm)
+- ___: PET confirmed two FDG-avid mediastinal lymph nodes
+without other disease seen
+- ___: right VATS and mediastinal lymph node excision
+revealing metastatic RCC (Dr. ___
+- ___: CT chest/abdomen/pelvis with slowly progressive right
+middle lobe clustered nodules with interlobular septal
+thickening, worrisome for metastasis with lymphangitic spread. 
+- ___: CT torso shows stable disease. 
+- ___: CT torso shows interval progression of right upper 
+lobe
+opacity, now composed of numerous enlarging nodules and nodular
+septal thickening, involving both the right upper and middle
+lobes, indicative of progressive metastatic disease with 
+probable
+hematogenous and lymphangitic spread of tumor, as well as new
+mediastinal lymphadenopathy. 
+- ___: CT torso shows progression of disease, with
+significant increase in size of right paramediastinal mass
+invading the mediastinum, with new adjacent mass, progression of
+septal thickening in the right upper and middle lobes, and
+increased hilar lymphadenopathy. 
+- ___: C1W1 ipilimumab 3 mg/kg, nivolumab 1 mg/kg.
+- ___: Admitted briefly for fever of uncertain
+etiology. Treated with levofloxacin for empiric antibiosis. 
+- ___: C1W4 ipilimumab 3 mg/kg, nivolumab 1 mg/kg. 
+- ___: Admitted to ___ with new diarrhea, found to
+have C. difficile colitis; however, diarrhea does not improve
+with oral vancomycin after 48 hours. Colonoscopy with biopsy on
+___ demonstrates mildly active colitis of the transverse
+colon, descending colon, rectum, and sigmoid colon, compatible
+with ipilimumab-induced autoimmune colitis. Initiates
+methylprednisolone, with dramatic improvement in his diarrhea,
+transitioned to prednisone 60 mg daily at the time of discharge.
+- ___: Develops recurrence diarrhea, for which he is 
+admitted
+again to ___. This necessitates resumption of higher does of
+steroids (prednisone 100 mg daily), as well as a single dose of
+infliximab, with subsequent improvement in his diarrhea.
+- ___: Discharged to home on prednisone 100 mg daiy. 
+- ___: Prednisone decreased to 80 mg daily. 
+- ___: Prednisone decreased to 60 mg daily.
+- ___: Prednisone decreased to 40 mg daily.
+- ___: Prednisone decreased to 30 mg daily.
+- ___: Completed prednisone taper back to baseline 7.5 mg
+daily.
+- ___: C1D1 nivolumab on protocol ___
+- ___: C1D22 nivolumab on protocol ___ with permission
+from safety monitor given uptrending lipase (asymptomatic)
+- ___: C1D29 Nivolumab
+- ___: CT torso with continued decrease in size of pleural
+mets, no evidence of disease in abdomen/pelvis
+- ___: c2D1 Nivolumab
+- ___: C2D15 Nivolumab
+- ___: c2D29 Nivolumab
+- ___: C3D1 Nivolumab
+- ___: C3D15 Nivolumab
+- ___: C3D29 Nivolumab
+- ___: C4D1 Nivolumab
+- ___: C4D15 Nivolumab
+- ___: C4D29 Nivolumab
+- ___: C5D1 Nivolumab
+- ___: C5D15 Nivolumab
+- ___: C5D29 Nivolumab
+
+PAST MEDICAL HISTORY: 
+- Renal cell carcinoma, as above
+- Ipilimumab-induced autoimmune colitis
+- C. difficile colitis 
+- Adrenal insufficiency (post-surgical)
+- Carotid stenosis s/p carotid endartecetomy ___
+- Diabetes mellitus 
+- Elevated PSA
+- Hyperlipidemia 
+- Hypertension 
+- Obesity
+- Squamous cell carcinoma on the nose
+- Umbilical hernia repair
+- Anxiety

@@ -1,0 +1,65 @@
+Chief Complaint : fever, septic shock
+Past Medical History : PAST ONCOLOGIC HISTORY:
+Colon cancer stage IV, KRAS w/t, MSI intact, BRAF mutated
+- ___ Developed rapidly progressive bloating and 
+constipation
+- ___ Presented for evaluation of
+constipation/obstipation. CT torso showed a large near
+obstructing sigmoid mass as well as multiple hepatic mets,
+extensive periportal adenopathy versus mass, a left upper lobe
+lung lesion, and an adnexal mass separate from the colon cancer.
+Underwent urgent hemicolectomy which revealed ___ grade 
+mucinous
+adenocarcinoma pT4aN1Mx, LVI+, PNI+, extramural tumor deposits
+present. 
+- ___ Liver biopsy confirmed metastatic disease
+- ___ CT torso showed progression of liver mets and
+retroperitoneal and periportal adenopathy
+- ___ C1D1 FOLFOX6 (no bolus ___, LV 200 mg/m2) for
+baseline liver dysfunction
+- ___ C2D1 FOLFOX6 full dose given improved AST/ALT
+- ___ CT torso showed reduction in metastatic disease
+other than one pleural based nodule
+- ___ C3D1 FOLFOX6
+- ___ C4D1 FOLFOX6 + Neulasta (delayed one week for low
+ANC)
+- ___ treatment held for mucositis 
+- ___ CT torso showed further reduction in disease
+- ___ C5D1 FOLFOX (ci5FU 1800 mg/m2) + Neulasta
+- ___ CT torso showed showed stable disease
+- ___ CT torso showed showed stable disease
+- ___ CT torso showed increase in metastatic burden
+- ___ C6D1 FOLFOX (ci5FU 1800 mg/m2) + Neulasta
+- ___ C7D1 FOLFOX (ci5FU 1800 mg/m2) + Neulasta delayed
+per patient preference
+- ___ CT torso showed decease in metastatic disease
+- ___ C8D1 FOLFOX (ci5FU 1800 mg/m2) + Neulasta
+- ___ C9D1 FOLFOX (ci5FU 1800 mg/m2) + Neulasta
+- ___ CT torso showed decrease in metastatic disease
+- ___ Start treatment break per patient request
+- ___ C10D1 FOLFOX (ci5FU 1800 mg/m2) + Neulasta
+- ___ C11D1 FOLFOX (no bolus ___, LV 200 mg/m2, ci5FU 
+1800
+mg/m2) + Neulasta reduced for thrombocytopenia
+- ___ C12D1 FOLFOX (no bolus ___, LV 200 mg/m2, ci5FU 
+1800
+mg/m2) + Neulasta reduced for thrombocytopenia
+- ___ CT torso shows overall stable disease
+- ___ C13D1 FOLFOX (no bolus ___, LV 200 mg/m2, ci5FU 
+1800
+mg/m2) + Neulasta reduced for thrombocytopenia
+- ___ Held chemo for fatigue and weight loss. Offered
+___ ___.
+- ___ CT torso showed progressive disease
+- ___ Consented for ___ ___ pembrolizumab + AMG386
+
+PAST MEDICAL HISTORY:
+1. Colorectal cancer (stage IV), KRAS wild type, MSI intact, 
+BRAF
+mutated, pT4aN1Mx, LVI+, PNI+, extramural tumor deposits
+present
+   * Diagnosed ___ with bloating/constipation
+   * S/p FOLFOX6 (initially dose-reduced for baseline liver
+dysfunction)
+2. Palpitations
+   * ___ of hearts monitor without significant arrhythmia

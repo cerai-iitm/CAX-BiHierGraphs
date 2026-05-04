@@ -1,0 +1,155 @@
+Chief Complaint : Admission history and physical:
+
+CHIEF COMPLAINT: Fever
+
+HISTORY OF PRESENT ILLNESS:
+___ yo female with a history of pancreatic cancer who is admitted
+with pneumonia. The patient states that starting two days ago 
+she
+has had an intermittent fever as high as 102 and has had a cough
+and intermittent confusion. She has had some mild associated
+shortness of breath. She denies any nausea, constipation,
+dysuria, or rashes. Of note she was recently admitted from
+___ for confusion that no clear source was found but did
+resolve before her confusion restarted on two days ago.
+In the ED she was found to be febrile to 102.5. Labwork was
+notable for hyperbilirubinemia, anemia, and thrombocytopenia.  A
+chest x-ray was done which showed a pneumonia. A RUQ ultrasound
+was done and was unremarkable for any new findings. She was 
+given
+ceftriaxone and azithromycin. 
+
+REVIEW OF SYSTEMS:
+- All reviewed and negative except as noted in the HPI.
+
+PAST ONCOLOGIC HISTORY (per OMR):
+- Pancreatic cancer stage III (T4N0M0)
+- ___ Developed epigastric pain and nausea. 
+- ___ Seen for ongoing symptoms. Labs showed amylase 273,
+lipase 391, and mild transaminase elevations. 
+- ___ CT abdomen at ___ showed, "Ill-defined low 
+attenuation
+at the junction of the pancreatic head and body with adjacent
+inflammatory changes, probable portal confluence occlusion, and
+celiac and superior mesenteric artery origin wall thickening.
+Findings are concerning for a pancreatic neoplasm, or, less
+likely, focal pancreatitis. A 1.0 cm pancreatic tail lesion
+without pancreatic ductal dilation, most likely reflecting an
+intraductal papillary mucinous neoplasm."
+- ___ MR pan___ showed, "Ill-defined lesion at the
+junction of the pancreatic head and body with extension into the
+pancreatic head.  Associated findings include portal confluence
+and distal pancreatic duct occlusion as well as extension to the
+celiac and superior mesenteric artery origins without 
+significant
+narrowing. Findings are concerning for pancreatic neoplasm or
+focal pancreatitis. A  1.2 cm pancreatic tail cyst, most likely
+reflecting an intraductal papillary mucinous neoplasm."
+- ___ EUS showed, "A 1.9cm X 2.1cm ill-defined mass was
+noted in the head and neck of the pancreas with obliteration of
+porto-splenic confluence. FNA was performed. Several
+___ lymph nodes were visualized. FNA was performed.
+Mildly dilated PD. CBD obstruction by mass at the level of the
+head of pancreas. Unrelated pancreatic cyst in the tail of the
+pancreas, likely a SB-IPMN." Biopsies were nondiagnostic. 
+- ___ CT chest no metastatic disease
+- ___ EUS biopsy confirmed pancreatic cancer
+- ___ C1D1 neoadjuvant FOLFIRINOX D1,15
+- ___ to ___ Admitted for fever and neutropenia. 
+- ___ C2D1 modified FOLFIRINOX (no bolus ___, LV 200 mg/m2,
+irinotecan 150 mg/m2) D1,15
+- ___ CT showed no change in the pancreatic mass 
+- ___ C3D1 modified FOLFIRINOX (no bolus ___, LV 200 mg/m2,
+irinotecan 150 mg/m2)
+- ___ Held C3D15 dose for thrombocytopenia. 
+- ___ C3D15 modified FOLFIRINOX (no bolus ___, LV 200 
+mg/m2,
+oxaliplatin 65 mg/m2, irinotecan 150 mg/m2, ci5FU 1800 mg/m2)
+- ___ Start CK 
+- ___ Complete CK with 24 Gy to the tumor bed in three
+fractions
+- ___ CT torso showed decrease in size of pancreatic head
+mass, stable adenopathy
+- ___ C4D1 modified FOLFIRINOX (no bolus ___, LV 200 mg/m2,
+oxaliplatin 42.5 mg/m2, irinotecan 90 mg/m2, ci5FU 1200 mg/m2/46
+hrs) reduced and delayed for cytopenias
+- ___ C4D1 modified FOLFIRINOX (no bolus ___, LV 200 mg/m2,
+oxaliplatin 65 mg/m2, irinotecan 135 mg/m2, ci5FU 1800 mg/m2/46
+hrs) dose escalated for improving counts
+- ___ C5D1 modified FOLFIRINOX (no bolus ___, LV 200 mg/m2,
+oxaliplatin 65 mg/m2, irinotecan 135 mg/m2, ci5FU 1800 mg/m2/46
+hrs) 
+- ___ Held C6D1 for cytopenias
+- ___ Holding further chemotherapy given persistent
+cytopenias. 
+- ___ CT torso showed overall unchanged appearance of
+pancreatic head mass resulting in encasement of the celiac axis
+and superior mesenteric artery. There is also unchanged
+obliteration of the splenic and portal veins with cavernous
+transformation. 
+- ___ CT torso showed stable pancreatic mass with ongoing
+encasement of the celiac axis, no new disease
+- ___ CT torso showed stable pancreatic mass encasing the
+celiac axis
+- - ___ CT torso showed stable pancreatic mass encasing
+the celiac axis
+- ___ Signed preconsent for ___ ___ Gem/NAB/NPC1C
+- ___ CTA abdomen showed stable pancreatic mass encasing
+the celiac axis
+- ___ CT torso showed stable locally advanced pancreatic
+cancer without distant metastatic disease
+- ___ CT torso showed stable disease, rising CA ___
+- ___ PET CT showed avidity in the pancreatic tumor, no
+metastatic disease
+- ___ Completed 2500 cGy to pancreatic tumor 
+- ___ CTA abdomen showed stable disease, CA ___
+decreasing
+- ___ CTA torso showed stable disease, CA ___ increasing
+- ___ PET shows decreased avidity in pancreatic head mass
+but increased avidity in body c/w radiation changes, CA ___
+increasing
+- ___ CT torso shows slight decrease in the size of the
+pancreatic neck/body mass, now measuring 2.4 x 1.9 cm with 
+stable
+degree of arterial encasement and incidental new nonocculsive
+thrombus in her main portal vein. Started on Eliquis.
+- ___ C1D1 FOLFOX7 + Neulasta
+- ___ Chemo held for cytopenias
+- ___ C1D1 modified de Gramont (no ___ bolus, LV @ 200
+mg/m2 due to cytopenias) + Neulasta
+- ___ Admitted for AMS c/w toxic metabolic 
+encephalopathy.
+Infectious workup negative. MRI negative.
+- ___ C2D1 modified de Gramont (no ___ bolus) + Neulasta
+
+PAST MEDICAL HISTORY:
+- Portal vein thrombosis
+- Hypothyroidism
+- Osteoarthritis
+- HTN
+- s/p TAH for prolapse
+- s/p cholecystectomy
+- s/p appendectomy
+- s/p breast biopsy
+- s/p cosmetic surgery
+
+SOCIAL HISTORY:
+___
+FAMILY HISTORY:
+Her father and maternal uncle had colon cancer and her paternal
+uncle had throat cancer.
+
+HOME MEDICATIONS:
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Cyanocobalamin 1000 mcg PO DAILY 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Omeprazole 40 mg PO BID 
+5. Ondansetron 8 mg PO Q8H:PRN nausea 
+6. Potassium Chloride 30 mEq PO DAILY 
+7. Prochlorperazine 10 mg PO Q6H:PRN nausae 
+8. Zenpep (lipase-protease-amylase) 25,000-85,000- 136,000 unit
+oral TID W/MEALS 
+
+Allergies  (Last Verified ___ by ___:
+codeine
+Past Medical History : as above

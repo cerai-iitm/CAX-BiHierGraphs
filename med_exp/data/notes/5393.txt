@@ -1,0 +1,28 @@
+Chief Complaint : SOB, L sided thoracic pain
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Diagnosed on ___- NSCLC
+Hypertension, Essential 401.9 
+ Hypothyroidism 244.9 
+ Hyperlipidemia LDL goal < 100 272.4 
+ Gastrointestinal bleeding, upper 578.9 
+ HEARING LOSS, UNSPEC 389.9 
+ DM (diabetes mellitus) type II controlled with eye
+manifestation 250.52 
+ FAMILY HISTORY ISCHEMIC HEART DISEASE V17.3 
+ Lung Disease, Interstitial 515 
+ Thyroid nodule 241.0 
+ Colonic adenoma ___ 
+ RENAL CYST - SINGLE CONGEN 753.11 
+Past Medical History 
+Diagnosis Date 
+ Duodenal ulcer, unspecified as acute or chronic, without
+hemorrhage, perforation, or obstruction ___ 
+    Converted Data 
+ Hemorrhoids ___ 
+    Converted Data 
+ Ingrown nail ___ 
+    Converted Data 
+Past Surgical History 
+Procedure Date 
+ Hysterectomy - total abdominal   
+    for fibroids, 88

@@ -1,0 +1,22 @@
+Chief Complaint : Chest pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes (most recent A1c 6.9%)
+- Hypertension  
+- Dyslipidemia  
+- Morbid obesity
+2. CARDIAC HISTORY  
+- CAD
+--- LAD stent in ___, restented in ___ due to restenosis
+--- CABG with LIMA-LAD and SVG-RCA
+--- PCI to LCx/OM lesions in ___
+--- PCI to distal L main/LCx stent in ___
+- Pump? ECHO? CHF?  LVEF ___, Moderate AS, Mod-Severe MR 
+- Rhythm? AFib? Pacemaker?  Sinus rhythm 
+3. OTHER PAST MEDICAL HISTORY  
+# NIDDM  
+# Dyslipidemia  
+# Hypertension  
+# Obesity  
+# s/p Tonsillectomy  
+# s/p Appendectomy  
+# s/p trauma R middle finter w/ amp

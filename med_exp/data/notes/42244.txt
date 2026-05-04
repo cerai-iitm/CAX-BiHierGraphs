@@ -1,0 +1,12 @@
+Chief Complaint : Chest Pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes, insulin dependent, last A1c ___ 12.4%
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- Complex Migraine
+- R carpal tunnel

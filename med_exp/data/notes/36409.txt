@@ -1,0 +1,24 @@
+Chief Complaint : chest pain
+Past Medical History : -DM2  
+-MIGRAINES (dx ___  
+-OBESITY  
+-SHINGLES  
+-OSA  
+-ASTHMA  
+-ATYPICAL CHEST PAIN  
+-LOW BACK PAIN  
+-COLONIC POLYPS  
+-IRRITABLE BOWEL SYNDROME  
+-GERD  
+-___'S THYROIDITIS  
+-SINUSITIS  
+-DIPLOPIA  
+-DELAYED SLEEP PHASE SYNDROME  
+-___ NEUROMA  
+-DIABETIC NEUROPATHY  
+-MIGRAINE HEADACHES  
+-ABNORMAL LIVER FUNCTION TESTS  
+PSH: 
+-Bladder cauterization
+-Tonsillectomy
+-Adenoidectomy

@@ -1,0 +1,95 @@
+Chief Complaint : auto
+Past Medical History : ONCOLOGIC HISTORY (per outpatient note):
+-___: ___ yo female with history of CVA, HL, and remote
+seizure disorder with a diagnosis of DVT 1 week ago presented
+with fevers and hypotension to ___.  She reported ___ weeks of
+fevers up to 103.She was recently admitted to ___ for
+fever. Extensive infectious work up was negative. She felt a bit
+better on steroids but then this effect did not last and she
+developed lower extremity edema. She did have a CT torso that 
+showed diffuse lymphadenopathy concerning for lymphoma. She had 
+a lymph node biopsy, with path from ___ concerning for a T cell 
+lymphoma but this was not confirmed when she was transferred to
+___ from the rehab facility. She noted that an asympomatic DVT
+was found in her right leg at ___ and she was started on 
+Lovenox.
+She was discharged to rehab for "deconditioning", but 
+developed fevers again so was sent back to ___ and then she was 
+transferred here for further evaluation. 
+
+-___: Path confirmed at ___ to be PTCL-NOS.
+Age>___
+Stage IV disease, LDH elevated at presentation
+No extranodal sites
+B symptoms present
+PS 3 due to disease
+IPI score :4
+
+High risk disease with survival of about ___ at ___ years.
+-___: B/L ___ dopplers demonstrated right posterior tibial and
+peroneal vein DVT.
+
+-___: Echo at ___ demonstrated dilated right ventricle with
+borderline systolic function. Normal global and regional left
+ventricular systolic function. Moderate pulmonary hypertension.
+ 
+-___: At ___ PET scan performed demonstrated extensive,
+diffuse, FDG avid lymphadenopathy, most prominent in the 
+axillary
+regions, the right external iliac chain and right inguinal
+regions as well as in the para-aortic regions.  FDG avid
+splenomegaly wasalso noted.
+
+-___: BM biopsy performed demonstrated lymphoma involvement of
+marrow.
+
+-___: Treated with CHOEP 21 CYCLE 1.
+
+-___: Rcd Neulasta at ___ with Dr ___.
+ 
+-___: Admitted to ___ for febrile neutropenia. No source
+of fever identified. Improved on antibiotics and discharged to
+rehab.
+
+-___: admitted for cycle 2 of CHOEP. Tolerated well 
+without
+any complications. Rcd Neulasta at ___ with Dr ___ 
+interim
+checks along with Cipro for prophylaxis. No complications.
+
+-___: PET after cycle 2 demonstrated near CR.
+
+-___: Admitted for cycle 3. Tolerated well without
+infections. Rcd Neulasta and Cipro for prophylaxis.
+
+-___: Rcd Cycle 4 at ___ with Dr ___.
+
+-___: Rcd cycle 5 at ___. Tolerated well without
+complications.
+
+-___: PET after cycle 5 demonstrated ___ dopplers performed
+showed resolution of clot in rt tibial and peroneal DVT. Hence
+Lovenox stopped.
+
+-___: Rcd cycle 6 at ___. Tolerated well without
+complications.
+
+-___: Admitted for HD cytoxan administration. Tolerated
+well. Rcd Neupogen at ___ daily.
+
+-___: Stem cell harvest attempted. Could not harvest 
+enough
+CD34 pos cells despite use of Mozobil. Only 0.25 million 
+cells/kg
+of CD34 pos cells collected. Process aborted with the goal of
+giving time for BM recovery and then reattempting collection 
+with
+G-CSF and Mozobil.
+
+PMH:
+-PTCL NOS (see above)
+-CVA ___, without residual defect, not on any medications
+-Dyslipidemia
+-DVT ___, off Lovenox
+-Remote seizure disorder, not on any medications
+-Glaucoma

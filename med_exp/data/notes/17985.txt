@@ -1,0 +1,27 @@
+Chief Complaint : Abdominal pain
+Past Medical History : HYPONATREMIA                                                    
+ANTIPHOSPHOLIPID SYNDROME                                       
+PULMONARY EMBOLISM                                              
+ANEMIA                                                          
+HYPERTENSION                                                    
+HYPERCHOLESTEROLEMIA                                            
+DIASTOLIC DYSFUNCTION SEEN ON ECHO                              
+DYSPNEA ON EXERTION                                             
+ABDOMINAL PAIN                                                  
+ESOPHAGEAL SPASM                                                
+OSTEOARTHRITIS                                                  
+OSTEOPENIA                                                      
+POLYMYALGIA RHEUMATICA                                          
+TEMPORAL ARTERITIS                                              
+CHRONIC CONSTIPATION                                            
+GASTROESOPHAGEAL REFLUX                                         
+HIATAL HERNIA                                                   
+BACK PAIN                                                       
+SHOULDER PAIN                                                    
+
+CATARACT                                                        
+DEAFNESS                                                        
+GLAUCOMA                                                        
+H. PYLORI                                                       
+INTERNAL HEMORRHOIDS                                            
+RETINAL DETACHMENT

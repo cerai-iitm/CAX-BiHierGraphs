@@ -1,0 +1,40 @@
+Chief Complaint : acute on chronic abdominal pain
+Past Medical History : Oncology History:
+- ___:  developed abdominal pain, nausea, weight loss
+- extensive workup without etiology
+- ___:  CT showed slight narrowing of the proximal SMA with
+suggestion of a mass arising from the pancreatic uncinate with
+partial obliteration of the fat planes.  
+- ___:  EUS confirmed an irregular 3.2 cm mass with
+well-defined borders and evidence of SMA encasement.  A few
+malignant appearing peripancreatic LNs were seen, FNA of mass 
+c/w
+adenocarcinoma, LN negative.    
+- ___:  port placement
+- ___:  C1D1 FOLFIRINOX held for pain - reschedule to ___
+- ___:  C1D1 FOLFIRINOX
+- ___:  celiac plexus neurolysis
+- ___:  C2D1 FOLFIRINOX
+- ___:  C3D1 FOLFIRINOX HELD for bleeding
+- ___:  C3D1 FOLFIFINOX HELD for pain
+- ___:  C3D1 FOLFIRINOX
+- ___:  C3D15 HELD for pain, chest pain
+- ___:  C3D15 FOLFIRINOX
+- ___:  admission for DKA
+- ___:  C4D1 FOLFIRINOX (held a week for fatigue)
+- ___:  pain crisis in clinic
+- ___:  C4D15 FOLFIRINOX
+- ___:  C5D1 FOLFIRINOX
+
+PMH/PSH:
+DM2
+CAD s/p MI (___)
+HTN
+HLD
+BPH
+s/p lumbar disc surgery c/b spinal cord hematoma with resultant
+paralysis x 2 weeks (now resolved) 
+Chronic neoplasm related pain s/p CPN 
+Anxiety/Depression
+SMV Thrombosis (edoxaban)
+Hemorrhoid

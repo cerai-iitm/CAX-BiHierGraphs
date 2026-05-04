@@ -1,0 +1,48 @@
+Chief Complaint : Elective Admission for HD MTX
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+___ with sxs of fatigue since xmas, 25 pound weight
+loss, decreased appetite.  
+___- liver u/s showed hepatomegaly with multiple large 
+hepatic
+masses; CT head normal; CT C/A/P (___) showed bilateral 
+pulmonary
+nodules, mostly subcentimeter, markedly enlarged liver with
+multiple masses, largest 10 cm; small but likely abnormal
+periaortic lymph nodes, massive mesenteric lymph nodes (largest
+measures 5.1 x 4.2 x 3.6 cm located in the small bowel 
+mesentery;
+lytic metastases in right L5 transverse process, large lytic
+lesion left sacrum, tiny lytic lesions throughout the pelvic
+bones, occasional subcentimeter cutaneous nodules in right chest
+and lower back
+___- u/s guided liver biopsy (___) showed high grade B cell
+lymphoma, follicular center type, Ki67 >90%. Flow showed
+population of monotypic B cells positive for CD19, CD20, and 
+CD10
+consistent with involvement with B cell lymphoproliferative d/o
+of follicular cell type; cytogenetics unable to be done as there
+were no mitotic cells in the specimen; FISH showed IGH/BCL2
+rearrangement but negative for BCL6 and MYC
+___- bone marrow biopsy- no definite involvement by 
+lymphoma;
+one small lymphoid aggregate was seen and flow cytometry showed 
+a
+minute population of atypical B cells that co-expressed CD10 and
+had lambda skewered light chain restriction; could not r/o
+possibility of minimal marrow involvement; cytogenetics normal;
+FISH positive for IGH/BCL2 rearrangement; negative for BCL6 and
+MYC rearrangements
+___- started prednisone 100 mg qd
+___- cycle 1 CHOP
+___- cycle 1 rituxan
+___- cycle 2 R-CHOP
+___- ___ MTX 3.5gm/m2
+___ C# RCHOP
+___- PET ___ at ___
+PAST MEDICAL HISTORY (per OMR):
+  Hypercholesterolemia  E78.0  
+  Low back pain  M54.5  
+  Hearing loss  H91.90  
+  Prostatitis  N41.9  
+  Elevated LFTs  R79.89  
+  Lymphoma  C85.90

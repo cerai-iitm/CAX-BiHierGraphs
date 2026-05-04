@@ -1,0 +1,49 @@
+Chief Complaint : Chest pain
+Past Medical History : -CAD with LBBB
+-AV block s/p pacemaker in ___ 
+Model: ___ Adapta dual-chamber pacemaker
+Rhythm: 95% atrial and ventricular sensed, 5% atrial paced, less 
+than 1% ventricular paced.  There was no atrial fibrillation or 
+ventricular high-rate activity.
+Mode: MVP mode, AAIR/DDDR, lower rate 60 bpm, maximum sensor 
+rate 110 bpm.  The mode switch feature is ON for atrial rates 
+greater than 175 bpm.
+- History of Diastolic heart failure
+-HTN   
+-DM type II   
+-diabetic neuropathy  
+-OSA on CPAP  
+-HLD  
+-gout with podagra  
+-chronic LBP   
+-colonic polyp ___  
+-ED, on testosterone  
+-s/p R knee replacement  
+-s/p cataract surgery ___  
+-RFA R-GSV ___  
+-left knee arthroscopy, partial medial meniscectomy and 
+chondroplasty ___
+-CAD with LBBB
+-AV block s/p pacemaker in ___ 
+Model: ___ Adapta dual-chamber pacemaker
+Rhythm: 95% atrial and ventricular sensed, 5% atrial paced, less 
+than 1% ventricular paced.  There was no atrial fibrillation or 
+ventricular high-rate activity.
+Mode: MVP mode, AAIR/DDDR, lower rate 60 bpm, maximum sensor 
+rate 110 bpm.  The mode switch feature is ON for atrial rates 
+greater than 175 bpm.
+- History of Diastolic heart failure
+-HTN   
+-DM type II   
+-diabetic neuropathy  
+-OSA on CPAP  
+-HLD  
+-gout with podagra  
+-chronic LBP   
+-colonic polyp ___  
+-ED, on testosterone  
+-s/p R knee replacement  
+-s/p cataract surgery ___  
+-RFA R-GSV ___  
+-left knee arthroscopy, partial medial meniscectomy and 
+chondroplasty ___

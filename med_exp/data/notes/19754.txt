@@ -1,0 +1,35 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : PAST ONCOLOGIC HISTORY: per OMR
+- ___ left breast CNB: 0.8 cm grade 3 IDC, ER pos, PR neg,
+HER2 2+ by IHC; HER2:CEP17 ratio 1.5; HER2 copy number 4.62;
+HER2:P53 ratio 2.7 (HER2 POS). Also high grade DCIS.
+- ___ left breast lumpectomy/SNB: single focus of grade 3 IDC
+with T-stage note: "By imaging studies, the tumor measured up to
+1.6 cm. On histologic examination, the largest microscopic
+diameter of invasive carcinoma was 0.9 cm, but none of the
+sections appear represent the full diameter of the tumor.
+Therefore the tumor size on the imaging studies should be used
+for T-staging." Node pos ___ (macromet). Summary of HER2 testing
+from excision: IHC neg; HER2:CEP17 ratio 1.0; HER2 copy number
+3.65; HER2:P53 not repeated.
+-___: C1D1 TCH; loading dose trastuzumab
+-___: C2D1 TCH
+-___: C3D1 TCH
+-___: C4D1 TCH (delayed by 1 week due to family gathering)
+-___: admitted for chemo-related n/v
+-___: C5D1 TCH 
+-___: drainage of an inflammed seroma of the left breast
+- ___: started EBRT
+PAST MEDICAL HISTORY: 
+- Prior remote right breast excisional biopsy in ___,
+benign per pt report
+- DM, managed with insulin and metformin
+- Hypothyroid
+- HTN
+- Depression and anxiety (Dr. ___
+- Cervical spondylosis
+- OSA with CPAP
+- Neurocysticercosis per OMR? (pt denies)
+- Arthritis
+- Cataracts
+- Gastritis

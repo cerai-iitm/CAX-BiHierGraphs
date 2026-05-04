@@ -1,0 +1,32 @@
+Chief Complaint : Scheduled Chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+___ man without previous known medical
+history who presented with progressive diffuse chest pain and
+bilateral lower extremity weakness. ED evaluation ___ with
+unremarkable CXR and EKG; discharged home with plans to set up
+with a PCP. Over the interim he developed progressive bilateral
+leg weakness, numbness and tingling with fall for which he
+presented on ___. CTA c/a/p and MR spine revealed 5.3cm lesion
+in T4 with severe cord compression, T10 lesion, multiple hepatic
+lesions (largest 11.5cm in right lobe) and multiple splenic
+lesions (largest 3.6cm). He was transferred to neurosurgery
+service started on dexamethasone and on ___ underwent
+fusion/instrumentation T1 to T8, and decompression of tumor T3 
+to
+T5 through laminectomies. Pathology revealed moderately
+differentiated hepatocellular carcinoma. Hepatitic C serology
+positive with viral load 6.3 IU/ml. Elevated AFP 165 on 
+___.
+C1D1 FOLFOX ___
+C2D1 FOLFOX ___
+C2D15 FOLFOX ___
+C3D1 FOLFOX ___
+C3D15 FOLFOX ___
+PAST MEDICAL HISTORY:
+___ diagnosis of metastatic HCC with HCV infection.
+___:
+1. Fusion, T1 to T8.
+2. Instrumentation, T1 to T8.
+3. Decompression of tumor T3 to T5 through laminectomies.
+4. Multiple thoracic laminotomies.
+5. Autograft and allograft.

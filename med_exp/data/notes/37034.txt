@@ -1,0 +1,37 @@
+Chief Complaint : labor
+Past Medical History : PMH: UTI (urinary tract infection) ; Rosacea; Insomnia (long 
+standing problem)
+
+PSH: Past Surgical History:
+ ganglion cyst removed                            ___      
+
+Past OB Hx:
+Obstetric History
+ G2  P0    T0  P0  A1  E0  M0  L0
+ Comment: Reviewed ___ 14Cycle: Reg and q 1mAbnl 
+pap: NeverHPV Vaccine:  yesGyn Dx: Frequent UTIsPelvic Surg: 
+None
+
+Current pregnancy:
+G2, P0, Term0, Preterm0, Abt1, Sab1, Tab0, Ect0, Live0, ___ 
+___, by Ultrasound
+BLOODGRP        O   ___
+RH   RH (D) NEGATIVE   ___
+ABSCREEN   SEE BELOW   ___
+RUBELLASEROL      7.7   ___
+HBSAG   Negative   ___
+1 Hr GTT 121
+SYPHSCRINTER   Non-Reactive   ___
+GBS Neg
+TWG: 21 lb
+Estimated body mass index is 31.01 kg/(m^2) as calculated from 
+the following:
+ Height as of ___: 5' 3" (1.6 m).
+ Weight as of ___: 175 lb (79.379 kg).
+
+Issues:
+
+1.  RH neg--received Rhogam ___
+2.  GBS neg
+3.  TWG 21 lb, BMI 31
+4.  Rubella Non Immune--needs MMR

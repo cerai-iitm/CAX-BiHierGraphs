@@ -1,0 +1,10 @@
+Chief Complaint : Ibrutinib initiation
+Past Medical History : Past Medical History
+==========================
+-Liver hemangioma 
+-Ovarian cystectomy
+-Thalassemia of unknown type
+
+Treatment History
+=========================
+Ibrutinib: D1 ___

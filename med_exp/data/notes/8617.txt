@@ -1,0 +1,16 @@
+Chief Complaint : Shortness of breath
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- Multivessel CAD (no prior cath report) 
+- Pump: EF 15% 
+- Atrial thrombus in ___ on warfarin 
+3. OTHER PAST MEDICAL HISTORY 
+-HTN
+-Dyslipidemia
+-DVT
+-Atrial thrombus
+-CKD 
+-T2DM diet controlled

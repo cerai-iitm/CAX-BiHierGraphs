@@ -1,0 +1,11 @@
+Chief Complaint : Sigmoid colon cancer
+Past Medical History : PMH:
+Hypertension
+Hypothyroidism
+Rheumatoid arthritis
+Pulmonary embolism 
+Colon cancer
+
+PSH:
+Right femur repair (___)
+Cholecystectomy (___)

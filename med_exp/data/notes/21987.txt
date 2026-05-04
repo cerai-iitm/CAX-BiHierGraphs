@@ -1,0 +1,17 @@
+Past Medical History : PSHx:
+Past Surgical History  
+Procedure  Laterality  Date  
+  No signif surgical hx      
+  Ablate >/=1 liver tumor(s), percutan, cryoablation      
+    ablation ___ of liver adenoma  
+
+PMHx:
+Past Medical History  
+Diagnosis  Date  
+  NO ___ MEDICAL HX    
+  Liver mass  ___  
+  RUQ pain  ___  
+  Asthma    
+  Migraine    
+  Dyslipidemia    
+  UTI (lower urinary tract infection)

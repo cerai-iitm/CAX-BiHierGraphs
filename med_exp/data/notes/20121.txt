@@ -1,0 +1,29 @@
+Chief Complaint : headache
+Past Medical History : As per last clinic note by Dr ___:
+___ Left sided weakness started
+___ Head CT showed right frontal mass
+___ Brain MRI showed right frontal mass
+___ CT torso negative
+___ fMRI
+___ Partial resection of the right frontal mass by Dr.
+___: glioblastoma
+___ Brain MRI
+___ - ___ IMRT/TMZ by Dr. ___
+___ Brain MRI stable
+___ Seizure
+___ C1 TMZ
+___ ED visit at ___ for chest discomfort
+___ CT-A chest was negative
+___ C2 TMZ
+___ Brain MRI planned"
+ 
+PAST MEDICAL HISTORY:  
+1. Right frontal glioblastoma
+2. Viral encephalitis, ___
+3. Left elbow dislocation 
+4. Dyslipidemia
+5. Concussion without LOC, ___
+6. Concussion without LOC, ___
+7. Atrial fibrillation
+8. Seizure
+9. h/o PE

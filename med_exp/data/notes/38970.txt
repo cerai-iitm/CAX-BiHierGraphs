@@ -1,0 +1,12 @@
+Chief Complaint : AML, scheduled chemotherapy admission
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+___ INITIAL BMBX AML, WBC 350, 000. Underwent resection of
+leukapheresis
+___ INDUCTION idarubicin and Cytarabine ( +NPM1, -FLT3)
+___ D+14 BMBx ablated,
+___ D+22 LP with IT MTX (negative)
+___ D+29 BMBx done, hematologic remission by CBCD
+
+PAST MEDICAL HISTORY (per OMR):
+Steroid induced hyperglycemia during chemotherapy
+Hemorrhoids

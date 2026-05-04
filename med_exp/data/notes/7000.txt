@@ -1,0 +1,14 @@
+Chief Complaint : Chest pain
+Past Medical History : PAST MEDICAL HISTORY:
+===================== 
+1. CARDIAC RISK FACTORS  
+- Diabetes
+- Dyslipidemia
+- 30 PY Smoking history, quit ___ years ago.
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY
+- Colon Cancer s/p colectomy
+- BPH

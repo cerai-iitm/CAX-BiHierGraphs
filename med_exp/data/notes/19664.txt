@@ -1,0 +1,10 @@
+Chief Complaint : elective ICD lead extraction c/b anaphylaxis
+Past Medical History : 1. CARDIAC RISK FACTORS   
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CAD s/p CABG/MI ___ s/p RCA DES ___ 
+- HFpEF 
+- PAF on Xarelto
+-Original ICD Implant ___ or ___ per patient, ___ 
+ICD ___

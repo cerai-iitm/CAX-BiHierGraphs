@@ -1,0 +1,17 @@
+Chief Complaint : Probably metastatic ovarian cancer
+Past Medical History : Gynecologic history:
+Menarche at age ___.  
+Menopause at age ___.
+Denies use of birth control or hormone replacement therapy.
+
+Preventative healthcare:
+Colonoscopy ___
+Mammogram ___
+Bone mineral density study never
+Last visit with PCP ___
+
+PMH:
+Pelvic mass.
+Carcinomatosis.
+Elevated CA125.
+Sinusitis.

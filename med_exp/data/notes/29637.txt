@@ -1,0 +1,20 @@
+Chief Complaint : Aortic Stenosis
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes Mellitus type II  
+- Hypertension  
+- Dyslipidemia  
+
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+
+3. OTHER PAST MEDICAL HISTORY  
+- Left thalamic CVA in ___ with residual right facial and 
+right shoulder hypersensitivity and shooting pains in right 
+lower extremity. 
+- OSA, not on CPAP
+- Recurrent PNA
+- Squamous cell carcinoma/melanoma
+- Obesity
+- Depression

@@ -1,0 +1,11 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : PMH:
+atrial fibrillation on eliquis
+BPH
+GERD
+HTN
+HLD
+
+PSH:
+cardiac ablation for afib
+bilateral shoulder surgery

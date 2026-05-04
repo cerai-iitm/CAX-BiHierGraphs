@@ -1,0 +1,38 @@
+Chief Complaint : admitted for C3 of EPOCH
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+==================================
+-Admitted ___ to ___ and found to have new diagnosis of 
+Double Hit High Grade B-cell Lymphoma.
+-Pt had presented with abdominal pain during a previous 
+admission
+___ and was found to have mesenteric/mediastinal/bony lesions
+on abdominal lymph node biopsy, which pathology confirmed as
+double hit high grade B cell lymphoma.
+-___: CT Abd/pelvis: 
+Mesenteric and shotty periaortic lymph node enlargement
+associated splenomegaly (16.5 cm) and focal splenic lesions
+concerning for lymphoproliferative disease.
+-___: CT Chest:
+Multiple mediastinal lymph nodes ranging up to 12 mm at the 
+right
+upper paratracheal area, 7 mm at the aortopulmonic window, 9 mm
+at the sub-carinal area, 14 mm in the right hilus.  No enlarged
+axillary lymph nodes demonstrated. Lytic lesion with soft tissue
+component is involving lateral aspect of the right 6 rib, series
+3, image 111, series 601, image 42, approaching 3 x 1.7 x 17 mm. 
+
+Additional sclerotic/lytic lesion is demonstrated in T1
+-___: Lymph node core biopsy: HIGH-GRADE B-CELL LYMPHOMA 
+WITH
+MYC AND BCL2 REARRANGEMENTS 
+___: Immunophenotypic findings consistent with involvement 
+by
+a CD10 positive B-cell lymphoma
+___: C2 EPOCH at level 2 with rituxan
+
+PAST MEDICAL HISTORY (per OMR):
+===============================
+HTN
+Schizophrenia
+Vit D deficiency
+Obesity

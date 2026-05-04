@@ -1,0 +1,5 @@
+Chief Complaint : The patient is a ___ year-old female with long
+standing left upper extremity lymphedema confirmed by
+pre-operative imaging including MRI, lymphoscintigraphy, and
+bioimpedance spectroscopy.
+Past Medical History : breast ca, lymphedema RUE

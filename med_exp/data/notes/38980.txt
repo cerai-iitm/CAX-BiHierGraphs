@@ -1,0 +1,63 @@
+Chief Complaint : altered mental status
+Past Medical History : Oncologic History (per outpatient oncology notes):
+=====================================================
+-___ Presented with r shoulder soreness
+-___ X-ray of right shoulder showed 4.2cm nodular mass within
+the right suprahilar region concerning for malignancy
+-___ CT chest showed a speculated 3.8 x 3.1 cm right upper
+lobe juxta-mediastinal mass. PET-CT on the same day showed a 3.6
+x 3.1 cm right upper lobe mass with an SUV of 6.9; there were no
+FDG-avid nodes or distant metastases.
+-___ MRI head showed no brain metastases
+-___ Patient underwent EBUS with TBNA of right upper lobe 
+mass
+on -___ with Dr. ___. Pathology was consistent with
+adenocarcinoma, TTF-1 positive and p63 negative. TBNA of station
+4R, 7, and 11R lymph nodes was negative for malignant cells.
+Mutation testing of ALK, EGFR, and KRAS revealed wild type in 
+all
+cases.
+-Patient was evaluated by Dr. ___ in Surgical ___, who did
+not recommend primary surgical treatment of the right upper lobe
+adenocarcinoma given poor performance status. She was also
+evaluated by Dr. ___ in Medical ___, who did not
+recommended chemotherapy given early stage disease and poor
+performance status.
+-With Dr. ___ received definitive CyberKnife SBRT.
+Patient received 55 Gy given in five fractions of 11 Gy ending
+___.
+-Follow-up PET-CT on ___ showed that RUL nodule was
+smaller
+and less FDG-avid compared with initial imaging. There was no
+FDG-avid hilar or mediastinal adenopathy, and no FDG-avid 
+lesions
+in the abdomen, pelvis, or bones.
+-Follow-up scans between ___ and ___ showed no
+evidence of disease recurrence or metastasis.
+-CT chest ___ revealed RUL mass had increased in size to 
+4.3
+x 2.7 cm compared with 3.0 x 2.2 cm on the prior exam; there was
+also a development of numerous additional lung nodules, which
+were either new or increased in size, for example, a RLL nodule
+that measured 0.9 x 0.6 cm compared with 0.5 x 0.4 cm. There was
+a new small right pleural effusion. There was no hilar or
+mediastinal lymphadenopathy. PET-CT on ___ showed RUL mass, SUV
+6.39, and multiple bilateral mildly FDG-avid lung nodules.
+-SNaPshot analysis of tumor returned with MET exon 14 skippin
+mutation, for which patient was started on crizotinib in 
+___.
+
+Past medical history: 
+======================
+- Lung cancer, stage 4 with brain mets
+- Paroxysmal AF not on anticoagulation
+- HF with preserved LVEF
+- Hypertension
+- GERD
+- H. pylori s/p treatment
+- Cervical stenosis at C5-C6
+- Obesity
+- Osteoarthritis
+- Gout
+- Left eye blindness
+- Morbid obesity

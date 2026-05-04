@@ -1,0 +1,11 @@
+Chief Complaint : Hemoptysis
+Past Medical History : 1. Stroke in ___ with residual right footdrop and gait 
+disorder.
+2. Vascular dementia.
+3. Hyperlipidemia.
+4. Asthma.
+5. Anxiety.
+6. Benign prostatic hypertrophy.
+7. Allergic rhinitis.
+8. Restless legs syndrome.
+9. Alzheimer disease.

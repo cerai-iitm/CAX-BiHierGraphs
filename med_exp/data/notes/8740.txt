@@ -1,0 +1,16 @@
+Chief Complaint : Failure to thrive
+Past Medical History : PAST MEDICAL HISTORY
+-Poorly differentiated carcinoma in the liver, no clear primary.
+-HCV-induced cirrhosis, SVR.
+-Hypertension.
+-Asthma.
+-Obesity.
+-History of ectopic pregnancy complicated by rupture requiring
+blood transfusion in ___.
+-Nephritis.
+-Depression and anxiety.
+
+PAST SURGICAL HISTORY
+-Cholecystectomy in ___.
+-Hysterectomy in ___. (R ovary left in place)
+-Hiatal hernia repair in ___.

@@ -1,0 +1,40 @@
+Chief Complaint : Oxaliplatin Desensitization
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Ms. ___ first started noticing some unintentional weight loss 
+over the past 3 months. She recently noticed some blood in her 
+stool and presented to her PCP at ___ 
+___ (Dr. ___ on ___. She underwent colonoscopy by Dr. 
+___ on ___ which yielded a large lesion in the rectum. Biopsy 
+was taken and is positive for low grade adenocarcinoma. She was 
+then referred to ___ for further workup. A CT torso on ___ was 
+
+performed and showed multiple large liver mets and a 2 cm lung 
+nodule concerning for metastasis. An MRI pelvis on ___ was 
+unable to be completed due to the presence of an IUD. 
+- ___ C1D1 FOLFOX 
+- ___ C2D1 FOLFOX + Neulasta (no ___ due to neutropenia) 
+- ___ CT torso shows decrease in pulmonary nodules and 
+primary rectal mass, stable liver mets 
+- ___ C3D1 FOLFOX7 + Avastin 
+- ___ C4D1 FOLFOX7 + Avastin, D1 oxaliplatin aborted due to 
+
+allergic reaction, D15 delayed due to need for desensitization. 
+- ___ CT torso shows decrease in primary tumor and liver 
+mets 
+- ___ C5D1 FOLFOX7 + Avastin with 3 bag oxaliplatin 
+desensitization 
+- ___ C6D1 FOLFOX7 + Avastin with 3 bag oxaliplatin 
+desensitization 
+- ___ CT torso show stable disease 
+- ___ C7D1 FOLFOX7 + Avastin with 3 bag oxaliplatin 
+desensitization 
+- ___ C7D15 FOLFOX7 + Avastin with 3 bag oxaliplatin 
+desensitization 
+- ___ C8D15 FOLFOX + Avastin with 3 bag oxaliplatin 
+desensitization 
+- ___ admit for C9D1 FOLFOX + Avastin with 3 bag oxaliplatin 
+desensitization
+PAST MEDICAL HISTORY:
+- PPD Positive
+- Left Breast Fibroadenoma
+- Vitamin D Deficiency

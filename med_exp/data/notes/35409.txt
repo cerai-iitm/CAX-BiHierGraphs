@@ -1,0 +1,28 @@
+Chief Complaint : Syncope
+Past Medical History : ASTHMA                                                          
+HYPERTENSION                                                    
+DEPRESSION                                                      
+GASTROESOPHAGEAL REFLUX                                         
+IRON DEFICIENCY ANEMIA                                          
+LACTOSE INTOLERANCE                                             
+ALLERGIC RHINITIS                                               
+OBESITY                                                         
+SLEEP APNEA                                                     
+GLUCOSE INTOLERANCE                                             
+H/O HEMATEMESIS                                                 
+H/O MICROSCOPIC HEMATURIA                                       
+H/O PULMONARY NODULE                                            
+H/O VENTRICULAR TACHYCARDIA                                     
+H/O SMALL INTESTINAL BACTERIAL OVERGROWTH                       
+H/O NORMAL COLONOSCOPY ___                                     
+H/O ABNORMAL PAP SMEAR                                          
+H/O S/P ROUX-Y GASTRIC BYPASS
+
+Past Surgical History:
+GASTRIC BYPASS  ___      
+Roux-en-Y gastric bypass                                        
+ROTATOR CUFF REPAIR                                             
+APPENDECTOMY                                                    
+CHOLECYSTECTOMY                                                 
+TRIGGER FINGER RELEASE                                          
+DILATION AND CURETTAGE

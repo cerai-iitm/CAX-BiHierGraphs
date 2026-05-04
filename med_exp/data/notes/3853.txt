@@ -1,0 +1,14 @@
+Chief Complaint : draining left hip wound, infection of left hip wound
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- Denies history of heart disease, heart failure, or MI 
+3. OTHER PAST MEDICAL HISTORY
+- Chronic musculoskeletal pain with multiple joint replacements
+- PE/DVT ___, on warfarin until ___
+4. SURGICAL HISTORY
+- B/L Knee replacements ___ years ago, ___ years ago)
+- B/L Shoulder replacements ___ years ago, ___ years ago)
+- C-section x2 ___ years ago)

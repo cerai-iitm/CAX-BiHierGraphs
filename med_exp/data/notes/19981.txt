@@ -1,0 +1,20 @@
+Chief Complaint : fever; DVT
+Past Medical History : PAST MEDICAL HISTORY
+#  Type 2 diabetes, insulin-dependent.  
+#  Right shoulder rotator cuff syndrome
+#  Questionable liver cirrhosis d/c HCV
+#  Chronic Hepatitis C; d/x approx ___ yrs ago
+- possibly complicated by portal hypertension 
+- s/p 3 courses of treatment between ___ (failed):
+1) included one year of treatment of regular interferon and 
+ribavirin
+2) included peginterferon and ribavirin for one year in ___
+3) included weight-based peginterferon and ribavirin in ___
+#  Hypertension
+#  Obesity
+#  Hx RLE recurrent cellulitis in the past. Estimates 6 
+episodes. Most recent ___ yrs ago.
+.
+PAST SURGICAL HISTORY
+#  Right shoulder rotator cuff surgery.  
+#  Left knee surgery.

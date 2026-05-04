@@ -1,0 +1,18 @@
+Chief Complaint : Labor
+Past Medical History : OBHx: G3P0020
+G1 - ___ - SAB with medication
+G2 - ___ - TAB with medications
+G3 - current 
+ 
+GynHx:
+- denies abnormal pap or fibroids
+- ovarian cysts that resolved spontaneously
+- hx of GC/CT but remote; Prenatal GC/CT reported as negative
+ 
+PMH: back pain, obesity, Vit D deficiency, HLD
+ 
+PSH: Laparoscopic sleeve gastrectomy ___
+ 
+Meds: PNV
+ 
+All: NKDA; pineapples cause anaphylaxis

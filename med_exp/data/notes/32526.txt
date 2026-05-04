@@ -1,0 +1,28 @@
+Chief Complaint : Exertional chest pressure
+Past Medical History : Atinic Keratoses
+Basilar Artery Stenosis
+Bell's Palsy
+Benign Prostatic Hyperplasia
+Carotid Artery Stenosis 
+Carpal Tunnel Syndrome
+Colonic Polyp
+Coronary Artery Disease
+Depression
+Erectile Dysfunction
+Gastroesophageal Reflux Disease
+Hyponatremia
+Impaired Glucose Tolerance
+Inguinal Hernia
+Osteoarthritis
+Retinal Detachment
+Squamous Cell Carcinoma 
+Transient Ischemic Attack
+Trigger Finger
+Vertebral Artery Stenosis
+Past Surgical History:
+Carpal Tunnel Release, right, ___
+Cataract Surgery, bilateral
+Cholecystectomy, ___
+Inguinal Hernia Repair, bilateral, ___ (L), ___ (R)
+Knee Replacement, left, ___
+Total Hip Replacement, right, ___

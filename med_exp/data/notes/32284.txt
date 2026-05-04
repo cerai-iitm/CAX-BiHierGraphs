@@ -1,0 +1,12 @@
+Chief Complaint : chest pain
+Past Medical History : 1. Hypertension
+2. Type II Diabetes Mellitus 
+3. Peripheral Vascular Disease
+4. History of amputation
+5. Neuropathy
+6. Colon Polyp, hyperplastic
+7. Chronic Kidney Disease, Stage V
+8. Moderate Non proliferative Diabetic Retinopathy
+9. Obesity
+10. Hyperlipidemia
+12. Partial Amputation of right foot ___.

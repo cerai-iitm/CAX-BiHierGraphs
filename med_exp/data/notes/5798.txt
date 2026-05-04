@@ -1,0 +1,12 @@
+Past Medical History : Hypertension, essential 
+Hypercholesterolemia 
+Diverticulosis 
+Obesity 
+SCC (squamous cell carcinoma), hand 
+DJD (degenerative joint disease), cervical 
+AS (aortic stenosis) 
+CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+Thyroid nodule 
+Carotid bruit 
+Diastolic dysfunction 
+Metastatic renal cell cancer

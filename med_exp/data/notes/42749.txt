@@ -1,0 +1,22 @@
+Chief Complaint : transfer for preeclampsia
+Past Medical History : PNC: 
+ - ___ ___ by LMP, c/w ___ trimester u/s
+ - B+/Abs-/RPRNR/RI/HBsAg-/HIV-/GC-/CT-/GBS+ (urine)
+ - Screening: FFS wnl, CF/FXS/SMA-
+ - GLT 95
+ - Issues
+#Hypothyroidism: 75mcg levothyroxine; ___ trimester TSH: 2.8
+#Mumps/Rubeola NI: [ ] postpartum vaccine
+#Vaginal bleeding ___ necrotic cervical polyp, resolved
+  
+OBHx:
+- G1
+   
+GynHx:
+- denies abnormal Pap or cervical procedures
+- denies fibroids/endometriosis/cysts
+- denies STIs, including HSV
+   
+PMH: obesity, anxiety, depression, ADD
+
+Surgical Hx: wisdom teeth extraction

@@ -1,0 +1,11 @@
+Chief Complaint : Pancreatic mass
+Past Medical History : PAST MEDICAL HISTORY:
+1.  Paroxysmal atrial fibrillation,
+2.  Hypertension.
+3.  Hyperlipidemia.
+4.  Coronary artery disease, with a preserved ejection fraction
+of 55%, status post AVR in ___.
+5.  BPH status post TURP.
+
+PAST SURGICAL HISTORY:  Appy, TURP for BPH, Aortic valve 
+replacement

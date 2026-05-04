@@ -1,0 +1,13 @@
+Chief Complaint : Evaluation for CABG
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+Cerebrovascular disease s/p right carotid endarterectomy
+Seizure disorder (per patient this was intraoperative only 
+during endarterectomy ___ years ago, no seizures since)
+BPH

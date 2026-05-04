@@ -1,0 +1,14 @@
+Chief Complaint : Acute onset shortness of breath and wheezing
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes: unknown
+- Hypertension
+- Dyslipidemia  
+
+2. CARDIAC HISTORY  
+- CAD s/p CABG when age ___ year. 
+- past history of diastolic heart failure with EF of 69% on ___
+- sinus rhythm. no history of AF. Pacemaker (___) 
+insertion in ___.  
+- Generator removal and replacement in ___.  
+- Coronary artery bypass surgery in ___.  
+- Cholecystectomy.

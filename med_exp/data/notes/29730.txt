@@ -1,0 +1,15 @@
+Chief Complaint : Abdominal Pain
+Past Medical History : Past Medical History
+-Lung cancer, chemotherapy starts next ___
+-COPD
+-Asthma
+-HTN
+-CKD
+-CHF
+-umbilical hernia
+-urinary incontinence
+-T2DM
+
+Past Surgical History:
+-appendectomy
+-vaginal hysterectomy

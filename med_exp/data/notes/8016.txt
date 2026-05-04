@@ -1,0 +1,79 @@
+Chief Complaint : PCP:  ___. MD
+PRIMARY ONCOLOGIST:  ___
+PRIMARY DIAGNOSIS:  metastatic breast cancer involving her spine 
+
+TREATMENT REGIMEN:  capecitabine 1000 mg twice daily on a 7-day 
+on
+and 7-day off schedule
+ 
+CC:   Leg weakness/numbness
+Past Medical History : PAST ONCOLOGIC HISTORY (per Dr. ___:
+She has metastatic carcinoma involving her spine and other 
+sites,
+presumably of breast origin based on a prior core biopsy of a T6
+vertebrae which was positive for estrogen receptor, progesterone
+receptor, and mammaglobin.  She had an initial breast cancer in
+___. This was treated on ___.  I saw her from time to time
+in consultation until she ultimately transferred oncologic care
+to me.
+She has also had an esophageal cancer, which has appeared to be
+in a durable remission following combined chemotherapy and
+radiation therapy.  That treatment was given in ___.
+At the time of her diagnosis of esophageal cancer, a single
+abnormal vertebrae was noted on a staging evaluation.  Biopsy of
+this showed presumed metastatic breast cancer.  The pathology is
+as described above.  Because this was within the radiation field
+from her esophagus cancer, the area was treated and there was no
+evidence of disease outside of the radiation field.
+
+On followup scanning, the T6 vertebrae improved in appearance
+suggesting a radiation or chemo-radiation response to the
+treatment given principally for the esophageal cancer.  
+
+We continued her aromatase inhibitor, which she had been on at
+the time of her diagnosis of esophageal cancer.  Ultimately, the
+T6 area became more intense  on followup PET scanning, 
+indicating
+regrowth of that lesion.  ___ her with CyberKnife
+to the involved field again with a following period of benefit. 
+She was also switched from anastrozole to fulvestrantin ___.  
+
+She remained on fulvestrant for about one year with stable
+disease until progression was evident by PET scan in ___.  At that point, she had lesions in the lumbar area as well
+as progression at T6.  ___ was able to offer radiation to
+the lumbar area, which had not been treated and she had
+essentially complete disappearance of her low back pain. 
+However, the thoracic area discomfort continued.  She was felt
+not to be a good candidate to be treated with radiation to this
+area for a third time.  Accordingly, we initiated palbociclib 
+and
+exemestane  at that point.  She had a great deal of difficulty
+with myelosuppression with palbociclib and could not continue a
+full therapeutic trial of this.  It took her several weeks for
+her blood counts to recover from a life-threateningly low
+granulocyte count.  When she recovered, initiated gemcitabine.  
+A conservative dose was administered , but she
+had a great deal of nausea, and fluid retention presumably
+related to this.  
+Was switched to capecitabine 7 ___ in ___, 
+ 
+PATH: 
+___: Esophageal tumor: Poorly differentiated invasive 
+carcinoma, consistent with squamous cell carcinoma.  
+
+___ Bone, T6 vertebral body, needle core biopsy:  
+Highly suspicious for metastatic carcinoma (see note).    
+___ Vertebral bone (T6), fine needle aspirate and touch prep of 
+
+core biopsy:  ATYPICAL.  Rare atypical single cells in a 
+background of hematopoietic elements.  
+Unclear if T6 biopsy, breast cancer or esophageal cancer. Tx 
+presumptively for esophageal cancer given it is so aggressive.  
+C2 ___ on ___.  Receiving XRT. 
+
+___: After careful deliberation treatment of T6 lesion 
+compressing cord, it was decided risk of neurosurgery greater 
+than theoretical benefit. 
+   -Initiation of Taxol CTX
+   -Plan for general radiation to region and not Cyberknife (had 
+CK ___ to region).

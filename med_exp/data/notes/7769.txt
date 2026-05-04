@@ -1,0 +1,49 @@
+Chief Complaint : falls
+Past Medical History : PAST ONCOLOGIC HISTORY:
+___ right-handed woman, with history of hypertension,
+hyperlipidemia, GERD and anxiety, who has a right temporal
+glioblastoma.  She had:
+(1) a resection of a right temporal lobe glioblastoma by Dr. 
+___ on ___,
+(2) received from ___ to ___ involved-field cranial
+irradiation and concomitant daily temozolomide at ___, 
+(3) ophthalmic shingle eruption at right V1 on ___,
+(4) placement of a Portacath on ___ at ___ 
+___,
+(5) started C1D1 bevacizumab at 10 mg/kg on ___,
+(6) received C1D15 bevacizumab at 10 mg/kg on ___,
+(7) received C2D1 bevacizumab at 10 mg/kg on ___,
+(8) received C2D15 bevacizumab at 10 mg/kg on ___,
+(9) received C3D1 bevacizumab at 10 mg/kg on ___
+(10) received C3D15 bevacizumab at 10 mg/kg on ___,
+(11) received C4D1 bevacizumab at 10 mg/kg on ___,
+(12) received C4D15 bevacizumab at 10 mg/kg on ___,
+(13) received C5D1 bevacizumab at 10 mg/kg on ___,
+(14) received C5D15 bevacizumab at 10 mg/kg on ___,
+(15) received C6D1 bevacizumab at 10 mg/kg on ___,
+(16) received C6D15 bevacizumab at 10 mg/kg on ___,
+(17) revision of the Portacath on ___,
+(19) received C7D1 bevacizumab at 10 mg/kg on ___,
+(20) received C7D15 bevacizumab at 10 mg/kg on ___,
+(21) received C8D1 bevacizumab at 10 mg/kg on ___,
+(22) received C8D15 bevacizumab at 10 mg/kg on ___,
+(23) received C9D1 bevacizumab at 10 mg/kg on ___,
+(24) received C9D15 bevacizumab at 10 mg/kg on ___,
+(25) received C10D1 bevacizumab at 10 mg/kg on ___,
+(26) received C10D15 bevacizumab at 10 mg/kg on ___,
+(27) received C11D1 bevacizumab at 10 mg/kg on ___,
+(28) received C11D15 bevacizumab at 7.5 mg/kg on ___,
+(29) received C12D1 bevacizumab at 7.5 mg/kg on ___, and
+(30) received C12D15 bevacizumab at 7.5 mg/kg on ___,
+(31) received C13D1 bevacizumab at 7.5 mg/kg on ___,
+
+PAST MEDICAL HISTORY:
+-Hypertension
+-Hyperlipidemia
+-GERD
+-Anxiety
+-Chronic low back pain
+
+PAST SURGICAL HISTORY: 
+She had a bladder suspension surgery, tonsillectomy, tubal
+ligation, athroscopy of both wrists and bunionectomy.

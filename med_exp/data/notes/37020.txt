@@ -1,0 +1,4 @@
+Chief Complaint : This patient needs ___ fistula, Crohn's disease.
+Past Medical History : PMHx: Anxiety, asthma, anemia, Recurrent UTI, Crohn disease
+
+PSHx: Labial abscess/cyst drainages

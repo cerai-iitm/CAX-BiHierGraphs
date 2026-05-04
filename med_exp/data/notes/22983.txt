@@ -1,0 +1,20 @@
+Chief Complaint : "I go a lot and just a little comes out".
+Past Medical History : PAST MEDICAL HISTORY:
+  1. DM
+  2. HTN
+  3. Obesity
+  4. Low back pain
+  5. Migraines
+  6. Vertigo
+  7. OA
+  8. Asthma
+
+PAST SURGICAL HISTORY
+  1. Right ___ dorsal compartment synovectomy.
+
+PAST OB HISTORY
+___
+Vaginal: 5
+
+PAST GYN HISTORY
+She is Postmenopausal and denies any post-menopausal bleeding.

@@ -1,0 +1,30 @@
+Chief Complaint : Abdominal pain, nausea
+Past Medical History : HOME SERVICES                                                   
+ATRIAL FIBRILLATION                                             
+CARPAL TUNNEL SYNDROME                                          
+CHRONIC SINUSITIS                                               
+CORONARY ARTERY DISEASE                                         
+DISH                                                            
+DRY MOUTH                                                       
+GASTROESOPHAGEAL REFLUX                                         
+HEALTH MAINTENANCE                                              
+HEMATURIA                                                       
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+OSTEOARTHRITIS                                                  
+MICROSCOPIC HEMATURIA                                           
+TENOSYNOVITIS                                                   
+ARTHRITIS                                                       
+LEFT SHOULDER PAIN                                              
+CARPAL TUNNEL SURGERY                                           
+LEFT HAND CRUSH INJURY                                          
+LEFT WRIST PAIN                                                 
+SPINE PAIN                                                      
+BILATERAL SHOULDER PAIN                                         
+OVARIAN CANCER                                                  
+TEMPORAL ARTERITIS                                              
+ANXIETY                                                         
+LUNG NODULE                                                     
+COLONIC POLYPS                                                  
+ADVANCE CARE PLANNING                                           
+STROKE

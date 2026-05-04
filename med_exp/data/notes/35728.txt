@@ -1,0 +1,24 @@
+Chief Complaint : Scheduled Chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- ___: EGD and colonoscopy for recent hematochezia. 
+Ileocecal mass noted, but biopsy deferred given anticoagulation 
+for history of mechanical ___.
+- ___: Peritoneal biopsy revealing high-grade DLBCL with 
+IGH/BCL2 translocation, extra copy of BCL6, TP53 deletion, and 
+Ki-67 70-80%. Stage IV given extranodal involvement. DLBCL IPI 2 
+given stage IV disease and elevated LDH.
+- ___: PET-CT with an FDG-avid ileocecal mass and multiple 
+omental deposits and mesenteric lymphadenopathy.
+- ___: C1D1 DA-EPOCH, level 1
+- ___: Rituximab
+- ___: C2D1 DA-EPOCH-R, level 2
+- ___: C3D1 DA-EPOCH, level 3
+- ___: Rituximab
+- ___: Rituximab
+- ___: C4D1 DA-EPOCH, level 4
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Hyperlipidemia
+- Thoracic aortic aneurysm s/p ___ in ___
+- Hepatic steatosis

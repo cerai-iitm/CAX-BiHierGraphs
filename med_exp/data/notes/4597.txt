@@ -1,0 +1,55 @@
+Chief Complaint : hypoxia
+Past Medical History : PAST ONCOLOGIC HISTORY:
+___ was diagnosed with cholangiocarcinoma after 
+presenting
+in ___ with painless jaundice.
+- MRCP identified a 3.7 segment II liver masses concerning for
+intrahepatic cholangiocarcinoma. 
+- He underwent ERCP ___ and ___, as
+well as EUS.  Biopsy of segment II lesion ___ was
+consistent with well differentiated adenocarcinoma. 
+- Dr. ___ took Mr. ___ to the operating room for
+diagnostic/exploratory laparoscopy and cholecystectomy ___. The tumor was deemed unresectable due to positive
+peritoneal node involvement.  
+- He consented for participation on clinical trial ___, A 
+Dose
+Escalation and Cohort Expansion Study of DKN-01 in Combination
+with Gemcitabine and Cisplatin in Patients with Advanced
+Carcinoma Primary to the Intra- or Extra-hepatic Biliary System
+or Gallbladder, and initiated treatment ___.  His course 
+has
+been complicated by neutropenia and anemia. Surveillance chest 
+CT
+___ showed enlargement of a mediastinal lymph node
+consistent with progressive disease. Patient was taken off trial
+after 16 cycles. 
+- He transitioned to second line treatment with mFOLFOX
+___, bolus ___ held given history of cytopenias.  On
+___, he transitioned to CAPOX to avoid civ as port was
+being used for antibiotics. 
+- Mr. ___ was hospitalized ___ (described above).
+Hospital course was complicated by bowel perforation , sepsis,
+Pseudomonas and fungal peritonitis, ___, seizures, pancytopenia,
+and coagulopathy.  He was eventually discharged to rehab.  
+
+Foundation Medicine:
+AXL amplification - ___
+CCNE1 amplification - ___
+CDKN2A/B loss
+GATA6 amplification
+SF3B1 K700E
+Additional Findings
+Microsatellite status MS-Stable
+Tumor Mutation Burden TMB-Low; ___ Muts/Mb
+  
+PAST MEDICAL HISTORY:  
+1. Cholangiocarcinoma with biliary stricture and liver mass.
+2. Hyperlipidemia.
+3. Hypertension.
+4. ___ esophagus.
+5. Erectile dysfunction.
+6. Central obesity.
+7. Insomnia.
+8. Nerve sheath tumor of the left axilla.
+9. Macrocytic anemia.
+10. h/o sepsis, peritonitis, bowel perforation ___

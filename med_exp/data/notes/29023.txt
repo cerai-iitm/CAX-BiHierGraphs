@@ -1,0 +1,11 @@
+Chief Complaint : Asymptomatic
+Past Medical History : 1. Paroxysmal atrial fibrillation, diagnosed in ___  
+2. atrial flutter, status post ablation ___  
+3. Nonsustained atrial tachycardia
+4. Hyperparathyroidism  
+5. Osteopenia  
+6. HTN  
+7. Hypothyroidism  
+8. BPH  
+9. Asthma  
+10. rhinitis

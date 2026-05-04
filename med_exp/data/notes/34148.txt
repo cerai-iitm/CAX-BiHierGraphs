@@ -1,0 +1,13 @@
+Chief Complaint : Right leg pain
+Past Medical History : PMH: 
+1.  Atrial fibrillation.
+2.  Peripheral arterial disease as described.
+3.  Hypercholesterolemia.
+4.  History of coronary artery disease.
+5.  Arthritis/gout.
+
+PSurgHx:
+1.  In ___, intestinal resection.
+2.  ___, melanoma excision.
+3.  ___, left lower extremity arteriogram with atherectomy and
+angioplasty.

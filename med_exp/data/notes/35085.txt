@@ -1,0 +1,15 @@
+Chief Complaint : Hyponatremia
+Acute on chronic diastolic/systolic CHF
+Past Medical History : 1. Aortic stenosis, last ___ 1.0cm2, peak and mean gradient 48mm 
+Hg/28 mmHg (___)  
+2. CKD with baseline creatinine 1.6-1.8 (stage III)  
+3. Hypertension  
+4. Hyperlipidemia  
+5. Osteoarthritis  
+6. Glucose intolerance  
+7. Seborrheic dermatitis of the face  
+8. Chronic diarrhea  
+9. A history of bilateral hip replacements  
+10. C diff colitis
+11. Acute Kidney Injury
+12. Acute on chronic systolic heart failure

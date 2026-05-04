@@ -1,0 +1,18 @@
+Chief Complaint : A-fib with RVR
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension  
+
+2. CARDIAC HISTORY  
+- Coronaries: Unknown
+- Pump: EF normal in ___
+- Rhythm: Afib s/p ablation in ___, currently back in afib
+
+3. OTHER PAST MEDICAL HISTORY  
+Cardiomyopathy ___ iso afib, recovered EF after afib ablation
+Afib s/p ablation ___
+GERD
+Anxiety
+Hypertension
+OSA
+Psoriasis
+Psoriatic arthritis

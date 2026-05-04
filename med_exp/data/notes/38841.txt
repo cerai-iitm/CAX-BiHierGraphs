@@ -1,0 +1,21 @@
+Chief Complaint : Dyspnea
+Past Medical History : 1. Atrial Fibrillation  
+2. sCHF - LVEF 20% s/p BiV ICD upgrade  
+3. DM2  
+4. CAD s/p CABG  
+5. CKD II-III baseline cr 1.6 - 2.0.  
+6. Hypertension  
+7. Chronic anemia  
+8. VF Arrest ___ s/p ICD implantation  
+___ - RBBB VT s/p ablation  
+EP PROCEDURE HISTORY  
+___ - Implantation of ___ ICD  
+___ - ___ GEM 7227 generator change  
+___ - HVB impedance of >200 ohms. He is referred for ICD  
+lead revision. Implant ___ GEM 7227Cx ICD with an active  
+can.  
+___ - RBBB VT s/p ablation  
+___ - Successful DFT Testing  
+___ - Implant of ___ CRT-D device on right side and  
+explant of GEM 7227Cx  
+___ - ___ CRT-D gen change.

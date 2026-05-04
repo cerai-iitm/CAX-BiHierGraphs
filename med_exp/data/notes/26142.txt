@@ -1,0 +1,13 @@
+Chief Complaint : Cough
+Past Medical History : 1. CARDIAC RISK FACTORS  
+ - none  
+ 2. CARDIAC HISTORY  
+ - none  
+ 3. OTHER PAST MEDICAL HISTORY  
+ - migraines  
+ - spinal stenosis  
+ - major depressive disorder  
+ - hypothyroidism  
+ - sjogren syndrome  
+ - alcohol use disorder, none for ___ years  
+ - remote history of IV drug use, none for ___ years

@@ -1,0 +1,10 @@
+Chief Complaint : recurrent ovarian cancer
+Past Medical History : PMH: Ovarian cancer, hypertension
+
+PSH: Hysterectomy and debulking surgery 
+
+OB/GYN HISTORY:  She is gravida 1, para 1 woman.  She reports 
+her last menstrual cycle was ___ years ago.  She denies any 
+history of postmenopausal bleeding.  Her last Pap smear was in 
+___.  She denies any history of abnormal Pap smears.  She 
+denies any history of pelvic infections.

@@ -1,0 +1,53 @@
+Chief Complaint : elective admission for chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- ___: Diagnosed with Follicular Lymphoma involving the left
+neck. This is treated with radiotherapy alone at ___. 
+- ___: Seen by Dr. ___ Dr. ___ at ___, with no
+evidence of lymphoma recurrence and plan to follow expectantly.
+- ___: Presents to ___ ED with non-productive cough for
+several weeks.  
+- ___: CXR reveals new mediastinal and right hilar 
+adenopathy
+over the preceding month. 
+- ___: CTA chest reveals bulky right hilar and right-sided
+mediastinal adenopathy. 
+- ___: Undergoes EBUS with Level 7 lymph node biopsy. This
+reveals Diffuse Large B Cell Lymphoma with complex abnormal
+hypertetraploid karyotype with two copies of t(14;18), 5 intact
+copies of the BCL6 gene, and ___ intact copies of the MYC gene.
+No evidence of "Double Hit" lymphoma. Germinal Center B cell
+phenotype by the ___. 
+- ___: CT neck and abdomen for staging reveals extensive
+mesenteric and retroperitoneal adenopathy and an additional 1.9
+cm solid-appearing tissue adjacent to the distal left renal
+artery. 
+- ___: PET reveals multiple enlarged retroperitoneal and
+mesenteric lymph nodes, multiple non-enlarged mediastinal and
+hilar lymph nodes with SUV max of 18.0, as well as a focus of
+FDG-avidity on the right aspect of the penis. 
+- ___: Consents to enrollment in clinical trial protocol
+___, A Phase I Study of Venetoclax plus DA-EPOCH-R for the
+Treatment of Aggressive B-Cell Lymphomas.
+- ___: C1D1 da-EPOCH-R/Venetoclax as per protocol ___
+(Venetoclax 600 mg daily on days ___. 
+- ___: Penile ultrasound is normal, without evidence of mass
+or abnormal fluid collection. 
+- ___: MRI Penis shows no focal penile mass correlating to
+the PET/CT findings from ___.
+- ___: Discharged to home. 
+- ___: Admitted with neutropenia and shaking chills, found to
+have Parainfluenza Virus Type 3 infection. 
+- ___: Discharged to home. 
+- ___: C2 of treatment temporarily delayed given ongoing
+cough secondary to Parainfluenza Virus Type 3 infection. 
+ 
+PAST MEDICAL HISTORY (per OMR):
+- Diffuse Large B Cell Lymphoma, as above
+- Follicular Lymphoma, as above 
+- Hypertension
+- Hypothyroidism
+- Chronic cough
+- Left hip replacement ___
+- Diverticulosis status-post sigmoidectomy and enteroectomy
+___
+- Alcohol abuse

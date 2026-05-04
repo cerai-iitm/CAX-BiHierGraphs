@@ -1,0 +1,6 @@
+Chief Complaint : ESRD
+Past Medical History : type 1 diabetes, diagnosed age ___, last A1C 9.2%  
+ diabetic retinopathy  
+ diabetic nephropathy  
+ hypertension  
+ hyperlipidemia

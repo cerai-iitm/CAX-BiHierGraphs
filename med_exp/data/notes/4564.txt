@@ -1,0 +1,20 @@
+Chief Complaint : prostate cancer
+Past Medical History : PMH:
+___ ESOPHAGUS                                             
+GASTROESOPHAGEAL REFLUX                                         
+HOARSENESS                                                      
+BACK PAIN                                                       
+INGUINAL HERNIA                                                 
+SEBORRHEIC KERATOSIS                                            
+SIALOADENITIS                                                   
+KNEE PAIN                                                       
+ERECTILE DYSFUNCTION                                            
+ELEVATED PSA                                                    
+H/O GROIN PAIN                                                  
+H/O NEVI                                                        
+H/O HERPES ZOSTER                                               
+
+PSH:
+Lap bilateral inguinal hernia repair ___
+Open IHR repair as a child bilaterally
+HAND SURGERY

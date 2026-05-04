@@ -1,0 +1,10 @@
+Chief Complaint : Chest Pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension (On HCTZ only) 
+- Dyslipidemia (Reportedly LDL 152 -> 115 with dietary
+modification) 
+2. CARDIAC HISTORY  
+- no cardiac history
+3. OTHER PAST MEDICAL HISTORY  
+- BPH 
+- Bilateral PE diagnosed in ___ (on rivaroxaban)

@@ -1,0 +1,3 @@
+Chief Complaint : Cardiac arrest with MVC
+Past Medical History : CABG, atrial fibrillation, and hypertension. No other history
+available as patient was intubated and sedated.

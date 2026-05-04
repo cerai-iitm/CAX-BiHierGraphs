@@ -1,0 +1,4 @@
+Chief Complaint : History of left breast cancer
+Past Medical History : depression, HTN, arthritis, breast ca, GERD, asthma
+.
+psh: C-section x 3, mastectomy, TRAM

@@ -1,0 +1,13 @@
+Chief Complaint : Diarrhea
+Past Medical History : PMHx:
+#Prediabetes -- this was noted by her PCP several months back,
+and she was to follow-up, but seems to have developed elevated
+sugars/frank diabetes since then
+#"Gout" -- some time back she developed pain in her right wrist
+and then numerous other joints, her PCP checked ___ blood test and
+said that she had gout and prescribed her indomethacin -- she
+took this medication for a month, and did not have relief of
+pain, she never had a joint aspiration done
+
+PSHx:
+No surgery

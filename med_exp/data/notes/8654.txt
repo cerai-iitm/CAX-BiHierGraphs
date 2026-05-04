@@ -1,0 +1,27 @@
+Chief Complaint : PROSTATE CANCER
+Past Medical History : Atrial septal defect [Q21.1] 
+ECHO ___: 
+-Mildly enlarged aortic root (3.9cm) and main pulmonary artery
+
+-There is a 1.9-2.1 cm diameter ASD in the secundum area of the 
+atrial septum with likely moderate left atrial to right atrial 
+shunt 
+
+ECHO ___: Compared with the findings of the prior report 
+of ___, mild LVH in current study. Atrial septum appears 
+intact and without shunting at level of atrial 
+septum in what is an adequate study. Minimal thickening aortic 
+and mitral valves. Aortic root within normal limits. Reviewed 
+record and not apparent surgical closure of "1.9-2.1cm diameter 
+ASD in the secundum areaof atrial septum with likely moderate 
+let atrial to right atrial shunt". Will try retrieve tape of old 
+study to review but difficult to interpret absence of ASD 
+findings in current study.
+
+Impaired fasting glucose [R73.01] 
+Hypercholesterolemia [E78.0] 
+HYPERTENSION - ESSENTIAL [I10] 
+Tubular adenoma of colon [D12.6] 
+Psoriasis [L40.9] 
+FRACTURE - FINGER(S), DIST PHALANX, OPEN left thumb 
+Shoulder arthroscopy repair rotator cuff

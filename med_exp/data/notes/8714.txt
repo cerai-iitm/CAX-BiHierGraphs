@@ -1,0 +1,31 @@
+Chief Complaint : abdominal pain
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Stage IV non-small cell lung cancer, squamous cell carcinoma,
+BRAF V600E mutated, diagnosed ___.
+- Status post cycle 1 day 1 (C1D1) of carboplatin 6 AUC D1 and
+nab-paclitaxel 100 mg/m2 D1, D8 and D15 of a 21-day cycle as 
+part
+of clinical trial ___ ___ on ___ and last dose of
+nab-paclitaxel on ___ (progression);
+- Palliative radiotherapy to right shoulder and T10-T12 spine
+started on ___ and completed on ___ 
+- Status post 2 cycles of pembrolizumab 2 mg/kg on ___ and
+___ (progression).
+- ___: Started on dabrafenib and trametinib
+- ___ - ___: admitted to ___ with fevers, thought ___
+dabrafenib
+- ___ - ___: admitted to ___ ICU with fevers, SEPSIS,
+unclear source. mekinist discontinued, continued on dabrafanib
+BID 
+- ___: discontinued dabrafenib given uveitis
+- ___: restarted dabrafenib and mekinist at half doses given
+improvement in symptoms (dabrafenib 75mg BID, trametinib 2mg
+every other day)
+
+PAST MEDICAL HISTORY:
+1. Type 2 diabetes mellitus
+2. Hypertension
+3. Hyperlipidemia
+4. Pulmonary embolism on enoxaparin  
+5. Bronchiectasis  
+6. Asthma

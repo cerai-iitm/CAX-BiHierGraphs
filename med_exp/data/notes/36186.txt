@@ -1,0 +1,14 @@
+Chief Complaint : Shortness of breath
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CAD s/p CABG at ___ ___
+- Heart failure with preserved ejection fraction  
+- Chronic atrial fibrillation on coumadin  
+- Moderate tricuspid regurgitation  
+- Pulmonary hypertension  
+3. OTHER PAST MEDICAL HISTORY  
+- Obesity  
+- History of lower extremity cellulitis  
+- Lung nodule benign on follow-up CT scan

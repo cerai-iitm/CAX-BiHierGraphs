@@ -1,0 +1,12 @@
+Chief Complaint : prostate cancer
+Past Medical History : PAST MEDICAL HISTORY:
+History of hypertension.
+Hypercholesterolemia.
+Liver function test abnormality.
+Obesity.
+Diabetes mellitus type 2.
+Ventral hernia without obstruction.
+History of elevated PSA since ___.
+
+PAST SURGICAL HISTORY:  
+No relevant past surgical history.

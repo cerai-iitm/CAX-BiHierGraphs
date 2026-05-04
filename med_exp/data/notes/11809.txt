@@ -1,0 +1,23 @@
+Chief Complaint : pelvic organ prolapse, incontinence
+Past Medical History : PAST MEDICAL HISTORY:
+  1. HTN (not on meds)
+  2. Migraines without aura
+  3. Anxiety/Depression
+  4. Constipation
+  5. GERD
+  6. Asthma
+  7. Allergic rhinitis
+  8. Insomnia
+  9. Smoker
+
+PAST SURGICAL HISTORY
+  1. Lap salpingectomies
+  2. Tonsillectomy
+
+PAST OB HISTORY
+G4P3
+Vaginal: 3
+
+PAST GYN HISTORY
+She is Premenopausal. Her menses are regular. Her method of 
+contraception is ___ salpingectomies.

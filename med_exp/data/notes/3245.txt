@@ -1,0 +1,51 @@
+Chief Complaint : C6 R-EPOC w/o doxorubicin
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+Pt was diagnosed after he presented with chest pain to the ED in
+___. Imaging found concerning diffuse opacities. He had a 
+lung biopsy done on ___ which confirmed his lymphoma 
+diagnosis - Stage IV. He had no B symptoms at diagnosis.
+  
+Revised- International Prognostic Index (R-IPI)
+Age: ___ years of age score: 1
+LDH: 499 (elevated)  score: 1
+ECOG: 2              score: 1
+Stage: IV            score: 1
+# extranodal sites:1 score: 0 
+TOTAL SCORE: 4 Poor risk group
+
+TREATMENT HISTORY
+___: Cycle 5 - R-EPOC (w/o doxorubicin)
+___: Neulasta
+___: Cycle 4 - R-EPOC (w/o doxorubicin)
+___: Neulasta
+___: Cycle 3- R-CHOP
+___: Neulasta
+___: Cycle 2- R-CHOP (full dose)
+___: Single lumen POC placed
+___: #1 Rituximab
+___: Neulasta
+___: Cycle 1- CHOP (50% dose reduction due to age)
+___ R-CHOP # 2
+___ R-CHOP # 3
+___ R-EPOC # 4 modified
+___ R-EPOC # 5 modified
+___ R-EPOC # 6 modified
+
+PMH:
+1. CARDIAC RISK FACTORS:  
++ Hypertension  
++ Hyperlipidemia    
+2. CARDIAC HISTORY: 
+- CAD, Angina Pectoris, s/p cardiac catheterization and ___ 
+___ ___ on DAPT 
+- Severe Aortic Stenosis (Valve area 0.6cm2)
+- Ventricular ectopy
+- systolic CHF (EF 35%), possibly ___ anthracycline 
+3. OTHER PAST MEDICAL HISTORY: 
+- stage IV DLBCL s/p 3 cycles of R-CHOP, on cycle 2 DA-EPOCH 
+(omitting Adria)
+- Insomnia
+- CKD III: BUN Creatinine of 34/1.6 in ___. 
+- Grief reaction (wife of ___ years passed away in ___
+- Surgery to remove nasal polyps
+- Excision of skin lesion (BCC) from bridge of nose (years ago)

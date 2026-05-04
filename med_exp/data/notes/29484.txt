@@ -1,0 +1,10 @@
+Chief Complaint : Chest Pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+- Diabetes
+- Peripheral arterial disease
+2. CARDIAC HISTORY  
+- CAD, Prior MI in ___, no intervention done
+3. OTHER PAST MEDICAL HISTORY  
+- No known

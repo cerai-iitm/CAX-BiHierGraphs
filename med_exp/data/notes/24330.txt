@@ -1,0 +1,11 @@
+Chief Complaint : Abdominal pain, vaginal spotting
+Past Medical History : MedHx:
+- HTN
+- HLD
+- Thyroid disease
+- Osteoporosis 
+
+SurgHx:
+- LSC BTL
+- R ear drum repair
+- Oral surgery

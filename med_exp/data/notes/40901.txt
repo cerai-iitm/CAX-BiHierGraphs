@@ -1,0 +1,40 @@
+Chief Complaint : Fatigue, lethargy, pain
+Past Medical History : PAST ONCOLOGIC HISTORY: per ___ initially presented in ___ with
+hematochezia and rectal pain, and physical exam finding of a
+rectal mass.  On ___, he underwent pelvic MRI which
+identified a tumor at the anorectal junction involving much of
+the anus and left lower rectum invading along the left anorectal
+wall.  Multiple mesorectal lymph nodes were enlarged.  On
+___ he underwent colonoscopy under anesthesia. 
+Biopsy of the mass revealed poorly-differentiated carcinoma
+consistent with large cell neuroendocrine carcinoma, staining
+positive for cytokeratin, synaptophysin and chromogranin and
+weakly positive for CDX2.  Findings were consistent with
+poorly-differentiated large cell neuroendocrine carcinoma.  CT
+torso ___ identified multiple liver lesions
+consistent with metastases.  On ___, Mr. ___
+initiated palliative chemotherapy with carboplatin/etoposide.
+-___ C1D1 ___
+-___ C2D1 ___
+-___: CT Torso: good PR
+-___ C3D1 ___
+-___ C4D1 ___
+-___ C5D1 ___
+-___: CT Torso with continued good PR
+-___: C6D1 ___
+-___: C7D1 ___
+-___: CT Torso increased size of multiple liver mets
+-___: C8D1 ___
+-___: MRI pelvis showing increased primary tumor, stable
+pelvic LN
+-___: Palliative radiation to the rectum
+-___: CTAP showing PD of liver mets
+-___: Consented to topotecan
+
+PAST MEDICAL HISTORY:
+1.  Basilar artery syndrome, status post TIA ___.
+2.  Type 2 diabetes mellitus, diet controlled.
+3.  Hypercholesterolemia.
+4.  Hypertension.
+5.  Obstructive sleep apnea.
+6.  Chronic low back pain.

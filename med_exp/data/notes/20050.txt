@@ -1,0 +1,36 @@
+Chief Complaint : CNS lymphoma, scheduled chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+
+(1) a stereotaxic brain biopsy by Dr. ___ on
+___ showing B cell lymphoma,
+(2) started induction C1 high-dose methotrexate on ___,
+(3) received induction C2 high-dose methotrexate on ___,
+(4) a visit to emergency department at ___ on ___
+for extremity swelling and skin breakdown, 
+(5) discontinuation of cabergoline on ___,
+(6) punch biopsy by dermatology by Dr. ___ on
+___ showing bacterial folliculitis, and
+(7) admission on ___ for high-dose methotrexate cancelled
+due to the flu, 
+(8) received induction C3 high-dose methotrexate on ___,
+(9) received induction C4 high-dose methotrexate on ___,
+(10) received induction C5 high-dose methotrexate on ___,
+(11) gadolinium-enhanced head MRI on ___ showed near
+complete response, 
+(12) received maintenance C1 high-dose methotrexate on ___,
+(13) received maintenance C2 high-dose methotrexate on ___,
+(14) received maintenance C3 high-dose methotrexate on ___,
+(15) received maintenance C4 high-dose methotrexate on ___,
+(16) stopped dexamethasone on ___,
+(17) received maintenance C5 high-dose methotrexate on ___, 
+
+(18) discontinued lamotrigine on ___ due to rash, and
+(19) received maintenance C6 high-dose methotrexate on ___.
+(20) received maintenance C7 ___ on ___
+
+PAST MEDICAL HISTORY:
+- Hyperprolactinemia
+- Hypercholesterolemia
+- Testosterone Deficiency
+- Cold sores
+- DVT (Dx ___

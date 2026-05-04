@@ -1,0 +1,14 @@
+Chief Complaint : Dyspnea
+Past Medical History : FROM HISTORY AND PHYSICAL
+"1. CARDIAC RISK FACTORS: Diabetes (c/b retinopathy and renal 
+insufficiency, last A1c 8.2% in ___, Dyslipidemia, 
+Hypertension  
+2. CARDIAC HISTORY:  
+-Heart failure with preserved ejection fraction 
+3. OTHER PAST MEDICAL HISTORY:  
+-obesity  
+-restrictive lung disease  
+-Sleep Apnea on CPAP  
+-retinitis pigmentosa  
+-hypercalcemia  
+-gout"

@@ -1,0 +1,11 @@
+Past Medical History : PMHx:
+#Breast cancer in ___ status post vasectomy, no radiation, no
+chemo, no known ongoing issues 
+#Ulcerative colitis 
+#Anemia
+#GERD
+
+PSHx:
+#Bilateral hernia repair in ___ 
+___ s/p C-section x 2
+#Colectomy

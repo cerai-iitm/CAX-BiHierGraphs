@@ -1,0 +1,96 @@
+Chief Complaint : Hematopoietic Cell Transplant
+Past Medical History : PAST ONCOLOGIC HISTORY:
+
+BREAST CANCER
+___ MAMMOGRAM @ ___:
+IMPRESSION:  Stable appearing left mammogram; new right nipple
+retraction and mild thickening of the nipple-areolar complex
+which warrants further evaluation.
+___ MAMMOGRAM @ ___:  
+IMPRESSION: Architectural distortion seen in the retroareolar
+region of the right breast with associated nipple retraction is
+identified is a solid 9 mm spiculated mass with targeted focused
+ultrasound in the retroareolar region of the right breast.  No 
+at
+lymphadenopathy noted in the right axillary region with targeted
+focused ultrasound.
+___ GUIDED R BREAST BX @ ___ REVIEW):
+Invasive carcinoma with predominantly lobular features, grade 1,
+measuring up to 0.4 cm in this limited sample. ER+/PR-/HER2-.  
+Oncotype Dx recurrence score 16
+___ WBC >39K with 20% Blasts on workup prior to planned
+breast surgery
+___ Right breast total mastectomy, with right axillary
+sentinel lymph node biopsy.
+
+ACUTE LYMPHOBLASTIC LEUKEMIA
+Blasts comprise 97% of the aspirate differential and greater 
+than
+90% of the marrow core cellularity. Flow cytometry of bone 
+marrow
+aspirate reveals "that the majority (97%) of the cells isolated
+from this bone marrow aspirate are in the CD45 dim to
+negative/very low side-scatter "blast" region. 
+FLOW:Immunophenotypic findings consistent with involvement by
+B-cell lymphoblastic leukemia/lymphoma
+CYTOGENETICS:  46, XX t(15;17), (q14;q11.2)[___,XX[8]
+FISH:60% of the metaphase bone marrow cells examined had an
+abnormal karyotype with a translocation involving the long arms
+of chromosomes 15 and 17. ___ has excluded the possibility that
+this translocation has resulted in the PML/RARA gene
+rearrangement and deletion of the TP53 gene (see below). ___ 
+has
+also excluded the BCR/ABL gene rearrangement and rearrangements
+of the MLL and CRLF2 genes. 
+___: CT N/C/A/P-
+R thyroid nodule, 3.4 cm.  Mild splenomegaly.  No
+lymphadenopathy.  2cm L adnexal nodule.
+___: RAPID HEME PANEL-ASXL1, WHSC1 DETECTED.  FLT3-ITD
+NEGATIVE
+___: PERIPHERAL BLOOD
+CYTOGENETICS: 
+INTERPRETATION/COMMENT: 46, XX t(15;17), 
+(q14;q11.2)[15]/46,XX[8]
+75% of the metaphase peripheral blood cells examined had an
+abnormal karyotype with a translocation involving the long arms
+of chromosomes 15 and 17 that was observed in bone marrow
+collected on ___ (see ___)
+___: CSF, FLOW-Diagnostic immunophenotypic features of
+involvement by B cell lymphoblastic leukemia/lymphoma are not
+present.
+___: BMBX
+CELLULAR ERYTHROID DOMINANT MARROW WITH TRILINEAGE HEMATOPOIESIS
+AND INCREASED MEGAKARYOCYTES. NO MORPHOLOGICAL EVIDENCE OF
+INVOLVEMENT BY THE PATIENT'S KNOWN B-CELL ACUTE LYMPHOBLASTIC
+LEUKEMIA.
+FLOW:
+INTERPRETATION-Nonspecific T cell dominant lymphoid profile;
+diagnostic immunophenotypic features of involvement by
+leukemia/lymphoma are not seen in specimen. Correlation with
+clinical, morphologic and other ancillary findings is
+recommended. Flow cytometry immunophenotyping may not detect all
+abnormal populations due to topography, sampling or artifacts of
+sample preparation.
+CYTOGENETICS: 46,XX[11] Normal female karyotype.
+
+TREATMENT HISTORY
+___: C1D1 Modified ECOG ___, 28 day cycle-
+(___) Cytarabine 70 mg IT D1
+Daunorubicin 25 mg/m2 IV D1,8,15,22
+Vincristine ___ mg/m2 IV D 1,8,15,22 (MAX DOSE 2mg)
+Dexamethasone 17 mg PO daily D1-7 (MAX DOSE 20mg, dose reduced
+age >___)
+Methotrexate 12.5 mg IT D14
+HOLD Pegasparase (age > ___)
+
+___: C2D1 Modified ECOG ___, 42 day cycle-
+Cyclophosphamide 800 mg/m2 IV D1, 29 (dose reduced ___ yo)
+Cytarabine 75 mg/m2 IV D1-4, ___, 36-39
+___ MP 60 mg/m2 PO D1-14, ___
+MTX IT D 1, 8,15, 22
+HOLD Pegasparase (age > ___)
+
+high dose MTX on ___
+
+PAST MEDICAL/SURGICAL HISTORY:  
+None except as above.

@@ -1,0 +1,13 @@
+Chief Complaint : DOE
+Past Medical History : PMH
+cholangiocarcinoma,  extrahepatic, pT3 N1, stage IIb, ___.
+s/p Whipple's pancreaticoduodenectomy on ___, followed by
+adjuvant gemcitabine chemotherapy six ___ to ___.
+diabetes mellitus 
+hypertension 
+history of Meniere's
+psoriasis
+varicose veins
+
+PAST SURGICAL HISTORY:  whipple procedure, left wrist fracture,
+rotator cuff repair, RF ablation and cataract surgery.

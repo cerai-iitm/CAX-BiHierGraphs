@@ -1,0 +1,49 @@
+Chief Complaint : SBO seen on CT Torso
+Past Medical History : GI bleed
+Pancreatitis
+Peptic ulcer disease status post Billroth II gastrojejunostomy 
+in
+___ while living in ___
+Tuberculosis, treated in the 1980s
+Cervical discectomy
+Tonsillectomy and adenoidectomy
+
+ONCOLOGIC HISTORY:
+___ man with history of peptic ulcer disease status post
+Billroth II gastrojejunostomy with newly diagnosed gastric
+adenocarcinoma.  Over ___ months he noted significant epigastric
+pain as well as 40 lb weight loss.  This was accompanied by
+occasional nausea and vomiting but no apparent blood.  His bowel
+movements are generally regular, occasionally constipated, and
+dark without bright red blood. 
+
+He underwent upper endoscopy where a mass was noted in the
+gastric remnant, biopsied revealed to be gastric adenocarcinoma.
+He underwent EUS with a 5 cm x 2 cm lesion extending beyond the
+muscularis propria with irregular margins and pseudopodia.  2
+lymph nodes were sampled near the gastrohepatic ligament. By 
+EUS,
+he was staged as T3N1. Subsequently a pericaval lymph node was
+sampled outside the possible surgical field revealing gastric
+cancer, indicating he had metastatic disease. He has stage IV
+T3N1M1 and is HER2+ by IHC.
+
+___: C1D1 FOLFOX + Herceptin
+___: C2D1 FOLFOX/Herceptin
+___: C2D15 FOLFOX/Herceptin delayed by 1 week for
+neutropenia. Neulasta added to regimen. 
+___: C2D15 given
+___: C3D1 FOLFOX/Herceptin
+___: C3D15 FOLFOX/Herceptin
+___: C4D1 FOLFOX/Herceptin (oxaliplatin reduced by 20% for
+fatigue)
+___: C4D15 FOLFOX/Herceptin (oxaliplatin reduced by 20% for
+fatigue)
+___: C5D1 FOLFOX/Herceptin (oxaliplatin reduced by 20% for
+fatigue)
+___: C5D15 FOLFOX/Herceptin (oxaliplatin reduced by 20% for
+fatigue)
+___: C6D1 FOLFOX/Herceptin (oxaliplatin reduced by 20% for
+fatigue)
+___: C6D15 FOLFOX/Herceptin (oxaliplatin reduced by 20% for
+fatigue)

@@ -1,0 +1,11 @@
+Chief Complaint : Chest Pain, STEMI
+Past Medical History : PAST CARDIAC HISTORY
+- HTN
+- HLD
+- T2DM
+- cigarette smoking
+
+-----
+OTHER PMH
+- severe obstructive ventilator defect (likely COPD)
+- CKD (baseline creat 1.2-1.3)

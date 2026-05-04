@@ -1,0 +1,138 @@
+Chief Complaint : Planned admission for CAR-T
+Past Medical History : ONCOLOGIC HISTORY:
+Mr. ___ developed lower back pain ___ and was eventually
+referred for an MRI L spine ___ which showed multiple bone
+lesions concerning for metastatic disease the largest of which
+replaced the left L2 pedicle and invaded the adjacent psoas
+muscles and the epidural space without obvious intrathecal
+involvement. CT torso ___ showed multiple lytic bone
+lesions involving ribs, scapulae, vertebral bodies, and pelvis.
+SPEP/IFE showed IgG kappa paraprotein of 1600 mg/dL without 
+Bence
+___ proteinuria. ___ Mr. ___ underwent bone biopsy,
+laminectomy, fusion of T12-L4. Pathology from the L2 bone biopsy
+was consistent with plasma cell myeloma. BM biopsy ___
+showed kappa-restricted plasma cell population accounting for 
+10%
+of cellularity. 
+
+___ - C1D1 velcade/dex induction.  Velcade 1.3 mg/m2 D1, D4,
+D8, D11 and Dexamethasone 20 mg PO X 1 on D1,D2 D4,D5 D8, D9 and
+D11, D12. -- C1D8, dex was reduced to 10 mg PO to be given just
+with Velcade due to transaminitis.
+- C1D11 Velcade and Dexamethasone held because of persistent
+transaminitis.
+- C3D11 Velcade and Dexamethasone held because of recurrent
+transaminitis (likely secondary to doxycycline on top of
+treatment)
+
+Admitted ___ to ___ for finding of recurrent right L2
+lesion with spinal canal narrowing on the CT chest ___. 
+XRT to the T10-L3 completed on ___ and to the L parietal
+skull on ___.
+- ___ Addition of Revlimid to Velcade/Dexamethasone
+(received on the last week of the cycle and then took a week off
+before starting cycle 5).
+- ___ Liver biopsy; Dr. ___ path finds likely reflect
+fatty liver.
+- ___ C6D1 of induction therapy (RVD) held because of
+question of mixed response on interval CT ___ with increase
+in size of scapula lytic lesion and ? of increase in left ___ 
+and
+2nd rib lesion.
+- ___ to ___ C1 of CVD (Cytoxan, Velcade and Dex) for
+mixed response on CT ___
+- ___ to ___ C2 of CVD
+- ___ to ___ ___ admission for ASCT SCT on ___
+Complicated by FUO. Cultures were negative. The only potential
+source was bilateral thrombophlebitis R>>L.
+
+- ___ BONE MARROW BIOPSY and ASPIRATION :
+HYPOCELLULAR ERYTHROID DOMINANT MARROW FOR AGE WITH MATURING
+TRILINEAGE HEMATOPOIESIS. NO MORPHOLOGIC EVIDENCE OF PLASMA CELL
+MYELOMA, SEE NOTE
+- ___ Start of Revlimid maintenance therapy.
+
+-CT ___: New LUL nodule on CT, stable lytic and sclerotic
+lesions
+-CT ___: Shrinking LUL nodule on CT
+-CT chest ___ for bilateral shoulder pain: Questionable
+myelomatous involvement, right scapula, no cortical disruption 
+or
+fracture. Stable myelomatous involvement, T11 vertebral body.
+-CT ___: Stable.
+-MRI ___: Stable
+-___ remains on maintenance revlimid
+-___ - new sacral pain, IgG ___ with Mspike ~700
+-___ - s/p rectal fistulotomy by Dr ___ at ___ 
+-___ - ___ admitted for worsening pain in lower back/sacral
+region. CT pelvis and MRI C/T spine during admission did not 
+show
+any new lytic or soft tissue lesions to explain pain.
+treated w/ 4 day dex burst ___ and paraprotein decreased
+spontaneously
+- BM on ___ w/ Plasma cells are 15% of aspirate differential
+and ___ of the core cellularity by CD138. kappa restricted 
+46,XY[7] Normal male karyotype. FISH +1q, monosomy 13 and
+deletion of 3'IGH (see below).
+- ___ restarted Revlomid maintenance therapy. 
+- Mprotein gradually increased to 700-800, ___ - C1D1 ___
+Pomalidomide + Dexamethasone ___. 
+- ___ with hypotension and lightheadedness.  Responded to IV
+fluids.
+- ___ - resumed C2 ___, biweekly ___ ___. then held due 
+to
+neutropenia and resumed w/ C9 on ___
+
+Pomalidomide held since ___ for neutropenia. On ___ patient
+received a dose of Neupogen. 
+
+Patient restarted Pomalidomide 2 mg/day, 2 weeks on 2 weeks off.
+
+On ___ had worsening of back pain. PET scan and MRI 
+showed subtle changes in Lumbar spine and bony pelvis consistent
+with potential disease activity. Moreover M protein continued to
+trend up, so decision was made to switch therapy from 
+Daratumumab
+to Carfilzomib.
+
+Started C1 ___ ___.
+However had to be discontinued due to elevated transaminases, 
+was
+seen by hepatology and it was decided that this was likely the
+Carfilzomib, so patient should not be rechallenged. 
+
+Patient started on Ixazomib 3 mg/day (on D1,8, 15), Pomalidomide
+2 mg (3 weeks on one week off) and Dexamethasone (on D1, 8, 15
+and 22) of 28 day cycles on ___. 
+
+___: M-protein rose from 560 to 1100 with rising IgG
+levels. 
+
+___: Bone marrow biopsy performed. Plasma cells 
+compromise
+___ of marrow cellularity. Cytogenetics with monosomy 13, 
+gain
+of 1q, and deletion of 3'IGH. 
+___: PET scan showed new area of uptake in C7 with 
+concern
+for fracture. Stable pelvic sclerotic and lytic lesions. MRI
+cervical spine showed no evidence of fracture, but rather
+degenerative disc changes.  
+
+-___: Stem collection for CAR-T trial done. 
+
+Bridging Therapy:
+___: ___ x 1 cycle
+     1600 mg IV ___ days 1, 8
+     2 mg PO pom on days ___
+     20 mg PO dex days 1, 8, 15
+
+Bone Marrow Biopsy ___
+
+PMH: (per OMR) 
+Fatty liver ___
+Irritable Bowel Symdrome ___
+Perianal abscess with I&D ___
+Chronic low back pain ___ (grade 2)
+Laminextomy and posterior fusion ___

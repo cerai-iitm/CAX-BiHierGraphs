@@ -1,0 +1,19 @@
+Chief Complaint : complete heart block, congestive heart failure
+Past Medical History : PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- Coronaries - history of prior heart attack  
+- Pump - Bedside echo shows roughly appropriate EF
+- Rhythm - Complete heart block, history of Afib and Lyme  
+3. OTHER PAST MEDICAL HISTORY  
+HTN,
+Gastro Reflux,
+Hyperlipidemia,
+Hypertension,
+Pneumonia,
+anxiety, 
+HYPOTHYROIDISM ,
+LYME, 
+restrictive lung disease

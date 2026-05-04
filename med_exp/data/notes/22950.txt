@@ -1,0 +1,19 @@
+Chief Complaint : Lung Cancer
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- Clinical stage T3N3M0 (IIIB) adenocarcinoma of the right
+lower lobe, negative for ALK, EGFR, ROS1, PDL-1,and positive for
+KRAS, diagnosed in ___ s/p a course of concurrent
+definitive chemoradiation therapy: 
+-___ - ___ cisplatin/Pemetrexed s/p 3 cycles c/b ___
+-radiotherapy completed ___. 
+
+PAST MEDICAL HISTORY:
+-GERD
+-Hypertension
+-Edema
+-Shortness of breath
+-Hyperlipidemia
+-Obesity
+-Neuropathy
+-Type 2 diabetes
+-Status post a laparoscopic adjustable gastric band

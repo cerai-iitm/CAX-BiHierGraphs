@@ -1,0 +1,20 @@
+Past Medical History : ABDOMINAL SURGERY                                               
+DIABETES TYPE II                                                
+DIABETIC NEUROPATHY                                             
+DRY EYE SYNDROME                                                
+GLAUCOMA ___                                                     
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+ILLITERATE                                                      
+R KNEE OSTEOARTHRITIS                                           
+R SHOULDER PAIN                                                 
+TMAX ___                                                      
+ATRIAL FIBRILLATION                                             
+DYSPNEA ON EXERTION                                             
+OBESITY                                                         
+BPPV                                                            
+DIABETES MELLITUS                                               
+KNEE PAIN                                                       
+OSTEOARTHRITIS                                                  
+POST-MENOPAUSAL BLEEDING                                        
+DIASTOLIC HEART FAILURE

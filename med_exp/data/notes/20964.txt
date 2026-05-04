@@ -1,0 +1,131 @@
+Chief Complaint : headache and auto transplant
+Past Medical History : On ___, ___ was admitted to the Hematologic
+Malignancies service for an expedited workup, which included CTA
+chest with shielding (negative for PE), MRI of the head without
+contrast (negative for CNS involvement), MRI abdomen and pelvis,
+and lumbar puncture (rare atypical lymphocytes no discrete
+evidence of lymphoma).  A PET scan could not be performed in the
+setting of pregnancy.  Stage IV disease was confirmed by MRI:
+"Soft tissue infiltration in the left breast, extending into the
+axilla, consistent with biopsy proven lymphoma.  Infiltrating
+soft tissue in the left renal hilum, highly concerning for
+lymphomatous involvement.  Mild upper and lower pole calyceal
+dilation as a
+result.  Findings concerning for diffuse splenic, liver and
+bilateral ovarian lymphomatous involvement."
+
+At diagnosis, ___ performance status was 80 and revised 
+IPI
+was 3, revealing an estimated overall survival of about ~50% and
+a poor predicted ___ progression free survival rate.  On
+___, ___ was initiated on treatment with dose-dense
+R-CHOP.  The following is her initial chemotherapy course:
+
+--___: C1D1 CHOP (dosed per actual body weight)
+cyclophosphamide at 750 mg/m2, doxorubicin 50 mg/m2, vincristine
+1.4 mg/m2 and prednisone 100 mg for five days.
+--___:  First dose rituximab
+--___: C2D1 R-CHOP
+--___: C3D1 R-CHOP
+--___: C4D1 R-CHOP (given on day 21 due to elevated LFTs)
+--___: C5 R-CHOP (Q2 weeks)
+--___: C6 R-CHOP (Q2 weeks)
+
+___ delivered a healthy baby boy named ___ on ___. 
+She underwent a PET scan on ___, which revealed no evidence
+of disease aside from slight uptake in left breast, and then
+again on ___ which revealed no change from prior.  ___
+continued to complain of headaches, and an LP on ___ 
+revealed
+24 atypical lymphocytes without clear evidence of lymphoma and
+FISH negative for BCL6.  HD MTX for CNS lymphoma prophylaxis was
+initiated: 
+
+--___: C1 HD MTX for CNS prophylaxis
+--___: C2 HD MTX for CNS prophylaxis
+--___: C3 HD MTX for CNS prophylaxis
+--___: C4 HD MTX for CNS prophylaxis
+
+___ remained in remission from systemic disease by PET scan:
+--___: PET reveals, FDG avidity of a focal area in the left
+breast, slightly decreased in avidity from the most recent prior
+study.  She underwent left breast biopsy on ___ without
+evidence of lymphomatous involvement.  PET on ___ revealed
+"nterval increase in focal FDG uptake in the left inner breast
+with SUVmax now 4.4.  No new FDG-avid focus."  Increased uptake
+in breast was thought to be due to biopsy.
+
+Then on ___, ___ presented to clinic with left 
+___
+numbness and De Quervain's tenosynovitis.  She was treated
+empirically for Zoster but symptoms and headache worsened so 
+that
+on ___ she was admitted for these symptoms.  CSF revealed
+evidence of lymphoma by histopathology and an MRI on ___
+revealed thickening and enhancement of the left trigeminal 
+nerve.
+
+___ was then started on high-dose methotrexate 8g/m2:
+
+--___: HD MTX 8 grams/m2
+--___: HD MTX 8grams/m2
+
+***MRI ___: Slightly decreased enhancement and thickening 
+of
+the left trigeminal nerve cisternal and cavernous portions.  No
+enhancing brain lesions.***
+
+--___: HD MTX 8grams/m2
+
+She received IT Depocyt once, which was complicated by severe
+headache and vomiting requiring daily IV fluids and IV
+anti-emetics.  This was on ___.
+
+--___: HD MTX 8grams/m2
+--___: HD MTX 4grams/m2 (dose-reduced to give concurrent
+ifosphamide)
+--___: Ifosphamide 2grams/m2 on days ___
+
+***MRI ___: Resolution of thickening and enhancement of the
+left trigeminal nerve compared with the previous MRI
+examinations.  No new enhancement is seen within the cranial
+nerves or brain.***
+
+--___: HD MTX 4grams/m2 (dose-reduced to give concurrent
+ifosphamide)
+--___: Ifosphamide 2grams/m2 on days ___: C1D1 CYVE
+
+***MRI ___: No significant change since the immediate prior
+MRI examination.  No new lesions are identified.***
+
+--___: C1D1 3mg/m2 HiDAC
+
+***MRI ___: 1.  There is no evidence of abnormal enhancement
+throughout the trigeminal nerves.  Persistent and grossly
+unchanged area of high signal intensity detected on the FLAIR
+sequence, located in the left periventricular atrium, with no
+evidence of abnormal enhancement, probably consistent
+posttreatment changes,
+close attention in this area is advised.
+
+At the same time, ___ continued to receive rituximab:
+
+MAINTENANCE RITUXIMAB:
+--___: Rituximab 375mg/m2
+--___: Rituximab 375mg/m2
+--___: Rituximab 375mg/m2
+--___: Rituximab 375mg/m2
+--___ Rituximab 375mg/m2 (delayed one week due to VZV)
+--___: Rituximab 375mg/m2
+
+IT DEPOCYT: 
+--___: IT Depocyt (had headache, vomiting) 
+
+We then prepared for high dose chemotherapy with autologous stem
+cell rescue.
+
+--Stem cells were mobilized with Neupogen and Mozobil and
+collected with four apheresis sessions with a total yield of 4.9
+x 10^6.  
+--Consents for transplant was signed on ___.  Performance
+status at time of consent was 80%.

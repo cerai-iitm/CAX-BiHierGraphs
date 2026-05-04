@@ -1,0 +1,42 @@
+Chief Complaint : Near syncope, MVC, ICD firing
+Past Medical History : -Peptic ulcer disease  
+-Coronary artery disease  
+-Hyperlipidemia  
+-Diabetes Mellitus, Type 2  
+-Hypertension, essential, benign  
+-Ocular hypertension  
+-Systolic congestive heart failure  
+-Cardiomyopathy  
+-PIN (prostatic intraepithelial neoplasia) 602.3  
+-Biventricular cardiac pacemaker in situ V45.01 
+
+Cardiac history per Dr. ___:
+
+CARDIAC HISTORY: Former patient of Dr ___. First visit 
+with me in ___.
+
+___ - "myocardial infarction" rxed at ___. coronary 
+angiography performed at that time with normal coronary 
+arteries. Subsequent notes had described apical aneurysm, but no 
+interval assessment of his cardiac structure or function until 
+the year ___ when he had presented with acute CHF.
+
+___ - New onset CHF with new CMP. Echocardiogram in ___ was 
+suggestive of a dilated ventricle with ejection fraction of 25% 
+and mild-to-moderate mitral regurgitation. CT angiography was 
+not suggestive of pulmonary embolism and coronary angiography 
+without any significant coronary artery disease. He was started 
+and maintained on the standard cardiomyopathy/CHF medications 
+and has done quite well clinically since. He is only on p.r.n. 
+Lasix. Several discussions with him about the value of a 
+defibrillator +/- biventricular pacemaker in his situation which 
+he has deferred. 
+
+___ - low dose lasix and CRT-D recommended which the patient 
+deferred. Echo in ___ with markedly dilated LV, LVEF ___, 
+severe grade III-IV LV diastolic dysfunction, mild-to-moderate 
+aortic regurgitation and moderate-to-severe mitral regurgitation 
+is present. The estimated PASP of 53 mmHg + RA pressure.
+
+___ - CHF admission to ___ due to salt avid diet. Diuresed 
+and sent home of lasix 3/week. CRT-D reviewed; patient deferred.

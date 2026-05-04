@@ -1,0 +1,41 @@
+Chief Complaint : Elevated Bilirubin
+Past Medical History : Follicular lymphoma with transformation to DLBCL 
+--Dx ___ from left inguinal LN bx with follicular lymphoma,
+Gr 1(CD20+, BCL-2 +, with Imunoglobulin heavy chain and BCL-2
+rearrangement. CD5-; Cyclin D1-). CT imaging with small LNs only
+--___, enlarging nodes in retroperitoneum
+--___: Started BR x 6 months.
+--___, progression of retroperitoneal and periportal LN's. 
+FDG
+avid nodes. 
+--___: Bx of mesenteric LN -->DLBCL. Pathology reported as
+high grade CD10+, BCL2 +, BCL6 +, Ki-67 80%
+--___: R-CHOP x 4 cycles
+--___: switched to Obinutuzumab-CHOP x 2 cycles d/t
+persistent PET uptake
+--___: D0 of autologous SCT. CR by PET at time of
+transplant.
+--___: Admitted with fatigue, weight loss, jaundice. 7 cm
+mass at hilum of liver with bx -->DLBCL.  Received ICE x 2
+cycles.
+--___, developed obstructive jaundice with external biliary
+drains placed; since removed and internal stents in place
+--___: Rituxan followed by Y90 Zevalin with prednisone;
+partial response only
+--___: Revlimid x 14 days and Velcade(28 day cycles)
+--___: Revlimd 10 mg QD x 21 days with weekly Velcade and
+oral Cytoxan 50 mg QD x 21 days; s/p 3 cycles.
+--___: PET scan with progressive disease.
+--___ - ___: Admission to ___ with GI
+bleed, felt related to lymphoma progression.  EGD with biopsies
+showed lymphoma.
+--___, XRT(total 3000 cGY) with Cisplatin for sensitization.
+--___, PET scan with continued evidence of lymphoma
+--___, Collection for CAR-T cells
+--Fludarabine/Cytoxan conditioning followed by CAR-T infusion on
+___.
+
+PAST MEDICAL HISTORY:
+- Melanoma s/p left thigh excision in ___
+- Bilateral DVTs
+- Anxiety

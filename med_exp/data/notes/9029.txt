@@ -1,0 +1,25 @@
+Chief Complaint : Chest Pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+-Diabetes 
+-Hypertension  
+-Dyslipidemia 
+2. CARDIAC HISTORY  
+- Coronaries:  
+Mid LAD: 50% stenosis.
+Mid CX: 100% stenosis.Culprit lesion.
+___ RCA: 30% stenosis.
+Mid RCA: 50% stenosis.
+Dist RCA: Distal subsection.  60% stenosis.
+Moderate collateral flow from the ___ Diag to the Dist CX.
+Poor collateral flow from the ___ RPL to the Dist CX.
+3. OTHER PAST MEDICAL HISTORY  
+- CML s/p stem cell transplant in ___
+- Graft versus host disease
+- Diverticulitis
+- Anxiety
+- Depression
+- Osteopenia
+- Psoriasis
+- PUD
+- Restless leg syndrome
+- Neuropathy

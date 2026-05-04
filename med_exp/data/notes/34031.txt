@@ -1,0 +1,47 @@
+Chief Complaint : Abdominal pain
+Past Medical History : =========================================
+PAST ONCOLOGIC HISTORY
+=========================================
+___ was initially diagnosed in ___ with 
+metastatic pancreatic cancer. She presented with cramping 
+abdominal pain and associated 10 pound weight loss. Pelvic 
+ultrasound ___bdomen/pelvis showed a 2.3 
+cm mass in the pancreatic body as well as multiple lesions 
+within the liver and retroperitoneal adenopathy. ___ was 
+elevated at 986u/ml.
+-MRI ___ showed multiple hypodense lesions throughout the 
+liver as well as a 6.4x2.5 cm mass at the pancreatic body-tail, 
+and a 1.1-cm lesion in the left adrenal gland.
+-Retroperitoneal lymph node biopsy was consistent with 
+metastatic adenocarcinoma of pancreatic origin.
+-Ms. ___ enrolled in clinical trial ___, a phase 2 trial 
+of nab-paclitaxel/gemcitabine with or without the IV 
+hyaluronidase PEGPH20 and was randomized to the experimental 
+arm. She began treatment ___.
+-Doses were reduced C1D8 due to grade 3 neutropenia, grade 3 
+musculoskeletal events, and new onset Afib/RVR.
+-Following cycle 4, she developed hypoxemia concerning for 
+chemotherapy associated lung toxicity and disease progression in 
+the vertebra and sternum. She came off study and transitioned to 
+FOLFOX second line chemotherapy ___.
+-She began FOLFIRINOX ___.
+-The dose was reduced with cycle 2 due to thrombocytopenia.
+-With C3D15 she transitioned to FOLFIRI due to progressive 
+neuropathy.
+-Following 8 cycles, there was disease progression in the liver 
+and she transitioned to FOLFOX. Doses were reduced due to 
+thrombocytopenia.
+-CT ___ showed further disease progression in her liver. She 
+then resumed treatment with single agent nab-paclitaxel.
+-On ___ she initiated treatment on clinical trial ___, 
+a phase ___ Study of MGCD516 in Patients With Advanced Solid 
+Tumor Malignancies.
+.
+.
+=========================================
+PAST MEDICAL/SURGICAL HISTORY
+=========================================
+- hyperlipidemia
+- mild mitral regurgitation
+- tension headaches
+- tendinitis

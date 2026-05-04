@@ -1,0 +1,36 @@
+Chief Complaint : BRBPR
+Past Medical History : VALVULAR DISEASE                                               
+ATRIAL FIBRILLATION                                             
+GLAUCOMA                                                        
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+OSTEOARTHRITIS                                                  
+RECOVERED OSTEOPENIA                                            
+CHRONIC KIDNEY DISEASE                                          
+SLEEP DISORDERED BREATHING                                      
+TREMOR                                                          
+ULCERATIVE COLITIS                                              
+VENOUS INSUFFICIENCY                                            
+UNSPECIFIED MYOPATHY/NEUROMUSCULAR DISEASE                      
+PREDIABETES                                                     
+DYSPHONIA                                                       
+ACTINIC KERATOSIS                                               
+ECZEMATOUS DERMATITIS                                           
+HYPERCKEMIA                                                     
+GOUT                                                            
+XEROSIS CUTIS                                                   
+DERMATITIS, STASIS W/O VARICOSE VEIN                            
+PERIPHERAL NEUROPATHY                                           
+LENTEGINES                                                      
+LENTIGO/LENTIGINES                                              
+ACTINIC KERATOSIS                                               
+DYSPNEA                                                         
+H/O MELANOMA                                                    
+H/O PROSTATE CANCER                                             
+H/O URINARY INCONTINENCE     
+
+SURGICAL HISTORY:
+CATARACT SURGERY (Right eye) ___
+CATARACT SURGERY (Left eye) ___      
+R KNEE ARTHROSCOPY (Dr. ___ meniscus removal) ___ 
+RADICAL PROSTATECTOMY (Dr. ___

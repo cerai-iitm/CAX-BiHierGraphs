@@ -1,0 +1,20 @@
+Chief Complaint : fevers
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- ___:  admitted ___ with hematemesis, found to have
+esophageal varices
+- ___:  MRI shows 4.2cm lesion in segment V, 1.4cm lesion in
+segment VIII, both concerning for ___
+- ___:  Liver bx shows poorly differentiated carcinoma
+- ___:  CT Chest no evidence of thoracic disease
+- ___ - Ablation
+- ___ -Y90
+- ___ C1D1 gem cis 
+- ___ C2D1 Gem/Cis/Nplate/Neulasta
+- ___ C3D1 gem cis
+- ___ C4D1 gem/cis - held due to anemia
+- ___ C4D1 Gemcitabine/CISplatin + Nplate 
+
+PAST MEDICAL HISTORY (per OMR):
+HCV cirrhosis, started treatment ___
+esophageal varices s/p banding (___)
+MVA in ___ that led to "spleen repair" surgery

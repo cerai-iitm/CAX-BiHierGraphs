@@ -1,0 +1,31 @@
+Chief Complaint : Right hip pain
+Past Medical History : HYPERTENSION                                                    
+LOW BACK PAIN                                                   
+NECK PAIN                                                       
+URINARY URGENCY                                                 
+ALLERGIC RHINITIS                                               
+ASTHMA                                                          
+DYSPHAGIA                                                       
+BENIGN POSITIONAL VERTIGO                                       
+BORDERLINE CYTOPENIAS                                           
+COLONIC POLYPS                                                  
+ELEVATED CHOLESTEROL                                            
+GLAUCOMA                                                        
+GYNECOLOGIC                                                     
+IRRITABLE BOWEL SYNDROME                                        
+LACTOSE INTOLERANCE                                             
+PLANTAR FASCIITIS                                               
+SHOULDER PAIN                                                   
+SKIN CANCERS                                                    
+SOMATIC PREOCCUPATION                                           
+? CARPAL TUNNEL SYNDROME                                        
+SEBORRHEIC KERATOSIS                                            
+ACHILLES TENDON RUPTURE                                         
+LENTEGINES                                                      
+OSTEOARTHRITIS                                                  
+SCAR                                                            
+MILLIUM                                                         
+MEMORY LOSS                                                     
+BASLIC VEIN THROMBOSIS                                          
+ABNORMAL LIVER FUNCTION TESTS                                   
+___

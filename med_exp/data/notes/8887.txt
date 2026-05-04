@@ -1,0 +1,10 @@
+Chief Complaint : A flutter
+Past Medical History : - pAfib on Apixaban  
+ - HTN  
+ - obesity  
+ - OSA ( not been able to use the CPAP machine because it felt 
+very uncomfortable.)  
+ - IDDM  
+ - CKD  
+ - HLD  
+ - DVT

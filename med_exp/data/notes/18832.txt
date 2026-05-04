@@ -1,0 +1,78 @@
+Chief Complaint : chest pain
+Past Medical History : PAST MEDICAL HISTORY:
+# CAD: MI in ___ and ___
+-- Four vessel CABG at ___ in ___
+-- POBA of LCx on ___
+-- DES to LCx on ___
+# Hypertension
+# Hyperlipidemia
+# DM-type II (borderline)
+# Sleep apnea -- on CPAP
+# Arthritis -- mostly fingers
+# Hernia repair as an infant
+# Arthroscopy of the left knee
+
+CARDIAC RISK FACTORS:
++Diabetes, +Dyslipidemia, +Hypertension
+
+CARDIAC HISTORY:  
+# CABG: Four vessel in ___ at ___ (patent LIMA-LAD and SVG-OM1, 
+subsequently occluded SVG-OM2 and SVG-RPDA)
+# PERCUTANEOUS CORONARY INTERVENTIONS:
+-- In ___, he underwent PCI (POBA only due to difficulty 
+delivering stent) of the origin LCX with ___ residual 
+stenosis and stable mild dissection performed after recurrent 
+angina and an abnormal nuclear stress.
+-- In ___, he had a repeat cath for progressive repeated 
+angina.  He underwent DES to ostial proximal LCx after showing 
+80-90% disease.  He also had diffuse (60-70%) proximal LCX 
+disease and reported 3VD.  
+.  
+.
+2D-ECHOCARDIOGRAM AT OSH:  
+EF 50-55%, LVH, septal hypokinesis, trace MR.  
+.
+OSH IMAGING:
+Abdominal CT - colovesicular fistula likely secondary to sigmoid 
+divericuli.
+.  
+ETT (___):
+He underwent a nuclear stress test on ___ where he was able 
+to exercise 6 minutes 35 seconds to a maximum heart rate of 113 
+bpm.  Nuclear imaging revealed an inferior wall MI, mild 
+ischemia in the in the mid to basal septum, inferior and septal 
+hypokinesis, LV systolic dysfunction and an EF of 45%.
+.
+Echocardiogram (___):
+Echocardiogram from ___ revealed a slightly enlarged LA and 
+aortic root, normal systolic function of both ventricles, and 
+LVEF of 75%.
+.  
+CARDIAC CATH (___):  
+___ COMMENTS:  
+Initial angiography showed recurrent severe (80-90%) ostial LCX 
+stenosis followed by diffuse (60-70%) proximal LCX disease. We 
+planned to treat this with PTCA and stenting. Bivalirudin was 
+commenced prophylactically. The patient also receieved ASA and 
+Plavix (chronically on 75 mg daily and was reloaded post 
+procedure with additional 600 mg). A 4.0 XB guide provided 
+excellent support and a Choice ___ Extra Support wire crossed the 
+lesion without difficulty. We performed serial inflations 
+staring with 1.5x15 Maverick balloon (at ___ ATM), 2.5x15 mm 
+Voyager at ___ ATM) and 3.0x15 mm Voyager (at ___ ATM). We 
+then delivered a 3.0x15 mm Endeavor DES at 18 ATM, post-dilated 
+with 3.0x15 mm Quantum Maverick at 20 ATM and 3.5x8 mm Quantum 
+Maverick at 10 ATM. Final angiography showed 0% residual 
+stenosis with TIMI 3 flow and no dissection or distal emboli.  
+The patient left the cath lab in stable condition and free from 
+angina.  
+COMMENTS:  
+1- Successful PTCA and stenting of the ostial-proximal LCX with 
+a 3.0x15 mm Endeavor DES, post-dilated to 3.5. Final angiography 
+showed 0% residual stenosis with TIMI 3 flow and no dissection 
+or distal emboli.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Successful PTCA and stening of the ostial-proximal LCX with 
+an Endeavor Drug-Elluting Stent.  
+.

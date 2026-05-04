@@ -1,0 +1,44 @@
+Chief Complaint : back pain
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- ___: Stage 1a, Grade 1 endometrial cancer, On ___, she 
+underwent total laparoscopic hysterectomy, bilateral 
+salpingo-oophorectomy
+- ___: The patient had a right breast biopsy that revealed 
+a Gr 1 invasive ductal carcinoma and lymph node dissection 
+showed metastatic carcinoma involving 5 of 9 lymph nodes. Tumor 
+was estrogen receptor negative, progesterone receptor negative 
+and HER-2 negative and a right frontal falcine metastases.
+- ___: Partial mastectomy with lymphadenectomy and revision 
+right mastectomy.
+- ___: Revision surgery revealed a 20-mm tumor, grade 3, 
+ER/PR negative, HER-2 negative.
+- ___: FDG PET showed multiple lung lesions and a vertebral 
+body lesion concerning for metastatic disease, low-level FDG 
+activity in approximately 1.4 cm left breast density containing 
+a clip, incidental finding of new opacification of the right 
+maxillary sinus. The chest findings were as follows:  A 2.2 cm 
+right upper lobe mass with a max SUV of 18.1, a 1.7 cm superior 
+right lower lobe mass, SUV max 14, then a 6 mm left upper lobe 
+nodule and a 1.6 cm right lower lobe mass and another 1.4 cm 
+left.
+- ___: The patient then had a lung CT-guided biopsy that 
+showed a recurrence of the triple negative breast cancer.
+- ___: XRT R breast at ___, 39.9Gy to R breast, 
+axillary nodes, supraclavicular nodes, 5Gy surgical boost.
+- ___: Xeloda
+- ___: XRT to T7-T9 20 Gy
+- ___: Protocol ___ with Nivolumab for 6 
+cycles.
+- ___: New pathologic right hip fracture s/p 1 fraction XRT 
+at ___
+- ___: C1D1 Eribulin
+
+PAST MEDICAL HISTORY:
+- Metastatic Breast Cancer, triple-negative, as above
+- Endometrial Cancer s/p TAH-BSO
+- Hypertension
+- Hyperlipidemia
+- Asthma
+- Psoriasis
+- Falcine Meningioma
+- Cerebellar Stroke

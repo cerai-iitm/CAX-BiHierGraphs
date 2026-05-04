@@ -1,0 +1,22 @@
+Chief Complaint : endometrial intraepithelial neoplasia
+Past Medical History : OBHx: G0
+
+GYNHx:
+- menopause age ___
+- postmenopausal bleeding per HPI
+- not currently sexually active 
+- remote hx of hormonal replacement therapy ___ yrs
+- denies hx of abnl Pap smears
+- last Pap test within past ___ yrs
+- remote hx of gonorrhea, hx of genital HSV
+
+PMHx: 
+- paroxysmal atrial fibrillation
+- HTN
+- HLD
+- obesity
+- encephalitis, likely viral
+
+PSHx: 
+- hsc ppy -> dx lsc (___)
+- wisdom teeth

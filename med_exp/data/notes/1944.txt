@@ -1,0 +1,19 @@
+Chief Complaint : abdominal pain
+Past Medical History : Per OMR:
+1.  HBV cirrhosis.
+2.  Possible alcohol excess.
+3.  Type 2 diabetes mellitus.
+4.  Hypertension.
+5.  Benign prostate hypertrophy.
+6.  History of inguinal hernia.
+7.  Status post motor vehicle accident with multiple surgeries.
+8.  Anxiety.
+9.  Status post splenectomy in ___.
+10.  Status post inguinal hernia repair x 3, most recently
+___.
+11.  Status post bilateral ankle fracture surgery.
+12.  Status post bilateral elbow surgery
+___.  Status post small intestinal surgery in ___.
+14.  Status post partial gastrectomy in ___.
+15.  Status post L1, L2, L3 discectomy.
+16.  Status post TURP ___.

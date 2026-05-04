@@ -1,0 +1,24 @@
+Chief Complaint : ====================================================  
+HOSPITALIST ADMISSION NOTE  
+Date: ___ Time: 1820  
+====================================================  
+PRIMARY CARE PHYSICIAN:  Dr. ___
+CHIEF COMPLAINT:  fatigue, somnolence
+Past Medical History : PAST MEDICAL HISTORY:  
+Atrial Fibrillation, on CHADS2 = 3, on Coumadin
+Hypertension
+Hyperlipidemia
+Chronic Kidney Disease, Stage 3
+Gastroesophageal Reflux Disease
+Type 2 Diabetes, on metformin only
+Bladder Cancer, on gemcitabine/mitomycin via L nephrostomy tube
+Prostate Cancer s/p treatment with radiotherapy
+BCG sepsis and R prosthetic hip mycobacterium infection on TB 
+meds indefinitely
+Chronic back pain, on Oxycodone
+
+PSH:
+Cystoscopies, TURBT, bladder biopsies
+Cholecystectomy
+Prostate brachytherapy
+Right hip replacement

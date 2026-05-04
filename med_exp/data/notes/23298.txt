@@ -1,0 +1,19 @@
+Chief Complaint : Gastrointestinal stromal tumor
+Past Medical History : ANEMIA                                                          
+ANXIETY                                                         
+BENIGN PROSTATIC HYPERTROPHY                                    
+ERECTILE DYSFUNCTION                                            
+STRESS                                                          
+SUBACUTE THYROIDITIS                                            
+GLUTEAL MASS                                                    
+TEMPOROMANDIBULAR JOINT DYSFUNCTION                             
+DYSPHAGIA                                                       
+HEALTH MAINTENANCE                                              
+HYPERCHOLESTEROLEMIA                                            
+ABDOMINAL PAIN                                                  
+DUODENAL ULCER                                                  
+PEPTIC ULCER DISEASE   
+
+Past Surgical History: (From OMR, confirmed with patient)
+TONSILLECTOMY & ADENOIDECTOMY                                   
+___ ABSCESS

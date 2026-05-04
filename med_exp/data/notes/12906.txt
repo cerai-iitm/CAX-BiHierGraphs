@@ -1,0 +1,26 @@
+Chief Complaint : anemia
+Past Medical History : #ESRD on HD ___: on RRT since ___ due to DM1. R HD 
+cath placed ___ 
+#Type 1 DM since age ___ with neuropathy, retinopathy, 
+gastroparesis 
+#PVD s/p angioplasty RLE, LLE at ___ (___) for bilateral 
+heel ulcers
+#CAD s/p CABG ___
+#Primary open angle glaucoma
+#Hypertension
+#HLD
+#R hip fracture s/p repair ___ 
+#Group G Strep Bacteremia: presented ___ with fevers and 
+tachycardia; treated with vanc/ceftazidime in OPAT that ended 
+___
+#Anemia: Baseline Hgb ___ since ___
+
+SURGICAL HISTORY:
+#Right tunneled IJ HD catheter and PD catheter ___
+#ORIF R hip ___
+#CABG ___
+#L brachiocephalic AVF placement ___ ___
+#Tunneled HD line placed ___
+#Transmetatarsal amputation of all 5 digits of right foot ___
+#Left partial calcanectomy and right heel debridement ___
+#s/p laparoscopic appendectomy

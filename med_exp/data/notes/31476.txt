@@ -1,0 +1,16 @@
+Chief Complaint : SOB
+Past Medical History : PAST MEDICAL HISTORY:
+Lung mass CA
+History of Lyme disease [Z86.19]  
+Back pain [M54.9] 
+Cataract [H26.9] 
+Benign essential HTN [I10] 
+Presence of artificial knee joint right 
+Liver cyst 
+Muscle ache [M79.1] 
+Diastasis of rectus abdominis [M62.08] 
+Elevated prostate specific antigen (PSA) [R97.20] 
+Nocturia [R35.1] 
+Pure hypercholesterolemia [___.00] 
+s/p right TKR
+s/p tonsils

@@ -1,0 +1,17 @@
+Chief Complaint : Presyncope
+Past Medical History : Hypertension 
+Hyperlipidemia 
+Mitral regurgitation 
+Mild HOCM (hypertrophic obstructive cardiomyopathy) 
+Pulmonary hypertension 
+Atrial fibrillation 
+Diastolic heart failure 
+Personal history of DVT (deep vein thrombosis) 
+Personal history of PE (pulmonary embolism) 
+CKD (chronic kidney disease) stage 3, GFR ___ ml/min 
+Osteopenia 
+Breast cancer 
+History of basal cell carcinoma 
+Frequent PVCs 
+Diverticulosis 
+Anemia

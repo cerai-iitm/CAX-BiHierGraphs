@@ -1,0 +1,36 @@
+Chief Complaint : abdominal pain
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- pT4aN1bMx stage IIIB rectosigmoid adenocarcinoma
+metastatic to peritoneum, kras mutation positive, MSI intact, 
+- ___ underwent screening colonoscopy in
+___ mass was identified at the
+rectosigmoid junction.  Biopsy was positive for low-grade
+adenocarcinoma.  Mr. ___ was taken to the operating room
+___ for robot-assisted laparoscopic low anterior resection. 
+
+Pathology showed a 3.5 x 2.5 cm low-grade adenocarcinoma
+penetrating the visceral peritoneum, pT4a.  Two of 16 lymph 
+nodes
+were involved, N1b.  Both perineural and lymphovascular invasion
+were seen; margins were negative.  The tumor was microsatellite
+stable with intact expression of MLH1, MSH2, MSH6, and PMS2; 
+KRAS
+mutant codon 13 exon 2.  Mr. ___ initiated adjuvant 
+chemotherapy
+with FOLFOX ___.  His first cycle was complicated by
+neutropenia and thrombocytopenia.  Mr. ___ completed 12
+infusions adjuvant mFOLFOX as of ___.  
+He was hospitalized ___ with fever.  CT at that time
+identified enlarged mediastinal adenopathy and new omental
+nodularity.  Omental biopsy confirmed recurrent colon
+adenocarcinoma.  Mr. ___ resume palliative chemotherapy with
+mFOLFOX/bevacizumab ___.  CT ___ showed progression
+of omental metastases, and he transitioned to 
+FOLFIRI/bevacizumab
+___.
+
+PAST MEDICAL HISTORY:
+1.  Hypercholesterolemia.
+2.  Hypertension.
+3.  History of nephrolithiasis.
+4.  Status post cholecystectomy ___.

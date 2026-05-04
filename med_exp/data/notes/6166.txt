@@ -1,0 +1,12 @@
+Chief Complaint : EtOH withdrawal seizures
+Past Medical History : - Alcohol abuse. presented with intoxication on:
+  -- ___: discharged to detox
+  -- ___: discharged home 
+  -- ___: discharged home 
+  -- ___: discharged home
+  -- ___: discharge home 
+  -- ___: discharge home 
+- Alcohol withdrawal Seizures:
+  -- ___ while on the ___. Came to the ED and AMA'ed
+  -- ___: treated with PO valium. decline detox.
+- Depression

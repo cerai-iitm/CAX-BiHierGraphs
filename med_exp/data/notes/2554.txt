@@ -1,0 +1,61 @@
+Chief Complaint : Fever, Chest pain
+Past Medical History : PAST ONCOLOGIC HISTORY: 
+As per last outpatient ___ clinic note:
+"He
+presented to an outside hospital emergency department ___
+with several days of recurrent nonbloody diarrhea associated 
+with
+prominent low back pain. He underwent CT followed by MRI on
+___ which identified a 6.6 cm multilobulated right 
+hepatic
+lobe mass with enlarged retroperitoneal lymph node as well as
+periportal and periaortic lymph nodes, concerning for
+cholangiocarcinoma. He underwent retroperitoneal LN biopsy
+___, negative for malignancy.  Liver biopsy ___
+showed adenocarcinoma, consistent with cholangiocarcinoma.  He
+underwent y90-radioembolization to the right liver ___. 
+Plans for surgical resection were aborted due to comorbidities,
+and he continued under surveillance.  MRI ___ showed
+progression of the liver mass as well as two new perihepatic
+chest wall soft tissue masses, concerning for peritoneal
+metastases. One of these nodules was biopsied on ___, but he
+met with Dr. ___ recommended consideration of
+chemotherapy (cis/gem). Due to location, he opted to switch his
+care to ___. 
+
+TREATMENT SUMMARY: 
+- ___: C1D1 gem/cisplatin
+- ___: C1 D8  "
+- ___: ED for UTI (___)
+- ___: Admission to ___ for febrile neutropenia (___
+90 and overall pancytopenia (WBC 0.2, Hgb 6.9, Hct 20, plts 17.
+ANC 90). In addition, NSTEMI. Discharged ___.
+- ___: C2D1 Gem alone, ___ 15% - d/t myelosuppression
+- ___: C2D8 held due to low counts
+- ___: C2D15 gem alone
+- ___:  C3 D1 HOLD d/t thrombocytopenia, plts 78K
+- ___: C1D1 gem/ox, D1, 15
+-  ___  C2D1 Gem/Ox, plan to treat D1, 15.
+-  ___  C3D1  Gem/Ox, D1, 15
+- ___: C3D14 held due to low plts
+-  ___  Transfuse, 1 unit
+-  ___  mFOLFOX, C1D1  ___ ___, Leuc 25%;  oxali 33%
+-  ___  mFOLFOX, C2D1  ___ "
+- ___: mFOLFOX C3D1 ___
+___  C4 D1 mFOLFOX" 
+ 
+PAST MEDICAL HISTORY:  
+-Diabetes
+-Hypercholesterolemia
+-Hypertension
+-Coronary artery disease s/p CABG (LIMA-LAD and SVG-PDA s/p
+stenting of PDA/LMCA and SVG-PDA multiple times) followed by
+repeat CABG ___ with AVR (SVG-PDA, since completely occluded)
+-Lacunar infarct ___
+-PAD
+-Infarct-related cardiomyopathy (HFpEF 45-50% in ___
+-Aortic stenosis
+-Detached retina
+-S/p cholecystectomy
+-S/p tonsillectomy and adenoidectomy 
+-Metastatic cholangiocarcinoma as above

@@ -1,0 +1,10 @@
+Chief Complaint : chest pain
+Past Medical History : 1.  Coronary artery disease with MI in ___ with BMS placement
+2.  Hypertension.
+3.  Hyperlipidemia.
+4.  B12 deficiency.
+5.  Family history of BRCA I mutation.
+6.  Peripheral neuropathy.
+7.  Nephrolithiasis with calcium oxalate stones.
+8.  Squamous cell skin cancer on the forehead, chest
+9.  Chronic prostatitis

@@ -1,0 +1,19 @@
+Chief Complaint : C3 HD MTX
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Presenting history: Patient initially evaluated in ___ for
+progressive back pain.  Outside imaging with an MRI at ___ demonstrated a T9 vertebral lesion.  Lesion with
+paravertebral soft tissue mass extending into the vertebral
+canal.  An initial biopsy was nondiagnostic repeat core needle
+biopsy demonstrated diffuse large B-cell lymphoma for risk
+cytogenetics.  Given the patient's back pain and right lower
+extremity weakness he was urgently admitted for initiation of
+therapy with EPOCH chemotherapy.
+- ___ EPOCH C1 
+- ___ R-EPOCH C2 dose level 2 (LP with IT MTX ___
+- ___ R-EPOCH C3 dose level 2 (LP with IT MTX ___
+- ___ R-EPOCH C4 dose level 3 (LP with IT MTX ___
+- ___ R-EPOCH C5 dose level 4 (dose reduced vincristine)
+- ___ R-EPOCH C6 dose level 4 (dose reduced vincristine)
+- ___ HDMTX (3.5g/m2) C1
+- ___ HDMTX (3.5g/m2) C2
+- ___ HDMTX (3.5g/m2) C3

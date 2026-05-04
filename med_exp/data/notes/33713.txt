@@ -1,0 +1,25 @@
+Chief Complaint : Staph aureus bacteremia
+Past Medical History : PAST MEDICAL HISTORY:  
+ 1. CARDIAC RISK FACTORS: +hypertension, +dyslipidemia, 
++diabetes  
+
+ #OTHER PAST MEDICAL HISTORY:  
+ CHF (Biventricular HF) (EF: 64%)  
+ Apical variant hypertrophic CMP  
+ CKD (chronic kidney disease) stage 3, GFR ___ ml/min  
+ SLE  
+ Discoid lupus  
+ AFib  
+ GERD  
+ Anemia  
+ SSS (sick sinus syndrome)  
+ HTN  
+ HLD/Hypertriglyceridemia  
+ IDDM (c/b neuropathy)  
+ LUMBAR SPINAL STENOSIS  
+ CARPAL TUNNEL SYNDROME  
+ CERVICAL POLYP  
+ Hyponatremia  
+ Urinary Incontinence- Mixed  
+ Hx x1 episode of cardiorenal syndrome  
+ Hearing loss

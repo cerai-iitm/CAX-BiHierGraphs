@@ -1,0 +1,131 @@
+Chief Complaint : Bilateral Great Toe Pain, Back Pain, Rectal Pain, Chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY:
+~ ___: Develops fatigue, intermittent headaches, and night
+sweats, with subjective fever. 
+- ___: Presents to PCP with the above complaints and CBC is
+checked. This demonstrates pancytopenia with circulating blasts,
+and he is referred to the ___ ED. 
+- ___: Initial CBC at ___ reveals WBC 3.7, Hgb 10.2, and
+Plt 27, with 9% neutrophils and 53% blasts. 
+- ___: Bone marrow biopsy demonstrates AML involving 80-90%
+of overall marrow cellularity. Cytogenetics show a complex
+abnormal karyotype including monosomy 2 and 5, del(3q), and a
+derivative chromosome 17 from an unbalanced t(2;17). FISH shows
+deletions in TP53 and ETV6 genes as well as del(13q).  Myeloid
+sequencing panel demonstrates NRAS G12C and TP53 ___ 
+mutations.
+FLT3 ITD is found to be positive with 396 base pair PCR product. 
+
+- ___: Begins induction therapy with 7+3 with daunorubicin
+90 mg/m2. 
+- ___: Develops severe neutropenic pancolitis (typhlitis). 
+- ___: Inherited Bone Marrow Failure genetic sequencing 
+panel
+reveals heterozygosity for a variant of unknown significance
+(T3033I) in the BRCA2 gene.
+- ___: Colitis improves but is found to have acute
+appendicitis without abscess. 
+- ___: Repeat bone marrow biopsy upon CBC recovery
+demonstrates persistent AML, with blast percentage ___ by
+immunohistochemistry.
+- ___: C1D1 decitabine 20 mg/m2 x 10 days. 
+- ___: MRI pelvis shows low intersphincteric sinus at 6
+o'clock with a 4 x 9 x 11 mm collection within the external anal
+sphincter with associated inflammation of the anterior left
+external anal sphincter.
+- ___: Undergoes rectal examination under anesthesia, at 
+which
+time a perirectal abscess is identified and ___ is placed. 
+- ___: Develops severe C. difficile pancolitis necessitating
+FICU transfer. 
+- ___: Progressive pancolitis with increased mural edema. 
+- ___: Fecal microbiota transplant administered. 
+- ___: Found to have carbepenem-resistant Pseudomonas
+bacteremia and septic shock. 
+- ___: Further mild interval progression of pancolitis
+without evidence of perforation. 
+- ___: Bacteremia clears. 
+- ___: Colitis, pseudomonas bacteremia, and hypoxemic
+respiratory failure improve and he is transferred out of the
+FICU.   
+- ___: Repeat bone marrow biopsy at CBC recovery shows
+persistent involvement by AML with blast percentage ___ by
+immunohistochemistry.
+- ___: Discharged to home. 
+- ___: C2D1 decitabine 20 mg/m2 x 5 days. 
+- ___: Anal ___ removed by Dr. ___. 
+- ___: Admitted for sudden onset epigastric pain. CT
+abdomen/pelvis showed interval improvement in prior colitis, 
+with
+no definite drainable fluid collection in the area of the known
+intersphincteric fistula. He was treated with empiric
+ceftolazone/tazobactam and metronidazole x 48 hours. He was
+evaluated by ___ and Rectal Surgery, who felt that there was 
+no
+need for intervention. In particular, Dr. ___ not think
+that a diverting colostomy would be indicated prior to 
+allogeneic
+hematopoietic stem cell transplantation. 
+- ___: Discharged to home on oral ciprofloxacin. 
+- ___: ANC 390, Hgb 10.6 g/dL, Plt 173,000/uL. Bone marrow
+aspiration and biopsy performed. This indicates persistent
+involvement by AML, with ___ blasts by CD34
+immunohistochemistry. Cytogenetics reveal that 70% of metaphase
+bone marrow cells have complex abnormal karyotype with monosomy
+5, rearrangements resulting in the deletion of TP53 and ETV6, 
+and
+several other previously observed chromosomal aberrations.
+- ___: Second opinion with Dr. ___ at ___, who concurs
+with our plan to try venetoclax/decitabine. 
+- ___: C1D1 venetoclax/decitabine.  
+- ___: Admitted for recurrent excruciating rectal pain
+following a bowel movement.
+- ___: Rectal MRI demonstrates relatively stable appearance 
+of
+blind-ending intersphincteric and trans-sphincteric fistulous
+tracts, without any evidence of perianal abscess or collection.
+He is evaluated by Dr. ___ the ___ and rectal surgery
+service, who recommends no acute surgical intervention. Dr.
+___ specifically argues against diverting colostomy
+ahead of planned allogeneic hematopoietic stem cell transplant. 
+- ___: Repeat bone marrow aspiration and biopsy demonstrates
+persistent involvement by AML, with 20% myleoblasts by flow
+cytometry and ___ by immunohistochemistry. 
+- ___: Originally treated with IV cefepime and metronidazole,
+but these are transitioned to prophylactic ciprofloxacin and
+metronidazole after no apparent source of infection is
+identified. He is placed on a hydromorphone PCA for analgesia,
+and this is weaned to intermittent oral hydromorphone by the 
+time
+of discharge. He was discharged to home on ___.
+- ___: Plan to proceed with out-of-remission matched related
+donor allogeneic hematopoietic stem cell transplant, with
+myeloablative conditioning (fludarabine/busulfan). Signs consent
+for clinical trial protocol ___, A Randomized,
+Placebo-controlled Phase II Trial of Irradiated,
+Adenovirus-vector Transfected, GM-CSF secreting Autologous
+Leukemia Cell Vaccination (GVAX) versus Placebo Vaccination in
+Patients with Advanced MDS/AML After Allogeneic Hematopoietic
+Stem Cell Transplantation.
+- ___: Venetoclax discontinued, and filgrastim initiated.
+- ___: Full dental evaluation reveals no dental disease. 
+- ___: Admitted for myeloablative, matched, related male
+donor allogeneic hematopoietic stem cell transplant.
+Fludarabine/busulfan bonditioning. 
+- ___: Day 0 of transplant. Donor CMV negative (recipient 
+CMV
+negative), donor O negative (recipient A positive), CD34+ dose
+9.34 x 10^6 cells/kg. GVHD prophylaxis consists of methotrexate
+and tacrolimus. 
+- ___: Platelet engraftment. 
+- ___: Neutrophil engraftment. 
+- ___: Discharged to home. Admission further complicated by
+bilateral upper extremity DVTs, treated with enoxaparin. 
+- ___: Bone marrow aspiration and biopsy with lineage 
+specific
+chimerism performed on day +37 as per clinical trial protocol
+___, show persistent AML with concurrent flow 55% blasts.
+
+- ___: Tacrolimus decreased to 0.5 mg QD from BID
+- ___: 1 day admission for severe onset headache accompanied
+by n/v.  CT negative.  Resolved after supportive care.

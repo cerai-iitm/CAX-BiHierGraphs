@@ -1,0 +1,18 @@
+Chief Complaint : TAVR
+Past Medical History : 1.   Hypertension
+2.   Hyperlipidemia
+3.   Diastolic heart failure, chronic
+4.   Skin cancers
+5.   ___ disease
+6.   Thrombocytopenia
+7.   s/p total hip replacement
+8.   Pulmonary nodules
+9.   DJD
+10.  Colonic ademona
+11.  Monoclonal gammopathy
+12.  Obstructive sleep apnea
+
+Past Surgical History:
+1. total hip replacement
+2. lung nodule biopsy
+3. hernia repair

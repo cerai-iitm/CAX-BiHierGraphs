@@ -1,0 +1,36 @@
+Chief Complaint : Respiratory failure
+Past Medical History : PMH/PSH:  
+========
+- Lung adenocarcinoma with metastases to the brain, sacral and
+lumbar spine. 
+  - Initially treated with carboplatin, pemetrexed, 
+pembrolizumab
+  - Vinorelbine
+  - Brain mets treated with radiation
+  - Abraxane (paclitaxel protein-bound)
+- COPD/asthma
+- Hypertension
+- Hyperlipidemia
+- PVD
+- Status post multiple revascularizations involving the lower
+extremities, including a stent on the left
+- Status post laminectomy
+- Remote history of gastric bypass, ___ years ago at ___
+- Cataract surgery
+
+Oncologic History:
+===================
+- Metastatic adenocarcinoma of the lung to the brain as well as
+sacral and lumbar spine PD-L1 expression greater than 50%
+- Left lower extremity DVT, pulmonary emboli
+- Initial therapy with Carboplatin, pemetrexed and Keytruda
+started ___, discontinued due to disease progression
+- Navelbine days 1 & 8 every 21 days, started ___,
+completed 2 cycles
+- Oligometastatic disease to the brain initially treated with
+CyberKnife therapy Brain MRI from ___ suggest diffuse
+progression with greater than 25 enhancing lesions - currently
+undergoing whole brain radiation started ___
+- ___ C1 d8 of abraxane
+- Lovenox injections for DVT/PE Transitioned to apixaban as of
+___

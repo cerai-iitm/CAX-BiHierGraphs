@@ -1,0 +1,64 @@
+Chief Complaint : EPOCH
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- ___: Patient noted a persistent left-sided hearing 
+loss following a plane flight to ___. She presented to 
+urgent care in ___ and was treated with antibiotics for 
+presumed sinus infection. Her hearing loss persisted, she 
+presented to urgent care in ___ after returning from 
+___. She was again treated with antibiotics with no 
+improvement in her hearing loss.
+- ___: The patient and her husband noted swelling in her left
+side of her neck and hoarse voice. They initially presented to
+the ER at ___ on ___. CT at that time showed 
+a
+large left neck mass extending from the nasopharynx down to
+superior thorax in the parapharyngeal space. There is also a
+second enhancing mass in the right parapharyngeal space.
+Bilateral large lymph nodes were also seen. She was transferred
+to ___ for further evaluation. She was seen by ENT and the
+Hematology-Oncology consultation team. She underwent core biopsy
+on ___ that showed pleomorphic medium-sized lymphocytes 
+with
+scant cytoplasm resembling lymphoblasts. IHC was positive for
+CD20 and CD10. BCL6 and MUM1 stained a subset of cells. The 
+tumor
+expressed high levels of BCL2. MIB-1 was variable, but reaching
+80%. FISH panel showed an IgH/BCL2 gene rearrangement associated
+with germinal center origin and deletion of 5' BCL6. There is no
+evidence of MYC rearrangement.  She had a CT torso that showed
+extensive lymphadenopathy in the lower neck, upper thorax,
+predominantly supraclavicular area. There was dilation of the
+aortic root, potentially representing thrombosis. CT abdomen and
+pelvis showed thickening of the endometrium concerning for
+malignancy. An 8.1 cm amorphus partially necrotic mesenteric
+nodal mass in the left mid abdomen, peripancreatic
+lymphadenopathy. She underwent 3D cardiac imaging given the CT
+chest findings that showed a 5 cm heterogeneous mass 
+demonstrated
+in the pericardial space, posterior to the ascending aorta which
+partially encases the ascending aorta but does not involve the
+vessel wall. On echo, no intracardiac mass was identified. She
+also had D&C this admission that showed endometrial
+adenocarcinoma, endometrioid type, FIGO grade III. She started 
+cycle 1, day 1 of dose adjusted EPOCH (dose level 1) on 
+___. She was discharged home on ___.
+- ___: rituximab
+- ___: rituximab
+- ___: C2 EPOCH (dose level 1)
+- ___: C3 EPOCH (dose level 2)
+- ___: C4 EPOCH (dose level 2)
+
+PAST MEDICAL HISTORY:  
+- Lymphoma (intermediate between DLBCL and Burkitt's) as above
+- Endometrial Cancer s/p D&C ___ showing endometrial 
+adenocarcinoma, endometrioid type, FIGO grade 3 of 3, see note. 
+
+Note: The tumor shows between ___ solid growth and bizarre 
+cytologic atypia, consistent with grade 3. Focal cytoplasmic 
+clearing, likely due to secretory change.     
+- Hypertension
+- Hyperlipidemia
+- Glaucoma
+- DCIS of right breast s/p lumpectomy and XRT in ___
+- Anxiety
+- s/p tonsillectomy

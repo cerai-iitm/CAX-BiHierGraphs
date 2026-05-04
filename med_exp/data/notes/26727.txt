@@ -1,0 +1,42 @@
+Chief Complaint : ___ 
+Hyperkalemia
+UTI
+Past Medical History : Problems  (Last Verified ___ by ___, NP):
+HEALTH MAINTENANCE                                              
+COLON                                                           
+
+HYPERCHOLESTEROLEMIA                                            
+
+CARPAL TUNNEL SYNDROME                                          
+
+CORONARY ARTERY DISEASE                                         
+
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE                           
+
+OBESITY                                                         
+
+SLEEP APNEA                                                     
+
+CHRONIC KIDNEY DISEASE                                          
+
+LARYNGOPHARYNGEAL REFLUX                                        
+
+CROHN'S DISEASE                                       ___   
+
+INFLAMMATORY BOWEL DISEASE                                      
+
+COLONIC ADENOMA                                                 
+
+VITAMIN D DEFICIENCY                                            
+
+DIABETES TYPE II                                                
+
+HYPERTENSIVE HEART DISEASE                                      
+
+RECURRENT CYSTITIS                                              
+
+ANEMIA                                                          
+
+HEMORRHOIDS                                                     
+
+CONGESTIVE HEART FAILURE

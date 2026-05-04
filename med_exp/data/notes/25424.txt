@@ -1,0 +1,46 @@
+Chief Complaint : recurrent ovarian cancer
+Past Medical History : Diagnosis: Stage IIB grade 1 endometrioid ovarian carcinoma
+
+Oncology history:
+-___ pelvic ultrasound showed a complex cystic mass with
+large soft tissue component containing increased vascularity
+measuring 12.3 x 10.8 x 13.1 cm in the right adnexa. 
+-___ staging CT Torso showed a large cystic mass within the
+right ovary which measured 12.5 x 10.6 cm and contained a
+papillary soft tissue component which measures 6 x 3.3 cm. 
+-___ Fertility-sparing surgery with lap RSO and resection of
+pelvic mass: 10.0 cm grade 1 endometrioid ovarian carcinoma
+involving the right ovary and extending to the pelvic sidewall,
+node neg ___, negative washings, Stage IIB.
+-___ ___ benign.
+-___ BRCA2 VUS (D2444V).
+-___ completed ___ x 6 cycles.
+-___ CA 125 up to 43.
+-___ ___ benign.
+-___ CT torso with no evidence of recurrence.
+-___ TLH/LSO benign.
+-___: CA125 increased from 12 to 27.
+-___: CT Torso without evidence of recurrent malignancy.
+-___: CA125 decreased to 19.
+-___: CA-125 increase to 86
+
+PMH:
+-Ovarian cancer as above.
+-IBS with constipation.
+-Allergic Rhinitis.
+-GERD.
+
+TOTAL LAPAROSCOPIC HYSTERECTOMY; LEFT SALPINGO-       ___
+Total laparoscopic hysterectomy; left salpingo- oophorectomy;   
+cystoscopy.                                                     
+
+HYSTEROSCOPY, DILATATION AND CURETTAGE                ___
+
+HYSTEROSCOPY, DILATION AND CURETTAGE                  ___
+
+ROBOTIC ASSISTED LAPAROSCOPIC RIGHT SALPINGO-         ___
+ Robotic assisted laparoscopic right salpingo- oophorectomy,    
+ resection of right pelvic mass, right-sided ureterolysis,      
+ bilateral pelvic lymph node dissection, bilateral periaortic   
+ lymph node dissection, partial omentectomy, left ovarian       
+ biopsy, washings.

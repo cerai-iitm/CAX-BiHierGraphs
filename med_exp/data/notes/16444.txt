@@ -1,0 +1,71 @@
+Chief Complaint : Fatigue, flank pain
+Past Medical History : PAST ONCOLOGIC HISTORY:  
+As per last clinic note by Dr ___:
+"Rectal cancer stage IIIC (T4, N2, M0) with progressive
+metastatic
+disease
+- ___ Underwent upfront surgery followed by adjuvant external
+beam radiotherapy to the pelvis with sensitizing capecitabine
+followed by FOLFOX now with local recurrence
+- ___ CT torso showed pelvic recurrence with pelvic
+adenopathy.
+- ___ C1D1 FOLFIRI
+- ___ C1D15 FOLFIRI
+- ___ C2D1 FOLFIRI
+- ___ C2D15 FOLFIRI
+- ___ CT abdomen and pelvis showed reduction in tumor
+size, no new disease
+- ___ C3D1 FOLFIRI
+- ___ C3D15 FOLFIRI
+- ___ C4D1 FOLFIRI
+- ___ MR pelvis showed 1.7 x 1.3 cm solid enhancing mass,
+likely representing disease recurrence of the patient's known
+rectal cancer, along the peritoneal reflection in the midline
+pelvis with apparent involvement of the anterior aspect of the
+outer rectal wall and posterior aspect of the seminal vesicles. 
+It appears decreased in size from ___. Incompletely
+visualized enlarged left common iliac lymph nodes, largest
+measuring up to 2 cm.  Single 9 mm enhancing right mesorectal
+lymph node, which is indeterminate in etiology but unchanged;
+close attention on follow-up 
+imaging is recommended. 
+- ___ C4D15 FOLFIRI
+- ___ PET CT revealed the known enlarged 1.9 x 1.4 cm 
+left
+external iliac lymph node is FDG avid. No additional sites of 
+FDG
+avid disease identified. The 1.4 x 0.9 cm soft tissue density
+arising from the anterolateral rectum seen on recent MR
+demonstrates mild FDG activity, however this is difficult to
+separate from the normal, expected FDG activity in the closely
+adjacent bowel lumen. A 7 mm ground-glass nodule in the left
+upper lung is stable since at least ___, and too small
+to characterize with respect FDG avidity.  
+- ___ C5D1 FOLFIRI
+- ___ C5D15 FOLFIRI + bevacizumab
+- ___ C6D1 FOLFIRI + bevacizumab
+- ___ PET CT showed further response to therapy
+- ___ Underwent resection of the pelvic mass which
+revealed a node negative adenocarcinoma with a 2 mm anterior
+midline margin and a positive posterior mesenteric margin
+- ___ CT showed possible lung mets versus nodules
+- ___ CT showed progression of lung mets, rising CEA
+- ___ C1D1 ___ D1,___
+- ___ C2D1 ___ D1,8
+- ___ C3Dq ___ D1,8
+- ___ C1D1 FOLFOX + ___
+- ___ C2D1 FOLFOX + ___
+- Ongoing FOLFOX + ___
+- ___ Last dose of FOLFOX + ___
+- ___ CT torso showed progression of lung mets as well as
+mild left hydroureter and a possible new liver met
+- ___ Offered for ___ ___
+- ___ Consent for ___ ___
+- ___ CT torso showed progression of disease
+- ___ C1D1 Pembrolizumab 200 mg D1 AMG386 30 mg/kg
+D1,8,15"
+ 
+PAST MEDICAL HISTORY:  
+-LLE Edema thought to be ___ venous obstruction
+-HTN
+-T2DM

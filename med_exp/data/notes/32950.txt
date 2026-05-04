@@ -1,0 +1,231 @@
+Chief Complaint : acute kidney injury
+Past Medical History : PAST HEME/ONC HISTORY:
+==============================  
+ONCOLOGIC HISTORY:
+-___: Sudden onset of sharp, bilateral flank pain and
+abdominal pain.
+
+-___: Admission to ___ hospital with back/flank
+pain. CT abdomen/pelvis with contrast with "bilateral 
+perinephric
+stranding, concern for pyelonephritis, and gas distension in the
+sigmoid without volvulus." Developed ___ following IV contrast
+administration with SCr up to 5.9, then increased to 7.7 with
+catheter placement and dialysis x 2.
+
+-___: Transferred to ___ with renal failure, elevated 
+urine
+protein to creatinine ratio, and new anemia. UPEP with 
+monoclonal
+band and free light chain excretion of 1275 mg/day.
+
+-___: MULTIPLE MYELOMA LABS
+PEP: TRACE ABNORMAL BAND IN FAST GAMMA REGION 
+IgG: 173* 
+IgA: 18* 
+IgM: 72 
+IFE: MONOCLONAL FREE LAMBDA LIGHT CHAIN DETECTED 
+
+-___: MULTIPLE MYELOMA LABS
+FreeKap: 6.3 
+FreeLam: 7525* 
+Fr K/L: 0.00* 
+
+-___: BONE MARROW BIOPSY
+PLASMA CELL MYELOMA
+
+Note: Plasma cells represent 66% of the aspirate differential
+count. The core biopsy shows a dense infiltrate of plasma cells
+highlighted by a CD138 immunostain representing >90% of the
+overall cellularity. Kappa and lambda immunostains reveal lambda
+restriction. The findings are in keeping with extensive
+involvement by plasma cell myeloma.
+
+FLOW: Immunophenotypic findings consistent with involvement by a
+plasma cell neoplasm.
+
+CYTOGENETICS: 46,XY[20] Normal male karyotype.
+FISH: POSITIVE for MONOSOMY 13 and IGH REARRANGEMENT. 
+
+-___ SURVEY
+Small lucency with sclerotic rim of the lesser tuberosity of the
+right proximal humerus most likely represents cystic change
+rather than an intraosseous lesion.
+
+-___: HIP X-RAY
+Subtle small lucencies noted in the right femoral head and
+proximal femur are seen only on one view and are not confirmed 
+on
+the frog-leg lateral view, of uncertain clinical significance. 
+No
+fracture, dislocation, endosteal scalloping, aggressive
+osteolysis, or dominant lytic lesion detected in the right
+proximal femur. 
+
+-___: BONE MARROW BIOPSY
+CELLULAR BONE MARROW WITH MATURING TRILINEAGE HEMATOPOIESIS AND
+INVOLVEMENT BY THE PATIENT'S KNOWN PLASMA CELL DYSCRASIA
+Note: Plasma cells represent 9% of the aspirate differential
+count. By immunohistochemistry, CD___ highlights ___ of the
+overall cellularity. Plasma cells are lambda restricted by kappa
+and lambda immunostains. Cytogenetics work-up revealed evidence
+of monosomy 13 and IGH/MAF gene rearrangement 
+
+-___: PET CT
+No focal FDG abnormality
+
+-___: MULTIPLE MYELOMA LABS
+Free K: 17.7
+Free L: 149.8*
+Fr K/L: 0.12*
+
+-___: MULTIPLE MYELOMA LABS
+Free K: 4.7
+Free L: 393.2*
+Fr K/L: 0.01*
+
+-___: BONE MARROW BIOPSY
+CELLULAR BONE MARROW WITH MATURING TRILINEAGE HEMATOPOIESIS AND
+INVOLVEMENT BY THE PATIENT'S KNOWN PLASMA CELL DYSCRASIA.
+
+Note: Plasma cells represent 11% of the aspirate differential
+count. By immunohistochemistry, CD___ highlights ___ of the
+overall cellularity. Plasma cells are lambda restricted by kappa
+and lambda immunostains. Corresponding flow cytometry detected a
+population of lambda restricted plasma cells. The findings are 
+in
+keeping with involvement by the patient's known plasma cell
+dyscrasia.
+
+CYTOGENETICS: 46,XY[20] Normal male karyotype. 
+FISH: POSITIVE for MONOSOMY 13 and IGH/MAF REARRANGEMENT
+
+-___: PET-CT
+No evidence of FDG avid disease.
+
+TTE ___: Mild symmetric left ventricular hypertrophy with
+normal cavity size and regional/global biventricular systolic
+function. Echocardiographic evidence for diastolic dysfunction
+with elevated PCWP. Mild pulmonary artery systolic hypertension.
+TREATMENT HISTORY:
+-Plasmapheresis x ___
+
+-___: C1D1 VD
+     Velcade 1.3 mg/m2 D 1,4,8,11
+     Dexamethasone 20 mg D 1,2,4,5,8,9,11,12
+
+-___: C1D1 CyBorD
+     Cyclophosphamide 300mg/m2 D1,8 
+     Velcade 1.3mg/m2 D1,8,15,22 
+     Dexamethasone 20 mg D 1,8,15,22 EVERY 28 DAYS
+
+-___: C2D1 CyBorD
+     Cyclophosphamide 300mg/m2 D1,8 
+     Velcade 1.3mg/m2 D1,8,15,22 
+     Dexamethasone 20 mg D 1,8,15,22 EVERY 28 DAYS
+
+-___: C3D1 CyBorD
+     Cyclophosphamide 300mg/m2 D1,8 
+     Velcade 1.3mg/m2 D1,8,15,22 
+     Dexamethasone 20 mg D 1,8,15,22 EVERY 28 DAYS
+
+-___: C4D1 CyBorD (DAY 15 and 22 HELD for bradycardia)
+     Cyclophosphamide 300mg/m2 D1,8 
+     Velcade 1.3mg/m2 D1,8,15,22 
+     Dexamethasone 20 mg D 1,8,15,22 EVERY 28 DAYS
+
+-___: C1D1 RVD-lite
+     Revlimid 10 mg PO D ___
+     Velcade 1.3 mg/m2 SQ D 1,8,15,22
+     Dexamethasone 20 mg PO D 1,8,15,22
+
+-___: C2D1 RVD-lite
+    Revlimid 10 mg PO D ___
+    Velcade 1.3 mg/m2 SQ D 1,8,15,22
+    Dexamethasone 20 mg PO D 1,8,15,22
+
+-___: C3D1 RVD-lite (DAY 15 and ___ HELD for influenza)
+    Revlimid 10 mg PO D ___
+    Velcade 1.3 mg/m2 SQ D 1,8,15,22
+    Dexamethasone 20 mg PO D 1,8,15,22
+
+-___: C4D1 VD-lite (DAY 8 and DAY 22 HELD)
+    Velcade 1.3 mg/m2 SQ D 1,8,15,22
+    Dexamethasone 20 mg PO D 1,8,15,22
+
+-___: Started maintenance velcade
+
+-___: ___
+     Daratumumab 16 mg/kg 
+     Bortezomib 1.3mg/m2 SC weekly
+     Dexamethasone 10 mg po prior to ___ 
+
+-___: ___
+     Daratumumab 16 mg/kg
+     Pomalidomide 2 mg D1-21 every 28 days
+     Dexamethasone 10 mg po prior to ___
+
+___ weeks ___:
+-Completed ___
+
+___ Q2 weeks:
+-___: Dose 9
+-___: Dose 10
+-___: Dose 11
+-___: Dose 12
+-___: HELD for chalazion and rising light chains
+-___: Dose 13, started pomalyst (2mg)
+-___: Dose 14, pomalyst HELD for rash
+-___: Dose 15, restarted pomalyst (1mg)
+-___: Dose 16
+-___: Dose 17
+-___: Dose 18, increased pomalyst to 2mg 
+-___: Dose 19 
+
+-___: Carfilzomib/Pom/Dex
+     Carfilzomib 20 mg/m2 IV Days 1, 2, 8, 9, 15 and 16.
+     Pomalidomide 2 mg D1-21 every 28 days
+     Dexamethasone 4 mg po prior to carfilzomib
+       --Days 1,2,8,9,15 and 16.
+
+-___: KPD
+     Carfilzomib 27 mg/m2 IV Days 1, 2, 8, 9, 15 and 16.
+     Pomalidomide 2 mg D1-21 every 28 days
+     Dexamethasone 4 mg po prior to carfilzomib 
+      --Days 1,2,8,9,15 and 16. 
+
+-___: KPD
+     Carfilzomib 27 mg/m2 IV Days 1, 2, 8, 9, 15 and 16.
+     Pomalidomide 2 mg D1-21 every 28 days
+     Dexamethasone 4 mg po prior to carfilzomib
+       --Days 1,2,8,9,15 and 16.
+
+-___: KPD on HOLD and then PD
+
+-___: Cytoxan 1g/m2 and velcade for bridging therapy with
+dex ___ d1-4
+
+-___: ___
+-___: ___ # 2 bridging
+-VD last dose ___
+
+Xgeva Infusions
+******************
+Dose #1: ___
+Dose #2: ___
+Dose #3: ___
+Dose #4: ___
+Dose #5: ___
+Dose #6: ___
+Dose #7: ___
+
+PAST MEDICAL HISTORY:
+==============================  
+-MM
+-Bradycardia ___ revlimid (was also on labetalol at that time)
+-GERD
+-HTN
+-Hyperlipidemia
+-Partial colectomy for perforated bowel (? BO ___ chole), ___
+-Cholecystecomy, ___
+-L wrist tendon repair and revision, ___

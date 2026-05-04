@@ -1,0 +1,17 @@
+Chief Complaint : hypoxemic respiratory failure
+Past Medical History : PAST MEDICAL HISTORY:  
+- Asthma
+- IDDM
+- NIDDM
+- PAD
+- CAD
+- HTN
+- HLD
+- Rheumatic heart disease since age ___
+
+PAST SURGICAL HISTORY
+- mitral valve replacement MECHANICAL ___
+- hysterectomy ___
+- right SFA angioplasty and stenting in ___
+- left SFA angioplasty in ___
+- right external iliac stent in ___

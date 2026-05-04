@@ -1,0 +1,14 @@
+Chief Complaint : VT with ICD firing
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes mellitus type 2 
+- Hypertension   
+2. CARDIAC HISTORY  
+- CAD s/p anterior MI in ___
+- Infarct-related cardiomyopathy (LVEF 28%, ___ class II)
+- Heart failure with reduced ejection fraction
+- Single-chamber ICD for primary prevention of sudden death
+- Ventricular tachycardia s/p VT ablation (substrate 
+modification) ___
+- Paroxysmal AF, CHA2DS2-VASc score of 4 (CHF, HTN, DM, CAD)
+3. OTHER PAST MEDICAL HISTORY 
+- Asthma

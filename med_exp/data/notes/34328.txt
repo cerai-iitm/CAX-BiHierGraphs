@@ -1,0 +1,22 @@
+Chief Complaint : Bilateral breast cancer
+CHEK2 mutation
+CDH1 mutation
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- Breast Cancer
+-___: right breast LCIS
+-___: Tamoxifen chemoprevention
+-___: screening mammogram revealed abnormality in the left
+breast.  Subsequent biopsy revealed an invasive ductal 
+carcinoma,
+grade 3, ER positive, PR negative, HER2 negative by FISH
+-___: s/p excision and SLNB.  Final pathology revealed a
+1.3cm invasive carcinoma with ductal and lobular features, grade
+3, positive LVI, 2 LN with isolated tumor cells (___).  Several
+margins with 1mm away with invasive disease as well as LCIS and
+she will require a re-exicision.  Oncotype recurrence score = 35
+- ___ C1 Cytoxan and Adriamycin 
+- ___ C2 Cytoxan and Adriamycin 
+.
+PAST MEDICAL HISTORY:
+- Hypertension, hyperlipidemia, osteopenia, basal cell 
+carcinoma.

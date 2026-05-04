@@ -1,0 +1,34 @@
+Chief Complaint : dysphagia
+Past Medical History : PAST ONCOLOGIC HISTORY (per latest outpatient Oncology note):
+- ___: Patient noted dysphagia and odynophagia.
+- ___: EGD at ___ reportedly showed an 
+esophageal lesion.
+- ___: EGD/EUS at ___ showed diffusely thickened nodular 
+mucosa with erythema and friability at the GE junction extending 
+into the cardia. EUS showed mass-like eccentric thickening at 
+the GEJ, with mass extending past the muscularis. There were 3 
+subcentimeter lymph nodes adjacent to the mass concerning for 
+nodal involvement as well as an additional lymph node noted 
+proximally. There was also a fifth lymph node noted at the level 
+of the gastrohepatic ligament. He was staged as T3N2 by EUS. 
+Pathology showed poorly-differentiated carcinoma with focal 
+squamous features.
+- ___: PET-CT showed FDG-avid circumferential thickening of 
+the distal esophagus and GEJ as well as multiple FDG-avid lymph 
+nodes in the upper paratracheal, paraesophageal, celiac, and 
+left gastric stations.
+- ___: Initial visits with Medical Oncology, Radiation 
+Oncology, Surgery. He was felt to have at least stage IIIC 
+disease. Plan for concurrent chemoradiotherapy with carboplatin 
+and paclitaxel along with 5040 cGy with potential surgical 
+resection afterward depending on his course.
+- ___: C1D1 of chemoradiotherapy - carboplatin AUC 2 and 
+paclitaxel 50 mg/m2 weekly and radiotherapy planned 5040 cGy 
+over 28 fractions.
+
+PAST MEDICAL HISTORY:
+- Esophageal cancer as above
+- GERD
+- Alcohol abuse
+- Tobacco use
+- Unilateral deafness

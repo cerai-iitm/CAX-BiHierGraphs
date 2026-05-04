@@ -1,0 +1,63 @@
+Chief Complaint : Dyspnea on exertion
+Past Medical History : Past Medical History
+1. Stage II nonsmall cell lung cancer (T2N1Mx, adenocarcinoma)  
+diagnosed in ___  
+2. Recurrent (equivalent to stage IV) nonsmall cell lung cancer  
+diagnosed in ___.  
+3. Hyperlipedemia  
+4. Hypertension  
+
+Past Oncology History: Per OMR
+- presented to medical care on ___ with complaints of 
+cough and dyspnea. Initial evaluation disclosed a right upper 
+lobe lung lesion. The patient underwent a right upper lobectomy 
+on ___ and was found to have an adenocarcinoma of the lung. 
+The tumor measured 3.5 cm and an interlobular node was found to 
+be positive for cancer (N1). Due to the presence of nodal 
+involvement, the patient was offered and received adjuvant 
+systemic chemotherapy as part of the intergroup clinical trial 
+___. At time of initiation of adjuvant chemotherapy, she 
+had recovered her cardio-pulmonary status to pre-surgical 
+levels. The patient received 4 cycles of cisplatin and 
+gemcitabine, and was randomized to the bevacizumab arm. She 
+completed ___ year of adjuvant bevacizumab. It seems she did not 
+develop any lingering toxicity from treatment outside some 
+worsening of her underlying hypertension. She completed 
+bevacizumab in ___. She was then followed as part as an 
+active surveillance strategy with repeat CT Scan chests, which 
+over the initial 1 and a half years of
+follow-up did not show evidence of new lesions or recurrence. By 
+___, the patient had regained her full cardio-pulmonary 
+capacity and denied dyspnea, cough, chest discomfort or fatigue.
+Indeed, she was quite active and able to perform extraneous
+activities. 
+- CT Scan of chest from ___ showed evidence of new/growing 
+subcentimeter bilateral pulmonary nodules. Due to their growth 
+pattern, a decision was made to initiate systemic therapy. The 
+original tumor had been sent for EGFR genotype and found to 
+___ an EGFR L858R exon 21 mutation. The patient was started 
+on erlotinib at 150 mg/day on ___. Her initial course was 
+complicated by a characteristic maculo-pustular EGFR tyrosine 
+kinase inhibitor (TKI)-induced rash, dry skin and 
+conjunctivitis. Due to its toxicity, erlotinib was decreased to 
+100 mg/day on early ___. It seems that at the lower dose, 
+the patient was able to tolerate therapy better with decreased 
+rash and improvement of her eye complaints. She denied diarrhea 
+or other EGFR TKI-related adverse events at that point. In 
+addition, she remained asymptomatic from a cardio-pulmonary 
+point-of-view. Initial imaging studies from ___, by 
+report, showed minor response to therapy. The patient had repeat 
+CT Scans
+performed on ___ that showed evidence the presence of her 
+know multiple pulmonary nodules with minimal millimeter change 
+in size of lesions without new lesions. The CT Scans from 
+___ show evidence of stable multiple pulmonary nodules. No 
+new lesions are noted. 
+- Imaging studies from ___ and ___ showed mostly stable 
+pulmonary lesions without new lesions noted. 
+- imaging study obtained in ___ showed 
+minimal growth of pulmonary lesions. The largest lesion measured 
+less than 1.2 cm.
+- ___ CT imaging with increase in bilateral pulmonary nodules
+concerning for interval worsening of metastatic disease
+- ___ - C1D1 rociletinib on trial ___

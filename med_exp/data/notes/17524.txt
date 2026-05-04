@@ -1,0 +1,20 @@
+Chief Complaint : Fatigue
+Past Medical History : 1. CARDIAC RISK FACTORS  
+ - Diabetes  
+ - Hypertension  
+ - Dyslipidemia  
+2. CARDIAC HISTORY  
+
+# CORONARIES: No hx of CAD 
+# PUMP: Hx of HFrEF from HTN, last EF 30% in ___ 
+# RHYTHM: SR with LBBB morphology. Hx of Afib s/p cardioversion 
+in ___, now on amio and rivaroxaban.
+
+3. OTHER PAST MEDICAL HISTORY  
+ - T2DM
+ - HTN
+ - Hx of septic shock ___ C. diff infection 
+ - OSA, occassionally using BiPAP  
+ - Hyperlipidemia  
+ - Iron deficiency anemia  
+ - BPH

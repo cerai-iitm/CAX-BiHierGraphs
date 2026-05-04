@@ -1,0 +1,52 @@
+Chief Complaint : Pain, vomiting
+Past Medical History : PAST ONCOLOGIC HISTORY (Per OMR, reviewed): 
+-___: Initial diagnosis of muscle-invasive high-grade
+urothelial carcinoma of the bladder by TURBT after workup for
+gross hematuria. Imaging showed no evidence of metastatic
+disease.
+-___: Initiated neoadjuvant ddMVAC and completed 4 cycles.
+-___: Partial cystectomy. Pathology showed high-grade
+urothelial carcioma with micropapillary features, T3aN0 disease
+(0 of 1 lymph nodes involved), indeterminate lymphovascular
+invasion. Margins were negative (distance of invasive carcinoma
+from closest margin <1mm from the peripheral margin, 1.5 mm from
+the deep margin). 
+-___ to ___: Intravesical BCG/IFN x6. Continued routine
+cystoscopies.
+-___: Maintenance BCG/IFN x3.
+-___: MRI Abdomen/Pelvis showed 2 sub-centimeter mucosal
+nodules within the bladder concerning for recurrent disease as
+well as new pelvic sidewall lymphadenopathy up to 1.2 x 1.6 cm
+concerning for nodal metastasis. 
+-___: Cystoscopy showed 1 cm left anterolateral wall solid
+appearing tumor and other 2-3 mm nodular areas concerning for
+tumors. Urine cytology showed atypical urothelial cells. 
+-___: CT Torso without contrast showed pelvic 
+lymphadenopathy
+mildly increased compared to the MRI from ___, with the
+largest lymph nodes measuring 1.6 x 1.4 cm. 
+-___: Biopsies of 5 areas within the bladder showed
+urothelial mucosa with chronic inflammation and minimal
+urothelial atypicality, likely reactive; no malignancy
+identified.
+-___: Biopsy of left pelvic lymph node showed high grade
+urothelial carcinoma.
+-___: Completion of concurrent chemoradiotherapy with weekly
+Taxol and XRT 5400 cGy to bladder and pelvic lymph nodes.
+-___: CT showed enlargement of metastatic left pelvic and
+retroperitoneal lymph nodes.
+-___: C1 Atezolizumab.
+-___: CT A/P showed mild L hydroureteronephrosis and stable
+wall bladder thickening. Slight enlargement of 8 mm aortocaval
+node and new prominent R common iliac nodes.
+-___: Stable response with 8C atezolizumab
+-___: C10D1
+
+PAST MEDICAL HISTORY (Per OMR, reviewed):  
+-Atrial fibrillation s/p cardioversion ___ without recurrence.
+-Hypertension.
+-___ prostatic hypertrophy.
+-Obstructive sleep apnea - does not use CPAP.
+-s/p Bilateral total hip replacements.
+-s/p Appendectomy.
+-s/p Sinus surgery.

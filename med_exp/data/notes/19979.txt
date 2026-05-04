@@ -1,0 +1,22 @@
+Chief Complaint : Stress urinary incontinence, rectocele
+Past Medical History : PAST MEDICAL HISTORY:
+  1. Arrhythmias
+  2. Motion sickness 
+  3. Headaches
+  4. Allergic rhinitis
+  5. Constipation
+
+PAST SURGICAL HISTORY
+  1. C/S x 2
+  2. T & A
+  3. R knee x 5
+  4. L shoulder and elbow
+  5. Varicose veins
+
+PAST OB HISTORY
+G2P___
+C-Section: 2
+
+PAST GYN HISTORY
+She is Premenopausal, her LMP was on ___. Her menses are
+irregular.

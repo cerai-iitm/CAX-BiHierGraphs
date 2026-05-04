@@ -1,0 +1,79 @@
+Chief Complaint : anbormal lfts
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+-___: presented with acute onset of gross hematuria
+accompanied with some mild flank pain. During his workup, he was
+found to have a 4.8 cm mass on a CAT scan dated ___,
+specifically the scan describes a left renal mass with internal
+enhancement measuring 4.1 x 4.8 cm in size in the mid and upper
+pole of the left kidney. Also described was the fat-containing
+left inguinal hernia and left perinephric stranding. There was 
+no
+adenopathy or other suspicious lesions. There is also an old
+sclerotic right ilial lesion and left sacral lesion. 
+-___: underwent a laparoscopic hand assisted radical right
+nephrectomy by Dr. ___ pathology showed a 
+renal
+cell carcinoma, clear cell type, ___ grade II/IV measuring 4
+cm extending but not invading through the renal capsule or
+Gerota's fascia margins were questionably positive at the renal
+vein and otherwise negative. On review of pathology here at ___, the margins are described as negative including the 
+renal
+vein margin. A background of global glomerulosclerosis is
+described. Overall, this was a T3bNxMx lesion. Postoperative
+imaging on ___ which was a CT torso showed no evidence of
+recurrent or metastatic disease.
+-___: CT chest showed interval increase in prominence of
+mediastinal lymph nodes and minimal interval increase in 
+multiple
+b/l pulmonary nodules, concerning for progression
+-___: Fine needle aspirate of 11R and 11L lymph nodes, which
+was consistent with metastatic RCC
+-___: CT Torso - mediastinal and hilar nodes and pulmonary
+lesions increased in size. No definite intra-abdominal sites of
+disease 
+-___: C1D1 ___, randomized to sunitinib
+-___: Multiple grade ___ adverse events including
+thrombocytopenia (grade 2; platelet 52,000), leukopenia (grade 
+2;
+WBC 2.9), elevated lipase (grade 1), elevated amylase (grade 1;
+elevated at baseline), elevated ALT (grade 1), and 
+hypothyroidism
+(grade 1). Mild symptoms with treatment. Continued sunitinib at
+50mg daily per protocol.
+-___: CT Torso: Response of mediastinal lymphadenopathy,
+bilateral hilar lymphadenopathy, and numerous parenchymal
+metastases. Stable disease by RECIST (decrease 19.1% from
+baseline).
+-___: Sunitinib reduced to 37.5 mg daily due to erythematous
+rash and blistering on palms and sole of right foot.
+-___: CT Torso: Decrease in pulmonary and mediastinal
+lesions. Stable disease by RECIST 1.1 (decrease 22.5% from
+baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+39.8% from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+46.3% from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease 
+40.3%
+from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+42.6% from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+47.7% from baseline).
+-___: CT torso: Ongoing partial response comments: No
+significant change compared to prior scan. No new lesions. 
+-___: CT Torso: PR by RECIST 1.1 
+-___: CT Torso: PR by RECIST 1.1: -54.22% change from
+baseline and -10.29% change from last scan. 
+-___: CT Torso:  partial response: -57.79% from baseline,
+-7.79% from nadir
+-___: CT Torso shows continued partial response, no
+significant change compared to prior
+
+PAST MEDICAL HISTORY (per OMR):
+1. Clear cell kidney cancer as above.
+2. Benign prostatic hypertrophy.
+3. Diabetes mellitus.
+4. Hypertension.
+5. Hyperlipidemia.
+6. History of anxiety.

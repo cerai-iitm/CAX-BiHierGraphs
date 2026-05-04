@@ -1,0 +1,4 @@
+Chief Complaint : Osteomyelitis
+Past Medical History : Diabetes type 1 (diagnosed at ___ years old)
+Addisons Disease (diagnosed at ___ years old)
+Depression

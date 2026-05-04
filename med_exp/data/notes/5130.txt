@@ -1,0 +1,26 @@
+Chief Complaint : syncope
+Past Medical History : PAST ONCOLOGIC HISTORY:
+- ___: presented with shortness of breath, and was found to
+ave cardiac tamponade. s/p pericardiocentesis with cytology
+howing metastatic adenocarcinoma, HER2 negative
+- ___: CT Torso showed paratracheal and bilateral hilar
+denopathy and diffuse sclerotic osseous lesions
+- ___: pericardial window
+- ___: pericardial drain removed
+- ___: EGD showed 4x4 friable, ulcerated mass
+- ___: PF4 sent, started argatroban for concern of HITT
+- ___: CT Torso showed new pathologic fractures at T6/7
+- ___: MRI confirmed pathologic fractures
+- ___ - ___: Received 5 fractions  for total dose of
+000cGy to T5-T8
+- ___: given lack of increase in plt count, transitioned 
+from
+rgatroban to fondaparinux
+- ___: C1D1 of mFOLFOX (no bolus ___, ___ leucovorin)
+- ___: C1D15 of mFOLFOX (no bolus ___, ___ leucovorin)
+- ___: L and R thoracentesis
+- ___: port placed
+ 
+PAST MEDICAL HISTORY: 
+- Gastric cancer, as above
+- Heparin induced thrombocytopenia

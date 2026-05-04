@@ -1,0 +1,28 @@
+Chief Complaint : Desensitization
+Past Medical History : PMH:
+Rectal Cancer
+Presumed BPH
+HLD 
+
+PSH: 
+Low anterior resection with diverting ileostomy
+
+PAST ONCOLOGIC HISTORY:
+Rectal cancer stage IIIB (T3N1M0)
+- ___ Colonoscopy showed a rectal mass. Biopsy showed 
+high
+grade dysplasia concerning for adenocarcinoma.
+- ___ CT torso showed not metastatic disease. MR pelvis
+showed a T3 rectal mass with 2 enlarged LNs, N1.
+- ___ Sigmoidoscopy and biopsy confirmed adenocarcinoma.
+- ___ C1D1 FOLFOX6 on ___
+- ___ C2D1 FOLFOX6 on ___
+- ___ C3D1 FOLFOX6 on ___
+- ___ Underwent LAR which revealed a ypT2N1 cancer with
+___ LN involved by cancer
+- ___ Underwent early takedown due to parastomal fistula
+- ___ C4D1 FOLFOX6 on ___
+- ___ C4D15 dose of FOLFOX complicated by anaphylaxis to
+oxaliplatin
+- ___ PLANNED C5D1 FOLFOX6 with oxaliplatin
+desensitization

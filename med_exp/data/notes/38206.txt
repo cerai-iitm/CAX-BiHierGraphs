@@ -1,0 +1,10 @@
+Chief Complaint : Chest Pain
+Past Medical History : PAST MEDICAL HISTORY:  
+=======================  
+1. CARDIAC RISK FACTORS    
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- none
+3. OTHER PAST MEDICAL HISTORY  
+- none

@@ -1,0 +1,269 @@
+Chief Complaint : autologous stem cell transplant
+Past Medical History : PAST ONCOLOGIC HISTORY:
+Mr. ___ presented to clinic in early ___ with 
+reports of onset of dyspnea with activity - particularly stairs 
+or inclines, profound fatigue, headaches, nausea and vomiting. 
+In retrospect he believes the fatigue had been ongoing for 
+several months. During that time he had been seen by his PCP or 
+first dx him with a viral syndrome but given the SOB was treated 
+with Augmentin and an inhaler without improvement. On ___ his symptoms seemed to progress and he was seen at the 
+urgent care. Upon arrival he was found to have a creatinine of 
+1.74 and a blood pressure 214/118. He was transferred to the ER 
+where he did have an EKG which by report reveled some non 
+specific ST changes and NSR, with +QT prolongation. He was also 
+found to have a small left pleural effusion on chest xray and 
+diffuse interstitial prominence noted, suggesting mild volume 
+overload. Given these findings he was admitted to ___ 
+___ and was ultimately found to have 
+accelerated hypertension and acute glomerulonephritis for which 
+he underwent a kidney biopsy. During the hospitalization he as 
+found to have significant anemia with HGB 10.6, HCT 29.5, WBC 
+count 10.8, Platelet count 236, NA 141, K 3.6, Chloride 109, 
+Bicarb 23, BUN 32, Creatinine 1.78, Glucose 168, BNP 15768, and 
+a UA that revealed hematuria 3= and proteinuria 3+ cardiac 
+workup and evaluation of acute kidney disease. Immunology workup 
+include ___ negative, low IgG, IgE, IgA, IgM, C reactive protein 
+4.6, Hepatitis B and C serology nonreactive.
+
+A renal bx was completed on ___ which showed the left kidney 
+core biopsy showed a sample of medulla with monoclonal 
+immunoglobulin deposition disease, Kappa Light Chain, in tubular 
+basement membranes. He was further seen by a Nephrologist who 
+referred him here for evaluation. 
+
+PATHOLOGY: OUTSIDE REPORT OF RENAL BX IS AS FOLLOWS. SLIDES TO 
+BE
+SENT HERE FOR REVIEW.
+
+Pathologic diagnosis
+A.  Kidney left, core biopsy: Sample of medulla the biopsy 
+consists of monoclonal immunoglobulin deposition disease, kappa 
+light chain, in tubular basement membranes.
+
+At his initial visit on ___ Mr. ___ was found with 
+hyperkalemia in the setting of kidney disease. He was admitted 
+and given the concern for progressive myeloma he was briefly 
+started on a short (2 day) pulse of steroids. He presented in 
+follow up again on ___ where he was found to have worsening 
+edema and fluid overload with 14 lb weight gain. He was again 
+admitted to the hospital for diaureses. During this admit the 
+final results of his BMBX were noted to show Lymphoplasmacytic 
+lymphoma with myeloma features. 
+
+BMBX
+___
+CYTOGENETIC DIAGNOSIS: 46,XY[20] Normal male karyotype. 
+DIAGNOSIS: FAVOR LYMPHOPLASMACYTIC LYMPHOMA WITH EXTENSIVE 
+PLASMA CELL DIFFERENTIATION, SEE NOTE. Note: By 
+immunohistochemistry, ___ highlights plasma cells comprising 
+approximately 40-50% of the cellularity. Plasma cells appear 
+kappa restricted by kappa and lambda light chain staining. CD20 
+highlights a subset of plasma cells, but also many admixed 
+B-cells, together comprising approximately ___ of the total 
+cellularity. Concurrent flow cytometry (___) demonstrates 
+monoclonal kappa plasma cells, as well as a monoclonal kappa 
+restricted population of B-cells. Mutational analysis for MYD___ 
+revealed the classical mutation c.794T>C (p.L265P), which among 
+immunosecretory disorders is highly associated with 
+lymphoplasmacytic lymphoma and not reported in myeloma. Taken 
+these observations together, lymphoplasmacytic lymphoma with 
+extensive plasma cell differentiation, rather than plasma cell 
+myeloma, is favored. Correlation with clinical findings is 
+recommended.
+
+INTERPRETATION: Immunophenotypic findings consistent with 
+involvement by kappa restricted B cells and kappa restricted 
+plasma cells. Correlation with clinical, morphologic (see 
+separate pathology ___ and other ancillary findings 
+including MYD___ mutational analysis is recommended for further 
+characterization. Flow cytometry immunophenotyping may not 
+detect all abnormal populations due to topography, sampling or 
+artifacts of sample preparation.
+
+PET CT ___. Prominent non FDG avid non-enlarged left para-aortic lymph 
+nodes.
+2. FDG avid foci in the distal left femur and proximal right 
+tibia measuring max SUVs of 4.0 and 3.2, respectively, 
+nonspecific in etiology.
+3. FDG avid focus along the costochondral junction of left 
+seventh rib demonstrating max SUV of 2.3, likely posttraumatic.
+4. Suggestion of an intermediate density exophytic focus in the 
+interpolar region of the left kidney (image 120) without FDG 
+avidity, without correlate on CT abdomen pelvis ___. Renal ultrasound can be considered for further 
+characterization.
+
+He was initiated on CyBorD. His weight was controlled and 
+ultimately he was discharged on ___. He has since had 
+multiple inpatient admits for progressive dyspnea in the setting 
+of fluid overload and worsening renal function.
+
+Given worsening FLC after the initial dose of CyBOrD he was 
+starting on larger dose of Cytoxan and Rituxan with improvement
+in is FLC, energy and performance status. His kidney function 
+has remained stable and not improved despite this treatment and 
+again a repeat renal bx was preformed.
+
+___
+Renal BX
+1. MONOCLONAL IMMUNOGLOBULIN DEPOSITION DISEASE, KAPPA LIGHT 
+CHAIN TYPE
+2. NODULAR DIABETIC GLOMERULOSCLEROSIS; SEE NOTE.
+Note: The biopsy shows changes consistent with MIDD, kappa type, 
+likely due to involvement by the patient's known 
+lymphoplasmacytic lymphoma. In addition, there is marked 
+underlying nodular diabetic disease. Tubulointerstitial and 
+vascular scarring are mild.
+
+He did then move forward with a second cycle of Cytoxan, 
+Rituxan, Dex with the addition of Velcade to optimize response.
+
+He was found to have significant decline in his FLC given this, 
+we did obtain a bone marrow bx to assess disease response.  
+
+___:
+FINDINGS: An apparently normal 46,XY male chromosome complement 
+was observed in 20 mitotic cells examined in detail. Chromosome 
+band resolution was 400-425. A karyogram was prepared on 3 
+cells. CYTOGENETIC DIAGNOSIS: 46,XY[20] Normal male karyotype.
+
+BONE MARROW CORE AND ASPIRATION:
+DIAGNOSIS: NORMOCELLULAR BONE MARROW WITH TRILINEAGE 
+HEMATOPOIESIS AND INVOLVEMENT BY INCREASED PLASMA CELLS FOUND IN 
+CLUSTERS AND SCATTERED THROUGHOUT THE SAMPLE, WHICH IS 
+CONSISTENT WITH PATIENT'S KNOWN MyD88 (p.L265P) MUTATED 
+LYMPHOPLASMACYTIC LYMPHOMA WITH EXTENSIVE PLASMA CELL 
+DIFFERENTIATION.
+
+Note: CD20 highlights rare positive cells and CD3 highlights 
+less than 5% of the overall cellularity. CD138 highlights 
+approximately 10% of the cellularity. The plasma cells are kappa 
+restricted as shown by kappa and lambda immunohistochemistry. By 
+flow cytometry there is a distinct population of monoclonal 
+kappa plasma cells that exhibit loss of CD19 (subset). A small 
+population of monoclonal kappa B cells is also detected.
+
+___:
+BMBX
+FINDINGS: An apparently normal 46,XY male chromosome complement 
+was observed in 20 mitotic cells examined in detail. Chromosome 
+band resolution was 400-425. A karyogram was prepared on 3 
+cells. CYTOGENETIC DIAGNOSIS: 46,XY[20] Normal male karyotype.
+
+DIAGNOSIS: HYPOCELLULAR BONE MARROW WITH PERSISTENT INVOLVEMENT 
+BY THE PATIENT'S KNOWN IMMUNOSECRETORY DISORDER. SEE NOTE. By 
+immunohistochemistry, CD3 and CD5 highlight scattered and 
+clustered T-cells. CD20 highlights rare B-cells. CD138 
+highlights plasma cells which account for 50-60% of the marrow 
+cellularity. The plasma cells are kappa restricted by kappa and 
+lambda staining. Most plasma cells are positive for IgM and IgG, 
+a feature that is highly unusual. Though initially presenting as 
+a lymphoplasmacytic lymphoma with extensive plasma cell 
+differentiation, a lymphoid component and MYD88 mutation, the 
+current biopsy mainly presents a plasma cell disorder with less 
+abundant lymphoid component (still present by flow cytometry) 
+and absence of MYD88 mutation, thus behaving more like plasma 
+cell myeloma than atypical lymphoplasmacytic lymphoma.
+
+TREATMENT HISTORY: 
+___
+CyBorD- Completed through ___ when patient was admitted to 
+___ hospital with concners for worsening disease
+
+___
+CycloPHOSPHAMIDE 2220 mg IV Day 1. (___)
+ (1000 mg/m2)      
+Mesna 1100 mg IV Q3H x 2 on Day 1. (___)
+ (500 mg/m2) 
+Rituximab 800 mg IV Day 1. (___)
+ (375 mg/m2)
+
+___
+CycloPHOSPHAMIDE 2140 mg IV Day 1. (___)
+ (1000 mg/m2) 
+*Dose before rounding 2140 mg     
+Mesna 1050 mg IV Day 1. (___)
+ (500 mg/m2) 
+*Dose before rounding 1070 mg
+Give PRE Cytoxan AND 2nd Dose 3 hours after Cytoxan     
+Bortezomib 2.8 mg SC Days 1, 4, 8 and 11. ___ and ___
+ (1.3 mg/m2) 
+*Dose before rounding 2.782 mg     
+RITUXimab 800 mg IV Day 4. (___)
+ (375 mg/m2) 
+*Dose before rounding 802.5 mg 
+
+___
+CycloPHOSPHAMIDE 2140 mg IV Day 1. (___)
+ (1000 mg/m2) 
+*Dose before rounding 2140 mg     
+Mesna 1050 mg IV Day 1. (___)
+ (500 mg/m2) 
+*Dose before rounding 1070 mg
+Give PRE Cytoxan AND 2nd Dose 3 hours after Cytoxan     
+Bortezomib 2.8 mg SC Days 1, 4, 8 and 11. ___ and ___
+ (1.3 mg/m2) 
+*Dose before rounding 2.782 mg     
+RITUXimab 800 mg IV Day 4. (___)
+ (375 mg/m2) 
+*Dose before rounding 802.5 mg 
+
+___
+CycloPHOSPHAMIDE 2080 mg IV Day 1. (___)
+ (1000 mg/m2) 
+*Dose before rounding ___ mg     
+Mesna 1050 mg IV Day 1. (___)
+ (500 mg/m2) 
+*Dose before rounding 1035 mg
+Give PRE Cytoxan AND 2nd Dose 3 hours after Cytoxan     
+Bortezomib 2.7 mg SC Days 1, 4, 8 and 11. ___ and ___
+ (1.3 mg/m2) 
+*Dose before rounding 2.691 mg     
+RITUXimab 800 mg IV Day 1. (___)
+ (375 mg/m2) 
+*Dose before rounding 776.25 mg 
+
+___
+C1 CRD
+Carfilzomib 20mg/m2 /Revlimid 10mg daily /Dexamethasone
+
+Repeat ECHO shows mild to moderate pulmonary HTN. Carfilzomib 
+placed on hold for cardiac work up.
+
+___: Initiated Daratumumab 16mg/kg weekly. Will add 
+Pomalidomide pending resolution of acute on chronic renal 
+failure.
+
+___: Dose 1 Daratumumab/Revlimid 10mg every other day x8
+days only. Stopped due to rise in creatinine 
+___: Dose 2 Daratumumab
+___: Dose 3 Daratumumab
+___: Dose 4 Daratumumab
+___: Dose 5 Daratumumab
+___: Dose 6 Daratumumab 
+___: Dose 7 Daratumumab added Pom 2mg x4 days stopped due 
+to
+rise in creatinine 
+___: Dose 8  Daratumumab Started 5 mg daily Revlimid 
+___: Dose 9  Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 10 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 11 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 12 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 13 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 14 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 15 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 16 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 17 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 18 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 19 Daratumumab plus 5 mg daily Revlimid/Dex
+___: Dose 20 Daratumumab plus 5 mg daily Revlimid/Dex
+
+PAST MEDICAL HISTORY:
+- Type I Diabetes (followed by ___
+- Hypertension
+- Hyperlipidemia
+- Anxiety
+- Depression
+- Allergic Rhinitis
+- s/p vasectomy
+- Stage ___ CKD from diabetes and monoclonal immunoglobulin 
+deposition disease

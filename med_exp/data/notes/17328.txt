@@ -1,0 +1,22 @@
+Chief Complaint : shortness of breath
+Past Medical History : - DVT  
+- AFIB (on Coumadin)  
+- dCHF (EF 55%)  
+- Hyperlipidemia
+- Hypertension
+- Mitral Regurgitation  
+- Tricuspid Regurgitation  
+- LVH  
+- Prostate Cancer  
+- Colonic adenoma  
+- Diverticulosis  
+- Obesity  
+- Pancreatic lesion  
+- Hematuria  
+- Osteoarthritis of left knee  
+- Kidney disease, chronic, stage III (GFR ___ ml/min)  
+- Bilateral renal cysts  
+- Tobacco use  
+- Gout  
+- COPD (chronic obstructive pulmonary disease)  
+- OSA (obstructive sleep apnea)

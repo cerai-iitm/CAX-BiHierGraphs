@@ -1,0 +1,13 @@
+Chief Complaint : gastric cancer
+Past Medical History : PMH:
+1.  History of goiter.
+2.  Diabetes.
+3.  Prostatic hypertrophy.
+4.  Hypertension.
+5.  Coronary atherosclerosis.
+6.  Hypercholesterolemia.
+
+PSH:
+1.  Tonsillectomy in ___.
+2.  Colonoscopy in ___.
+3.  Cardiac catheterization in ___

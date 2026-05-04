@@ -1,0 +1,18 @@
+Chief Complaint : Chest pain
+Past Medical History : PAST MEDICAL HISTORY:  
+1. CVD Risk Factors  
+-Type 2 DM
+-HTN
+-HLD
+-MI in brother at age ___ 
+2. Cardiac History  
+-  none
+3. Other PMH  
+-spinal stenosis
+-hypothyroidism
+-anemia
+-aortic stenosis
+-tremor
+-macular degeneration
+-osteoporosis
+-hearing loss

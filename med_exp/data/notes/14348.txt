@@ -1,0 +1,60 @@
+Chief Complaint : Dyspnea on Exertion
+Past Medical History : ___ oncologic history begins in ___. She 
+explains that she developed a productive cough and shortness of 
+breath. She said she had a cold, and presented to an urgent care 
+___ evaluation.
+
+An x-ray was done on ___ which showed a right upper lobe 
+infiltrate extending to the hilum, concerning for potential 
+adenopathy. Follow-up CTA  of the chest done on ___ showed a 
+6.3 x 4.5 x 5.7 cm hypoenhancing mass abutting the chest wall in 
+the right upper lobe. There is also diffuse septal thickening 
+throughout the right upper lobe, and suggestion of  lymphatic 
+obstruction or lymphangitic spread. She had a small pericardial 
+effusion, and a small right pleural effusion with foci of 
+loculation in the posterior medial lower right chest. She had 
+multiple pathologically enlarged lymph nodes, including a 2.6 cm 
+right paratracheal lymph node, few subcentimeter left hilar 
+lymph nodes, and confluent right hilar lymph nodes exceeding 2 
+cm in size. Subcarinal and precarinal lymph nodes were also 
+appreciated and 1-2 cm. No definite bone, liver, or adrenal 
+metastases were appreciated.
+
+She underwent a CT-guided biopsy of the right upper lobe lung 
+mass on ___. Pathology from the procedure showed small cell 
+lung carcinoma. The tumor cells were positive for TTF-1, 
+synaptophysin, and chromogranin. The Ki-67 showed a high 
+proliferation index of 70%. During this hospitalization she was 
+found to be hypoxemic and was started on supplemental oxygen. 
+She was evaluated by the pulmonary team at ___. Her 
+hypoxemia was thought to be due to combination of a 
+postprocedure pneumothorax, underlying COPD, and her large lung 
+mass. She was also treated with levofloxacin for presumed 
+pulmonary infection.
+
+She was first seen in our clinic on ___. At that time he 
+recommended treatment with carboplatin/etoposide for her 
+extensive stage small cell lung cancer.
+
+- ___: She received C1D1 of ___ + Neulasta 
+support. This cycle was complicated by febrile neutropenia 
+requiring hospitalization.
+- ___: She received C2D1 of ___ with ___ AUC4, 
+etoposide 25% dose reduction.
+- ___: She received C3D1 of ___ with ___ AUC4, 
+etoposide 75mg/m2.
+- ___: C4D1 ___ AUC4, etoposide 75mg/m2.
+- ___: C5D1 ___ AUC4, etoposide 75mg/m2.
+- ___: C6D1 ___ AUC3, Etoposide 60 mg/m2, delayed due to 
+persistent thrombocytopenia and UTI.
+- ___: CT shows recurrence in chest.
+- ___: Nivolumab initiated.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Hyperlipidemia
+- GERD
+- Osteopenia
+- Carotid Artery Occlusion
+- VTE in ___ during hospitalization
+- s/p left carotid endarterectomy in ___

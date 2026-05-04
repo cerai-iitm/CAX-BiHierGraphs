@@ -1,0 +1,6 @@
+Chief Complaint : A.fib w/ RVR
+Past Medical History : Atrial Fibrillation  
+ Hypercholesterolemia  
+ Hypertension  
+ Thyroid Disease.  
+ CKD III

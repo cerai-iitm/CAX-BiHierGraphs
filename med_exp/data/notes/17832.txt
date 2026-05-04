@@ -1,0 +1,9 @@
+Chief Complaint : Abdominal pain
+Past Medical History : PMH:
+-Ulcerative Colitis
+-Gastritis
+-Diverticulosis
+-Uric Acid Kidney Stone
+ 
+PSH:
+-None

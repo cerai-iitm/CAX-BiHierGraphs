@@ -1,0 +1,21 @@
+Chief Complaint : Shortness of Breath, Bicuspid Aortic Stenosis
+Past Medical History : PMH:
+ACTINIC KERATOSIS                                               
+COLONIC ADENOMA                                                 
+GERD                                                            
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+OBESITY                                                         
+SLEEP APNEA                                                     
+LOW BACK PAIN                                                   
+VENOUS INSUFFICIENCY                                            
+OSTEOARTHRITIS                                                  
+AORTIC STENOSIS                                                 
+DERMATOHELIOSIS                                                 
+SEBORRHEIC KERATOSIS, OTHER                                     
+BREAST LESION                                                   
+H/O PFO, TIA                                                   
+
+PSH:
+HIP REPLACEMENT (right) ___      
+PFO PERCUTANEOUS CLOSURE ___

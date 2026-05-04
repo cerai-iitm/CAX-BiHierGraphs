@@ -1,0 +1,40 @@
+Chief Complaint : Open wound to the abdomen.
+Past Medical History : 1. Crohn's disease. 
+2. Small bowel resection. 
+3. Appendectomy. 
+4. Ileocecectomy. 
+5. Cholecystectomy. 
+6. Sigmoid colostomy in ___. 
+7. Erythema nodosum. 
+8. Pyoderma gangrenosum. 
+9. Diabetes. 
+10. DVT. 
+11. Heart murmur. 
+12. Heart palpitations. 
+13. Asthma. 
+14. Migraine. 
+15. Gallstones 
+16. Osteopenia. 
+17. Adenoma. 
+18. Seizures. 
+19. Sleep apnea. 
+20. Nephrolithiasis. 
+21. Plantar fasciitis. 
+22. Chronic UTIs. 
+23. Hepatic steatosis. 
+24. Osteoarthritis. 
+25. GERD  
+26. Ventral hernia. 
+27. Fibromyalgia. 
+28. Kidney stones.  
+.
+PAST SURGICAL HISTORY:
+1.  Repair of right knee patellar fracture in ___.
+2.  Repair of jaw fracture in ___.
+3.  Large and small bowel resection with appendectomy in ___
+(due to perforation).
+4.  Bowel resection and cholecystectomy in ___.
+4.  Colostomy ___.
+5.  Abdominal tissue expanders in ___.
+6.  Parastomal hernia repair in ___.
+7. Tissue expander placement in abdominal wall ___

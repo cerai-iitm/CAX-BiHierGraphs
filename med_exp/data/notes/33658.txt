@@ -1,0 +1,142 @@
+Chief Complaint : Worsening Left Facial Droop
+Past Medical History : PAST ONCOLOGIC HISTORY:
+___ Visit at ___ for chest pain
+Chest CT showed mediastinal LAD
+PET-CT showed some uptake in the mediastinum and RUL nodule
+___ Mediastinoscopy and biopsy  
+Frozen section c/w metastatic melanoma
+Final pathology report is not available
+___ Approx onset of imbalance
+___  Left-sided craniotomy for resection by Dr. ___: High-grade large B-cell lymphoma, perivascular and
+parenchymal clusters of large, atypical lymphoid cells with
+prominent nucleoli, there are apoptotic cells and numerous
+mitoses, cells are diffusely and strongly positive for LCA and
+CD20, many cells are positive for BCL6, a stain for EBV is
+negative, tumor cells are negative for pankeratin, S100 and
+HMB-45, Mib-1 stain is positive in virtually all tumor cells
+___ C1 HDMTX 3.5 g/m2 GFR 69 ml/min
+___ Head CT shows left occipital bleed
+___ C2 HDMTX 3.5 g/m2
+___ C3 HDMTX 3.5 g/m2 had ARF
+___ C4 HDMTX 3.5 g/m2 GFR 65 ml/min
+___ C5 HDMTX 3.5 g/m2
+___ Brain MRI shows progression
+___ C6 HDMTX 5.6 g/m2 (30% dose reduction) 
+___ GFR 85 ml/min
+___ C1D1 Rituximab
+___ C7 HDMTX 5.6 g/m2 (30% dose reduction) GFR 79 ml/min
+___ C1D15 Rituximab
+___ C8 HDMTX 5.6 g/m2 (30% dose reduction) GFR 61 ml/min
+___ C2 Rituximab
+___ C9 HDMTX 5.6 g/m2 (30% dose reduction)
+___ C10 HDMTX 5.6 g/m2 (30% dose reduction) GFR 68 ml/min
+___ Brain MRI shows CR
+___ C3 Rituximab (delayed for fatigue)
+___ C11 HDMTX 5.6 g/m2 (30% dose reduction) GFR 71 ml/min
+___ C4 Rituximab (delayed for fatigue)
+___ Eye examination shows ocular lymphoma
+___ C12 HDMTX 5.6 g/m2 (30% dose reduction) GFR 71 ml/min
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ C5 Rituximab 
+___ Intravitreal MTX
+___ C13 HDMTX 5.6 g/m2 (30% dose reduction) GFR 77 ml/min 
+___ Brain MRI stable
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ C6 Rituximab
+___ C14 HDMTX 5.6 g/m2 
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ Intravitreal MTX
+___ C7 Rituximab
+___ Intravitreal MTX
+___ C15 HDMTX 5.6 g/m2 
+___ C8 Rituximab
+___ C16 HDMTX 5.6 g/m2 
+___ Brain MRI stable
+___ C17 HDMTX 4.8 g/m2 
+___ C18 HDMTX 4.8 g/m2
+___ C9 Rituximab
+___ C1 Pemetrexed 600 mg/m2
+___ Leucovorin rescue 
+___ C2 Pemetrexed 600 mg/m2 
+___ Leucovorin rescue 
+___ C3 Pemetrexed 1200 mg/m2 
+___ Leucovorin rescue 
+___ C4 Pemetrexed 1200 mg/m2 
+___ C10 Rituximab
+___ Brain MRI stable
+___ C5 Pemetrexed 1200 mg/m2 
+___ C6 Pemetrexed 1200 mg/m2
+___ Brain MRI stable
+___ C11 Rituximab
+___ C7 Pemetrexed 1200 mg/m2
+___ Admission with left face weakness
+___ SRS to right frontal mass
+___ HD-MTX 4 g/m2 GFR 47 ml/min
+___ C12 Rituximab
+___ HD-MTX 4.8 g/m2 GFR 47 ml/min
+___ C13 Rituximab
+___ Brain MRI improved
+___ C8 Pemetrexed 1200 mg/m2
+___ C14 Rituximab
+___ C9 Pemetrexed 1200 mg/m2
+___ C15 Rituximab
+___ C10 Pemetrexed 1200 mg/m2
+___ C11 Pemetrexed 1200 mg/m2
+___ C12 Pemetrexed 1200 mg/m2 
+___ C16 Rituximab
+___ Brain MRI stable
+___ C13 Pemetrexed 1200 mg/m2
+___ C17 Rituximab
+___ C14 Pemetrexed 1200 mg/m2
+___ Brain MRI stable
+___ C15 Pemetrexed 1200 mg/m2
+___ C16 Pemetrexed 1200 mg/m2 
+___ C18 Rituximab
+___ C17 Pemetrexed 1200 mg/m2 
+___ C19 Rituximab
+___ C18 Pemetrexed 1200 mg/m2 
+___ Brain MRI stable
+___ C19 Pemetrexed 900 mg/m2
+___ C20 Rituximab
+___ C20 Pemetrexed 900 mg/m2 
+___ Brain MRI stable
+___ Hospitalized for neutropenia at ___
+___ C21 Pemetrexed 900 mg/m2
+___ Scleral fixated secondary intraocular lens implantation 
+of
+the right eye 
+___ L1 compression fracture
+___ C21 Rituximab
+___ Brain MRI stable
+___ C22 Rituximab
+___ C22 Pemetrexed 900 mg/m2 
+___ Brain MRI stable
+___ C23 Rituximab
+___ C23 Pemetrexed 900 mg/m2
+___ Brain MRI stable
+___ C24 Rituximab 
+___ Brain MRI showed right operculum local failure
+___ C24 Pemetrexed 900 mg/m2
+___ C25 Rituximab 
+___ SRS to progression
+___ Brain MRI stable
+___ C25 Pemetrexed 900 mg/m2 
+___ Brain MRI stable
+___ C26 Pemetrexed 900 mg/m2 
+___ Brain MRI showed right operculum progression 
+___ C27 Pemetrexed 900 mg/m2 
+PAST MEDICAL HISTORY:
+1. Lymphoma as above
+2. Lung mass
+3. Back pain
+4. Uterine prolapse surgery ___
+5. Hypertension
+6. Dyslipidemia
+7. Hepatitis B, on lamivudine 
+8. Hx of hematuria ___

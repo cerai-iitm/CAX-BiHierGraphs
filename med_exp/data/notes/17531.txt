@@ -1,0 +1,33 @@
+Chief Complaint : Dyspnea, chest pain
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+1. Stage IV nonsmall cell lung cancer (KRAS G12R mutated) with
+brain metastases;
+2. Early stage-locally advanced breast invasive ductal 
+carcinoma,
+ER/PR positive.
+TREATMENT:
+1. Status post stereotatic radiotherapy to right frontal lobe
+brain lesion to ___ cGy on ___
+2. Status post 11 cycles of first line chemotherapy followed by
+maintenance with carboplatin 5->0 AUC on ___ and pemetrexed 500->400 mg/m2 on ___ and ___.
+3. Status post stereotatic radiotherapy 2200cGy out of  2200cGy
+planned dose to left cerebellar lesion; completed on ___
+4. Status post radiotherapy 3000 cGy total dose planned to left
+chest and media___; completed on ___
+5. Status post radiotherapy 2200 cGy total dose planned to right
+frontal metastases; completed on ___
+6. Started oral exemestane starting on ___ for breast
+lesions. 
+7. ___ switched to tamoxifen from exemestane for her breast
+cancer given joint pain.
+
+PAST MEDICAL HISTORY:
+1. Nonsmall cell lung cancer diagnosed on ___
+2. Breast cancer;
+3. Hyperlipidemia for over ___ years;
+4. Peripheral vascular disease, status post stenting of left
+common into external iliac artery on ___
+5. History of anxiety and/or panic attacks;
+6. Radiographic evidence of emphysema;
+7. Prior history of lung nodules in ___ and ___
+8. Hip fracture in ___.

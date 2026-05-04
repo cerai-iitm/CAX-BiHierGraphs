@@ -1,0 +1,12 @@
+Chief Complaint : cough
+Past Medical History : PMH:
+- OSA
+- HTN
+- Iron deficiency anemia
+- Vit B12 deficiency
+- Migraine HAs
+- Cholelithiasis
+
+PSH:
+- Lap CCY ___
+- s/p C-section w epidural/spinal ___

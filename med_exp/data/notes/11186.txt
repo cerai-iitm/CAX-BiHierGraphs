@@ -1,0 +1,10 @@
+Chief Complaint : Confused
+Past Medical History : BREAST CANCER, diagnosed in ___ positive, HER-2
+negative, clean lymph nodes.  She received Cytoxan and
+Adriamycin.  She was on letrozole for ___, which ended in
+___ and she resumed in ___. 
+HYPERLIPIDEMIA
+HYPERTENSION
+HYPOTHYROIDISM
+DIVERTICULITIS
+UTI

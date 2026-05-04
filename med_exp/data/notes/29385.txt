@@ -1,0 +1,19 @@
+Chief Complaint : Cardiogenic Shock
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- T2 Diabetes  
+- Hypertension  
+- Dyslipidemia  
+
+2. CARDIAC HISTORY  
+- AFib on Coumadin
+- severe MR
+- Ischemic cardiomyopathy - diagnosed ___, TTE with LVEF 
+___ with severe MR; nuclear stress test in ___ showed 
+large perfusion abnormality of moderate to severe intensity in 
+inferolateral wall, sparing the apex; lesion was partially 
+reversible; given history of CKD, LHC was deferred and patient 
+was medically managed
+
+3. OTHER PAST MEDICAL HISTORY  
+-Hypothyroidism
+-CKD (likely diabetic nephropathy)

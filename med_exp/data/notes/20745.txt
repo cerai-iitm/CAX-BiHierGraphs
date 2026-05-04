@@ -1,0 +1,23 @@
+Chief Complaint : Chest pain
+Past Medical History : C Diff
+Colon Cancer status post surgical resection
+Chronic Obstructive Pulmonary Disease
+Diabetes Mellitus Type II
+End-Stage Renal Disease on hemodialysis (___)
+GI Bleed  
+Hyperlipidemia
+Hypertension
+Internal Iliac Artery Aneurysm  
+Osteopenia 
+Peripheral Neuropathy  
+
+Past Surgical History:
+Colon resection 
+Tunneled HD line placed
+Hernia surgery
+Cholecystectomy
+Exploratory Lap
+Appendectomy
+Back surgery
+Right Knee Surgery 
+Right Oophorectomy

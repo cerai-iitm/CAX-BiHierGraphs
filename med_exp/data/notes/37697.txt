@@ -1,0 +1,14 @@
+Chief Complaint : Chest pain
+Past Medical History : Benign Prostatic Hyperplasia 
+Chronic Kidney Disease (baeline 1.34)
+Coronary Artery Disease
+Duodenitis
+Erectile Dysfunction
+Hyperlipidemia
+Hypertension
+Right Bundle Branch Block
+Throat Cancer - Laser surgery
+Past Surgical History:
+Laser surgery at ___ for throat cancer ___ ago
+Excision of pilonidal cyst
+Appendectomy

@@ -1,0 +1,11 @@
+Chief Complaint : Chest pain
+Past Medical History : ___:
+PEPTIC ULCER DISEASE                                            
+AIRWAY INFLAMMATION                                             
+RECTAL BLEEDING                                                 
+ANEMIA                                                          
+DYSPHAGIA                                                       
+HYPERTENSION                                                    
+ASTHMA                                                          
+
+SHx: ___

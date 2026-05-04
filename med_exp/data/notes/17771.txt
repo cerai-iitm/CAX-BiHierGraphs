@@ -1,0 +1,9 @@
+Past Medical History : PMH:
+hypertension
+osteoarthritis
+cataracts
+history of PSVT  
+GERD
+
+PSH:
+No known surgical history

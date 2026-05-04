@@ -1,0 +1,30 @@
+Chief Complaint : Shortness of breath
+Past Medical History : 1. CARDIAC RISK FACTORS: +hypertension, +dyslipidemia, -diabetes 
+ 
+ 2. CARDIAC HISTORY:  
+ - CABG: x2  
+ - PERCUTANEOUS CORONARY INTERVENTIONS: none  
+ - PACING/ICD: None  
+ 3. OTHER PAST MEDICAL HISTORY:  
+ MGUS (monoclonal gammopathy of unknown significance)  
+ Actinic keratosis  
+ Anxiety disorder  
+ COPD (chronic obstructive pulmonary disease)  
+ CAD (coronary artery disease), native coronary artery  
+ Hypertensive heart disease with congestive heart failure  
+ Hyponatremia  
+ Squamous cell carcinoma  
+ CHF (congestive heart failure)  
+ Polycystic kidney disease, autosomal dominant  
+ Aortic stenosis  
+ Osteoporosis  
+ Hyperlipidemia  
+ CKD (chronic kidney disease) stage 3, GFR ___ ml/min  
+ Hypothyroidism  
+ Paresthesias  
+ MCI (mild cognitive impairment)  
+ AD (Alzheimer's disease)  
+ Left humeral fracture  
+ Hypertension  
+ Gait instability  
+ Depression

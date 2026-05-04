@@ -1,0 +1,44 @@
+Chief Complaint : Elective admission for chemo
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+Patient was hospitalized for a CHF exacerbation in ___.
+During admission, labs were with leukocytosis with WBC 23.
+Peripheral blood was sent for flow cytometry, which showed a
+clonal B cell population, immunophenotype CD20 (+), CD11c (+),
+CD103 (+), but CD25 (-). This IPT was thought to represent 
+either
+a variant of hairy cell leukemia or primary splenic marginal 
+zone
+lymphoma. CT abdomen/pelvis on ___ was notable for
+splenomegaly to 21.2 cm without any focal lesions. There was no
+lymphadenopathy. Prior CT abdomen/pelvis done as part of lung
+cancer staging in early ___ had demonstrated splenomegaly to 18
+cm.
+
+Patient developed progressive left upper abdominal discomfort,
+for which decision was made to treat with rituximab. Patient was
+given rituximab on ___. Several hours after infusion,
+patient developed chills, rigors, and air hunger, for which she
+was given epinephrine and sent to the ___ ED for monitoring.
+Given concern for allergic reaction to rituximab, patient was
+referred to ___ for further management.
+
+At ___, patient underwent bone marrow biopsy, which was 
+largely
+unremarkable. Despite this, bone marrow and peripheral blood 
+flow
+cytometry was with a population of cells expressing CD11c
+(bright), CD103, and CD25, suggestive of a diagnosis of classic
+hairy cell leukemia. Because of this, decision was made to
+proceed with cladribine.
+
+PAST MEDICAL HISTORY:
+- Hairy cell leukemia
+- SCC of lung (T1aN0M0) s/p VATS LUL resection on ___
+- Type 2 diabetes
+- CHF with LVEF 40%
+- COPD
+- NASH cirrhosis
+- Hereditary hemochromatosis
+- Hypothyroidism
+
+PAST SURGICAL HISTORY: VATS LUL resection on ___

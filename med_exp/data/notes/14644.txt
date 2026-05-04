@@ -1,0 +1,15 @@
+Chief Complaint : Cardiac arrest
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes- no 
+- Hypertension- yes  
+- Dyslipidemia- yes  
+
+2. CARDIAC HISTORY  
+- Coronaries: no history, negative stress test in ___ 
+- Pump? systolic HF, EF 20%
+- Rhythm? Paroxysmal Afib with ICD in place 
+
+3. OTHER PAST MEDICAL HISTORY  
+- Obesity
+- Leiomyoma of uterus
+- Prior history of VT/VF

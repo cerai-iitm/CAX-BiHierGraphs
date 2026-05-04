@@ -1,0 +1,7 @@
+Chief Complaint : Abdominal pain
+Past Medical History : PMH:
+-HTN
+-HLD
+
+PSH:
+-no prior surgeries

@@ -1,0 +1,15 @@
+Chief Complaint : chest pain
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes  Y
+- Hypertension  Y
+- Dyslipidemia  Y
+2. CARDIAC HISTORY  
+- CABG: ___: Angiographically minimal coronary artery disease
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+MYOCARDITIS at ___, ___ and ___ 
+NECK PAIN   
+HYPERTENSION   
+DIVERTICULITIS ___ 
+DIABETES MELLITUS

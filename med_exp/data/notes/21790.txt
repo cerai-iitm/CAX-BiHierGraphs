@@ -1,0 +1,8 @@
+Chief Complaint : Date of ICU Admission: ___  
+Reason for ICU Admission: ___
+Past Medical History : - Cirrhosis ___ HCV, EtOH 
+- Alcohol use disorder
+-- prior EtOH withdrawal seizure
+- Polymorphic VT arrest ___ hypo-K+, hypo-Mg2+ 
+- Anxiety
+- Depression

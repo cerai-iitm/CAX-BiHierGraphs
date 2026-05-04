@@ -1,0 +1,15 @@
+Chief Complaint : Admission for chemotherapy
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- ___ presented to ___ w/ sob and cough,
+found to have large R pleural effusion 
+- ___ s/p VATS and chest tube placement
+- pathology c/w SMARCA-4 deficient undifferentiated sarcoma
+- ___ admitted for chemo and port placement
+
+PAST MEDICAL HISTORY (per OMR):
+History of kidney stones
+Hemorrhoidectomy
+Tobacco use
+Questionable positive PPD
+Sinus tachycardia for which he was started on metoprolol in the
+hospital

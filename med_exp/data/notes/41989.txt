@@ -1,0 +1,22 @@
+Chief Complaint : Planned cardiac catheterization
+Past Medical History : FROM ADMISSION NOTE:
+CAD
+HYPERTENSION
+DYSLIPIDEMIA
+PROSTATE CANCER                                                 
+BLADDER CANCER                                                  
+GOUT                                                             
+RADIATION COLITIS                                               
+COLONIC POLYPS                                                  
+DYSPEPSIA                                                       
+ERECTILE DYSFUNCTION                                            
+LOW BACK PAIN                                                   
+MEMORY LOSS                                                     
+PANCREATITIS                                                    
+PERIPHERAL NEUROPATHY                                           
+VERTIGO                                                         
+SQUAMOUS CELL CARCINOMA                                         
+VENOUS INSUFFICIENCY                                            
+HYPOTHYROIDISM                                                  
+B12 DEFICIENCY ANEMIA                                           
+ABDOMINAL AORTIC ANEURYSM

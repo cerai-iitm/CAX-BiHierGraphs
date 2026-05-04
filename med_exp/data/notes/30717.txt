@@ -1,0 +1,21 @@
+Chief Complaint : Small cell lung cancer treatment
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+- Increasing cough and shortness of breath since beginning of
+___ and unremarkable chest x-rays and ED visits.
+- CT ___ showing medistinal mass.
+- Bronchoscopy with biopsy done ___ showing small cell
+carcinoma.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation
+- CHF (LVVF >55% as of ___
+- Anemia
+- Angina Pectoris
+- HTN
+- HLD
+- OA
+- Obesity
+- VZV
+- Osteopenia
+- Chronic Rhinitis
+- Depression

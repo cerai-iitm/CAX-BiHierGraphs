@@ -1,0 +1,16 @@
+Chief Complaint : Chest Pain, Dyspnea
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes Type 2, uncontrolled
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: mid-LAD in ___, RCA x2 
+and mid-LAD in-stent restenosis with DES x1.
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- Lumbar disk disease
+- Vertigo
+- Fatty Liver
+- GERD
+- Urinary Incontinence

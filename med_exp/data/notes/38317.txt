@@ -1,0 +1,14 @@
+Past Medical History : OBHx: G2P1
+- SVD x1
+- TAB x1
+ 
+GynHx:
+- TAH, BSO as above
+- denies abnormal Pap, STIs
+ 
+PMH: 
+- denies 
+ 
+PSH: 
+- TAH, BSO
+- Appendectomy as child

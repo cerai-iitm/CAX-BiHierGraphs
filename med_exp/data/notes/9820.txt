@@ -1,0 +1,73 @@
+Chief Complaint : Back and leg ___
+Past Medical History : ONCOLOGIC HISTORY:
+Mr. ___ was admitted ___ at ___ for a new diagnosis
+of Ph-chromosome-positive ALL. 
+
+Patient has baseline anginal ___ that occurs in the context of
+exertion. Has extensive cardiac history with a previous MI, but
+most catheterization showed no significant CAD. (He was
+considered for cardiac resynchronization therapy at ___,
+but this was postponed and he was advised to have further 
+medical
+management. EP consult note from ___ confirms
+this.) Over two weeks prior to admission, dyspnea increased and
+occurred at rest. It was associated with substernal chest ___
+described as pressure. He also reported easier bruising than
+usual, more frequent night sweats, and a 30 lb weight loss
+(although he claims he has lost 30lbs of "water weight" before).
+He went to the ED for his chest ___, concerned that he was
+having an MI. He was subsequently admitted to cardiology where 
+he
+was ruled out for MI with serial cardiac enzymes. A CBC with 
+diff
+subsequently revealed atypical forms and new thrombocytopenia.
+Chemistry was remarkable for elevated LDH to 1500 and uric acid
+to 10.2. Heme/Onc was consulted who reviewed the smear and
+thought the atypical lymphocytes were concerning for an acute
+hematological malignancy. He was started on allopurinol and IVF
+and a bone marrow biopsy was performed before he was
+transferredto ___ service.
+
+Bone marrow biopsy and cytogenetics revealed Ph+ B-cell ALL.
+CEBPA, FLT3, and NPM1 mutations were all negative. 
+Anthracyclines
+were contraindicated given his niCMP (LVEF 30% during
+hospitalization). He was ultimately started on EWALL protocol
+with desatinib 70 mg BID, vincristine, and prednisone. 
+
+-___: C1D1 Vincristine + dasatinib
+-___: C2D1 Vincristine
+-___: IT MTX. CSF cytology negative.
+-___: C3D1 Vincristine
+-___: C4D1 Vincristine
+
+Blasts were last seen on diff on ___ WBC normalized as of 
+___.
+He was discharged on C4D4 of vincristine. He required pregabalin
+for long-standing neuropathy attributed to diabetes.
+
+Given the unclear etiology of his cardiomyopathy, further
+evaluation was performed. Ferritin was elevated to over 1000.  
+HFE mutation analysis was sent to evaluate for hemochromatosis,
+but testing returned negative for the ___ and H63D mutations.
+
+-___: Molecular remission (BCR-ABL undetectable)
+-___: CR on suboptimal bone marrow biopsy, although BCR-ABL
+0.529.
+-___: Admitted for dyspnea and fatigue. Unclear if
+consistent with ADHF. RVG scan showed LVEF 58%. PFTs
+unremarkable. V/Q scan low-probability for PE. Started on Ativan
+and Marinol for nausea, possibly related to dasatinib.
+-___: IT MTX #2 during admission. CSF cytology negative.
+-___: admitted for MRD allo SCT, reduced intensity with 
+FluBu
+d1 was ___. He did not require ATG since the donor was his
+brother (ABO-mismatch). Bactrim held on d/c due to ___, 
+torsemide
+also held on discharge, discharged on ppx with acyclovir,
+fluconazole and ursodiol. Cyclosporine dose on discharge was
+125mg BID. Course was complicated by neutropenic fever for which
+he was on vanc/zosyn which were dc'd once counts recovered. Cr
+peaked during admission at 2.1, thought pre-renal in setting of
+high cyclosporin levels and increased torsemide, Cr resolved to
+1.0 on discharge.

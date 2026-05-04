@@ -1,0 +1,12 @@
+Chief Complaint : Infected ICD generator
+Past Medical History : -CAD s/p MI s/p CABG, S/P PCI
+-Systolic heart failure, LVEF as low as ___
+-S/P ICD/Pacemaker
+-COPD
+-Atrial Fibrillation on warfarin and previously on amiodarone
+-Hypertension
+-SBO s/p Abdominal Surgery ___
+-Appendectomy
+-Chronic Back Pain (Sciatica, Disc Herniation)
+-S/P Colostomy and revision
+-S/P Hernia Repairs

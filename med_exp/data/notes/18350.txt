@@ -1,0 +1,44 @@
+Chief Complaint : Altered Mental Status
+Past Medical History : Depression
+HLD
+Tenosynovitis
+Multiple angiomas
+Myelopathy
+Dupuytren's Nodule
+Cerebral Cavernous Malformations (cerebellar bleed in ___ with
+residual gait/balance deficit)
+Asthma
+CKD
+Osteoarthritis
+Elective R. craniotomy for cerebellar cavernous malformation
+R TKR
+
+Problems  (Last Verified ___ by ___, MD):
+DEPRESSION                                                      
+
+HYPERLIPIDEMIA                                                  
+
+TENOSYNOVITIS                                                   
+
+MULTIPLE ANGIOMAS                                               
+
+MYELOPATHY                                                      
+
+DUPUYTREN'S NODULE                                              
+
+CEREBRAL CAVERNOUS MALFORMATIONS                                
+cerebellar bleed ___ with residual balance deficit             
+
+ASTHMA                                                          
+
+CHRONIC KIDNEY DISEASE                                          
+GFR 46                                                          
+
+OSTEOARTHRITIS                                                  
+knees                                                           
+
+Surgical History  (Last Verified ___ by ___, MD):
+RIGHT CRANIOTOMY CEREBELLAR CAVERNOUS MALFORMATION              
+
+KNEE SURGERY                                                    
+Right total knee replacement

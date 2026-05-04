@@ -1,0 +1,17 @@
+Chief Complaint : Back pain
+Past Medical History : PMHx:
+-hypothyroidism
+-asthma
+-COPD
+-anxiety/depression, PTSD
+-fibromyalgia
+-colitis, diverticultis
+-cervical radiculopathy
+-GERD
+-chronic low back pain, on opiates since ___
+-osteoarthritis
+-obesity
+
+PSHx: SCS placement, hysterectomy, tonsillectomy, thyroid 
+nodule,
+laminectomy

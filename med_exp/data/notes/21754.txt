@@ -1,0 +1,81 @@
+Chief Complaint : Chest Pain
+Past Medical History : Allergies:
+Aciphex 
+Amitriptyline 
+Ampicillin 
+Aspirin 
+Atorvastatin 
+Bactrim (Sulfamethoxazole/Trimethoprim) 
+Compazine 
+Fentanyl 
+Ferrous Sulfate 
+Flovent HFA 
+Kenalog 
+levofloxacin 
+Lyrica 
+meloxicam 
+Metronidazole 
+Midazolam 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug) 
+Omeprazole 
+Penicillin V 
+Prevacid 
+Questran (Cholestyramine/Sucrose) 
+Ropivacaine 
+steroids 
+Triamcinolone 
+Zocor 
+
+- GERD
+- HTN
+- Hypercholesterolemia
+- Depression
+- Anxiety
+- TIA
+- Benign papillary stenosis
+
+ANXIETY 
+BACK PAIN 
+CARDIAC RISK FACTORS 
+CHEST DISCOMFORT 
+DIARRHEA 
+DILATED COMMON BILE DUCT 
+DIVERTICULIITS 
+DYSLIPIDEMIA 
+GASTROESOPHAGEAL REFLUX 
+HEALTH CARE WISHES 
+HEALTH MAINTENANCE 
+HYPERTENSION 
+MYALGIA 
+PANCREATIC CYST 
+PANIC DISORDER 
+SCIATICA 
+SHORTNESS OF BREATH 
+SINUSITIS 
+THYROID NODULE 
+THYROIDITIS 
+TRANSIENT ISCHEMIC ATTACK 
+URINARY FREQUENCY 
+URINE INCONTINENCE 
+ABDOMINAL PAIN 
+MICROSCOPIC HEMATURIA 
+CERVICALGIA 
+OCCIPITAL NEURALGIA 
+CASE MANAGEMENT 
+DIVERTICULOSIS 
+INTERNAL HEMORRHOIDS 
+L GREATER TROCHANTERIC BURSITIS 
+CYSTOID MACULAR DEGENERATION 
+NARROW ANGLE BORDERLINE GLAUCOMA 
+DRY EYES 
+CATARACTS 
+HEMATOCHEZIA 
+VERTIGO 
+PNEUMONIA 
+H/O DENTAL ABSCESS 
+H/O DEPRESSION 
+H/O HERPES ZOSTER 
+H/O HOT FLASHES 
+H/O ___ 
+H/O VAGINAL BLEEDING 
+H/O BLADDER MASS

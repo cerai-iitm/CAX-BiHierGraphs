@@ -1,0 +1,15 @@
+Chief Complaint : Jaundice
+Past Medical History : PMH:
+DIABETES TYPE II                                                
+THROMBOCYTOPENIA                                                
+PERIPHERAL NEUROPATHY                                           
+CARPAL TUNNEL SYNDROME                                          
+ANEMIA                                                          
+DIABETIC NEPHROPATHY                                            
+HEPATITIS B CARRIER                                             
+
+PAST SURGICAL HISTORY:
+CARPAL TUNNEL SURGERY                                           
+RHINOPLASTY                                                     
+TONSILLECTOMY                                                   
+TOOTH EXTRACTIONS

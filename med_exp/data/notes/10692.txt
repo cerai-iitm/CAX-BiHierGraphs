@@ -1,0 +1,13 @@
+Chief Complaint : Abdominal pain
+Past Medical History : Heart Problems: None
+High Blood Pressure: yes 
+Respiratory Problems:None
+Liver Problems: None
+Kidney problems: None
+Ulcers: None
+Diabetes: None
+Cancer:rectal
+Arthritis:None
+HIV or AIDS:None
+Pregnant:None
+Psychiatric Problems:  depression

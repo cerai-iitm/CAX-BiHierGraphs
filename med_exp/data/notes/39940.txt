@@ -1,0 +1,18 @@
+Chief Complaint : AMS
+Past Medical History : Obtained from ___ admission note
+1. CARDIAC RISK FACTORS  
+ - IDDM  
+ - Hypertension  
+ - Dyslipidemia  
+ 
+ 2. CARDIAC HISTORY  
+ - Coronaries: Unknown  
+ - HFrEF (EF 35-40% ___ at ___  
+ - BIV ICD ___ ___)  
+ 
+ 3. OTHER PAST MEDICAL HISTORY  
+ CKD stage III  
+ Morbid Obesity  
+ Thyroid nodule  
+ E.coli UTI (___)  
+ Pseudomonas Bacteremia (___)

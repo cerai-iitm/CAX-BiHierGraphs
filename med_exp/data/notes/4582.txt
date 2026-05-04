@@ -1,0 +1,40 @@
+Chief Complaint : Abdominal Distension
+Past Medical History : As per last oncology note by Dr ___:
+"- ___:  initially diagnosed with HCC
+- ___:  RFA to a 2.4 x 2.1 cm segment 8 lesion 
+- ___:  Liver Bx (segment II/III) well-differentiated HCC
+- ___:  s/p wedge resection of 1.5 x 1.3 cm Seg III lesion by
+Dr. ___ margins and without vascular invasion). 
+- ___:  Attempted TACE for segment IV lesion, unsuccessful
+- ___:  RFA to segment IV lesion
+- ___:  EUS with biopsy of perihepatic and peripancreatic
+lymph nodes, pathology showed metastatic HCC
+- ___:  consent for sorafenib
+- ___:  sorafenib start at 200mg BID
+- ___:  increase dose to 200/400
+- ___:  increase dose to 400/400
+- ___:  MRI with mixed response, hard to interpret given gap
+between comparator scan and initiation of treatment, plan
+short-interval follow-up
+- ___:  CT Chest and MRI Liver show no new or worsening
+lesions in the liver, but increased size of RP lymphadenopathy. 
+Due to diarrhea, hold drug for a week and plan to restart at
+lower dose.
+- ___:  restart sorafenib at 200mg BID
+- ___:  d/c sorafenib for recurrent diarrhea
+- ___:  C1D1 nivolumab second-line therapy"
+ 
+PAST MEDICAL HISTORY: 
+- HBV/HCV (s/p SVR) induced cirrhosis 
+- Tuberculosis c/b fibrothorax s/p INH /pyridoxine
+- h/o esophageal varices and portal gastropathy
+- Hypertension 
+- Atrial fibrillation
+- Type II diabetes mellitus 
+- Asthma
+- Depression/posttraumatic stress disorder
+- Thymoma
+- Gout
+- Laparoscopic partial hepatectomy (resection of lesion in
+segment III) ___ 
+- Umbilical hernia repair (___)

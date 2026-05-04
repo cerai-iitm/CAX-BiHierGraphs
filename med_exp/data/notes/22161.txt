@@ -1,0 +1,138 @@
+Chief Complaint : Auto transplant admission
+Past Medical History : PAST ONCOLOGIC HISTORY (PER OMR):
+___: Developed balance difficulty.
+___: Presented to PCP for further evaluation.
+
+MM' sheet entries for ___: IgG: 5176*
+___: IgA: 16*
+___: IgM: 26*
+___: PEP: ABNORMAL B (MONOCLONAL IGG KAPPA; 50% (5300 
+MG/DL)
+OF TOTAL PROTEIN)
+___: IFE (Blood): MONOCLONAL (MONOCLONAL IGG KAPPA)
+___: U-PEP: NO PROTEIN
+
+___: SKELETAL SURVEY
+1. There are diffuse lucencies throughout the visualized osseous
+structures. Lucencies are most prominent within the skull,
+bilateral humeri, and femurs.  Given the abnormal SPEP, findings
+can be seen with multiple myeloma. Of note; however, on the 
+prior
+MRI of the left humerus, several lucency's demonstrated signal
+dropout suggestive of red marrow. However, given the additional
+findings within the skeleton, overall findings are concerning 
+for
+multiple myeloma.
+2. Degenerative changes of the thoracic and lumbar spine.
+3. No pathologic fractures.
+
+___: ___
+BONE MARROW EXTENSIVELY INFILTRATED BY PLASMA CELL MYELOMA.
+Note: By immunohistochemistry, CD138 positive plasma cells
+account for an estimated 70% of the overall cellularity. Plasma
+cells are kappa restricted (dim) by kappa/lambda immunostaining.
+A ___ red stain is negative for amyloid. FLOW: 
+Immunophenotypic
+findings consistent with involvement by a kappa light chain
+restricted plasma cell neoplasm. 
+CYTOGENETICS: 46,XX[20] Normal female karyotype.
+FISH: POSITIVE for GAIN of CHROMOSOMES 5, 9 and 15. 24% of the
+mononuclear bone marrow cells examined had an abnormal probe
+signal pattern consistent with extra copies of chromosomes 5, 9
+and 15. There was no evidence of gain of 1q, rearrangement of 
+the
+IGH gene, deletion 13q14, monosomy 13, or deletion of the TP53
+gene. These findings suggest a hyperdiploid karyotype. In
+multiple myeloma, hyperdiploidy in the absence of unfavorable
+prognostic cytogenetic findings is usually associated with
+standard risk.
+
+___: MRI brain
+1. Findings consistent with calvarial marrow infiltration by
+myeloma.
+2. Mild chronic small vessel ischemic changes.
+
+MRI C/L spine @ ___:
+___: MRI L SPINE
+1. Chronic degenerative and or post traumatic disc and facet
+disease with chronic appearing grade 1 spondylolistheses. There
+is no acute fracture or acute spondylolisthesis.
+2. There is no evidence of a significant central canal stenosis.
+There are foraminal stenoses without definite intraforaminal
+nerve root impingement. Clinical correlation is recommended
+regarding the specific nerve roots described above.
+3. There is no gross evidence of metastatic disease within the 
+ lumbar spine.
+4. There is a perineural cyst on the left at ___. Indeterminate left renal lesion for which a renal ultrasound
+isrecommended for further evaluation.
+ 
+___: MRI C SPINE
+1. There is chronic degenerative and or post traumatic disc and
+facet disease at multiple levels. There is reversal of the 
+normal
+cervical lordosis and there are chronic grade 1
+spondylolistheses. There is no superimposed acute fracture or
+acute spondylolisthesis.
+2. There is central canal narrowing at C3-4 with possible 
+minimal
+cord impingement. The cord is contacted ventrally at C4-5 
+without
+impingement. There is also questionable minimal cord impingement
+of the left of midline at C5-6. There is no definite cord signal
+abnormality.
+3. There are potentially significant foraminal stenoses as
+described above. Correlation with the specific nerve roots of
+interest is recommended.
+
+___: BM BIOPSY
+NORMOCELLULAR BONE MARROW WITH ERYTHROID DOMINANT MATURING
+TRILINEAGE. HEMATOPOIESIS AND INVOLVEMENT BY PATIENT'S KNOWN
+PLASMA CELL NEOPLASM.
+Note: By immunohistochemistry, ___ highlights plasma cells
+scattered singly and in small aggregates comprising ___ of the
+total core cellularity, they are kappa restricted by kappa and
+lambda light chain immunostains. Concurrent flow cytometry
+detected a kappa restricted plasma cell population. The overall
+findings are consistent with the above diagnosis.
+
+TREATMENT HISTORY (PER OMR):
+___: C1D1 RVD
+Revlimid 25 mg PO D1-14 (held D8-12 for diarrhea)
+Velcade 1.3 mg/m2 SQ D 1,4,8,11
+Dexamethasone 10mg PO D 1,2,4,5,8,9,11,12 (dose reduced to 4mg
+for episode of chest pain, palpitations and insomnia)
+
+___: C2D1 RVD
+Revlimid 15 mg PO D1-14 (start delayed d/t insurance change)
+Velcade 1.3 mg/m2 SQ D 1,4,8,11
+Dexamethasone 4mg PO D 1,,4,8,11
+
+___: C3D1 RVD
+Revlimid 15 mg PO D1-14 (start delayed d/t insurance change)
+Velcade 1.3 mg/m2 SQ D 1,4,8,11
+Dexamethasone 4mg PO D 1,,4,8,11
+
+___: C4D1 RVD-delayed for conjunctivitis
+Revlimid 15 mg PO D1-14
+Velcade 1.3 mg/m2 SQ D 1,4,8,11
+Dexamethasone 4mg PO D 1,,4,8,11
+
+___: C5D1
+
+___: C6D1
+
+___: Admission for Cytoxan mobilization
+
+BISPHOSPHONATES: 
+___: Zometa
+___ (locally)
+___ (locally)
+
+PAST MEDICAL HISTORY (PER OMR)
+- Pelvic Adhesions
+- Right Knee Pain s/p surgery
+- Colonic Polyps
+- Melanoma in Situ
+- Osteoporosis
+- s/p C-section
+- s/p appendectomy

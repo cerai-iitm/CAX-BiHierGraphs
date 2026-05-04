@@ -1,0 +1,29 @@
+Chief Complaint : SOB, abdominal pain, anemia, lupus
+Past Medical History : morbid besity, CAD s/p NSTEMI ___, HTN, HLD, DM2, 
+nephrolithiasis, hypothyroid
+
+PSH: Open gastric bypass ___, revision of gastric bypass ___, 
+CABG ___, failed lithotripsy, tonsillectomy
+SBO with LOA, Gtube placement ___
+
+Problems Last Updated: ___  
+SMALL BOWEL OBSTRUCTION 
+OBESITY 
+NON-INSULIN DEPENDENT DIABETES MELLITUS 
+HYPERTENSION 
+LOW BACK PAIN 
+HYPERLIPIDEMIA 
+CORONARY ARTERY DISEASE 
+HYPOTHYROIDISM 
+ANEMIA 
+IRON DEFICIENCY ANEMIA 
+GASTRIC EROSION 
+NEPHROLITHIASIS 
+ 
+Surgical History Last Updated: ___  
+GASTRIC BYPASS 
+GASTRIC BYPASS REVISION 
+EXPLORATORY LAPAROTOMY AND LYSIS OF ADHESION 
+CORONARY BYPASS SURGERY 
+TONSILLECTOMY 
+LITHOTRIPSY

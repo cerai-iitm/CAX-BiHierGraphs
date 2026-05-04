@@ -1,0 +1,17 @@
+Chief Complaint : symptomatic carotid stenosis
+Past Medical History : PMH:
+-Diabetes
+-Pontine CVA ___?
+-HTN
+-BPH
+-carotid artery stenosis
+-HLD
+-PVD
+-CKD
+
+PSH:
+-AAA repair (___)
+-Bilateral cataract extraction (___)
+-Colon surgery (___)
+-R fem-pop bypass (___)
+-Rotator cuff repair

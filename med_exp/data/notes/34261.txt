@@ -1,0 +1,47 @@
+Chief Complaint : endometrial intraepithelial neoplasia with foci of endometrial 
+adenocarcinoma
+Past Medical History : ABNORMAL LFT                                                    
+ASTHMA                                                          
+B12 DEFICIENCY ANEMIA                                           
+BASAL CELL CARCINOMA                                            
+ECZEMATOUS DERMATITIS                                           
+GASTROESOPHAGEAL REFLUX                                         
+HYPERTENSION                                                    
+HYPERTRIGLYCERIDEMIA                                            
+HYPOTHYROIDISM                                                  
+INSOMNIA                                                        
+OSTEOPENIA                                                      
+SLEEP APNEA                                                     
+URINARY INCONTINENCE                                            
+URTICARIA                                                       
+VITAMIN D DEFICIENCY                                            
+KNEE PAIN                                                       
+DYSTHYMIA/MOOD INSTABILITY                                      
+ANXIETY                                                         
+ATYPICAL DUCTAL HYPERPLASIA, RIGHT BREAST BIOPSY                
+SEASONAL ALLERGIES                                              
+OSTEOARTHRITIS, RIGHT KNEE                                      
+LOWER EXTREMITY EDEMA                                           
+MORBID OBESITY                                                  
+LVH                                                             
+SENSORINEURAL HEARING LOSS BILATERALLY, MILD TO MODERATE        
+COLONIC ADENOMA                                                 
+PERIPHERAL NEUROPATHY                                           
+ATYPICAL DUCTAL HYPERPLASIA                                     
+LEFT HIP AND THIGH PAIN                                         
+ENDOMETRIOID ADENOCARCINOMA OF THE UTERUS
+
+Past Surgical History
+TOTAL KNEE REPLACEMENT-LEFT                                     
+TONSILLECTOMY                                                   
+BREAST BIOPSY, RT                                               
+RIGHT KNEE ARTHROSCOPY                                          
+ORAL SURGERY
+
+Past OB History: G0
+
+Past GYN History:
+- Menopause since ___ 
+- Denies history of pelvic infections or STIs
+- 10+ years of OCPs, ___ years of HRT
+- Denies history of fibroids or cysts

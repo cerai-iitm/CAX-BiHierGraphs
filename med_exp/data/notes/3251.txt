@@ -1,0 +1,23 @@
+Chief Complaint : BRBPR
+Past Medical History : Problems (Last Verified - None on file):
+BREAST AUGMENTATION                                             
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+LEFT BUNDLE BRANCH BLOCK                                        
+OSTEOPENIA                                                      
+RHINOPLASTY                                                     
+TONSILLECTOMY                                                   
+TUBAL LIGATION                                                  
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE                           
+CORONARY ARTERY DISEASE                                         
+coronary calcifications, negative ETT, aggressive risk factor   
+modification                                                    
+EMPHYSEMA                                                       
+PSORIASIS                                                       
+ASTHMA                                                          
+
+Surgical History (Last Verified - None on file):
+BREAST AUGMENTATION                                             
+RHINOPLASTY                                                     
+TONSILLECTOMY                                                   
+TUBAL LIGATION

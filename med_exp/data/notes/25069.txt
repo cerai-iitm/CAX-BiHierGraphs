@@ -1,0 +1,14 @@
+Chief Complaint : syncope
+Past Medical History : 1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- Coronaries: unknown  
+- EF 70%, aortic stenosis with ___ 0.7 cm2 
+- Sinus rhythm 
+3. OTHER PAST MEDICAL HISTORY  
+- GERD
+- Hyperthyroidism 
+- Anxiety 
+- Asthma

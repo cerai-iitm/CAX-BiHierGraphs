@@ -1,0 +1,4 @@
+Fluoroscopy of Right Upper Extremity Arteries using Other Contrast
+Here is a detailed description tailored to the code:
+
+Fluoroscopic imaging of the right upper extremity arteries is performed to visualize blood flow and detect any blockages or narrowing of the vessels. This non-invasive procedure involves injecting a contrast medium into the affected arteries to enhance image quality. Real-time X-ray imaging, known as fluoroscopy, is then used to guide the procedure and capture detailed images of the arteries. These images aid healthcare providers in diagnosing and treating conditions such as peripheral artery disease, blood clots, and aneurysms.

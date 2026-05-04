@@ -1,0 +1,69 @@
+Chief Complaint : port site infection
+Past Medical History : PAST ONCOLOGIC HISTORY (per OMR):
+--___: Dx with right breast invasive ductal carcinoma  
+(T2N0). Treated with a partial mastectomy followed by  
+chemotherapy (CMF) + radiation.  
+--Disease free until ___, when she was found to have three
+discrete tumors in the left breast. Partial mastectomy revealed 
+two invasive mixed ductal/lobular carcinomas (T2N1) and a breast 
+lymphoma of large cell type (CD19, CD20, FMC-7 positive). 
+--Treated with four cycles of rituximab, cyclophosphamide,
+doxorubicin, vincristine and prednisolone (R-CHOP) followed by
+two cycles of doxorubicin and cyclophosphamide (AC) followed by
+four cycles of Taxol, and XRT.  
+--In ___, underwent wedge resection of the left lower
+lobe to diagnose two small pulmonary nodules. Specimen was 
+CD20,BSAP, BCL-2, and BCL-6 positive with morphologic similar to 
+her breast lymphoma from ___. Cytogenetics notable for trisomy 
+___ and ___.  
+--___: Bone marrow bx negative for lymphoma, with  
+normal karyotype.  PET-CT showed no other evidence of disease.  
+--___: C1 ICE, followed by rituximab.  
+--___: C2 ICE with stem cell mobilization  
+--___: Stem cell collections with total 8.71 x 10e6 CD34+
+cells/kg  
+--Admitted for autologous-SCT with D 0 on ___: Surveillance imaging disclosed multiple lung nodules 
+that on biopsy were consistent with BOOP/COP.  
+--___: Left eyelid nodule excised showing recurrent lymphoma
+(composite DLBCL and grade 3b follicular lymphoma).  
+--___: PET-CT demonstrated intense FDG uptake within the  
+tonsillar soft tissues bilaterally, soft tissues of the 
+posterior nasopharynx, and within bilateral jugulodigastric  
+lymph nodes. Bilateral bone marrow biopsy negative. Brain MRI
+negative.  
+--___ C1 Rituximab, and EPOCH + IT MTX  
+--___: C2 R-EPOCH  
+--___: PET-CT showed a marked partial response  
+--___: R-Gemox x 2, ___: IT-MTX #2, ___: IT-MTX #3  
+--___: PET with CR, ___ IT-MTX #3  
+--___: Rituxan x4  
+--Admitted for MRD SCT.  D 0 ___
+Donor: Brother, ___ MRD CMV POS, Toxo POS, Blood type A+  
+(major mismatch) with thalassemia trait.  
+Recipient: CMV POS, Toxo POS, Blood type O+. 
+--___ bilateral mastectomies for bilateral stage 1, ER+
+invasive ductal carcinoma.  
+--Recurrent wound infections on right mastectomy site
+--___, Treatment-related MDS
+--___ - ___, Azacitidine, ~ 13 treatments
+--___, Repeat BM biopsy done with pancytopenia which
+showed progression of MDS  with ___ blasts; complex 
+karyotype.
+--___, C1D1 Decitabine
+--___, Start Venetoclax @ 100 mg daily for 3 days, then
+increased to 200 mg daily
+--___, C2D1 Decitabine, Ventoclax decreased to 100 mg
+daily with addition of Posaconazole
+
+PAST MEDICAL HISTORY (per OMR):
+--Breast cancer s/p resection and chemotherapy/XRT
+--NHL
+--Treatment related MDS
+--___ thalassemia trait  
+--idiopathic cholestasis syndrome without associated cirrhosis  
+--BOOP/COP, quiescent  
+--anxiety  
+--Seasonal dry eye syndrome 
+--Idiopathic hypereosinophilia s/p allo-SCT
+--Eosinophilic folliculitis
+--Cholecystectomy ___

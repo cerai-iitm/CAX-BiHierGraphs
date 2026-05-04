@@ -1,0 +1,13 @@
+Chief Complaint : chest pain
+Past Medical History : PAST MEDICAL HISTORY:  
+ 1. CARDIAC RISK FACTORS:  
+ - Hypertension  
+ - Coronary artery Disease with NSTEMI ___  
+ - Hyperlipidemia  
+ 
+ 2. CARDIAC HISTORY:  
+ - CABG/PCI: Left heart cath without PCI/stent placement  
+ - PUMP FUNCTION: LVEF 65% based on left heart cath ___  
+ - PACING/ICD: N/A  
+ 3. OTHER PAST MEDICAL HISTORY:  
+ - Renal Colic

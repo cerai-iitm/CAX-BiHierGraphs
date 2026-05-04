@@ -1,0 +1,226 @@
+Chief Complaint : auto
+Past Medical History : As per admitting MD:
+As per last clinic note by Dr ___:
+"initially seen at ___ in ___, 
+___. She was referred here to ___ on ___ after a 
+diagnosis of multiple myeloma. In ___ she developed 
+bilateral lower extremity numbness and tingling however seem to 
+be transient at that time. However by mid ___ the numbness and 
+tingling became more constant at which time she developed issues 
+with balance which interfered with her activities of daily 
+living.  She had to go out of work in ___ given this 
+extensive neuropathy.  In ___ she noticed color changes to her 
+bilateral toes she was seen by her PCP and was given nifedipine 
+however developed bilateral lower extremity edema and therefore 
+nifedipine was stopped and was then initiated on amitriptyline.  
+Given these ongoing progression of her neuropathy she was 
+referred to rheumatology for a complete workup at which time she 
+did have labs to show an M spike 1 of 0.5 and  M spike 2  of 1.2 
+both of which were found to be IgG kappa.  She was mildly anemic 
+at 10.7 on ___.  She did have a normal white count 
+platelet count calcium and albumin and creatinine at that time.  
+She was found to have an IgG of 2286, IgA low at 30, and an IgM 
+low at 22.  She had an ESR of 52, CRP of 1.3, B12 of 474, 
+ferritin of 223.  Notes from rheumatology and oncology 
+department show her Lyme test was negative, ___ negative, ANCA 
+titer negative C3-C4 elevated ESR 55 CRP 1.3, hepatitis B core 
+antibody and surface antigen are negative, hepatitis C antibody 
+is negative.   In consultation with rheumatology and after EMG 
+they did feel that her neuropathy was most consistent with a 
+vasculitic neuropathy and therefore she was started on 
+cyclophosphamide 150mg daily and prednisone 80mg daily x 2 weeks 
+and now 70mg daily. However given her monoclonal protein she was 
+refereed to Dr ___ to have a complete workup for 
+monoclonal gammopathy in ___.  This workup included a 
+skeletal survey and bone marrow biopsy.  She at that point had 
+already started on Cytoxan and prednisone for what was thought 
+to be this vasculitic neuropathy.  Given the are both treatments 
+for myeloma as well there is some likelihood that some myeloma 
+had been treated at the time of the bone marrow bx.
+
+Upon further work up given the extent of her progressive 
+polyneuropathy VEGF negative polyneuropathy, she was found to 
+have an elevated serum viscosity of 2.0 ___s  POSITIVE FOR
+CRYOGLOBULIN CRYOCRIT = 5%. Given these findings she was 
+admitted
+to the ___ hospital for further evaluation and plasma 
+apheresis.  She was treated with plasmapheresis on ___ and ___  which she tolerated well. She was treated with 5 
+days of high-dose ___. Multiple myeloma 
+treatment was initiated with 1 g of cyclophosphamide on ___.
+
+MRI L SPINE: ___
+IMPRESSION (outside Facility)
+
+1.  Markedly abnormal bone marrow signal throughout the O's
+osseous structures, with primitive appearance of loss of marrow
+signal which are also associative areas of STIR hyperintensity
+and speckled abnormal enhancement, compatible with diffuse
+myelomatous involvement throughout the marrow spaces of the
+thoracolumbar spine.  However, there is no convincing evidence 
+of
+cortical breach particularly along the spinal canal nor evidence
+of epidural spread of the disease.  There is no significant
+spinal canal now narrowing seen at any level to indicate cord or
+cauda equina compression.  No evidence of spinal canal abnormal
+enhancement.
+2.  No convincing etiology for patient's neuropathy is 
+identified
+on this study #3 there are multilevel degenerative changes
+present, without a compelling source for patient's symptoms
+although areas of lateral recess narrowing are noted 
+particularly
+at L3
+To L4 on the left which caused possible but not convincing
+impingement of the transversing left L4 nerve root.
+
+Skin Biopsy ___
+1. Skin, left ankle (central clear area), "A" (1A):
+No vasculitis or thrombi seen.
+Note: Initial and level sections are examined. Immunostain for
+CD42 (platelet stain) and PAS stainare negative.
+2. Skin, left ankle (reticular component), "B" (2A):
+- Intimal hyperplasia of subcuticular vessels with mild
+perivascular hemosiderin deposition and focal
+perivascular fat necrosis, see note.
+- No vasculitis is seen. 
+
+___:
+Fat Pad Biopsy (outside Facility)
+Abdominal fat pad: fine needle aspiration
+Satisfactory for evaluation
+Fibroadipose tissue with no amyloid deposition identified on
+___ Red stains
+
+BONE MARROW BX:  ( At Diagnosis ) 
+___ (outside facility)
+
+Bone marrow evaluation shows an increased population of plasma
+cells accounting for approximately 64% of the total bone marrow
+cells manual differential count of the aspirate smears.  CD 138
+stain performed on the biopsy and clot section shows variability
+increased number of plasma cells accounting for approximately 
+70%
+of the total cells with areas showing sheets of plasma cells. 
+Kappa and lambda in situ hybridization shows the plasma cells 
+are
+kappa light chain restricted.  A ___ red stain is negative for
+amyloid.  The overall findings support involvement by plasma 
+cell
+neoplasm.
+
+Fish for plasma cell myeloma FISH panel
+1.  Positive for  targeted abnormality:
+    - dup(1)(q21)DETECTED (53% of cells; normal range ___
+2.  Negative for targeted abnormalities:
+     -del (1)(p32.3)  not detected
+     -t(4;14)(p16.3;q32.3) not detected
+     -t(11; 14) (Q 13; Q 32) not detected
+     -DEL (13) (Q 14) not detected
+     -T(14; 16) "(Q 32.3; Q 23) not detected
+     -del(17)(p13) not detected
+3 positive for nontargeted abnormalities:
+     -Gain of CCND1, IGH, D1 7Z1, and TP53 Loci
+
+Flow cytometry:
+Diagnosis #1 hemodiluted sample
+2.  Minor population of monoclonal plasma cells
+See outside records for full  flow cytometry report
+
+___ (outside facility)
+SKELETAL SURVEY:
+Impression: Survey of the osseous and appendicular skeleton
+demonstrates no lesions that would suggest or substantiated
+diagnosis of myeloma.
+
+___
+EMG/NCV Electrodiagnositic Report
+abnormal study
+1.  Sensory motor axonal peripheral polyneuropathy with
+denervation noted.  This is typically associated with a
+vasculitic neuropathy
+2.  There is no electro-diagnostic evidence of lumbar sacral
+plexopathy or radiculopathy
+
+___ (outside facility)
+Chest x-ray
+Impression: Negative for evidence of sarcoidosis or in the chest
+or other pathology to explain dry cough
+
+TREATMENT HISTORY:
+DEXAMETHASONE High Dose oral ___ - ___
+
+Cyclophosphamide 1GM IV ___
+
+Cycle 1
+Daratumuamb 16mg/kg Weekly (completed 8 weekly doses)
+Relvimid 25mg every other day for 21 days
+Dexamethasone 
+
+After several cycles she underwent a bone marrow biopsy on
+___: The current bone marrow biopsy continues to 
+demonstrate
+a plasma cell dyscrasia with approximately 20% plasma cells
+estimated by aspirate smear and immune no histochemical stain 
+for
+CD138 and the bone marrow core biopsy and clot section.  In situ
+hybridization again demonstrates kappa light chain restriction.
+
+Given the above bone marrow biopsy Ms. ___ was dispositioned 
+to
+receive further chemotherapy prior to autologous transplant.  
+She
+was initiated on treatment with carfilzomib, lenalidomide plus
+dexamethasone.  After several cycles, a repeat bone marrow bx 
+was
+obtained on ___ to ___ level residual plasma cell
+dyscrasia approximately ___ plasma cells.  Given this low
+volume disease and the fact that she has now had a significant
+amount of treatment we did move forward with transplant 
+planning.
+
+___: (Locally after 8 treatments for induction with
+Daratumumab/Revlimid plus Dexamethasone)
+
+Bone marrow biopsy continues to demonstrate a plasma cell
+dyscrasia with approximately 20% plasma cells estimated by ASCUS
+Pap smear in him immunohistochemical stain for CD138 on the bone
+marrow core and clot section.  In situ hybridization again
+demonstrates A chain restriction.
+
+___:
+Treatment initiated with Carfilzomib/Revlimid/Dexatheasone due 
+to
+persistent disease in an attempt to obtain maximum disease
+response prior to transplant.
+
+___: (Locally) Bone marrow biopsy for treatment planning
+Diagnosis: Low level residual plasma cell dyscrasia 
+approximately
+___ plasma cells
+Bone marrow aspirate smears, clot section, touch preparation and
+core biopsy:
+-Normocellular marrow approximately 40% cellular with trilineage
+hematopoiesis
+-Low level residual plasma cell dyscrasia approximately 5% to 
+10%
+plasma cells
+Bone marrow, flow cytometry
+-Hemodiluted sample
+-No immunophenotypic evidence of non-Hodgkin's lymphoma
+-No plasma cells identified
+Bone marrow, fluorescence in situ hybridization/cytogenetics:
+-Not performed"
+ 
+PAST MEDICAL HISTORY: 
+Anxiety
+Arthritis
+Asthma
+Claudication
+Abnormal LFT's
+GERD
+Hiatal Hernia
+Hypertension
+Livedo Reticularis
+Multiple Myeloma
+Neuropathy
+Obesity

@@ -1,0 +1,21 @@
+Chief Complaint : term pregnancy
+Past Medical History : Prenatal Care: 
+- ___ ___  by ___ ___
+- Labs Rh +/Abs -/___ /RPRNR /HBsAg neg /HIV neg /GBS neg
+- Screening: normal NIPT testing
+- FFS normal ___
+- US: anterior placenta, no fetal abnormalities
+- GTT 110
+- Issues: none
+ 
+OBHx:
+- G1P0
+ 
+GynHx:
+- PCOS
+ 
+PMH: PCOS
+ 
+PSH: none
+ 
+All: NKDA

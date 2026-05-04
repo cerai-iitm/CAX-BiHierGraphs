@@ -1,0 +1,51 @@
+Chief Complaint : C12 D1-5 MUC1/decitabine
+Past Medical History : STUDY TREATMENT HISTORY
+- ___ Cycle 1 Plan: GO-203-2C 18 mg/m2 IV on days ___ and
+___ of 28 day cycle. Decitabine 20 mg/m2 IV on days ___ of 28
+day cycle.
+- ___ Cycle 2 Plan: GO-203-2C 18 mg/m2 IV on days ___ and
+___ of 28 day cycle. Decitabine 20 mg/m2 IV on days ___ of 28
+day cycle.
+- ___: Cycle 3 delayed to allow for neutropenia recovery.
+- ___ Cycle 3 Plan: GO-203-2C 18 mg/m2 IV on days ___ and
+___ of 28 day cycle. Decitabine 20 mg/m2 IV on days ___ of 28
+day cycle.
+- ___: Cycle 4 delayed d/t perirectal abscess.
+- ___: Cycle 4 delayed to allow for recovery of perirectal
+abscess.
+- ___ Cycle 4 Plan: GO-203-2C 18 mg/m2 IV on days ___ and
+___ of 28 day cycle. Decitabine 20 mg/m2 IV on days ___ of 28
+day cycle.
+- ___ Cycle 5 Plan: GO-203-2C 18 mg/m2 IV on days ___ and
+___ of 28 day cycle. Decitabine 20 mg/m2 IV on days ___ of 28
+day cycle.
+___ Cycle 5 Day 8 treatment with GO-203-2c and decitabine 
+HELD
+due to ANC 610.
+- ___ Cycle 6 Plan: GO-203-2C DOSE REDUCED TO 12.5 mg/m2 IV
+on days ___ and ___ of 28 day cycle for grade 3 neutropenia
+resulting in days ___ missed doses of GO-203-2c of cycle 5
+thought related to GO-203-2c and decitabine. Decitabine 20 mg/m2
+IV on days ___ of 28 day cycle.
+- ___ Cycle 7 Plan: GO-203-2C 12.5 mg/m2 IV on days ___ and
+___ of 35 day cycle. Decitabine 20 mg/m2 IV on days ___ of 35
+day cycle.
+- ___ Cycle 8 Plan: GO-203-2C 12.5 mg/m2 IV on days ___ and
+___ of 35 day cycle. Decitabine 20 mg/m2 IV on days ___ of 35
+day cycle.
+- ___ Cycle 9 Plan: GO-203-2C 12.5 mg/m2 IV on days ___ and
+___ of 35 day cycle. Decitabine 20 mg/m2 IV on days ___ of 35
+day cycle.
+- ___ Cycle 10 Plan: GO-203-2C 12.5 mg/m2 IV on days ___ and
+___ of 35 day cycle. Decitabine 20 mg/m2 IV on days ___ of 35
+day cycle.
+
+*Dosing based on Day 1 of each cycle  height and weight*
+- C10D1 ___ wt 163.21 ht 64 BSA 1.79 m2
+
+PAST MEDICAL HISTORY: 
+- Diverticulosis ___
+- Hypertension ___
+- Hyperlipidemia ___
+- ?Takutsubo syndrome ___
+- Hx of UTIs

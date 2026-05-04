@@ -1,0 +1,14 @@
+Chief Complaint : Chest pain
+Past Medical History : PAST MEDICAL HISTORY  
+====================  
+1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: ___ reports ___ stents 
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- kidney cancer s/p partial nephrectomy 
+- gout

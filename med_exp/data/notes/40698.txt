@@ -1,0 +1,105 @@
+Chief Complaint : Abdominal Pain, Jaundice
+Past Medical History : PAST ONCOLOGIC HISTORY:
+Mr. ___ is a ___ year old man whose oncologic history 
+begins in ___, when he presented with painless gross 
+hematuria. Per our notes, a CT urogram done in ___ 
+that showed a right renal pelvic mass. A right ureteroscopy and 
+biopsy was done in ___. The pathology was reportedly 
+consistent with superficial urothelial cell carcinoma.
+
+He transitioned his care to Dr. ___ here at ___ in ___. He subsequently underwent right nephrectomy with total 
+urterectomy and RP lymph node dissection on ___. Pathology 
+from this procedure showed invasive high grade urothelial cell 
+carcinoma, 2cm in its greatest dimension, with invasion beyond 
+the muscularis layer, with negative margins, consistent with T3 
+disease. His stage at that time was Stage III.
+
+After his procedure he underwent surveillance cystoscopy on 
+___ which had findings that were consistent with early 
+recurrence. He then underwent intravesical mitomycin C. He 
+continued then with surveillance cystoscopy. On ___ 
+surveillance cystoscopy showed a 1-2 cm villous area, very 
+suspicious for TCC recurrence at the right bladder neck. He had 
+had a 16 mm perihilar lesion and a 5mm LLL nodule.
+
+Follow-up PET scan showed increased FDG avidity of his LLL 
+perihilar mass and left hilar lymphadenopathy. He underwent 
+bronchscopy with BAL on ___. Pathology from the 
+transbronchial biopsy showed carcinoma with squamous 
+differentiation, with p40 and GATA3 positivity, and was TTF1 
+negative, consistent with metastases from a bladder origin. 
+After identification of metastatic spread of his malignancy, he 
+was referred to medical oncologic clinic. He presents today for 
+evaluation prior to initiation of chemotherapy.
+
+He also underwent repeat cystoscopy with transurethral resection 
+of his small bladder tumor on ___, pathology is consistent 
+with non-invasive, low-grade, papillary urothelial carcinoma.
+
+He started systemic chemotherapy for his metastatic urothelial 
+cell carcinoma on ___. He had a 10% cisplatin dose reduction 
+because of his underlying CKD. 
+
+Treatment History:
+- ___: C1D1 Cisplatin/Gemcitabine
+- ___: C1D8 Gemcitabine
+- ___: C2D1 Cisplatin/Gemcitabine
+- ___: C2D8 Gemcitabine
+- ___: C3D1 Cisplatin/Gemcitabine
+- ___: C3D8 Gemcitabine
+- ___: CT TORSO shows no measurable disease
+- ___: C4D1 Cisplatin/Gemcitabine
+- ___: C4D8 Gemcitabine
+- ___: C1D1 ___
+- ___: C1D8 ___
+- ___: C2D1 ___
+- ___: C2D8 ___
+- ___: C3D1 ___
+- ___: C3D8 ___
+- CT imaging after 3 cycles of ___ showed stable 
+to slightly improved disease.
+- ___: Cycle 1 day 1 atezolizumab
+- ___: C2D1 atezolizumab
+- ___: C3D1 atezolizumab
+- ___: C4D1 atezolizumab
+- ___: C5D1 atezolizumab
+- ___: C6D1 atezolziumab
+- He developed a periorbital rash improved with steroids and 
+also some SOB as well as a PNA. 
+- ___: C1 Gem/cis
+- Given his low burden of disease, treatment was switched to 
+palliative RT with sensitizing low dose cisplatin. RT completed 
+___.
+- CT imaging ___ showed progressive disease in the chest. It 
+also showed a cavitary nodule and he was referred to ID for TB 
+rule out. 
+- ___: C1D1 Gem/Cis
+- ___: C2D1 Gem/Cis
+- ___: C3D1 Gem/Cis
+- ___: C4D1 Gem/Cis
+- ___: C5D1 Gem/Cis
+- ___: C6D1 Gem/Cis
+- ___: Started RT + low dose weekly cipslatin to a right 
+pelvic LN
+- ___: CT torso showed multiple areas of disease progression 
+in abdomen and chest. RT was discontinued ___
+- ___: He had a cough and went for Xray imaging with his 
+PCP. There was no evidence of pneumonia, but xray imaging was 
+consistent with progressive disease
+- He restarted Gem/Cis on ___ with split dose cis (35mg/m2 
+on day 1 and day 8) with gem standard dose on day 1 and he 
+missed day 8 due to thrombocytopenia.
+- ___: C2 gem/cis with split dose cisplatin
+- ___: C3 cisplatin (split dose) only
+- ___: CT torso shows evidence of progressive disease in 
+multiple areas
+- ___: C1D1 pembrolizumab, stopped due to bilirubin 
+elevation.
+- ___: Started on olaparib
+
+PAST MEDICAL HISTORY:  
+- Type II Diabetes on an insulin pump
+- Gout
+- Hepatitis B
+- s/p ACL repair
+- s/p hernia repair
