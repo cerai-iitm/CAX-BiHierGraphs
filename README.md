@@ -2,7 +2,7 @@
 
 # Hierarchical Legal Graph (HierLegalGraph) Construction
 
-This directory contains the scripts necessary to construct the Hierarchical Legal Graph (`HierLegalGraph`) from the ECtHR violation dataset and the ECHR articles.
+This directory contains the scripts necessary to construct the Biaxial Hierarchical Legal Graph (`BiHierLegalGraph`) from the ECtHR violation dataset and the ECHR articles.
 
 ## Overview
 The hierarchical graph represents relations between cases, facts, terms (nouns), and articles. It consists of:
