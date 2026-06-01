@@ -1,6 +1,6 @@
 # CAX-BiHierGraphs
 
-# Hierarchical Legal Graph (HierLegalGraph) Construction
+# Biaxial Hierarchical Legal Graph (BiHierLegalGraph) Construction
 
 This directory contains the scripts necessary to construct the Biaxial Hierarchical Legal Graph (`BiHierLegalGraph`) from the ECtHR violation dataset and the ECHR articles.
 
