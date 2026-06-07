@@ -160,20 +160,6 @@ The Bifacet LegalGraph is constructed using the **European Court of Human Rights
 
 The knowledge code nodes represent the allegedly violated ECtHR articles; the fundamental nodes comprise law-specific terms tokenized from the article descriptions. The document nodes include Level 1 nodes for individual paragraphs (facts) and Level 2 nodes for complete legal case texts. All node attributes leverage **LegalBERT** embeddings. Specifically, `F` nodes are embedded as the legal term, `K` nodes as the full article description, and `D₁` nodes as the individual paragraph text. For the high-level `D₂` case nodes, where concatenated paragraphs often exceed LegalBERT's context limit, a **sliding window** is used: the final attribute is the mean of the LegalBERT encodings across all resulting windows.
 
-**Bifacet LegalGraph Statistics:**
-
-| Component | Count |
-|-----------|-------|
-| **Nodes** | |
-| Articles | 116 |
-| Terms | 440 |
-| Facts | 212,878 |
-| Cases | 9,000 |
-| **Edges** | |
-| Articles ↔ Terms | 1,565 |
-| Facts ↔ Terms | 1,081,399 |
-| Cases ↔ Articles | 12,115 |
-| Facts ↔ Cases | 212,878 |
 
 The structure of the Bifacet LegalGraph supports two core tasks:
 
@@ -223,19 +209,6 @@ Edges are then established as follows:
 - An edge in `E_FK` is created between a foundation node `f` (e.g., *"hydrocephalus"*) and a knowledge code `k` if `f` is extracted from `k`'s detailed description.
 - An edge in `E_FD` is created between a foundation node `f` (e.g., *"ascites"*) and a Level 1 document node `d` (e.g., the `Chief Complaint` section for admission `hadm_id` 22595853) if `f` is extracted from the text of `d`.
 
-**Bifacet MedGraph Statistics:**
-
-| Component | Count |
-|-----------|-------|
-| **Nodes** | |
-| Notes | 42,755 |
-| ICDs | 8,367 |
-| Terms | 5,759 |
-| **Edges** | |
-| Notes ↔ Terms | 2,137,283 |
-| Notes ↔ ICDs | 125,653 |
-| ICDs ↔ Terms | 44,561 |
-
 ---
 
 ## C. Implementation Details
@@ -268,26 +241,7 @@ LLMs used:
 
 Asymmetric Loss hyperparameters for TabularMed: `γ_neg=4`, `γ_pos=4`, `clip=0.05`, `ε=0.1`.
 
----
-
-## D. Motivation Behind HeteroGNNExplainer
-
-The choice to build upon GNNExplainer is motivated by its ability to produce subgraph-level explanations tailored to individual input–output pairs, which is critical for capturing the nuanced structural context underlying each predicted link. Key justifications over alternatives:
-
-- **vs. XGNN:** XGNN provides only high-level insights and is limited to graph classification; GNNExplainer operates instance-level in a black-box-compatible setting.
-- **vs. Grad-CAM:** constrained to specific architectures and often fails to incorporate structural context; GNNExplainer delivers more topology-aware outputs.
-- **vs. ZORRO / Causal Screening:** greedy discrete mask selection often converges to suboptimal, brittle explanations lacking flexibility in dynamic relational settings.
-- **vs. SubgraphX:** relies on Monte Carlo Tree Search, which is computationally expensive and less adaptable to heterogeneous graphs.
-- **vs. GraphLIME / RelEx / PGM-Explainer:** multiple layers of approximation degrade fidelity, particularly in structurally sensitive link prediction tasks.
-- **vs. PGExplainer:** reliance on a global, learned mask predictor diminishes per-instance fidelity and introduces bias toward frequent patterns, limiting effectiveness in heterogeneous or hierarchically structured graphs.
-- **vs. GNN-LRP:** rigid focus on fixed-depth paths and coarse attribution granularity make it less effective for precise subgraph reasoning.
-- **vs. PaGE-Link:** imposes strong format constraints, restricting explanations to short, acyclic paths and pruning high-degree or long-range nodes. Our HeteroGNNExplainer allows flexible subgraph structures including loops, motifs, or high-degree hubs that may carry semantic importance in hierarchical graphs.
-
-Our heterogeneous GNNExplainer variant retains the generality and expressivity of the original method while incorporating edge-type awareness, making it highly adaptable to the rich semantics of heterogeneous graphs.
-
----
-
-## E. Likert Scale Study
+## D. Likert Scale Study
 
 For the legal domain, a qualified legal expert evaluated **20 comparative explanation sets**, each comprising a baseline, silver rationale, and BiFacetExplainer output for a unique case–article pair. For the medical domain, **two medical professionals** assessed 11 comparative sets.
 
@@ -295,9 +249,9 @@ For the legal domain, a qualified legal expert evaluated **20 comparative explan
 
 ---
 
-## F. Ablation Studies
+## E. Ablation Studies
 
-### F.1 Beam Search (SEARCH) vs. Threshold-Based (MASK) Subgraph Extraction
+### E.1 Beam Search (SEARCH) vs. Threshold-Based (MASK) Subgraph Extraction
 
 We compare our beam search strategy (**BFE-SEARCH**) against a threshold-based approach (**BFE-MASK**), which applies a fixed threshold `τ_mask = 0.385` to edge weights produced by the graph explainer to prune the subgraph.
 
@@ -307,7 +261,7 @@ Unlike BFE-SEARCH, BFE-MASK requires manual tuning of a subgraph-specific hyperp
 
 ---
 
-### F.2 Effect of Duplicate Edges in Bifacet MedGraph
+### E.2 Effect of Duplicate Edges in Bifacet MedGraph
 
 During Bifacet MedGraph construction, the same fundamental medical term often appeared multiple times within a single medical note, resulting in multiple parallel edges between a fundamental node and a knowledge code node. To assess the impact, we constructed **NoDupBifacetMedGraph** by retaining only a single instance of each duplicated edge.
 
@@ -337,9 +291,9 @@ Although duplicate edges provide a modest improvement in AUROC and F1, NoDupBifa
 
 ---
 
-## G. Additional Benefits of Bifacet Graphs
+## F. Additional Benefits of Bifacet Graphs
 
-### G.1 Scaling Bifacet Graphs
+### F.1 Scaling Bifacet Graphs
 
 The Bifacet Graph is designed for efficient, dynamic updates:
 
@@ -350,13 +304,13 @@ Furthermore, due to the `l`-layer architecture of the BiGNN, a node's final embe
 
 ---
 
-### G.2 Model-Agnostic Design
+### F.2 Model-Agnostic Design
 
 BiFacetExplainer is fundamentally **model-agnostic**. It does not depend on the internal architecture, training objective, or message passing formulation of the underlying graph model. Instead, it operates on structural and representational outputs — such as node embeddings, edge weights, or attention maps — produced by any graph-based predictor, whether homogeneous or heterogeneous. This allows BiFacetExplainer to interface seamlessly with existing GNNs, relational models, or symbolic graph frameworks without requiring model retraining or modification, acting as a unifying interpretability layer across diverse graph learning approaches.
 
 ---
 
-## H. Limitations
+## G. Limitations
 
 **Hierarchy construction.** Bifacet Graphs require careful selection of fundamental nodes and hierarchical structures. Without domain expertise or robust extraction heuristics, the graph may misrepresent relationships or omit key concepts, limiting the reliability of generated explanations.
 
@@ -370,9 +324,9 @@ BiFacetExplainer is fundamentally **model-agnostic**. It does not depend on the 
 
 ---
 
-## I. Prompt Templates
+## H. Prompt Templates
 
-### I.1 SaulLM — BiFacetExplainer Prompt
+### H.1 SaulLM — BiFacetExplainer Prompt
 
 ```
 You're a lawyer working on a case on Human Rights. You have to generate an argument
@@ -398,7 +352,7 @@ in the following format: Introduction, Violation(s), Precedent(s), Conclusion.
 
 ---
 
-### I.2 SaulLM — Baseline Prompt
+### H.2 SaulLM — Baseline Prompt
 
 ```
 You're a lawyer working on a case on Human Rights. You have to generate an argument
@@ -419,7 +373,7 @@ in the following format: Introduction, Violation(s), Precedent(s), Conclusion.
 
 ---
 
-### I.3 SaulLM — Silver Rationale Prompt
+### H.3 SaulLM — Silver Rationale Prompt
 
 ```
 You're a lawyer working on a case on Human Rights. You have to generate an argument
@@ -445,7 +399,7 @@ in the following format: Introduction, Violation(s), Precedent(s), Conclusion.
 
 ---
 
-### I.4 BioMedical-LLaMA — BiFacetExplainer Prompt
+### H.4 BioMedical-LLaMA — BiFacetExplainer Prompt
 
 ```
 You are now a medical insurance agent working on a case on medical necessities.
@@ -469,7 +423,7 @@ format: Introduction, Procedures, Similar Cases, Conclusion.
 
 ---
 
-### I.5 BioMedical-LLaMA — Baseline Prompt
+### H.5 BioMedical-LLaMA — Baseline Prompt
 
 ```
 You are now a medical insurance agent working on a case on medical necessities.
