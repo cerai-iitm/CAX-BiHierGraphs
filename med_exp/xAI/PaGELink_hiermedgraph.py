@@ -1,12 +1,12 @@
+import torch
 import pickle
 import os
-import torch
+import datetime
 from pathlib import Path
 import torch_geometric.transforms as T
 from torch_geometric import seed_everything
 from med_exp.graph.gnn_med_graph import Model
-from models.HeteroGNNExplainer import HeteroGNNExplainer
-from med_exp.graph.med_graph_utils import getNodeText
+from models.PaGELink import PaGELink
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 seed_everything(4321)
@@ -42,8 +42,11 @@ if __name__ == "__main__":
     model.eval()
 
     # initialize the explainer
-    gnn_explainer = HeteroGNNExplainer(
-        model=model, src_ntype="notes", tgt_ntype="icds", num_epochs=50
+    pagelink = PaGELink(
+        model=model,
+        src_ntype="notes",
+        tgt_ntype="icds",
+        num_epochs=20,
     ).to(device)
 
     # explain the test edges
@@ -62,26 +65,21 @@ if __name__ == "__main__":
     # get predictions
     test_data = test_data.to(device)
     test_edges = test_data["notes", "links", "icds"].edge_label_index
+    test_label = test_data["notes", "links", "icds"].edge_label.to(device)
     with torch.no_grad():
         test_pred = model(test_data) > 0
 
-    # (0, 2500), (2501, 4890), (4891, 6918), (6919, 9424)
-    lower_limit = 0
-    upper_limit = 2500
-
-    # explain every edge
     # Ensure output directory exists and save the test graph for downstream processing
     base_dir = Path.cwd().joinpath(
-        "med_exp/graph/results/explanations/hetero_gnn_explainer",
+        "med_exp/graph/results/explanations/hetero_pagelink",
         "NoDupEdges" if noDupEdges else "DupEdges",
     )
     os.makedirs(base_dir, exist_ok=True)
-    pickle.dump(test_data, open(base_dir.joinpath('graph.pkl'), 'wb'))
+    pickle.dump(test_data, open(base_dir.joinpath("graph.pkl"), "wb"))
 
+    # Categorize test edges
     categories = {"tp": [], "tn": [], "fp": [], "fn": []}
-    # Compute categories based on predictions and labels
-    test_label = test_data["notes", "links", "icds"].edge_label.to(device)
-    for i in range(lower_limit, test_edges.size(1)):
+    for i in range(test_edges.size(1)):
         pred = bool(test_pred[i].item())
         label = bool(test_label[i].item())
         if pred and label:
@@ -93,38 +91,40 @@ if __name__ == "__main__":
         elif not pred and label:
             categories["fn"].append(i)
 
-    for cat, indices in categories.items():
-        print(f"Processing category: {cat} (count: {len(indices)})")
-        cat_dir = Path.cwd().joinpath(
-            "med_exp/graph/results/explanations/hetero_gnn_explainer",
-            "NoDupEdges" if noDupEdges else "DupEdges",
-            cat,
-        )
-        os.makedirs(cat_dir, exist_ok=True)
-        # Symlink graph.pkl
-        subgraph_path = cat_dir.joinpath("graph.pkl")
-        if not subgraph_path.exists():
-            os.symlink("../graph.pkl", subgraph_path)
-
-        pred_edge_to_comp_g_edge_mask = {}
+    for pred_type, indices in categories.items():
+        print(f"Processing category: {pred_type} (count: {len(indices)})")
+        pred_edge_to_paths = {}
         count = 0
+
+        # Create subfolder for this category
+        subfolder_dir = base_dir.joinpath(pred_type)
+        os.makedirs(subfolder_dir, exist_ok=True)
+
+        # Symlink graph.pkl from parent directory to the subfolder
+        subfolder_graph_path = subfolder_dir.joinpath("graph.pkl")
+        if not subfolder_graph_path.exists():
+            os.symlink("../graph.pkl", subfolder_graph_path)
+
         for idx in indices:
-            print(f'Explaining edge idx {idx} ({cat})')
+            print(f"{datetime.datetime.now()} Explaining edge idx {idx} ({pred_type})")
             note_node, icd_node = test_edges[0][idx], test_edges[1][idx]
-            comp_g_edge_mask_dict = gnn_explainer.explain(
+
+            comp_g_paths = pagelink.explain(
                 note_node,
                 icd_node,
                 test_data,
                 ("notes", "links", "icds"),
-                device,
                 num_hops=layers,
             )
             src_tgt = (("notes", note_node), ("icds", icd_node))
-            pred_edge_to_comp_g_edge_mask[src_tgt] = comp_g_edge_mask_dict
+            pred_edge_to_paths[src_tgt] = comp_g_paths
+
             count += 1
-            if count > 500:
+            if count > 500:  # process only 500 per category to save memory
                 break
 
-        saved_edge_explanation_file = f"gnnexp_{model_name}_pred_edge_to_comp_g_edge_mask_{cat}.pkl"
-        saved_edge_explanation_path = cat_dir.joinpath(saved_edge_explanation_file)
-        pickle.dump(pred_edge_to_comp_g_edge_mask, open(saved_edge_explanation_path, "wb"))
+        # save explanations for this category
+        print(f"Saving {pred_type} explanations...")
+        saved_edge_explanation_file = f"pagelink_{model_name}_pred_edge_to_comp_g_edge_mask_{pred_type}.pkl"
+        saved_edge_explanation_path = subfolder_dir.joinpath(saved_edge_explanation_file)
+        pickle.dump(pred_edge_to_paths, open(saved_edge_explanation_path, "wb"))
