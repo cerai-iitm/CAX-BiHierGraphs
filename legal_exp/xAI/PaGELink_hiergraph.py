@@ -1,14 +1,13 @@
 import torch
 import pickle, os
+import datetime
 from pathlib import Path
 import torch_geometric.transforms as T
 from torch_geometric import seed_everything
-from gnn_hier_graph import Model
-from PaGELink import PaGELink
+from legal_exp.graph.gnn_hier_graph import Model
+from models.PaGELink import PaGELink
 
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
-# device = torch.device('cpu')
-os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 seed_everything(4321)
 
 if __name__ == "__main__":
@@ -21,17 +20,17 @@ if __name__ == "__main__":
         model_name = 'gnn_hier_graph_3GATConv'
         model = Model(hier_graph, case_embeds_legal_bert, hier_graph['articles'].x.shape[1], hidden_dim)
         model.to(device)
-        model.load_state_dict(torch.load('results/hetero_gnn_model.pt'))
+        model.load_state_dict(torch.load('./legal_exp/results/hetero_gnn_model.pt'))
         model.eval()
 
         # initialize the explainer
         pagelink = PaGELink(
-            model=model,
-            src_ntype='cases',
-            tgt_ntype='articles',
-            num_epochs=20
+                model=model,
+                src_ntype='cases',
+                tgt_ntype='articles',
+                num_epochs=20
         ).to(device)
-        
+
         # explain the test edges
         transform = T.RandomLinkSplit(
                     num_val=0.2,
@@ -43,36 +42,69 @@ if __name__ == "__main__":
                     rev_edge_types=("articles", "rev_violate", "cases"))
         train_data, val_data, test_data = transform(hier_graph)
         del hier_graph, train_data, val_data, transform
-        
+
         # get predictions
         test_data = test_data.to(device)
         test_edges = test_data['cases', 'violate', 'articles'].edge_label_index
+        test_label = test_data["cases", "violate", "articles"].edge_label.to(device)
         with torch.no_grad():
                 test_pred = model(test_data) > 0
 
-        # explain every edge  
-        pickle.dump(test_data, open('results/explanations/pagelink/pagelink_graph.pkl', 'wb'))     
-        # explain the following edges
-        edges_to_explain = [5, 9, 12, 15, 16, 18, 20, 23, 432, 435, 442, 443, 445, 1936, 6497, 6581]
-        count = 0
-        pred_edge_to_comp_g_edge_mask = {}
+        # explain every edge
+        base_dir = Path.cwd().joinpath('./legal_exp/results/explanations/hetero_pagelink/')
+        os.makedirs(base_dir, exist_ok=True)
+        pickle.dump(test_data, open(base_dir.joinpath('graph.pkl'), 'wb'))
+
+        # Categorize test edges
+        categories = {
+                'tp': [],
+                'tn': [],
+                'fp': [],
+                'fn': []
+        }
         for i in range(test_edges.size(1)):
-                if test_pred[i].item() is True:
-                        if count in edges_to_explain:
-                                print(f'Explaining edge idx {i}')
-                                case_node, article_node = test_edges[0][i], test_edges[1][i]
-                                comp_g_edge_mask_dict = pagelink.explain(
-                                case_node, article_node, test_data, ('cases', 'violate', 'articles')
-                                )
-                                src_tgt = (('cases', case_node), ('articles', article_node))
-                                pred_edge_to_comp_g_edge_mask[src_tgt] = comp_g_edge_mask_dict
-                count += 1
-                        
-        # save explanations
-        print('Saving explanations...')
-        if not os.path.exists('results/explanations/pagelink/'):
-                os.makedirs('results/explanations/pagelink/')
-                
-        saved_edge_explanation_file = f'pagelink_{model_name}_pred_edge_to_comp_g_edge_mask.pkl'   
-        saved_edge_explanation_path = Path.cwd().joinpath('results/explanations/pagelink/', saved_edge_explanation_file)
-        pickle.dump(pred_edge_to_comp_g_edge_mask, open(saved_edge_explanation_path, 'wb'))
+                pred = bool(test_pred[i].item())
+                label = bool(test_label[i].item())
+                if pred and label:
+                        categories['tp'].append(i)
+                elif not pred and not label:
+                        categories['tn'].append(i)
+                elif pred and not label:
+                        categories['fp'].append(i)
+                elif not pred and label:
+                        categories['fn'].append(i)
+
+        for pred_type, indices in categories.items():
+                print(f"Processing category: {pred_type} (count: {len(indices)})")
+                pred_edge_to_paths = {}
+                count = 0
+
+                # Create subfolder for this category
+                subfolder_dir = base_dir.joinpath(pred_type)
+                os.makedirs(subfolder_dir, exist_ok=True)
+
+                # Symlink graph.pkl from parent directory to the subfolder
+                subfolder_graph_path = subfolder_dir.joinpath('graph.pkl')
+                if not os.path.exists(subfolder_graph_path):
+                        # Relative symlink
+                        os.symlink('../graph.pkl', subfolder_graph_path)
+
+                for idx in indices:
+                        print(f'{datetime.datetime.now()} Explaining edge idx {idx} ({pred_type})')
+                        if idx < 41:
+                                continue
+                        count += 1
+                        case_node, article_node = test_edges[0][idx], test_edges[1][idx]
+
+                        comp_g_paths = pagelink.explain(case_node, article_node, test_data, ('cases', 'violate', 'articles'), num_hops=3)
+                        src_tgt = (('cases', case_node), ('articles', article_node))
+                        pred_edge_to_paths[src_tgt] = comp_g_paths
+
+                        if count > 500:  # process only 500 per category to save memory
+                                break
+
+                # save explanations for this category
+                print(f'Saving {pred_type} explanations...')
+                saved_edge_explanation_file = f'pagelink_{model_name}_pred_edge_to_comp_g_edge_mask.pkl'
+                saved_edge_explanation_path = subfolder_dir.joinpath(saved_edge_explanation_file)
+                pickle.dump(pred_edge_to_paths, open(saved_edge_explanation_path, 'wb'))

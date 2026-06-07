@@ -41,7 +41,7 @@ device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 category = "tp"
 
 EXPL_ROOT = os.path.join(
-    PROJECT_ROOT, "legal_exp", "results", "explanations", "hetero_gnn_explainer"
+    PROJECT_ROOT, "legal_exp", "results", "explanations", "hetero_pg_explainer"
 )
 CATEGORY_DIR = os.path.join(EXPL_ROOT, category)
 OUTPUT_DIR = os.path.join(CATEGORY_DIR, "text_explanations")
@@ -54,12 +54,13 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 SCORES_DIR = os.path.join(OUTPUT_DIR, "scores")
 os.makedirs(SCORES_DIR, exist_ok=True)
 
-# Load graph and force it to CPU immediately.
+# Load graph and PGExplainer edge masks.
 edge_masks = pickle.load(
     open(
         os.path.join(
             CATEGORY_DIR,
-            "gnnexp_gnn_hier_graph_3GATConv_pred_edge_to_comp_g_edge_mask.pkl",
+            # TODO: replace with the actual PGExplainer edge mask filename.
+            "pgexp_gnn_hier_graph_3GATConv_pred_edge_to_comp_g_edge_mask.pkl",
         ),
         "rb",
     )
@@ -110,14 +111,12 @@ def clear_gpu_cache():
     Centralised GPU cache flush.
     Called after every LLM inference block so the PyTorch allocator releases
     cached-but-freed memory before the next forward pass.
-    _generate() in get_human_readable_graph_explanations.py now also calls
-    this internally, but explicit calls here act as a safety net for
-    iterations where a file already exists and _generate is never entered.
     """
     gc.collect()
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
         torch.cuda.ipc_collect()
+
 
 def save_scores(stem: str, token_probs) -> None:
     """Persist per-token log-probabilities to SCORES_DIR/<stem>.pkl.
@@ -128,7 +127,7 @@ def save_scores(stem: str, token_probs) -> None:
     fast-path produces no output files and no extra I/O.
 
     Args:
-        stem:        Filename stem, e.g. ``"baseline42"`` or ``"gnnexp7"``.
+        stem:        Filename stem, e.g. ``"baseline42"`` or ``"pgexp7"``.
                      The ``.pkl`` extension is appended automatically.
         token_probs: 1-D CPU float tensor of per-token log-probs, or ``None``.
     """
@@ -137,7 +136,6 @@ def save_scores(stem: str, token_probs) -> None:
     out_path = os.path.join(SCORES_DIR, f"{stem}.pkl")
     with open(out_path, "wb") as fh:
         pickle.dump(token_probs, fh)
-
 
 model_id = "Equall/Saul-7B-Instruct-v1"
 tokenizer = AutoTokenizer.from_pretrained(model_id, use_fast=True)
@@ -150,20 +148,22 @@ model = AutoModelForCausalLM.from_pretrained(
 if tokenizer.pad_token_id is None:
     tokenizer.pad_token_id = tokenizer.eos_token_id
 
+# Convert edge masks to CPU tensors.
 edge_masks_cpu = {
     (
-        (nodes[0][0], nodes[0][1].item()),   # (src_ntype, src_nid_int)
-        (nodes[1][0], nodes[1][1].item()),   # (tgt_ntype, tgt_nid_int)
+        (nodes[0][0], nodes[0][1]),   # (src_ntype, src_nid_int)
+        (nodes[1][0], nodes[1][1]),   # (tgt_ntype, tgt_nid_int)
     ): {
         etype: mask_dict[etype].detach().sigmoid().cpu()
         for etype in mask_dict
     }
     for nodes, mask_dict in edge_masks.items()
 }
+
 del edge_masks
 clear_gpu_cache()
 
-links_to_skip = [6, 26, 40, 75, 76, 82, 95, 97] # skip because they take up too much memory
+links_to_skip = [6, 8, 26, 28, 40, 75, 69, 73, 82, 95]  # skip because they take up too much memory
 links_done = []
 
 if __name__ == "__main__":
@@ -178,14 +178,12 @@ if __name__ == "__main__":
 
     for nodes, mask in tqdm(edge_masks_cpu.items()):
         counter += 1
-        print(counter)
-
-        if counter > 15: # just collect 100 for now
+        if counter > 15:  # just collect 100 for now
             break
         if counter in links_to_skip or counter in links_done:
             continue
 
-        # Keys are now plain (ntype, int) tuples — no .item() calls needed
+        # Nodes are now plain (ntype, int) tuples.
         src_ntype, src_nid = nodes[0]
         tgt_ntype, tgt_nid = nodes[1]
 
@@ -198,39 +196,32 @@ if __name__ == "__main__":
         article_txt = getNodeText(tgt_nid, tgt_ntype)
 
         baseline_out = os.path.join(OUTPUT_DIR, f"baseline{counter}.txt")
-        if os.path.exists(baseline_out):
-            with torch.no_grad():
-                llm_response, token_probs = get_LLM_base_explanation(
-                    tokenizer, model, case_txt, article_txt,
-                    compute_scores=COMPUTE_SCORES,
-                )
-            # with open(baseline_out, "w") as f:
-            #     f.write(llm_response)
-            save_scores(f"baseline{counter}", token_probs)
-            # _generate() flushes internally; this is a safety-net flush for
-            # iterations where the file existed and _generate was not called.
-            clear_gpu_cache()
+        # if not os.path.exists(baseline_out):
+        #     with torch.no_grad():
+        #         llm_response, token_probs = get_LLM_base_explanation(
+        #             tokenizer, model, case_txt, article_txt,
+        #             compute_scores=COMPUTE_SCORES,
+        #         )
+        #     with open(baseline_out, "w") as f:
+        #         f.write(llm_response)
+        #     save_scores(f"baseline{counter}", token_probs)
+        #     clear_gpu_cache()
 
-        silver_out = os.path.join(OUTPUT_DIR, f"silver{counter}.txt")
-        if os.path.exists(silver_out):
-            with torch.no_grad():
-                llm_response, token_probs = get_LLM_silver_explanation(
-                    tokenizer, model, case_txt, article_txt, silver_rationale_facts,
-                    compute_scores=COMPUTE_SCORES,
-                )
-            # with open(silver_out, "w") as f:
-            #     f.write(llm_response)
-            save_scores(f"silver{counter}", token_probs)
-            clear_gpu_cache()
+        # silver_out = os.path.join(OUTPUT_DIR, f"silver{counter}.txt")
+        # if not os.path.exists(silver_out):
+        #     with torch.no_grad():
+        #         llm_response, token_probs = get_LLM_silver_explanation(
+        #             tokenizer, model, case_txt, article_txt, silver_rationale_facts,
+        #             compute_scores=COMPUTE_SCORES,
+        #         )
+        #     with open(silver_out, "w") as f:
+        #         f.write(llm_response)
+        #     save_scores(f"silver{counter}", token_probs)
+        #     clear_gpu_cache()
 
-        gnnexp_out = os.path.join(OUTPUT_DIR, f"gnnexp{counter}.txt")
-        if os.path.exists(gnnexp_out):
-
+        pgexp_out = os.path.join(OUTPUT_DIR, f"pgexp{counter}.txt")
+        if os.path.exists(pgexp_out):
             # Subgraph extraction fully on CPU.
-            # hetero_src_tgt_khop_in_subgraph now creates seed tensors and
-            # all bool masks on CPU (Explainer_utils CHANGE 1/3), so
-            # device=GRAPH_DEVICE is enforced end-to-end with no silent
-            # GPU copies inside the utility functions.
             (comp_g_src_nid, comp_g_tgt_nid, comp_g_k_hop, mapping) = (
                 hetero_src_tgt_khop_in_subgraph(
                     src_ntype, src_nid, tgt_ntype, tgt_nid, graph, 3,
@@ -243,7 +234,7 @@ if __name__ == "__main__":
                 mapping[ntype] = {sub: orig for orig, sub in mapping[ntype].items()}
 
             if variation == "apply":
-                # All mask ops on CPU tensors; no .to(device) required
+                # Apply mask thresholds on CPU.
                 thresholded_mask = {etype: (mask[etype] > 0.385) for etype in mask}
                 emasked_dict = {
                     etype: torch.stack((
@@ -263,7 +254,6 @@ if __name__ == "__main__":
                 del comp_g
 
             elif variation == "search":
-
                 (comp_g_src_nid, comp_g_tgt_nid, comp_g, beam_search_mapping) = (
                     hetero_src_tgt_khop_in_subgraph(
                         src_ntype, comp_g_src_nid,
@@ -276,19 +266,16 @@ if __name__ == "__main__":
                 )
 
                 # Compose the two mappings in one pass:
-                #   beam_search_id → subgraph_id → original graph id
                 for ntype in beam_search_mapping:
                     mapping[ntype] = {
                         bsm: mapping[ntype][sub]
                         for sub, bsm in beam_search_mapping[ntype].items()
                     }
-
                 del beam_search_mapping
 
                 explanation_paths = k_shortest_paths_with_max_length(
                     comp_g, "cases", comp_g_src_nid, "articles", comp_g_tgt_nid
                 )
-                # Free the beam-searched subgraph now that paths are extracted
                 del comp_g
 
             key_errors = set()
@@ -311,7 +298,6 @@ if __name__ == "__main__":
             ]
 
             # Free the large subgraph structures before LLM inference.
-            # comp_g_k_hop can be several hundred MB for wide cases.
             del mapping, comp_g_k_hop
 
             examples += 1
@@ -326,7 +312,7 @@ if __name__ == "__main__":
                     )
                 # Save one score tensor per explanation path.
                 for path_idx, path_token_probs in enumerate(path_scores):
-                    save_scores(f"gnnexp{counter}_path{path_idx}", path_token_probs)
+                    save_scores(f"pgexp{counter}_path{path_idx}", path_token_probs)
                 clear_gpu_cache()
 
                 if all_human_readable_explanations:
@@ -337,10 +323,10 @@ if __name__ == "__main__":
                             scores=None,
                             compute_scores=COMPUTE_SCORES,
                         )
-                    save_scores(f"gnnexp{counter}", summary_scores)
+                    save_scores(f"pgexp{counter}", summary_scores)
                     clear_gpu_cache()
 
-                    # with open(gnnexp_out, "a") as f:
+                    # with open(pgexp_out, "a") as f:
                     #     f.write(summarized_explanation)
 
         del mask

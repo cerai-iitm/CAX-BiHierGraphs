@@ -51,39 +51,60 @@ if __name__ == "__main__":
                 test_pred = model(test_data) > 0
 
         # explain every edge
-        os.makedirs('./legal_exp/results/explanations/hetero_gnn_explainer/', exist_ok=True)
-        pickle.dump(test_data, open('./legal_exp/results/explanations/hetero_gnn_explainer/graph.pkl', 'wb'))     
-        pred_edge_to_comp_g_edge_mask = {}
-        count = 0
+        base_dir = Path.cwd().joinpath('./legal_exp/results/explanations/hetero_gnn_explainer/')
+        os.makedirs(base_dir, exist_ok=True)
+        # pickle.dump(test_data, open(base_dir.joinpath('graph.pkl'), 'wb'))     
+
+        # Categorize test edges
+        categories = {
+                'tp': [],
+                'tn': [],
+                'fp': [],
+                'fn': []
+        }
         for i in range(test_edges.size(1)):
-                if test_pred[i].item() is True and not bool(test_label[i].item()):
-                        print(f'Explaining edge idx {i}')
-                        count += 1
-                        case_node, article_node = test_edges[0][i], test_edges[1][i]
-                        
-                        # case extraction
-                        case_txt = getNodeText(case_node.item(), 'cases')
-                        article_txt = getNodeText(article_node.item(), 'articles')
-                        
-                        os.makedirs('./datasets/cases/', exist_ok=True)
-                        os.makedirs('./datasets/articles/', exist_ok=True)
+                pred = bool(test_pred[i].item())
+                label = bool(test_label[i].item())
+                if pred and label:
+                        categories['tp'].append(i)
+                elif not pred and not label:
+                        categories['tn'].append(i)
+                elif pred and not label:
+                        categories['fp'].append(i)
+                elif not pred and label:
+                        categories['fn'].append(i)
+
+        for pred_type, indices in categories.items():
+                if pred_type in ['tp']: # no need to process
+                        continue
+                print(f"Processing category: {pred_type} (count: {len(indices)})")
+                pred_edge_to_comp_g_edge_mask = {}
+                count = 0
                 
-                        # with open(f'./datasets/cases/{case_node.item()}.txt', 'w') as f:
-                        #         f.write(case_txt)
-                        # with open(f'./datasets/articles/{article_node.item()}.txt', 'w') as f:
-                        #         f.write(article_txt)
-                        # with open('./datasets/orig_to_exp_mapping.txt', 'a') as f:
-                        #         f.write(f"Explanation {count} is (Case {case_node.item()}, Article {article_node.item()})\n")
+                # Create subfolder for this category
+                subfolder_dir = base_dir.joinpath(pred_type)
+                os.makedirs(subfolder_dir, exist_ok=True)
+
+                # Symlink graph.pkl from parent directory to the subfolder
+                subfolder_graph_path = subfolder_dir.joinpath('graph.pkl')
+                if not os.path.exists(subfolder_graph_path):
+                        # Relative symlink
+                        os.symlink('../graph.pkl', subfolder_graph_path)
+
+                for idx in indices:
+                        print(f'Explaining edge idx {idx} ({pred_type})')
+                        count += 1
+                        case_node, article_node = test_edges[0][idx], test_edges[1][idx]
                         
                         comp_g_edge_mask_dict = gnn_explainer.explain(case_node, article_node, test_data, ('cases', 'violate', 'articles'), device, num_hops=3)
                         src_tgt = (('cases', case_node), ('articles', article_node))
                         pred_edge_to_comp_g_edge_mask[src_tgt] = comp_g_edge_mask_dict
-                        
-        # save explanations
-        print('Saving explanations...')
-        if not os.path.exists('./legal_exp/results/explanations/hetero_gnn_explainer/'):
-                os.makedirs('./legal_exp/results/explanations/hetero_gnn_explainer/')
-                
-        saved_edge_explanation_file = f'gnnexp_{model_name}_pred_edge_to_comp_g_edge_mask.pkl'   
-        saved_edge_explanation_path = Path.cwd().joinpath('./legal_exp/results/explanations/hetero_gnn_explainer/', saved_edge_explanation_file)
-        pickle.dump(pred_edge_to_comp_g_edge_mask, open(saved_edge_explanation_path, 'wb'))
+
+                        if count > 500: # process only 500 per category to save memory
+                                break
+
+                # save explanations for this category
+                print(f'Saving {pred_type} explanations...')
+                saved_edge_explanation_file = f'gnnexp_{model_name}_pred_edge_to_comp_g_edge_mask.pkl'
+                saved_edge_explanation_path = subfolder_dir.joinpath(saved_edge_explanation_file)
+                pickle.dump(pred_edge_to_comp_g_edge_mask, open(saved_edge_explanation_path, 'wb'))
