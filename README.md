@@ -1,6 +1,6 @@
-# CAX-BiHierGraphs
+# CAFE
 
-# Biaxial Hierarchical Legal Graph (BiHierLegalGraph) Construction
+# Bifacet LegalGraph Construction
 
 This directory contains the scripts necessary to construct the Biaxial Hierarchical Legal Graph (`BiHierLegalGraph`) from the ECtHR violation dataset and the ECHR articles.
 
