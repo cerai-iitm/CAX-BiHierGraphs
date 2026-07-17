@@ -61,8 +61,8 @@ def main():
     
     print(term_embeddings_all)
 
-    # with open('./datasets/term_embeddings_all.pkl', 'wb') as file:
-    #     pkl.dump(term_embeddings_all, file)    
+    with open('./datasets/term_embeddings_all.pkl', 'wb') as file:
+        pkl.dump(term_embeddings_all, file)    
     
 
 if __name__=='__main__':
