@@ -15,7 +15,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 print(device)
 
 def main():
-    article_file_path = '/home/gokul/LegalGraph/code/Article-Data/ECHR_Articles_new.csv'
+    article_file_path = './datasets/ECHR_Articles_new.csv'
 
     df = pd.read_csv(article_file_path, delimiter='\t')
     print(df.head())
