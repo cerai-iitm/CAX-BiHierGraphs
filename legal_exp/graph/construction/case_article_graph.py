@@ -13,7 +13,7 @@ def main():
     all_cases_data = load_dataset('ecthr_cases', 'violation-prediction')
     df_cases = all_cases_data["train"].to_pandas()
 
-    article_file_path = '/home/gokul/Hier-Legal-Graph/datasets/ECHR_Articles_new.csv'
+    article_file_path = './datasets/ECHR_Articles_new.csv'
     df_articles = pd.read_csv(article_file_path, delimiter='\t')
     mp = {}
     for i in range(len(df_articles)):
