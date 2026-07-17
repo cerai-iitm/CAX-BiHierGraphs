@@ -2,7 +2,7 @@
 
 # Bifacet LegalGraph Construction
 
-This directory contains the scripts necessary to construct the Bifacet LegalGraph from the ECtHR violation dataset and the ECHR articles.
+Follow these instructions to construct the Bifacet LegalGraph from the ECtHR violation dataset and the ECHR articles.
 
 ## Overview
 The hierarchical graph represents relations between cases, facts, terms (nouns), and articles. It consists of:
@@ -36,7 +36,7 @@ python -m spacy download en_core_web_sm
 
 ### Datasets
 1. **ECtHR Dataset**: Loaded via Hugging Face (`load_dataset('ecthr_cases')`).
-2. **ECHR Articles**: A CSV file containing article descriptions. By default, it expects `/home/gokul/Hier-Legal-Graph/datasets/ECHR_Articles_new.csv` (delimited by `\t`).
+2. **ECHR Articles**: A CSV file containing article descriptions. By default, it expects `./datasets/ECHR_Articles_new.csv` (delimited by `\t`).
 
 ---
 
@@ -47,9 +47,8 @@ Run the term extraction script to extract nouns from the ECHR Article descriptio
 ```bash
 python legal_exp/graph/construction/term_extraction.py
 ```
-* **Input**: `ECHR_Articles_new.csv`
-* **Output**: `datasets/article_term_graph.pkl` (contains `term_index`, `term_reverse_index`, and `article_term_edges`).
-* **Note**: In `term_extraction.py`, check that the hardcoded `article_file_path` matches your local dataset path (currently points to `/home/gokul/LegalGraph/code/Article-Data/ECHR_Articles_new.csv`).
+* **Input**: `./datasets/ECHR_Articles_new.csv`
+* **Output**: `./datasets/article_term_graph.pkl` (contains `term_index`, `term_reverse_index`, and `article_term_edges`).
 
 ### 2. Extract Facts & Map Fact-Term Edges
 Map the facts in the ECtHR training dataset to the terms extracted from the articles:
@@ -57,9 +56,9 @@ Map the facts in the ECtHR training dataset to the terms extracted from the arti
 python legal_exp/graph/construction/fact_term_graph.py
 ```
 * **Inputs**:
-  - `datasets/article_term_graph.pkl`
+  - `./datasets/article_term_graph.pkl`
   - Hugging Face `ecthr_cases` (train split)
-* **Output**: `datasets/fact_term_graph_new.pkl` (contains `fact_term_edges`).
+* **Output**: `./datasets/fact_term_graph_new.pkl` (contains `fact_term_edges`).
 
 ### 3. Map Case-Fact Edges
 Run the case-fact graph builder to link facts to their parent cases:
@@ -67,7 +66,7 @@ Run the case-fact graph builder to link facts to their parent cases:
 python legal_exp/graph/construction/case_fact_graph.py
 ```
 * **Input**: Hugging Face `ecthr_cases` (`alleged-violation-prediction` split)
-* **Output**: `datasets/case_fact_graph.pkl`
+* **Output**: `./datasets/case_fact_graph.pkl`
 
 ### 4. Map Case-Article Edges
 Run the case-article graph builder to link cases to the ECHR articles they violate:
@@ -75,9 +74,9 @@ Run the case-article graph builder to link cases to the ECHR articles they viola
 python legal_exp/graph/construction/case_article_graph.py
 ```
 * **Inputs**:
-  - `datasets/ECHR_Articles_new.csv`
+  - `./datasets/ECHR_Articles_new.csv`
   - Hugging Face `ecthr_cases` (`violation-prediction` split)
-* **Output**: `datasets/case_article_graph.pkl`
+* **Output**: `./datasets/case_article_graph.pkl`
 
 ### 5. Generate Node Embeddings
 Before constructing the hierarchical graph, run the embedding generation scripts located under `legal_exp/graph/embeddings/`:
@@ -86,18 +85,13 @@ Before constructing the hierarchical graph, run the embedding generation scripts
   ```bash
   python legal_exp/graph/embeddings/article_embedding.py
   ```
-  - **Output**: `datasets/article_embeddings_all.pkl`
+  - **Output**: `./datasets/article_embeddings_all.pkl`
 
 * **Term Embeddings**:
   ```bash
   python legal_exp/graph/embeddings/term_embeddings.py
   ```
-  - **Output**: `datasets/term_embeddings_all.pkl`
-  - **Note**: Ensure you uncomment lines 64-65 in `term_embeddings.py` to enable saving the embeddings pickle file:
-    ```python
-    with open('./datasets/term_embeddings_all.pkl', 'wb') as file:
-        pkl.dump(term_embeddings_all, file)
-    ```
+  - **Output**: `./datasets/term_embeddings_all.pkl`
 
 * **Fact Embeddings**:
   ```bash
