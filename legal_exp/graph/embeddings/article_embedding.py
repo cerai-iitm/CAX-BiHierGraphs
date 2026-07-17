@@ -63,7 +63,7 @@ def main():
     model.eval()
 
 
-    article_file_path = '/home/gokul/Hier-Legal-Graph/datasets/ECHR_Articles_new.csv'
+    article_file_path = './datasets/ECHR_Articles_new.csv'
 
     df = pd.read_csv(article_file_path, delimiter='\t')
     df["Title"] = df["Title"].fillna(value="")
